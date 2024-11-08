@@ -1,0 +1,53 @@
+[package]
+name = "selenium-manager"
+version = "0.4.24" # don't forget to update rust/BUILD.bazel
+edition = "2021"
+authors = ["Selenium <selenium-developers@googlegroups.com"]
+license = "Apache-2.0"
+homepage = "https://www.selenium.dev/"
+repository = "https://github.com/SeleniumHQ/selenium"
+documentation = "https://www.selenium.dev/documentation/"
+description = """
+Selenium Manager is a CLI tool that automatically manages the browser/driver infrastructure required by Selenium.
+"""
+
+[dependencies]
+clap = { version = "4.5.20", features = ["derive", "cargo"] }
+log = "0.4.22"
+env_logger = "0.11.5"
+regex = "1.11.0"
+tokio = { version = "1.40.0", default-features = false, features = ["macros", "net", "rt-multi-thread"] }
+tempfile = "3.13.0"
+reqwest = { version = "0.12.8", default-features = false, features = ["rustls-tls"] }
+zip = { version = "2.2.0", default-features = false, features = ["deflate-zlib"] }
+directories = "5.0.1"
+serde = { version = "1.0.210", features = ["derive"] }
+serde_json = "1.0.128"
+flate2 = "1.0.34"
+tar = "0.4.42"
+infer = "0.16.0"
+exitcode = "1.1.2"
+toml = "0.8.19"
+bzip2 = "0.4.4"
+sevenz-rust = "0.6.1"
+walkdir = "2.5.0"
+debpkg = "0.6.0"
+anyhow = { version = "1.0.89", default-features = false, features = ["backtrace", "std"] }
+apple-flat-package = "0.18.0"
+which = "6.0.3"
+
+[dev-dependencies]
+assert_cmd = "2.0.16"
+rstest = "0.19.0"
+is_executable = "1.0.4"
+
+[profile.release]
+opt-level = 'z'     # Optimize for size
+lto = true          # Enable Link Time Optimization
+codegen-units = 1   # Reduce number of codegen units to increase optimizations
+panic = 'abort'     # Abort on panic
+strip = true        # Strip symbols from binary
+
+[profile.dev]
+debug = true             # Full debug info
+split-debuginfo = 'off'  # Debug info in the final artifact
