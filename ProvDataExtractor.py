@@ -13,11 +13,21 @@ def read_urls_from_file(file_path):
 # Function to clean district name by fixing encoding issues and dashes
 def clean_district_name(district_name):
     """Clean district names, ensuring consistent formatting with spaces and hyphens."""
+    # Replace misinterpreted characters and dashes
     district_name = district_name.replace('Ã¢Â€Â”', ' ')  # Misinterpreted em dash
     district_name = district_name.replace('Ã¢Â€Â‘', ' ')  # Misinterpreted en dash
     district_name = district_name.replace('—', ' ')  # Replace em dash with space
     district_name = district_name.replace('–', ' ')  # Replace en dash with space
     district_name = district_name.replace('-', ' ')  # Replace hyphen with space
+
+    # Replace '1000' with 'Thousand' and '&' with 'and'
+    district_name = district_name.replace('1000', 'Thousand')
+    district_name = district_name.replace('&', 'and')
+
+    # Replace special apostrophes
+    district_name = district_name.replace('’', "'")  # Normalize curly apostrophes
+
+    # Remove text in parentheses (if any)
     district_name = re.sub(r"\s*\(.*\)$", "", district_name)  # Remove text in parentheses
 
     return district_name.strip()
@@ -91,7 +101,7 @@ def extract_district_data(url):
 
 # Function to write data to CSV, replacing previous data
 def write_to_csv(file_path, data):
-    """Write district data to CSV, replacing the previous data."""
+    """Write district data to CSV, replacing the previous data.""" 
     df = pd.DataFrame(data)
 
     # Fill missing columns with '0%' if any are missing in the DataFrame
@@ -135,4 +145,4 @@ urls_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/ProvUrls.txt'  
 output_csv_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/Provincial_district_data.csv'  # Path to the output CSV file
 
 # Process the URLs and write the extracted data to CSV
-process_urls_and_extract_data(urls_file, output_csv_file) 
+process_urls_and_extract_data(urls_file, output_csv_file)
