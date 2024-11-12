@@ -5,7 +5,7 @@ from datetime import datetime
 import re
 
 #Step 1.1 Website Request
-url = "https://338canada.com/ontario/1072e.htm"
+url = "https://338canada.com/35081e.htm"
 
 response = requests.get(url)
 if response.status_code == 200:
@@ -20,7 +20,7 @@ for item in soup.find_all('div', class_='hideifmobile'):
 
 #Step 2.1 Text Processing
     text = item.get_text(strip=True)
-    
+
 #Step 2.2 Clears everything before the ',' and then everything after 'odds'
     comma_index = text.find(',')
     if comma_index != -1:
@@ -55,27 +55,28 @@ for item in soup.find_all('div', class_='hideifmobile'):
     date_iter = iter(unique_dates)
     text = re.sub(r"\d{4}-\d{2}-\d{2}", lambda match: unique_dates.pop(0) if unique_dates else "", text)
 
-    #print(f"Final Cleaned Text: {text}")
+    print(f"Final Cleaned Text: {text}")
 
 #Step 3.5 Dates (YYYY-MM-DD format)
 
     dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
- 
+
 # Step 4: Extract each party's percentage, or set to '0%' if not found
-    olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(dates)
-    pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(dates)
+    lpc_percentages = re.findall(r"LPC\s*(\d+%)", text) or ["0%"] * len(dates)
+    cpc_percentages = re.findall(r"CPC\s*(\d+%)", text) or ["0%"] * len(dates)
     ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
-    gpo_percentages = re.findall(r"GPO\s*(\d+%)", text) or ["0%"] * len(dates)
+    gpc_percentages = re.findall(r"GPC\s*(\d+%)", text) or ["0%"] * len(dates)
     
 # Ensure all lists (dates, party percentages) have the same length by trimming to the shortest list
-    min_len = min(len(dates), len(olp_percentages), len(pcpo_percentages), len(ndp_percentages), len(gpo_percentages))
+    min_len = min(len(dates), len(lpc_percentages), len(cpc_percentages), len(ndp_percentages), len(gpc_percentages))
     
 # Trim all lists to the minimum length to avoid mismatched data
     dates = dates[:min_len]
-    olp_percentages = olp_percentages[:min_len]
-    pcpo_percentages = pcpo_percentages[:min_len]
+    lpc_percentages = lpc_percentages[:min_len]
+    cpc_percentages = cpc_percentages[:min_len]
     ndp_percentages = ndp_percentages[:min_len]
-    gpo_percentages = gpo_percentages[:min_len]
+    gpc_percentages = gpc_percentages[:min_len]
+    
     
 # Step 5: Add data for each date into the dictionary, ensuring only one entry per date
     for i in range(min_len):
@@ -86,10 +87,10 @@ for item in soup.find_all('div', class_='hideifmobile'):
         
         data[date] = {
             "Date": date,
-            "OLP": olp_percentages[i],
+            "LPC": lpc_percentages[i],
             "NDP": ndp_percentages[i],
-            "PCPO": pcpo_percentages[i],
-            "GPO": gpo_percentages[i]
+            "CPC": cpc_percentages[i],
+            "GPC": gpc_percentages[i]
         }
 
 # Convert data dictionary to a list of dictionaries
@@ -104,10 +105,10 @@ for entry in data_list:
     date = entry["Date"]
     
  # Extract the polling percentages and clean the formatting
-    olp = entry["OLP"]
+    lpc = entry["LPC"]
     ndp = entry["NDP"]
-    pcpo = entry["PCPO"]
-    gpo = entry["GPO"]
+    cpc = entry["CPC"]
+    gpc = entry["GPC"]
     
 # Check if dates need to be processed and ensure only the most recent date is kept
     match = re.match(r"(\d{4}-\d{2}-\d{2})(\d{4}-\d{2}-\d{2})", date)
@@ -121,16 +122,16 @@ for entry in data_list:
 # Reformat the extracted data for the current entry
     processed_data.append({
         "Date": date,
-        "OLP": olp,
+        "LPC": lpc,
         "NDP": ndp,
-        "PCPO": pcpo,
-        "GPO": gpo
+        "CPC": cpc,
+        "GPC": gpc
     })
 
 # Debugging: Print the cleaned data as a string before parsing into DataFrame
 print("Processed Data (Before Parsing to DataFrame):")
 for entry in processed_data:
-    print(f"{entry['Date']} - OLP: {entry['OLP']}, NDP: {entry['NDP']}, PCPO: {entry['PCPO']}, GPO: {entry['GPO']}")
+    print(f"{entry['Date']} - LPC: {entry['LPC']}, NDP: {entry['NDP']}, CPC: {entry['CPC']}, GPC: {entry['GPC']}")
 
 # Convert the processed data into a DataFrame
 df = pd.DataFrame(processed_data)

@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime
 import re
-from tqdm import tqdm  # Import the tqdm library for progress bar
+from tqdm import tqdm # Import the tqdm library for progress bar
 
 # Function to read URLs from the 'urls.txt' file
 def read_urls_from_file(file_path):
