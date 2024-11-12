@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Define the URL to scrape
-url = "https://338canada.com/districts.htm"
+url = "https://338canada.com/ontario/districts.htm"
 
 # Function to read existing URLs from the file
 def read_existing_urls(file_path):
@@ -39,13 +39,11 @@ links = soup.find_all('a', href=True)
 district_urls = []
 for link in links:
     href = link['href']
-    if ("/100" in href or "/110" in href or "/120" in href or "/130" in href or
-        "/240" in href or "/350" in href or "/351" in href or "/460" in href or
-        "/470" in href or "/480" in href or "/590" in href): 
+    if ("/10" in href or "/11" in href): 
         district_urls.append(href)
 
 # Define file path
-file_path = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/FedUrls.txt'
+file_path = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/ProvUrls.txt'
 
 # Read the existing URLs
 existing_urls = read_existing_urls(file_path)

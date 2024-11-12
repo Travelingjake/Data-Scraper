@@ -31,4 +31,5 @@ jobs:
       # Run your script
       - name: Run Python script
         run: |
-          python DataExtractor.py
+          python FedDataExtractor.py
+          python ProvDataExtractor.py

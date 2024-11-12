@@ -100,8 +100,8 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
         print("No valid data extracted.")
 
 # Example usage
-urls_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/urls.txt'  # Path to your URLs list
-output_csv_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/Federal_district_data.csv'  # Path to the output CSV file
+urls_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/ProvUrls.txt'  # Path to your URLs list
+output_csv_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/Provincial_district_data.csv'  # Path to the output CSV file
 
 # Process the URLs and write the extracted data to CSV
 process_urls_and_extract_data(urls_file, output_csv_file)
