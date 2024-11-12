@@ -61,19 +61,20 @@ def extract_district_data(url):
         gpo_pattern = r"GPO\s*(\d+%)"
 
         dates = re.findall(date_pattern, text)
-        pcpo_percentages = re.findall(pcpo_pattern, text)
-        olp_percentages = re.findall(olp_pattern, text)
-        ndp_percentages = re.findall(ndp_pattern, text)
-        gpo_percentages = re.findall(gpo_pattern, text)
+        pcpo_percentages = re.findall(pcpo_pattern, text) or ["0%"] * len(dates)
+        olp_percentages = re.findall(olp_pattern, text) or ["0%"] * len(dates)
+        ndp_percentages = re.findall(ndp_pattern, text) or ["0%"] * len(dates)
+        gpo_percentages = re.findall(gpo_pattern, text) or ["0%"] * len(dates)
 
         # Ensure all lists have the same length by trimming to the minimum length
-        min_len = min(len(dates), len(pcpo_percentages) or 0, len(olp_percentages) or 0, len(ndp_percentages) or 0, len(gpo_percentages) or 0)
+        min_len = min(len(dates), len(pcpo_percentages), len(olp_percentages), len(ndp_percentages), len(gpo_percentages))
 
-        # Adjust missing lists to length `min_len` with '0%'
-        pcpo_percentages.extend(['0%'] * (min_len - len(pcpo_percentages)))
-        olp_percentages.extend(['0%'] * (min_len - len(olp_percentages)))
-        ndp_percentages.extend(['0%'] * (min_len - len(ndp_percentages)))
-        gpo_percentages.extend(['0%'] * (min_len - len(gpo_percentages)))
+        # Adjust all lists to length `min_len`
+        dates = dates[:min_len]
+        pcpo_percentages = pcpo_percentages[:min_len]
+        olp_percentages = olp_percentages[:min_len]
+        ndp_percentages = ndp_percentages[:min_len]
+        gpo_percentages = gpo_percentages[:min_len]
 
         # Append data to the list
         for i in range(min_len):
@@ -134,4 +135,4 @@ urls_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/ProvUrls.txt'  
 output_csv_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/Provincial_district_data.csv'  # Path to the output CSV file
 
 # Process the URLs and write the extracted data to CSV
-process_urls_and_extract_data(urls_file, output_csv_file)
+process_urls_and_extract_data(urls_file, output_csv_file) 

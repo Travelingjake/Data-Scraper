@@ -161,6 +161,60 @@ Markham Unionville,2022-05-22,53%,32%,7%,5%
 Markham Unionville,2022-05-22,55%,31%,7%,5%
 Markham Unionville,2022-05-23,56%,30%,7%,5%
 Markham Unionville,2022-05-23,55%,31%,7%,5%
+Timmins,2022-05-01,61%,15%,19%,0%
+Timmins,2022-09-01,32%,16%,42%,0%
+Timmins,2023-01-01,31%,16%,43%,0%
+Timmins,2023-05-01,32%,16%,42%,0%
+Timmins,2023-09-01,32%,16%,41%,0%
+Timmins,2024-01-01,32%,16%,42%,0%
+Timmins,2024-05-01,32%,16%,42%,0%
+Timmins,2024-09-01,31%,16%,42%,0%
+Timmins,2025-01-01,32%,17%,41%,0%
+Timmins,2025-05-01,31%,17%,41%,0%
+Timmins,2022-04-30,32%,16%,41%,0%
+Timmins,2022-04-30,32%,17%,41%,0%
+Timmins,2022-05-03,33%,17%,41%,0%
+Timmins,2022-05-03,39%,0%,49%,0%
+Timmins,2022-05-04,39%,0%,49%,0%
+Timmins,2022-05-04,39%,0%,49%,0%
+Timmins,2022-05-05,40%,0%,48%,0%
+Timmins,2022-05-05,38%,0%,49%,0%
+Timmins,2022-05-06,38%,0%,49%,0%
+Timmins,2022-05-06,37%,0%,49%,0%
+Timmins,2022-05-07,37%,0%,49%,0%
+Timmins,2022-05-07,37%,0%,49%,0%
+Timmins,2022-05-08,37%,0%,48%,0%
+Timmins,2022-05-08,37%,0%,48%,0%
+Timmins,2022-05-09,37%,0%,47%,0%
+Timmins,2022-05-09,37%,0%,47%,0%
+Timmins,2022-05-10,37%,0%,47%,0%
+Timmins,2022-05-10,38%,0%,46%,0%
+Timmins,2022-05-11,38%,0%,46%,0%
+Timmins,2022-05-11,38%,0%,46%,0%
+Timmins,2022-05-12,38%,0%,46%,0%
+Timmins,2022-05-12,39%,0%,46%,0%
+Timmins,2022-05-13,65%,0%,29%,0%
+Timmins,2022-05-13,64%,0%,30%,0%
+Timmins,2022-05-14,66%,0%,28%,0%
+Timmins,2022-05-14,66%,0%,28%,0%
+Timmins,2022-05-15,66%,0%,28%,0%
+Timmins,2022-05-15,65%,0%,29%,0%
+Timmins,2022-05-16,60%,0%,32%,0%
+Timmins,2022-05-16,55%,8%,30%,0%
+Timmins,2022-05-17,56%,8%,29%,0%
+Timmins,2022-05-17,57%,8%,29%,0%
+Timmins,2022-05-18,54%,9%,30%,0%
+Timmins,2022-05-18,56%,8%,29%,0%
+Timmins,2022-05-19,59%,8%,28%,0%
+Timmins,2022-05-19,58%,8%,28%,0%
+Timmins,2022-05-20,58%,9%,28%,0%
+Timmins,2022-05-20,52%,20%,23%,0%
+Timmins,2022-05-21,57%,18%,20%,0%
+Timmins,2022-05-21,57%,17%,21%,0%
+Timmins,2022-05-22,59%,16%,20%,0%
+Timmins,2022-05-22,60%,15%,20%,0%
+Timmins,2022-05-23,62%,15%,18%,0%
+Timmins,2022-05-23,61%,15%,19%,0%
 Oshawa,2022-05-01,41%,10%,39%,5%
 Oshawa,2022-09-01,43%,14%,31%,5%
 Oshawa,2023-01-01,42%,14%,32%,5%
@@ -269,6 +323,114 @@ Whitby,2022-05-22,47%,22%,21%,7%
 Whitby,2022-05-22,48%,21%,21%,7%
 Whitby,2022-05-23,50%,21%,19%,7%
 Whitby,2022-05-23,49%,21%,20%,7%
+Lambton Kent Middlesex,2022-05-01,59%,20%,11%,0%
+Lambton Kent Middlesex,2022-09-01,55%,12%,23%,0%
+Lambton Kent Middlesex,2023-01-01,55%,11%,24%,0%
+Lambton Kent Middlesex,2023-05-01,55%,11%,23%,0%
+Lambton Kent Middlesex,2023-09-01,56%,11%,23%,0%
+Lambton Kent Middlesex,2024-01-01,55%,11%,23%,0%
+Lambton Kent Middlesex,2024-05-01,55%,11%,23%,0%
+Lambton Kent Middlesex,2024-09-01,55%,11%,23%,0%
+Lambton Kent Middlesex,2025-01-01,55%,11%,23%,0%
+Lambton Kent Middlesex,2025-05-01,55%,12%,23%,0%
+Lambton Kent Middlesex,2022-04-30,56%,11%,23%,0%
+Lambton Kent Middlesex,2022-04-30,56%,11%,22%,0%
+Lambton Kent Middlesex,2022-05-03,56%,11%,22%,0%
+Lambton Kent Middlesex,2022-05-03,55%,11%,22%,0%
+Lambton Kent Middlesex,2022-05-04,55%,11%,23%,0%
+Lambton Kent Middlesex,2022-05-04,55%,11%,23%,0%
+Lambton Kent Middlesex,2022-05-05,54%,13%,22%,0%
+Lambton Kent Middlesex,2022-05-05,54%,13%,22%,0%
+Lambton Kent Middlesex,2022-05-06,53%,12%,21%,0%
+Lambton Kent Middlesex,2022-05-06,52%,12%,23%,0%
+Lambton Kent Middlesex,2022-05-07,52%,12%,23%,0%
+Lambton Kent Middlesex,2022-05-07,52%,12%,23%,0%
+Lambton Kent Middlesex,2022-05-08,52%,12%,22%,0%
+Lambton Kent Middlesex,2022-05-08,52%,12%,22%,0%
+Lambton Kent Middlesex,2022-05-09,52%,12%,22%,0%
+Lambton Kent Middlesex,2022-05-09,52%,12%,22%,0%
+Lambton Kent Middlesex,2022-05-10,53%,12%,22%,0%
+Lambton Kent Middlesex,2022-05-10,54%,12%,21%,0%
+Lambton Kent Middlesex,2022-05-11,54%,12%,21%,0%
+Lambton Kent Middlesex,2022-05-11,54%,12%,21%,0%
+Lambton Kent Middlesex,2022-05-12,55%,12%,20%,0%
+Lambton Kent Middlesex,2022-05-12,56%,11%,20%,0%
+Lambton Kent Middlesex,2022-05-13,59%,10%,19%,0%
+Lambton Kent Middlesex,2022-05-13,58%,10%,19%,0%
+Lambton Kent Middlesex,2022-05-14,59%,10%,18%,0%
+Lambton Kent Middlesex,2022-05-14,59%,10%,18%,0%
+Lambton Kent Middlesex,2022-05-15,59%,10%,18%,0%
+Lambton Kent Middlesex,2022-05-15,58%,10%,18%,0%
+Lambton Kent Middlesex,2022-05-16,53%,10%,20%,0%
+Lambton Kent Middlesex,2022-05-16,54%,11%,20%,0%
+Lambton Kent Middlesex,2022-05-17,55%,10%,20%,0%
+Lambton Kent Middlesex,2022-05-17,55%,10%,20%,0%
+Lambton Kent Middlesex,2022-05-18,53%,11%,21%,0%
+Lambton Kent Middlesex,2022-05-18,55%,10%,20%,0%
+Lambton Kent Middlesex,2022-05-19,58%,10%,20%,0%
+Lambton Kent Middlesex,2022-05-19,57%,11%,20%,0%
+Lambton Kent Middlesex,2022-05-20,57%,11%,19%,0%
+Lambton Kent Middlesex,2022-05-20,55%,15%,17%,0%
+Lambton Kent Middlesex,2022-05-21,56%,14%,17%,0%
+Lambton Kent Middlesex,2022-05-21,57%,13%,17%,0%
+Lambton Kent Middlesex,2022-05-22,58%,21%,11%,0%
+Lambton Kent Middlesex,2022-05-22,59%,20%,11%,0%
+Lambton Kent Middlesex,2022-05-23,60%,20%,10%,0%
+Lambton Kent Middlesex,2022-05-23,59%,20%,11%,0%
+Chatham Kent Leamington,2022-05-01,51%,0%,28%,5%
+Chatham Kent Leamington,2022-09-01,50%,0%,22%,4%
+Chatham Kent Leamington,2023-01-01,48%,0%,24%,4%
+Chatham Kent Leamington,2023-05-01,48%,0%,24%,4%
+Chatham Kent Leamington,2023-09-01,48%,0%,24%,4%
+Chatham Kent Leamington,2024-01-01,48%,0%,24%,4%
+Chatham Kent Leamington,2024-05-01,48%,0%,24%,4%
+Chatham Kent Leamington,2024-09-01,47%,0%,24%,4%
+Chatham Kent Leamington,2025-01-01,48%,0%,24%,4%
+Chatham Kent Leamington,2025-05-01,47%,0%,24%,4%
+Chatham Kent Leamington,2022-04-30,48%,0%,24%,4%
+Chatham Kent Leamington,2022-04-30,48%,0%,24%,4%
+Chatham Kent Leamington,2022-05-03,49%,0%,24%,4%
+Chatham Kent Leamington,2022-05-03,50%,0%,24%,4%
+Chatham Kent Leamington,2022-05-04,51%,0%,25%,4%
+Chatham Kent Leamington,2022-05-04,50%,0%,25%,4%
+Chatham Kent Leamington,2022-05-05,49%,0%,23%,4%
+Chatham Kent Leamington,2022-05-05,49%,0%,23%,4%
+Chatham Kent Leamington,2022-05-06,48%,0%,23%,5%
+Chatham Kent Leamington,2022-05-06,47%,0%,24%,6%
+Chatham Kent Leamington,2022-05-07,47%,0%,24%,6%
+Chatham Kent Leamington,2022-05-07,47%,0%,24%,6%
+Chatham Kent Leamington,2022-05-08,48%,0%,24%,6%
+Chatham Kent Leamington,2022-05-08,48%,0%,24%,6%
+Chatham Kent Leamington,2022-05-09,47%,0%,23%,5%
+Chatham Kent Leamington,2022-05-09,47%,0%,23%,6%
+Chatham Kent Leamington,2022-05-10,47%,0%,23%,6%
+Chatham Kent Leamington,2022-05-10,48%,0%,22%,5%
+Chatham Kent Leamington,2022-05-11,48%,0%,22%,5%
+Chatham Kent Leamington,2022-05-11,48%,0%,22%,5%
+Chatham Kent Leamington,2022-05-12,48%,0%,22%,5%
+Chatham Kent Leamington,2022-05-12,50%,0%,22%,5%
+Chatham Kent Leamington,2022-05-13,48%,0%,30%,3%
+Chatham Kent Leamington,2022-05-13,48%,0%,32%,4%
+Chatham Kent Leamington,2022-05-14,49%,0%,29%,4%
+Chatham Kent Leamington,2022-05-14,49%,0%,29%,4%
+Chatham Kent Leamington,2022-05-15,49%,0%,29%,4%
+Chatham Kent Leamington,2022-05-15,49%,0%,30%,4%
+Chatham Kent Leamington,2022-05-16,44%,0%,33%,6%
+Chatham Kent Leamington,2022-05-16,44%,0%,33%,5%
+Chatham Kent Leamington,2022-05-17,45%,0%,32%,5%
+Chatham Kent Leamington,2022-05-17,46%,0%,32%,5%
+Chatham Kent Leamington,2022-05-18,43%,0%,34%,5%
+Chatham Kent Leamington,2022-05-18,45%,0%,32%,5%
+Chatham Kent Leamington,2022-05-19,49%,0%,33%,5%
+Chatham Kent Leamington,2022-05-19,49%,0%,33%,5%
+Chatham Kent Leamington,2022-05-20,49%,0%,33%,5%
+Chatham Kent Leamington,2022-05-20,49%,0%,30%,5%
+Chatham Kent Leamington,2022-05-21,50%,0%,29%,5%
+Chatham Kent Leamington,2022-05-21,50%,0%,29%,5%
+Chatham Kent Leamington,2022-05-22,50%,0%,29%,5%
+Chatham Kent Leamington,2022-05-22,51%,0%,29%,5%
+Chatham Kent Leamington,2022-05-23,53%,0%,27%,5%
+Chatham Kent Leamington,2022-05-23,51%,0%,28%,5%
 London Fanshawe,2022-05-01,35%,13%,41%,5%
 London Fanshawe,2022-09-01,31%,15%,40%,7%
 London Fanshawe,2023-01-01,31%,14%,41%,7%
@@ -377,6 +539,60 @@ Brantford Brant,2022-05-22,43%,16%,24%,9%
 Brantford Brant,2022-05-22,44%,16%,24%,9%
 Brantford Brant,2022-05-23,46%,15%,23%,9%
 Brantford Brant,2022-05-23,44%,16%,24%,9%
+Milton,2022-05-01,48%,39%,7%,0%
+Milton,2022-09-01,41%,40%,11%,0%
+Milton,2023-01-01,39%,39%,15%,0%
+Milton,2023-05-01,39%,38%,15%,0%
+Milton,2023-09-01,39%,38%,15%,0%
+Milton,2024-01-01,39%,38%,15%,0%
+Milton,2024-05-01,39%,38%,15%,0%
+Milton,2024-09-01,39%,39%,15%,0%
+Milton,2025-01-01,39%,40%,14%,0%
+Milton,2025-05-01,39%,39%,15%,0%
+Milton,2022-04-30,40%,37%,15%,0%
+Milton,2022-04-30,40%,37%,15%,0%
+Milton,2022-05-03,41%,37%,14%,0%
+Milton,2022-05-03,41%,37%,14%,0%
+Milton,2022-05-04,41%,36%,15%,0%
+Milton,2022-05-04,40%,37%,15%,0%
+Milton,2022-05-05,40%,38%,14%,0%
+Milton,2022-05-05,40%,37%,14%,0%
+Milton,2022-05-06,40%,37%,14%,0%
+Milton,2022-05-06,39%,36%,15%,0%
+Milton,2022-05-07,39%,36%,15%,0%
+Milton,2022-05-07,39%,36%,15%,0%
+Milton,2022-05-08,40%,36%,15%,0%
+Milton,2022-05-08,40%,36%,15%,0%
+Milton,2022-05-09,40%,36%,15%,0%
+Milton,2022-05-09,40%,36%,15%,0%
+Milton,2022-05-10,39%,35%,16%,0%
+Milton,2022-05-10,40%,35%,15%,0%
+Milton,2022-05-11,40%,35%,15%,0%
+Milton,2022-05-11,39%,36%,15%,0%
+Milton,2022-05-12,39%,36%,15%,0%
+Milton,2022-05-12,41%,35%,15%,0%
+Milton,2022-05-13,43%,39%,10%,0%
+Milton,2022-05-13,43%,39%,10%,0%
+Milton,2022-05-14,42%,40%,9%,0%
+Milton,2022-05-14,42%,40%,9%,0%
+Milton,2022-05-15,42%,40%,9%,0%
+Milton,2022-05-15,42%,40%,9%,0%
+Milton,2022-05-16,39%,40%,10%,0%
+Milton,2022-05-16,39%,40%,10%,0%
+Milton,2022-05-17,40%,40%,10%,0%
+Milton,2022-05-17,40%,40%,10%,0%
+Milton,2022-05-18,38%,42%,10%,0%
+Milton,2022-05-18,40%,40%,10%,0%
+Milton,2022-05-19,43%,38%,10%,0%
+Milton,2022-05-19,41%,41%,10%,0%
+Milton,2022-05-20,40%,42%,10%,0%
+Milton,2022-05-20,39%,44%,9%,0%
+Milton,2022-05-21,40%,42%,9%,0%
+Milton,2022-05-21,41%,41%,10%,0%
+Milton,2022-05-22,47%,40%,7%,0%
+Milton,2022-05-22,48%,38%,7%,0%
+Milton,2022-05-23,50%,38%,7%,0%
+Milton,2022-05-23,48%,39%,7%,0%
 Orléans,2022-05-01,33%,46%,12%,6%
 Orléans,2022-09-01,31%,54%,10%,1%
 Orléans,2023-01-01,29%,52%,14%,1%
@@ -701,6 +917,60 @@ Eglinton Lawrence,2022-05-22,41%,43%,9%,5%
 Eglinton Lawrence,2022-05-22,42%,42%,9%,5%
 Eglinton Lawrence,2022-05-23,43%,41%,8%,5%
 Eglinton Lawrence,2022-05-23,42%,42%,8%,5%
+King Vaughan,2022-05-01,57%,29%,7%,0%
+King Vaughan,2022-09-01,50%,36%,7%,0%
+King Vaughan,2023-01-01,48%,35%,10%,0%
+King Vaughan,2023-05-01,48%,35%,10%,0%
+King Vaughan,2023-09-01,49%,34%,10%,0%
+King Vaughan,2024-01-01,49%,35%,10%,0%
+King Vaughan,2024-05-01,48%,35%,10%,0%
+King Vaughan,2024-09-01,48%,35%,10%,0%
+King Vaughan,2025-01-01,48%,36%,10%,0%
+King Vaughan,2025-05-01,47%,36%,10%,0%
+King Vaughan,2022-04-30,49%,35%,10%,0%
+King Vaughan,2022-04-30,49%,35%,10%,0%
+King Vaughan,2022-05-03,49%,35%,10%,0%
+King Vaughan,2022-05-03,49%,35%,10%,0%
+King Vaughan,2022-05-04,49%,34%,10%,0%
+King Vaughan,2022-05-04,48%,35%,11%,0%
+King Vaughan,2022-05-05,48%,35%,10%,0%
+King Vaughan,2022-05-05,48%,34%,10%,0%
+King Vaughan,2022-05-06,48%,34%,10%,0%
+King Vaughan,2022-05-06,47%,33%,11%,0%
+King Vaughan,2022-05-07,47%,33%,11%,0%
+King Vaughan,2022-05-07,47%,34%,11%,0%
+King Vaughan,2022-05-08,48%,33%,11%,0%
+King Vaughan,2022-05-08,48%,33%,11%,0%
+King Vaughan,2022-05-09,47%,33%,11%,0%
+King Vaughan,2022-05-09,47%,33%,11%,0%
+King Vaughan,2022-05-10,48%,32%,11%,0%
+King Vaughan,2022-05-10,49%,32%,10%,0%
+King Vaughan,2022-05-11,49%,32%,10%,0%
+King Vaughan,2022-05-11,49%,32%,10%,0%
+King Vaughan,2022-05-12,50%,31%,10%,0%
+King Vaughan,2022-05-12,54%,29%,9%,0%
+King Vaughan,2022-05-13,58%,28%,7%,0%
+King Vaughan,2022-05-13,57%,28%,7%,0%
+King Vaughan,2022-05-14,57%,29%,7%,0%
+King Vaughan,2022-05-14,56%,30%,6%,0%
+King Vaughan,2022-05-15,56%,30%,6%,0%
+King Vaughan,2022-05-15,57%,29%,7%,0%
+King Vaughan,2022-05-16,52%,30%,8%,0%
+King Vaughan,2022-05-16,52%,31%,8%,0%
+King Vaughan,2022-05-17,53%,30%,8%,0%
+King Vaughan,2022-05-17,54%,30%,8%,0%
+King Vaughan,2022-05-18,51%,32%,8%,0%
+King Vaughan,2022-05-18,53%,30%,8%,0%
+King Vaughan,2022-05-19,56%,29%,8%,0%
+King Vaughan,2022-05-19,55%,31%,8%,0%
+King Vaughan,2022-05-20,54%,31%,7%,0%
+King Vaughan,2022-05-20,52%,34%,7%,0%
+King Vaughan,2022-05-21,54%,32%,7%,0%
+King Vaughan,2022-05-21,55%,31%,7%,0%
+King Vaughan,2022-05-22,55%,31%,7%,0%
+King Vaughan,2022-05-22,56%,29%,7%,0%
+King Vaughan,2022-05-23,58%,28%,7%,0%
+King Vaughan,2022-05-23,57%,29%,7%,0%
 Toronto Danforth,2022-05-01,14%,25%,50%,8%
 Toronto Danforth,2022-09-01,15%,22%,52%,6%
 Toronto Danforth,2023-01-01,14%,21%,52%,6%
@@ -1511,6 +1781,114 @@ Mississauga Centre,2022-05-22,41%,39%,11%,4%
 Mississauga Centre,2022-05-22,42%,38%,12%,4%
 Mississauga Centre,2022-05-23,44%,37%,11%,4%
 Mississauga Centre,2022-05-23,43%,38%,11%,4%
+Mississauga Streetsville,2022-05-01,45%,37%,11%,0%
+Mississauga Streetsville,2022-09-01,41%,39%,13%,0%
+Mississauga Streetsville,2023-01-01,39%,37%,17%,0%
+Mississauga Streetsville,2023-05-01,39%,37%,17%,0%
+Mississauga Streetsville,2023-09-01,40%,36%,17%,0%
+Mississauga Streetsville,2024-01-01,39%,37%,17%,0%
+Mississauga Streetsville,2024-05-01,39%,37%,17%,0%
+Mississauga Streetsville,2024-09-01,39%,37%,17%,0%
+Mississauga Streetsville,2025-01-01,39%,38%,17%,0%
+Mississauga Streetsville,2025-05-01,39%,38%,17%,0%
+Mississauga Streetsville,2022-04-30,40%,36%,17%,0%
+Mississauga Streetsville,2022-04-30,40%,36%,17%,0%
+Mississauga Streetsville,2022-05-03,40%,36%,17%,0%
+Mississauga Streetsville,2022-05-03,40%,36%,16%,0%
+Mississauga Streetsville,2022-05-04,40%,35%,18%,0%
+Mississauga Streetsville,2022-05-04,39%,36%,18%,0%
+Mississauga Streetsville,2022-05-05,40%,36%,17%,0%
+Mississauga Streetsville,2022-05-05,40%,36%,17%,0%
+Mississauga Streetsville,2022-05-06,39%,35%,17%,0%
+Mississauga Streetsville,2022-05-06,39%,35%,18%,0%
+Mississauga Streetsville,2022-05-07,39%,35%,18%,0%
+Mississauga Streetsville,2022-05-07,39%,35%,18%,0%
+Mississauga Streetsville,2022-05-08,39%,35%,18%,0%
+Mississauga Streetsville,2022-05-08,39%,35%,18%,0%
+Mississauga Streetsville,2022-05-09,39%,34%,17%,0%
+Mississauga Streetsville,2022-05-09,39%,34%,17%,0%
+Mississauga Streetsville,2022-05-10,39%,34%,18%,0%
+Mississauga Streetsville,2022-05-10,40%,34%,17%,0%
+Mississauga Streetsville,2022-05-11,40%,34%,17%,0%
+Mississauga Streetsville,2022-05-11,40%,39%,11%,0%
+Mississauga Streetsville,2022-05-12,39%,40%,11%,0%
+Mississauga Streetsville,2022-05-12,42%,38%,11%,0%
+Mississauga Streetsville,2022-05-13,46%,35%,12%,0%
+Mississauga Streetsville,2022-05-13,45%,35%,12%,0%
+Mississauga Streetsville,2022-05-14,45%,36%,11%,0%
+Mississauga Streetsville,2022-05-14,44%,37%,11%,0%
+Mississauga Streetsville,2022-05-15,44%,37%,11%,0%
+Mississauga Streetsville,2022-05-15,45%,36%,11%,0%
+Mississauga Streetsville,2022-05-16,41%,37%,13%,0%
+Mississauga Streetsville,2022-05-16,42%,37%,13%,0%
+Mississauga Streetsville,2022-05-17,42%,37%,13%,0%
+Mississauga Streetsville,2022-05-17,43%,37%,12%,0%
+Mississauga Streetsville,2022-05-18,40%,38%,13%,0%
+Mississauga Streetsville,2022-05-18,42%,36%,13%,0%
+Mississauga Streetsville,2022-05-19,45%,35%,12%,0%
+Mississauga Streetsville,2022-05-19,40%,40%,12%,0%
+Mississauga Streetsville,2022-05-20,40%,41%,12%,0%
+Mississauga Streetsville,2022-05-20,38%,43%,12%,0%
+Mississauga Streetsville,2022-05-21,41%,41%,11%,0%
+Mississauga Streetsville,2022-05-21,42%,39%,12%,0%
+Mississauga Streetsville,2022-05-22,43%,38%,11%,0%
+Mississauga Streetsville,2022-05-22,45%,37%,11%,0%
+Mississauga Streetsville,2022-05-23,46%,36%,11%,0%
+Mississauga Streetsville,2022-05-23,45%,37%,11%,0%
+Richmond Hill,2022-05-01,52%,32%,9%,0%
+Richmond Hill,2022-09-01,45%,41%,8%,0%
+Richmond Hill,2023-01-01,43%,40%,11%,0%
+Richmond Hill,2023-05-01,43%,39%,12%,0%
+Richmond Hill,2023-09-01,44%,39%,12%,0%
+Richmond Hill,2024-01-01,44%,39%,12%,0%
+Richmond Hill,2024-05-01,43%,39%,12%,0%
+Richmond Hill,2024-09-01,43%,40%,11%,0%
+Richmond Hill,2025-01-01,43%,40%,11%,0%
+Richmond Hill,2025-05-01,42%,41%,11%,0%
+Richmond Hill,2022-04-30,44%,39%,11%,0%
+Richmond Hill,2022-04-30,44%,39%,11%,0%
+Richmond Hill,2022-05-03,44%,39%,11%,0%
+Richmond Hill,2022-05-03,44%,39%,11%,0%
+Richmond Hill,2022-05-04,44%,38%,12%,0%
+Richmond Hill,2022-05-04,43%,39%,12%,0%
+Richmond Hill,2022-05-05,43%,39%,11%,0%
+Richmond Hill,2022-05-05,43%,39%,11%,0%
+Richmond Hill,2022-05-06,43%,38%,11%,0%
+Richmond Hill,2022-05-06,43%,38%,12%,0%
+Richmond Hill,2022-05-07,43%,38%,12%,0%
+Richmond Hill,2022-05-07,42%,38%,12%,0%
+Richmond Hill,2022-05-08,43%,38%,12%,0%
+Richmond Hill,2022-05-08,43%,38%,12%,0%
+Richmond Hill,2022-05-09,43%,37%,12%,0%
+Richmond Hill,2022-05-09,43%,37%,12%,0%
+Richmond Hill,2022-05-10,44%,36%,12%,0%
+Richmond Hill,2022-05-10,46%,35%,11%,0%
+Richmond Hill,2022-05-11,46%,35%,11%,0%
+Richmond Hill,2022-05-11,46%,35%,11%,0%
+Richmond Hill,2022-05-12,47%,34%,11%,0%
+Richmond Hill,2022-05-12,50%,33%,10%,0%
+Richmond Hill,2022-05-13,53%,31%,9%,0%
+Richmond Hill,2022-05-13,52%,32%,9%,0%
+Richmond Hill,2022-05-14,52%,32%,8%,0%
+Richmond Hill,2022-05-14,51%,33%,8%,0%
+Richmond Hill,2022-05-15,51%,33%,8%,0%
+Richmond Hill,2022-05-15,52%,32%,9%,0%
+Richmond Hill,2022-05-16,47%,34%,10%,0%
+Richmond Hill,2022-05-16,47%,34%,10%,0%
+Richmond Hill,2022-05-17,48%,33%,10%,0%
+Richmond Hill,2022-05-17,49%,33%,10%,0%
+Richmond Hill,2022-05-18,46%,35%,10%,0%
+Richmond Hill,2022-05-18,48%,33%,10%,0%
+Richmond Hill,2022-05-19,51%,32%,10%,0%
+Richmond Hill,2022-05-19,50%,34%,9%,0%
+Richmond Hill,2022-05-20,49%,35%,9%,0%
+Richmond Hill,2022-05-20,47%,37%,9%,0%
+Richmond Hill,2022-05-21,49%,36%,9%,0%
+Richmond Hill,2022-05-21,50%,34%,9%,0%
+Richmond Hill,2022-05-22,50%,34%,9%,0%
+Richmond Hill,2022-05-22,52%,32%,9%,0%
+Richmond Hill,2022-05-23,53%,32%,8%,0%
+Richmond Hill,2022-05-23,52%,32%,9%,0%
 Kitchener Centre,2022-05-01,25%,10%,18%,45%
 Kitchener Centre,2022-09-01,28%,32%,26%,8%
 Kitchener Centre,2023-01-01,27%,29%,30%,8%
@@ -1673,6 +2051,60 @@ Nickel Belt,2022-05-22,31%,16%,43%,4%
 Nickel Belt,2022-05-22,31%,15%,43%,5%
 Nickel Belt,2022-05-23,33%,16%,41%,5%
 Nickel Belt,2022-05-23,32%,16%,42%,5%
+Etobicoke North,2022-05-01,54%,26%,12%,0%
+Etobicoke North,2022-09-01,48%,26%,18%,0%
+Etobicoke North,2023-01-01,47%,26%,18%,0%
+Etobicoke North,2023-05-01,48%,26%,18%,0%
+Etobicoke North,2023-09-01,48%,26%,17%,0%
+Etobicoke North,2024-01-01,48%,26%,18%,0%
+Etobicoke North,2024-05-01,48%,26%,18%,0%
+Etobicoke North,2024-09-01,47%,27%,18%,0%
+Etobicoke North,2025-01-01,47%,27%,17%,0%
+Etobicoke North,2025-05-01,47%,28%,17%,0%
+Etobicoke North,2022-04-30,48%,26%,17%,0%
+Etobicoke North,2022-04-30,48%,26%,17%,0%
+Etobicoke North,2022-05-03,48%,26%,17%,0%
+Etobicoke North,2022-05-03,48%,26%,17%,0%
+Etobicoke North,2022-05-04,48%,25%,17%,0%
+Etobicoke North,2022-05-04,47%,26%,18%,0%
+Etobicoke North,2022-05-05,46%,29%,16%,0%
+Etobicoke North,2022-05-05,46%,29%,16%,0%
+Etobicoke North,2022-05-06,46%,28%,16%,0%
+Etobicoke North,2022-05-06,45%,28%,17%,0%
+Etobicoke North,2022-05-07,45%,28%,17%,0%
+Etobicoke North,2022-05-07,45%,28%,17%,0%
+Etobicoke North,2022-05-08,45%,28%,17%,0%
+Etobicoke North,2022-05-08,45%,28%,17%,0%
+Etobicoke North,2022-05-09,45%,27%,17%,0%
+Etobicoke North,2022-05-09,45%,27%,17%,0%
+Etobicoke North,2022-05-10,45%,27%,17%,0%
+Etobicoke North,2022-05-10,46%,27%,17%,0%
+Etobicoke North,2022-05-11,46%,27%,17%,0%
+Etobicoke North,2022-05-11,46%,27%,17%,0%
+Etobicoke North,2022-05-12,47%,26%,16%,0%
+Etobicoke North,2022-05-12,51%,24%,15%,0%
+Etobicoke North,2022-05-13,55%,24%,13%,0%
+Etobicoke North,2022-05-13,55%,24%,13%,0%
+Etobicoke North,2022-05-14,55%,24%,12%,0%
+Etobicoke North,2022-05-14,54%,25%,12%,0%
+Etobicoke North,2022-05-15,54%,25%,12%,0%
+Etobicoke North,2022-05-15,55%,24%,13%,0%
+Etobicoke North,2022-05-16,50%,25%,14%,0%
+Etobicoke North,2022-05-16,50%,25%,14%,0%
+Etobicoke North,2022-05-17,51%,25%,14%,0%
+Etobicoke North,2022-05-17,51%,25%,14%,0%
+Etobicoke North,2022-05-18,49%,27%,15%,0%
+Etobicoke North,2022-05-18,51%,25%,14%,0%
+Etobicoke North,2022-05-19,54%,24%,14%,0%
+Etobicoke North,2022-05-19,53%,26%,14%,0%
+Etobicoke North,2022-05-20,52%,26%,13%,0%
+Etobicoke North,2022-05-20,48%,31%,13%,0%
+Etobicoke North,2022-05-21,50%,29%,12%,0%
+Etobicoke North,2022-05-21,51%,28%,13%,0%
+Etobicoke North,2022-05-22,52%,28%,12%,0%
+Etobicoke North,2022-05-22,53%,26%,12%,0%
+Etobicoke North,2022-05-23,55%,26%,11%,0%
+Etobicoke North,2022-05-23,54%,26%,12%,0%
 Thornhill,2022-05-01,52%,31%,8%,4%
 Thornhill,2022-09-01,58%,24%,10%,3%
 Thornhill,2023-01-01,56%,24%,13%,3%
@@ -1727,6 +2159,72 @@ Thornhill,2022-05-22,51%,32%,8%,4%
 Thornhill,2022-05-22,52%,30%,8%,4%
 Thornhill,2022-05-23,54%,30%,7%,4%
 Thornhill,2022-05-23,52%,31%,8%,4%
+Brampton North,2022-05-01,46%,29%,18%,0%
+Brampton North,2022-09-01,36%,35%,21%,0%
+Brampton North,2023-01-01,34%,33%,24%,0%
+Brampton North,2023-05-01,34%,33%,25%,0%
+Brampton North,2023-09-01,34%,32%,25%,0%
+Brampton North,2024-01-01,34%,33%,25%,0%
+Brampton North,2024-05-01,34%,33%,25%,0%
+Brampton North,2024-09-01,34%,33%,25%,0%
+Brampton North,2025-01-01,34%,34%,24%,0%
+Brampton North,2025-05-01,34%,34%,24%,0%
+Brampton North,2022-04-30,35%,32%,24%,0%
+Brampton North,2022-04-30,35%,32%,24%,0%
+Brampton North,2022-05-03,36%,32%,24%,0%
+Brampton North,2022-05-03,36%,33%,25%,0%
+Brampton North,2022-05-04,36%,32%,26%,0%
+Brampton North,2022-05-04,35%,33%,26%,0%
+Brampton North,2022-05-05,36%,33%,24%,0%
+Brampton North,2022-05-05,36%,33%,24%,0%
+Brampton North,2022-05-06,36%,32%,24%,0%
+Brampton North,2022-05-06,35%,32%,26%,0%
+Brampton North,2022-05-07,35%,32%,26%,0%
+Brampton North,2022-05-07,35%,32%,26%,0%
+Brampton North,2022-05-08,35%,32%,25%,0%
+Brampton North,2022-05-08,35%,32%,25%,0%
+Brampton North,2022-05-09,35%,31%,25%,0%
+Brampton North,2022-05-09,35%,31%,25%,0%
+Brampton North,2022-05-10,35%,31%,25%,0%
+Brampton North,2022-05-10,36%,31%,24%,0%
+Brampton North,2022-05-11,36%,31%,24%,0%
+Brampton North,2022-05-11,36%,31%,24%,0%
+Brampton North,2022-05-12,36%,31%,24%,0%
+Brampton North,2022-05-12,38%,30%,24%,0%
+Brampton North,2022-05-13,45%,29%,20%,0%
+Brampton North,2022-05-13,45%,29%,20%,0%
+Brampton North,2022-05-14,45%,30%,19%,0%
+Brampton North,2022-05-14,44%,30%,18%,0%
+Brampton North,2022-05-15,44%,30%,18%,0%
+Brampton North,2022-05-15,44%,30%,19%,0%
+Brampton North,2022-05-16,41%,30%,21%,0%
+Brampton North,2022-05-16,41%,30%,21%,0%
+Brampton North,2022-05-17,42%,30%,20%,0%
+Brampton North,2022-05-17,42%,30%,20%,0%
+Brampton North,2022-05-18,40%,31%,21%,0%
+Brampton North,2022-05-18,42%,30%,21%,0%
+Brampton North,2022-05-19,45%,29%,20%,0%
+Brampton North,2022-05-19,43%,31%,20%,0%
+Brampton North,2022-05-20,43%,31%,19%,0%
+Brampton North,2022-05-20,41%,33%,19%,0%
+Brampton North,2022-05-21,43%,32%,18%,0%
+Brampton North,2022-05-21,43%,31%,19%,0%
+Brampton North,2022-05-22,44%,31%,19%,0%
+Brampton North,2022-05-22,45%,29%,19%,0%
+Brampton North,2022-05-23,47%,29%,18%,0%
+Brampton North,2022-05-23,46%,29%,18%,0%
+Brampton North,2022-05-24,61%,39%,1%,0%
+Brampton North,2022-05-24,55%,45%,1%,0%
+Brampton North,2022-05-25,60%,39%,1%,0%
+Brampton North,2022-05-25,65%,35%,1%,0%
+Brampton North,2022-05-26,62%,37%,1%,0%
+Brampton North,2022-05-26,60%,39%,1%,0%
+Brampton North,2022-05-27,55%,44%,1%,0%
+Brampton North,2022-05-27,51%,49%,1%,0%
+Brampton North,2022-05-28,53%,46%,1%,0%
+Brampton North,2022-05-28,70%,30%,1%,0%
+Brampton North,2022-05-29,70%,30%,1%,0%
+Brampton North,2022-05-29,72%,28%,1%,0%
 Perth Wellington,2022-05-01,47%,19%,18%,9%
 Perth Wellington,2022-09-01,50%,19%,18%,7%
 Perth Wellington,2023-01-01,49%,17%,21%,7%
@@ -1781,6 +2279,90 @@ Perth Wellington,2022-05-22,45%,20%,19%,8%
 Perth Wellington,2022-05-22,46%,19%,19%,9%
 Perth Wellington,2022-05-23,48%,19%,18%,9%
 Perth Wellington,2022-05-23,47%,19%,18%,9%
+Brampton East,2022-05-01,44%,22%,29%,0%
+Brampton East,2022-09-01,35%,28%,29%,0%
+Brampton East,2023-01-01,34%,27%,31%,0%
+Brampton East,2023-05-01,34%,27%,31%,0%
+Brampton East,2023-09-01,35%,27%,31%,0%
+Brampton East,2024-01-01,34%,27%,31%,0%
+Brampton East,2024-05-01,34%,27%,32%,0%
+Brampton East,2024-09-01,34%,27%,31%,0%
+Brampton East,2025-01-01,34%,28%,30%,0%
+Brampton East,2025-05-01,34%,28%,30%,0%
+Brampton East,2022-04-30,35%,27%,30%,0%
+Brampton East,2022-04-30,35%,27%,30%,0%
+Brampton East,2022-05-03,35%,27%,30%,0%
+Brampton East,2022-05-03,36%,28%,31%,0%
+Brampton East,2022-05-04,36%,27%,32%,0%
+Brampton East,2022-05-04,35%,28%,32%,0%
+Brampton East,2022-05-05,36%,28%,31%,0%
+Brampton East,2022-05-05,36%,28%,31%,0%
+Brampton East,2022-05-06,36%,28%,31%,0%
+Brampton East,2022-05-06,35%,27%,32%,0%
+Brampton East,2022-05-07,35%,27%,32%,0%
+Brampton East,2022-05-07,35%,27%,32%,0%
+Brampton East,2022-05-08,34%,27%,34%,0%
+Brampton East,2022-05-08,34%,27%,34%,0%
+Brampton East,2022-05-09,33%,27%,33%,0%
+Brampton East,2022-05-09,33%,27%,33%,0%
+Brampton East,2022-05-10,34%,26%,33%,0%
+Brampton East,2022-05-10,34%,26%,33%,0%
+Brampton East,2022-05-11,34%,26%,33%,0%
+Brampton East,2022-05-11,34%,26%,33%,0%
+Brampton East,2022-05-12,35%,26%,32%,0%
+Brampton East,2022-05-12,34%,25%,34%,0%
+Brampton East,2022-05-13,43%,21%,31%,0%
+Brampton East,2022-05-13,43%,21%,31%,0%
+Brampton East,2022-05-14,43%,22%,29%,0%
+Brampton East,2022-05-14,43%,23%,29%,0%
+Brampton East,2022-05-15,43%,23%,29%,0%
+Brampton East,2022-05-15,43%,22%,30%,0%
+Brampton East,2022-05-16,40%,22%,32%,0%
+Brampton East,2022-05-16,40%,22%,32%,0%
+Brampton East,2022-05-17,41%,22%,32%,0%
+Brampton East,2022-05-17,41%,22%,31%,0%
+Brampton East,2022-05-18,38%,23%,33%,0%
+Brampton East,2022-05-18,41%,22%,32%,0%
+Brampton East,2022-05-19,43%,21%,31%,0%
+Brampton East,2022-05-19,42%,23%,31%,0%
+Brampton East,2022-05-20,42%,23%,30%,0%
+Brampton East,2022-05-20,40%,25%,30%,0%
+Brampton East,2022-05-21,42%,25%,29%,0%
+Brampton East,2022-05-21,42%,23%,30%,0%
+Brampton East,2022-05-22,43%,23%,29%,0%
+Brampton East,2022-05-22,44%,22%,29%,0%
+Brampton East,2022-05-23,46%,22%,28%,0%
+Brampton East,2022-05-23,44%,22%,29%,0%
+Brampton East,2022-05-24,84%,5%,11%,0%
+Brampton East,2022-05-24,67%,5%,28%,0%
+Brampton East,2022-05-25,69%,3%,28%,0%
+Brampton East,2022-05-25,72%,2%,25%,0%
+Brampton East,2022-05-26,70%,3%,27%,0%
+Brampton East,2022-05-26,68%,3%,29%,0%
+Brampton East,2022-05-27,70%,5%,25%,0%
+Brampton East,2022-05-27,73%,6%,21%,0%
+Brampton East,2022-05-28,69%,9%,22%,0%
+Brampton East,2022-05-28,78%,4%,18%,0%
+Brampton East,2022-05-29,79%,4%,17%,0%
+Brampton East,2022-05-29,82%,4%,14%,0%
+Brampton East,2022-05-30,82%,4%,14%,0%
+Brampton East,2022-05-30,78%,2%,20%,0%
+Brampton East,2022-05-31,72%,3%,25%,0%
+Brampton East,2022-05-31,83%,4%,13%,0%
+Brampton East,2022-06-01,84%,3%,13%,0%
+Brampton East,2022-06-01,84%,3%,13%,0%
+Brampton East,2022-06-03,75%,2%,23%,0%
+Brampton East,2022-06-03,75%,2%,23%,0%
+Brampton East,2022-12-30,73%,2%,25%,0%
+Brampton East,2022-12-30,51%,2%,48%,0%
+Brampton East,2023-02-15,51%,2%,47%,0%
+Brampton East,2023-02-15,50%,2%,48%,0%
+Brampton East,2023-03-09,50%,2%,48%,0%
+Brampton East,2023-03-09,51%,2%,47%,0%
+Brampton East,2023-03-17,64%,2%,34%,0%
+Brampton East,2023-03-17,64%,2%,35%,0%
+Brampton East,2023-04-16,64%,2%,34%,0%
+Brampton East,2023-04-16,66%,1%,33%,0%
 London West,2022-05-01,35%,15%,39%,5%
 London West,2022-09-01,31%,18%,39%,6%
 London West,2023-01-01,31%,16%,41%,6%
@@ -1943,6 +2525,60 @@ Kingston and the Islands,2022-05-22,24%,39%,30%,4%
 Kingston and the Islands,2022-05-22,25%,38%,30%,5%
 Kingston and the Islands,2022-05-23,26%,38%,29%,5%
 Kingston and the Islands,2022-05-23,25%,38%,29%,5%
+Vaughan Woodbridge,2022-05-01,53%,36%,5%,0%
+Vaughan Woodbridge,2022-09-01,43%,45%,6%,0%
+Vaughan Woodbridge,2023-01-01,43%,41%,10%,0%
+Vaughan Woodbridge,2023-05-01,44%,41%,10%,0%
+Vaughan Woodbridge,2023-09-01,45%,40%,10%,0%
+Vaughan Woodbridge,2024-01-01,44%,41%,10%,0%
+Vaughan Woodbridge,2024-05-01,44%,41%,10%,0%
+Vaughan Woodbridge,2024-09-01,44%,41%,10%,0%
+Vaughan Woodbridge,2025-01-01,44%,42%,9%,0%
+Vaughan Woodbridge,2025-05-01,43%,43%,9%,0%
+Vaughan Woodbridge,2022-04-30,44%,41%,9%,0%
+Vaughan Woodbridge,2022-04-30,44%,41%,9%,0%
+Vaughan Woodbridge,2022-05-03,45%,41%,9%,0%
+Vaughan Woodbridge,2022-05-03,44%,40%,9%,0%
+Vaughan Woodbridge,2022-05-04,45%,40%,10%,0%
+Vaughan Woodbridge,2022-05-04,43%,41%,10%,0%
+Vaughan Woodbridge,2022-05-05,44%,41%,9%,0%
+Vaughan Woodbridge,2022-05-05,44%,40%,9%,0%
+Vaughan Woodbridge,2022-05-06,44%,40%,9%,0%
+Vaughan Woodbridge,2022-05-06,43%,40%,10%,0%
+Vaughan Woodbridge,2022-05-07,43%,40%,10%,0%
+Vaughan Woodbridge,2022-05-07,43%,40%,10%,0%
+Vaughan Woodbridge,2022-05-08,42%,40%,10%,0%
+Vaughan Woodbridge,2022-05-08,42%,40%,10%,0%
+Vaughan Woodbridge,2022-05-09,41%,41%,10%,0%
+Vaughan Woodbridge,2022-05-09,45%,41%,6%,0%
+Vaughan Woodbridge,2022-05-10,45%,41%,6%,0%
+Vaughan Woodbridge,2022-05-10,46%,41%,6%,0%
+Vaughan Woodbridge,2022-05-11,46%,41%,6%,0%
+Vaughan Woodbridge,2022-05-11,45%,42%,6%,0%
+Vaughan Woodbridge,2022-05-12,45%,41%,6%,0%
+Vaughan Woodbridge,2022-05-12,45%,41%,6%,0%
+Vaughan Woodbridge,2022-05-13,54%,35%,5%,0%
+Vaughan Woodbridge,2022-05-13,53%,35%,6%,0%
+Vaughan Woodbridge,2022-05-14,53%,36%,5%,0%
+Vaughan Woodbridge,2022-05-14,52%,37%,5%,0%
+Vaughan Woodbridge,2022-05-15,52%,37%,5%,0%
+Vaughan Woodbridge,2022-05-15,53%,36%,5%,0%
+Vaughan Woodbridge,2022-05-16,49%,38%,6%,0%
+Vaughan Woodbridge,2022-05-16,49%,38%,6%,0%
+Vaughan Woodbridge,2022-05-17,50%,37%,6%,0%
+Vaughan Woodbridge,2022-05-17,50%,37%,6%,0%
+Vaughan Woodbridge,2022-05-18,47%,40%,6%,0%
+Vaughan Woodbridge,2022-05-18,50%,37%,6%,0%
+Vaughan Woodbridge,2022-05-19,53%,36%,6%,0%
+Vaughan Woodbridge,2022-05-19,51%,38%,6%,0%
+Vaughan Woodbridge,2022-05-20,50%,39%,6%,0%
+Vaughan Woodbridge,2022-05-20,48%,41%,6%,0%
+Vaughan Woodbridge,2022-05-21,50%,39%,5%,0%
+Vaughan Woodbridge,2022-05-21,51%,38%,6%,0%
+Vaughan Woodbridge,2022-05-22,52%,37%,6%,0%
+Vaughan Woodbridge,2022-05-22,53%,36%,6%,0%
+Vaughan Woodbridge,2022-05-23,54%,35%,5%,0%
+Vaughan Woodbridge,2022-05-23,53%,36%,5%,0%
 Durham,2022-05-01,46%,26%,17%,5%
 Durham,2022-09-01,46%,28%,17%,4%
 Durham,2023-01-01,44%,27%,21%,4%
@@ -2051,6 +2687,113 @@ Davenport,2022-05-22,14%,22%,53%,6%
 Davenport,2022-05-22,14%,21%,53%,7%
 Davenport,2022-05-23,15%,22%,52%,7%
 Davenport,2022-05-23,14%,22%,52%,7%
+Humber River Black Creek,2022-05-01,30%,34%,30%,0%
+Humber River Black Creek,2022-09-01,28%,33%,32%,0%
+Humber River Black Creek,2023-01-01,28%,33%,32%,0%
+Humber River Black Creek,2023-05-01,28%,33%,31%,0%
+Humber River Black Creek,2023-09-01,28%,33%,31%,0%
+Humber River Black Creek,2024-01-01,28%,33%,32%,0%
+Humber River Black Creek,2024-05-01,28%,33%,32%,0%
+Humber River Black Creek,2024-09-01,28%,33%,32%,0%
+Humber River Black Creek,2025-01-01,28%,34%,31%,0%
+Humber River Black Creek,2025-05-01,28%,34%,31%,0%
+Humber River Black Creek,2022-04-30,29%,33%,31%,0%
+Humber River Black Creek,2022-04-30,29%,33%,31%,0%
+Humber River Black Creek,2022-05-03,29%,33%,31%,0%
+Humber River Black Creek,2022-05-03,29%,33%,31%,0%
+Humber River Black Creek,2022-05-04,29%,32%,31%,0%
+Humber River Black Creek,2022-05-04,28%,33%,31%,0%
+Humber River Black Creek,2022-05-05,29%,35%,29%,0%
+Humber River Black Creek,2022-05-05,29%,34%,29%,0%
+Humber River Black Creek,2022-05-06,29%,34%,29%,0%
+Humber River Black Creek,2022-05-06,28%,34%,29%,0%
+Humber River Black Creek,2022-05-07,28%,34%,29%,0%
+Humber River Black Creek,2022-05-07,28%,34%,29%,0%
+Humber River Black Creek,2022-05-08,29%,34%,29%,0%
+Humber River Black Creek,2022-05-08,29%,34%,29%,0%
+Humber River Black Creek,2022-05-09,29%,33%,28%,0%
+Humber River Black Creek,2022-05-09,29%,33%,28%,0%
+Humber River Black Creek,2022-05-10,29%,31%,31%,0%
+Humber River Black Creek,2022-05-10,30%,31%,30%,0%
+Humber River Black Creek,2022-05-11,30%,31%,30%,0%
+Humber River Black Creek,2022-05-11,30%,31%,30%,0%
+Humber River Black Creek,2022-05-12,30%,31%,30%,0%
+Humber River Black Creek,2022-05-12,30%,31%,29%,0%
+Humber River Black Creek,2022-05-13,30%,30%,34%,0%
+Humber River Black Creek,2022-05-13,30%,30%,35%,0%
+Humber River Black Creek,2022-05-14,30%,32%,33%,0%
+Humber River Black Creek,2022-05-14,30%,32%,32%,0%
+Humber River Black Creek,2022-05-15,30%,32%,32%,0%
+Humber River Black Creek,2022-05-15,30%,32%,32%,0%
+Humber River Black Creek,2022-05-16,27%,32%,34%,0%
+Humber River Black Creek,2022-05-16,27%,33%,34%,0%
+Humber River Black Creek,2022-05-17,28%,32%,34%,0%
+Humber River Black Creek,2022-05-17,28%,32%,34%,0%
+Humber River Black Creek,2022-05-18,26%,34%,34%,0%
+Humber River Black Creek,2022-05-18,28%,32%,34%,0%
+Humber River Black Creek,2022-05-19,30%,31%,34%,0%
+Humber River Black Creek,2022-05-19,29%,33%,33%,0%
+Humber River Black Creek,2022-05-20,29%,34%,32%,0%
+Humber River Black Creek,2022-05-20,26%,39%,31%,0%
+Humber River Black Creek,2022-05-21,28%,38%,29%,0%
+Humber River Black Creek,2022-05-21,29%,36%,31%,0%
+Humber River Black Creek,2022-05-22,29%,35%,30%,0%
+Humber River Black Creek,2022-05-22,30%,34%,31%,0%
+Humber River Black Creek,2022-05-23,32%,34%,29%,0%
+Humber River Black Creek,2022-05-23,30%,34%,30%,0%
+Humber River Black Creek,2022-05-24,18%,67%,14%,0%
+Humber River Black Creek,2022-05-24,10%,51%,39%,0%
+Humber River Black Creek,2022-05-25,7%,51%,42%,0%
+Humber River Black Creek,2022-05-25,8%,59%,33%,0%
+Humber River Black Creek,2022-05-26,9%,61%,30%,0%
+Humber River Black Creek,2022-05-26,9%,57%,34%,0%
+Humber River Black Creek,2022-05-27,9%,57%,35%,0%
+Humber River Black Creek,2022-05-27,7%,59%,34%,0%
+Humber River Black Creek,2022-05-28,7%,66%,27%,0%
+Humber River Black Creek,2022-05-28,5%,69%,26%,0%
+Humber River Black Creek,2022-05-29,11%,57%,32%,0%
+Humber River Black Creek,2022-05-29,11%,59%,30%,0%
+Humber River Black Creek,2022-05-30,13%,59%,28%,0%
+Humber River Black Creek,2022-05-30,13%,59%,28%,0%
+Humber River Black Creek,2022-05-31,16%,53%,31%,0%
+Humber River Black Creek,2022-05-31,10%,61%,29%,0%
+Humber River Black Creek,2022-06-01,9%,79%,12%,0%
+Humber River Black Creek,2022-06-01,10%,80%,10%,0%
+Humber River Black Creek,2022-06-03,12%,77%,11%,0%
+Humber River Black Creek,2022-06-03,10%,74%,16%,0%
+Humber River Black Creek,2022-12-30,11%,73%,16%,0%
+Humber River Black Creek,2022-12-30,10%,74%,17%,0%
+Humber River Black Creek,2023-02-15,12%,73%,14%,0%
+Humber River Black Creek,2023-02-15,12%,74%,14%,0%
+Humber River Black Creek,2023-03-09,13%,74%,13%,0%
+Humber River Black Creek,2023-03-09,13%,75%,12%,0%
+Humber River Black Creek,2023-03-17,18%,43%,39%,0%
+Humber River Black Creek,2023-03-17,26%,45%,29%,0%
+Humber River Black Creek,2023-04-16,26%,45%,29%,0%
+Humber River Black Creek,2023-04-16,26%,45%,29%,0%
+Humber River Black Creek,2023-07-07,29%,43%,28%,0%
+Humber River Black Creek,2023-07-07,36%,39%,25%,0%
+Humber River Black Creek,2023-07-22,9%,12%,79%,0%
+Humber River Black Creek,2023-07-22,12%,18%,70%,0%
+Humber River Black Creek,2023-07-28,19%,36%,45%,0%
+Humber River Black Creek,2023-07-28,17%,43%,40%,0%
+Humber River Black Creek,2023-08-26,16%,44%,41%,0%
+Humber River Black Creek,2023-08-26,17%,42%,41%,0%
+Humber River Black Creek,2023-10-07,3%,34%,64%,0%
+Humber River Black Creek,2023-10-07,3%,36%,61%,0%
+Humber River Black Creek,2023-10-23,5%,36%,59%,0%
+Humber River Black Creek,2023-10-23,6%,39%,55%,0%
+Humber River Black Creek,2023-12-01,1%,44%,55%,0%
+Humber River Black Creek,2023-12-01,5%,33%,63%,0%
+Humber River Black Creek,2023-12-20,15%,26%,59%,0%
+Humber River Black Creek,2023-12-20,8%,50%,42%,0%
+Humber River Black Creek,2024-02-02,7%,59%,34%,0%
+Humber River Black Creek,2024-02-02,3%,93%,6%,0%
+Humber River Black Creek,2024-02-20,5%,92%,5%,0%
+Humber River Black Creek,2024-02-20,8%,80%,15%,0%
+Humber River Black Creek,2024-03-05,15%,78%,14%,0%
+Humber River Black Creek,2024-03-05,29%,65%,20%,0%
+Humber River Black Creek,2024-04-04,18%,60%,10%,0%
 Windsor West,2022-05-01,37%,16%,37%,4%
 Windsor West,2022-09-01,29%,25%,34%,6%
 Windsor West,2023-01-01,29%,23%,35%,6%
@@ -2321,6 +3064,60 @@ Huron Bruce,2022-05-22,49%,23%,14%,6%
 Huron Bruce,2022-05-22,50%,22%,14%,6%
 Huron Bruce,2022-05-23,52%,22%,13%,6%
 Huron Bruce,2022-05-23,51%,22%,14%,6%
+Scarborough Agincourt,2022-05-01,48%,38%,9%,0%
+Scarborough Agincourt,2022-09-01,45%,37%,12%,0%
+Scarborough Agincourt,2023-01-01,45%,37%,12%,0%
+Scarborough Agincourt,2023-05-01,45%,37%,12%,0%
+Scarborough Agincourt,2023-09-01,45%,37%,12%,0%
+Scarborough Agincourt,2024-01-01,45%,37%,12%,0%
+Scarborough Agincourt,2024-05-01,45%,37%,12%,0%
+Scarborough Agincourt,2024-09-01,44%,37%,12%,0%
+Scarborough Agincourt,2025-01-01,44%,38%,12%,0%
+Scarborough Agincourt,2025-05-01,44%,38%,12%,0%
+Scarborough Agincourt,2022-04-30,45%,37%,12%,0%
+Scarborough Agincourt,2022-04-30,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-03,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-03,46%,37%,12%,0%
+Scarborough Agincourt,2022-05-04,47%,37%,12%,0%
+Scarborough Agincourt,2022-05-04,46%,38%,12%,0%
+Scarborough Agincourt,2022-05-05,45%,39%,11%,0%
+Scarborough Agincourt,2022-05-05,45%,39%,11%,0%
+Scarborough Agincourt,2022-05-06,45%,38%,11%,0%
+Scarborough Agincourt,2022-05-06,45%,38%,12%,0%
+Scarborough Agincourt,2022-05-07,45%,38%,12%,0%
+Scarborough Agincourt,2022-05-07,44%,38%,12%,0%
+Scarborough Agincourt,2022-05-08,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-08,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-09,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-09,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-10,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-10,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-11,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-11,45%,37%,12%,0%
+Scarborough Agincourt,2022-05-12,46%,36%,12%,0%
+Scarborough Agincourt,2022-05-12,48%,35%,11%,0%
+Scarborough Agincourt,2022-05-13,49%,37%,9%,0%
+Scarborough Agincourt,2022-05-13,49%,37%,9%,0%
+Scarborough Agincourt,2022-05-14,48%,38%,8%,0%
+Scarborough Agincourt,2022-05-14,48%,39%,8%,0%
+Scarborough Agincourt,2022-05-15,48%,39%,8%,0%
+Scarborough Agincourt,2022-05-15,48%,38%,8%,0%
+Scarborough Agincourt,2022-05-16,44%,40%,10%,0%
+Scarborough Agincourt,2022-05-16,44%,40%,10%,0%
+Scarborough Agincourt,2022-05-17,45%,39%,11%,0%
+Scarborough Agincourt,2022-05-17,45%,39%,11%,0%
+Scarborough Agincourt,2022-05-18,42%,41%,11%,0%
+Scarborough Agincourt,2022-05-18,45%,39%,11%,0%
+Scarborough Agincourt,2022-05-19,47%,37%,10%,0%
+Scarborough Agincourt,2022-05-19,46%,39%,10%,0%
+Scarborough Agincourt,2022-05-20,45%,40%,10%,0%
+Scarborough Agincourt,2022-05-20,40%,46%,9%,0%
+Scarborough Agincourt,2022-05-21,44%,42%,9%,0%
+Scarborough Agincourt,2022-05-21,45%,41%,9%,0%
+Scarborough Agincourt,2022-05-22,46%,40%,9%,0%
+Scarborough Agincourt,2022-05-22,48%,38%,9%,0%
+Scarborough Agincourt,2022-05-23,49%,37%,8%,0%
+Scarborough Agincourt,2022-05-23,48%,38%,9%,0%
 Sudbury,2022-05-01,29%,29%,30%,7%
 Sudbury,2022-09-01,24%,35%,30%,5%
 Sudbury,2023-01-01,23%,34%,32%,5%
@@ -2645,6 +3442,60 @@ Mississauga Malton,2022-05-22,43%,34%,17%,5%
 Mississauga Malton,2022-05-22,44%,32%,17%,5%
 Mississauga Malton,2022-05-23,46%,32%,16%,5%
 Mississauga Malton,2022-05-23,44%,33%,16%,5%
+Scarborough North,2022-05-01,48%,32%,17%,0%
+Scarborough North,2022-09-01,45%,31%,17%,0%
+Scarborough North,2023-01-01,45%,31%,17%,0%
+Scarborough North,2023-05-01,45%,32%,17%,0%
+Scarborough North,2023-09-01,45%,32%,17%,0%
+Scarborough North,2024-01-01,45%,31%,17%,0%
+Scarborough North,2024-05-01,45%,32%,17%,0%
+Scarborough North,2024-09-01,45%,32%,17%,0%
+Scarborough North,2025-01-01,45%,32%,17%,0%
+Scarborough North,2025-05-01,44%,33%,17%,0%
+Scarborough North,2022-04-30,45%,32%,17%,0%
+Scarborough North,2022-04-30,45%,32%,17%,0%
+Scarborough North,2022-05-03,46%,32%,17%,0%
+Scarborough North,2022-05-03,45%,31%,16%,0%
+Scarborough North,2022-05-04,46%,31%,17%,0%
+Scarborough North,2022-05-04,45%,31%,17%,0%
+Scarborough North,2022-05-05,45%,32%,16%,0%
+Scarborough North,2022-05-05,45%,32%,16%,0%
+Scarborough North,2022-05-06,45%,32%,16%,0%
+Scarborough North,2022-05-06,44%,31%,17%,0%
+Scarborough North,2022-05-07,44%,31%,17%,0%
+Scarborough North,2022-05-07,44%,31%,17%,0%
+Scarborough North,2022-05-08,44%,31%,17%,0%
+Scarborough North,2022-05-08,44%,31%,17%,0%
+Scarborough North,2022-05-09,44%,31%,17%,0%
+Scarborough North,2022-05-09,44%,31%,17%,0%
+Scarborough North,2022-05-10,44%,30%,17%,0%
+Scarborough North,2022-05-10,46%,30%,16%,0%
+Scarborough North,2022-05-11,46%,30%,16%,0%
+Scarborough North,2022-05-11,46%,30%,16%,0%
+Scarborough North,2022-05-12,47%,29%,16%,0%
+Scarborough North,2022-05-12,50%,28%,15%,0%
+Scarborough North,2022-05-13,49%,30%,18%,0%
+Scarborough North,2022-05-13,48%,30%,19%,0%
+Scarborough North,2022-05-14,48%,31%,17%,0%
+Scarborough North,2022-05-14,48%,31%,17%,0%
+Scarborough North,2022-05-15,48%,31%,17%,0%
+Scarborough North,2022-05-15,48%,31%,18%,0%
+Scarborough North,2022-05-16,44%,32%,20%,0%
+Scarborough North,2022-05-16,44%,32%,20%,0%
+Scarborough North,2022-05-17,44%,31%,20%,0%
+Scarborough North,2022-05-17,45%,31%,20%,0%
+Scarborough North,2022-05-18,42%,33%,21%,0%
+Scarborough North,2022-05-18,44%,31%,21%,0%
+Scarborough North,2022-05-19,47%,30%,20%,0%
+Scarborough North,2022-05-19,45%,32%,19%,0%
+Scarborough North,2022-05-20,45%,32%,19%,0%
+Scarborough North,2022-05-20,41%,37%,18%,0%
+Scarborough North,2022-05-21,44%,35%,17%,0%
+Scarborough North,2022-05-21,45%,34%,18%,0%
+Scarborough North,2022-05-22,46%,33%,17%,0%
+Scarborough North,2022-05-22,47%,32%,17%,0%
+Scarborough North,2022-05-23,49%,31%,16%,0%
+Scarborough North,2022-05-23,48%,32%,17%,0%
 Ajax,2022-05-01,40%,37%,16%,5%
 Ajax,2022-09-01,38%,37%,16%,2%
 Ajax,2023-01-01,36%,36%,20%,2%
@@ -2753,6 +3604,60 @@ Sarnia Lambton,2022-05-22,51%,14%,21%,4%
 Sarnia Lambton,2022-05-22,52%,13%,21%,5%
 Sarnia Lambton,2022-05-23,54%,13%,20%,4%
 Sarnia Lambton,2022-05-23,52%,13%,20%,5%
+Essex,2022-05-01,52%,11%,25%,0%
+Essex,2022-09-01,44%,11%,33%,0%
+Essex,2023-01-01,44%,10%,35%,0%
+Essex,2023-05-01,45%,10%,34%,0%
+Essex,2023-09-01,45%,10%,34%,0%
+Essex,2024-01-01,45%,10%,34%,0%
+Essex,2024-05-01,44%,10%,34%,0%
+Essex,2024-09-01,44%,10%,34%,0%
+Essex,2025-01-01,44%,11%,34%,0%
+Essex,2025-05-01,44%,11%,34%,0%
+Essex,2022-04-30,45%,10%,33%,0%
+Essex,2022-04-30,45%,10%,33%,0%
+Essex,2022-05-03,45%,10%,33%,0%
+Essex,2022-05-03,45%,10%,33%,0%
+Essex,2022-05-04,42%,9%,36%,0%
+Essex,2022-05-04,42%,9%,37%,0%
+Essex,2022-05-05,41%,11%,35%,0%
+Essex,2022-05-05,41%,11%,35%,0%
+Essex,2022-05-06,41%,11%,34%,0%
+Essex,2022-05-06,40%,11%,35%,0%
+Essex,2022-05-07,40%,11%,35%,0%
+Essex,2022-05-07,40%,11%,35%,0%
+Essex,2022-05-08,40%,10%,35%,0%
+Essex,2022-05-08,40%,11%,35%,0%
+Essex,2022-05-09,39%,10%,35%,0%
+Essex,2022-05-09,39%,10%,35%,0%
+Essex,2022-05-10,40%,10%,35%,0%
+Essex,2022-05-10,41%,10%,34%,0%
+Essex,2022-05-11,41%,10%,34%,0%
+Essex,2022-05-11,39%,10%,35%,0%
+Essex,2022-05-12,40%,10%,35%,0%
+Essex,2022-05-12,41%,10%,34%,0%
+Essex,2022-05-13,51%,8%,28%,0%
+Essex,2022-05-13,51%,9%,29%,0%
+Essex,2022-05-14,51%,9%,27%,0%
+Essex,2022-05-14,51%,9%,27%,0%
+Essex,2022-05-15,51%,9%,27%,0%
+Essex,2022-05-15,51%,9%,27%,0%
+Essex,2022-05-16,46%,9%,30%,0%
+Essex,2022-05-16,46%,9%,30%,0%
+Essex,2022-05-17,47%,9%,30%,0%
+Essex,2022-05-17,48%,9%,29%,0%
+Essex,2022-05-18,45%,10%,31%,0%
+Essex,2022-05-18,47%,9%,30%,0%
+Essex,2022-05-19,51%,9%,30%,0%
+Essex,2022-05-19,50%,10%,30%,0%
+Essex,2022-05-20,50%,10%,29%,0%
+Essex,2022-05-20,49%,13%,27%,0%
+Essex,2022-05-21,50%,13%,25%,0%
+Essex,2022-05-21,50%,12%,26%,0%
+Essex,2022-05-22,51%,12%,26%,0%
+Essex,2022-05-22,51%,11%,26%,0%
+Essex,2022-05-23,53%,11%,24%,0%
+Essex,2022-05-23,52%,11%,25%,0%
 Haliburton Kawartha Lakes Brock,2022-05-01,51%,15%,15%,10%
 Haliburton Kawartha Lakes Brock,2022-09-01,57%,17%,15%,5%
 Haliburton Kawartha Lakes Brock,2023-01-01,55%,17%,18%,5%
@@ -2861,6 +3766,212 @@ Niagara Centre,2022-05-22,37%,19%,34%,6%
 Niagara Centre,2022-05-22,38%,18%,34%,6%
 Niagara Centre,2022-05-23,39%,18%,32%,6%
 Niagara Centre,2022-05-23,38%,18%,33%,6%
+York Centre,2022-05-01,45%,34%,12%,0%
+York Centre,2022-09-01,46%,30%,16%,0%
+York Centre,2023-01-01,45%,30%,17%,0%
+York Centre,2023-05-01,45%,31%,16%,0%
+York Centre,2023-09-01,45%,31%,16%,0%
+York Centre,2024-01-01,46%,31%,16%,0%
+York Centre,2024-05-01,45%,31%,16%,0%
+York Centre,2024-09-01,45%,31%,16%,0%
+York Centre,2025-01-01,45%,31%,16%,0%
+York Centre,2025-05-01,44%,32%,16%,0%
+York Centre,2022-04-30,46%,31%,16%,0%
+York Centre,2022-04-30,46%,31%,16%,0%
+York Centre,2022-05-03,46%,31%,16%,0%
+York Centre,2022-05-03,46%,30%,15%,0%
+York Centre,2022-05-04,46%,30%,16%,0%
+York Centre,2022-05-04,45%,30%,16%,0%
+York Centre,2022-05-05,45%,31%,15%,0%
+York Centre,2022-05-05,45%,31%,15%,0%
+York Centre,2022-05-06,45%,31%,15%,0%
+York Centre,2022-05-06,44%,30%,16%,0%
+York Centre,2022-05-07,44%,30%,16%,0%
+York Centre,2022-05-07,44%,30%,16%,0%
+York Centre,2022-05-08,44%,30%,16%,0%
+York Centre,2022-05-08,44%,30%,16%,0%
+York Centre,2022-05-09,44%,30%,16%,0%
+York Centre,2022-05-09,44%,30%,16%,0%
+York Centre,2022-05-10,45%,29%,16%,0%
+York Centre,2022-05-10,46%,29%,15%,0%
+York Centre,2022-05-11,46%,29%,15%,0%
+York Centre,2022-05-11,46%,29%,15%,0%
+York Centre,2022-05-12,47%,28%,15%,0%
+York Centre,2022-05-12,50%,27%,14%,0%
+York Centre,2022-05-13,46%,32%,14%,0%
+York Centre,2022-05-13,45%,32%,14%,0%
+York Centre,2022-05-14,45%,33%,13%,0%
+York Centre,2022-05-14,45%,34%,13%,0%
+York Centre,2022-05-15,45%,34%,13%,0%
+York Centre,2022-05-15,45%,33%,13%,0%
+York Centre,2022-05-16,42%,33%,15%,0%
+York Centre,2022-05-16,42%,34%,15%,0%
+York Centre,2022-05-17,43%,33%,15%,0%
+York Centre,2022-05-17,43%,33%,14%,0%
+York Centre,2022-05-18,40%,35%,15%,0%
+York Centre,2022-05-18,43%,33%,15%,0%
+York Centre,2022-05-19,46%,32%,14%,0%
+York Centre,2022-05-19,44%,34%,14%,0%
+York Centre,2022-05-20,44%,35%,14%,0%
+York Centre,2022-05-20,39%,40%,13%,0%
+York Centre,2022-05-21,42%,38%,12%,0%
+York Centre,2022-05-21,43%,36%,13%,0%
+York Centre,2022-05-22,44%,36%,13%,0%
+York Centre,2022-05-22,45%,34%,13%,0%
+York Centre,2022-05-23,47%,33%,12%,0%
+York Centre,2022-05-23,45%,34%,12%,0%
+York South Weston,2022-05-01,37%,27%,31%,0%
+York South Weston,2022-09-01,31%,31%,31%,0%
+York South Weston,2023-01-01,31%,29%,32%,0%
+York South Weston,2023-05-01,32%,30%,32%,0%
+York South Weston,2023-09-01,32%,30%,31%,0%
+York South Weston,2024-01-01,32%,30%,32%,0%
+York South Weston,2024-05-01,32%,30%,32%,0%
+York South Weston,2024-09-01,31%,30%,32%,0%
+York South Weston,2025-01-01,31%,30%,31%,0%
+York South Weston,2025-05-01,31%,31%,31%,0%
+York South Weston,2022-04-30,32%,30%,31%,0%
+York South Weston,2022-04-30,32%,31%,29%,0%
+York South Weston,2022-05-03,33%,31%,29%,0%
+York South Weston,2022-05-03,32%,31%,29%,0%
+York South Weston,2022-05-04,34%,27%,31%,0%
+York South Weston,2022-05-04,33%,27%,31%,0%
+York South Weston,2022-05-05,34%,29%,29%,0%
+York South Weston,2022-05-05,33%,30%,28%,0%
+York South Weston,2022-05-06,33%,29%,28%,0%
+York South Weston,2022-05-06,33%,29%,29%,0%
+York South Weston,2022-05-07,33%,29%,29%,0%
+York South Weston,2022-05-07,32%,29%,29%,0%
+York South Weston,2022-05-08,33%,29%,28%,0%
+York South Weston,2022-05-08,33%,29%,28%,0%
+York South Weston,2022-05-09,33%,29%,28%,0%
+York South Weston,2022-05-09,33%,29%,28%,0%
+York South Weston,2022-05-10,33%,28%,28%,0%
+York South Weston,2022-05-10,34%,28%,27%,0%
+York South Weston,2022-05-11,33%,29%,27%,0%
+York South Weston,2022-05-11,33%,30%,27%,0%
+York South Weston,2022-05-12,33%,30%,27%,0%
+York South Weston,2022-05-12,33%,29%,29%,0%
+York South Weston,2022-05-13,37%,24%,34%,0%
+York South Weston,2022-05-13,36%,24%,34%,0%
+York South Weston,2022-05-14,37%,25%,32%,0%
+York South Weston,2022-05-14,36%,26%,32%,0%
+York South Weston,2022-05-15,36%,26%,32%,0%
+York South Weston,2022-05-15,36%,25%,33%,0%
+York South Weston,2022-05-16,33%,25%,35%,0%
+York South Weston,2022-05-16,33%,25%,35%,0%
+York South Weston,2022-05-17,34%,25%,35%,0%
+York South Weston,2022-05-17,34%,25%,34%,0%
+York South Weston,2022-05-18,32%,26%,35%,0%
+York South Weston,2022-05-18,34%,25%,35%,0%
+York South Weston,2022-05-19,36%,24%,34%,0%
+York South Weston,2022-05-19,35%,26%,34%,0%
+York South Weston,2022-05-20,35%,27%,33%,0%
+York South Weston,2022-05-20,32%,31%,32%,0%
+York South Weston,2022-05-21,34%,30%,30%,0%
+York South Weston,2022-05-21,35%,28%,31%,0%
+York South Weston,2022-05-22,35%,28%,31%,0%
+York South Weston,2022-05-22,36%,27%,31%,0%
+York South Weston,2022-05-23,38%,27%,30%,0%
+York South Weston,2022-05-23,37%,27%,31%,0%
+York South Weston,2022-05-24,87%,2%,11%,0%
+York South Weston,2022-05-24,36%,35%,28%,0%
+York South Weston,2022-05-25,33%,18%,50%,0%
+York South Weston,2022-05-25,40%,20%,40%,0%
+York South Weston,2022-05-26,42%,21%,37%,0%
+York South Weston,2022-05-26,42%,18%,40%,0%
+York South Weston,2022-05-27,39%,19%,42%,0%
+York South Weston,2022-05-27,35%,21%,44%,0%
+York South Weston,2022-05-28,36%,27%,37%,0%
+York South Weston,2022-05-28,32%,32%,36%,0%
+York South Weston,2022-05-29,44%,20%,36%,0%
+York South Weston,2022-05-29,52%,32%,16%,0%
+York South Weston,2022-05-30,55%,31%,14%,0%
+York South Weston,2022-05-30,55%,31%,14%,0%
+York South Weston,2022-05-31,71%,4%,25%,0%
+York South Weston,2022-05-31,64%,6%,30%,0%
+York South Weston,2022-06-01,72%,12%,16%,0%
+York South Weston,2022-06-01,70%,20%,10%,0%
+York South Weston,2022-06-03,71%,19%,10%,0%
+York South Weston,2022-06-03,67%,18%,15%,0%
+York South Weston,2022-12-30,68%,17%,15%,0%
+York South Weston,2022-12-30,65%,19%,16%,0%
+York South Weston,2023-02-15,71%,16%,12%,0%
+York South Weston,2023-02-15,71%,17%,12%,0%
+York South Weston,2023-03-09,73%,17%,11%,0%
+York South Weston,2023-03-09,73%,16%,11%,0%
+York South Weston,2023-03-17,74%,15%,11%,0%
+York South Weston,2023-03-17,82%,12%,6%,0%
+York South Weston,2023-04-16,77%,16%,7%,0%
+York South Weston,2023-04-16,70%,24%,6%,0%
+York South Weston,2023-07-07,72%,22%,6%,0%
+York South Weston,2023-07-07,69%,16%,15%,0%
+York South Weston,2023-07-22,76%,1%,24%,0%
+York South Weston,2023-07-22,62%,1%,38%,0%
+York South Weston,2023-07-28,78%,1%,22%,0%
+York South Weston,2023-07-28,78%,1%,21%,0%
+York South Weston,2023-08-26,79%,1%,20%,0%
+York South Weston,2023-08-26,74%,25%,26%,0%
+York South Weston,2023-10-07,33%,14%,66%,0%
+York South Weston,2023-10-07,36%,6%,64%,0%
+York South Weston,2023-10-23,45%,5%,55%,0%
+York South Weston,2023-10-23,50%,2%,49%,0%
+York South Weston,2023-12-01,26%,1%,73%,0%
+York South Weston,2023-12-01,42%,2%,58%,0%
+Sault Ste. Marie,2022-05-01,49%,9%,30%,0%
+Sault Ste. Marie,2022-09-01,44%,17%,26%,0%
+Sault Ste. Marie,2023-01-01,43%,17%,27%,0%
+Sault Ste. Marie,2023-05-01,43%,17%,28%,0%
+Sault Ste. Marie,2023-09-01,43%,17%,28%,0%
+Sault Ste. Marie,2024-01-01,43%,17%,28%,0%
+Sault Ste. Marie,2024-05-01,42%,17%,28%,0%
+Sault Ste. Marie,2024-09-01,42%,18%,28%,0%
+Sault Ste. Marie,2025-01-01,42%,18%,27%,0%
+Sault Ste. Marie,2025-05-01,42%,18%,28%,0%
+Sault Ste. Marie,2022-04-30,43%,17%,27%,0%
+Sault Ste. Marie,2022-04-30,43%,17%,27%,0%
+Sault Ste. Marie,2022-05-03,43%,17%,27%,0%
+Sault Ste. Marie,2022-05-03,43%,17%,27%,0%
+Sault Ste. Marie,2022-05-04,43%,17%,28%,0%
+Sault Ste. Marie,2022-05-04,43%,17%,28%,0%
+Sault Ste. Marie,2022-05-05,42%,20%,26%,0%
+Sault Ste. Marie,2022-05-05,42%,16%,30%,0%
+Sault Ste. Marie,2022-05-06,41%,16%,30%,0%
+Sault Ste. Marie,2022-05-06,40%,15%,30%,0%
+Sault Ste. Marie,2022-05-07,40%,15%,30%,0%
+Sault Ste. Marie,2022-05-07,40%,15%,30%,0%
+Sault Ste. Marie,2022-05-08,41%,15%,30%,0%
+Sault Ste. Marie,2022-05-08,41%,15%,30%,0%
+Sault Ste. Marie,2022-05-09,40%,15%,29%,0%
+Sault Ste. Marie,2022-05-09,40%,15%,29%,0%
+Sault Ste. Marie,2022-05-10,40%,11%,34%,0%
+Sault Ste. Marie,2022-05-10,41%,11%,33%,0%
+Sault Ste. Marie,2022-05-11,41%,11%,33%,0%
+Sault Ste. Marie,2022-05-11,39%,11%,34%,0%
+Sault Ste. Marie,2022-05-12,40%,11%,34%,0%
+Sault Ste. Marie,2022-05-12,41%,10%,34%,0%
+Sault Ste. Marie,2022-05-13,47%,6%,37%,0%
+Sault Ste. Marie,2022-05-13,46%,6%,38%,0%
+Sault Ste. Marie,2022-05-14,47%,6%,36%,0%
+Sault Ste. Marie,2022-05-14,47%,7%,36%,0%
+Sault Ste. Marie,2022-05-15,47%,7%,36%,0%
+Sault Ste. Marie,2022-05-15,47%,6%,36%,0%
+Sault Ste. Marie,2022-05-16,43%,6%,39%,0%
+Sault Ste. Marie,2022-05-16,43%,6%,39%,0%
+Sault Ste. Marie,2022-05-17,44%,6%,38%,0%
+Sault Ste. Marie,2022-05-17,45%,6%,38%,0%
+Sault Ste. Marie,2022-05-18,42%,7%,40%,0%
+Sault Ste. Marie,2022-05-18,44%,6%,39%,0%
+Sault Ste. Marie,2022-05-19,47%,6%,37%,0%
+Sault Ste. Marie,2022-05-19,46%,7%,37%,0%
+Sault Ste. Marie,2022-05-20,46%,7%,37%,0%
+Sault Ste. Marie,2022-05-20,41%,18%,30%,0%
+Sault Ste. Marie,2022-05-21,43%,17%,28%,0%
+Sault Ste. Marie,2022-05-21,44%,16%,29%,0%
+Sault Ste. Marie,2022-05-22,48%,10%,31%,0%
+Sault Ste. Marie,2022-05-22,48%,9%,31%,0%
+Sault Ste. Marie,2022-05-23,50%,9%,29%,0%
+Sault Ste. Marie,2022-05-23,49%,9%,30%,0%
 Willowdale,2022-05-01,44%,39%,9%,5%
 Willowdale,2022-09-01,39%,36%,18%,2%
 Willowdale,2023-01-01,39%,36%,18%,2%
@@ -2915,6 +4026,83 @@ Willowdale,2022-05-22,43%,41%,9%,4%
 Willowdale,2022-05-22,44%,39%,9%,5%
 Willowdale,2022-05-23,45%,39%,9%,4%
 Willowdale,2022-05-23,44%,39%,9%,5%
+Scarborough Rouge Park,2022-05-01,45%,30%,20%,0%
+Scarborough Rouge Park,2022-09-01,34%,31%,26%,0%
+Scarborough Rouge Park,2023-01-01,34%,31%,27%,0%
+Scarborough Rouge Park,2023-05-01,34%,32%,26%,0%
+Scarborough Rouge Park,2023-09-01,34%,32%,26%,0%
+Scarborough Rouge Park,2024-01-01,34%,31%,26%,0%
+Scarborough Rouge Park,2024-05-01,34%,31%,26%,0%
+Scarborough Rouge Park,2024-09-01,34%,32%,26%,0%
+Scarborough Rouge Park,2025-01-01,34%,32%,26%,0%
+Scarborough Rouge Park,2025-05-01,33%,33%,26%,0%
+Scarborough Rouge Park,2022-04-30,34%,32%,26%,0%
+Scarborough Rouge Park,2022-04-30,35%,32%,25%,0%
+Scarborough Rouge Park,2022-05-03,35%,32%,25%,0%
+Scarborough Rouge Park,2022-05-03,34%,31%,25%,0%
+Scarborough Rouge Park,2022-05-04,35%,31%,25%,0%
+Scarborough Rouge Park,2022-05-04,34%,32%,25%,0%
+Scarborough Rouge Park,2022-05-05,34%,33%,24%,0%
+Scarborough Rouge Park,2022-05-05,34%,33%,23%,0%
+Scarborough Rouge Park,2022-05-06,34%,32%,23%,0%
+Scarborough Rouge Park,2022-05-06,33%,31%,25%,0%
+Scarborough Rouge Park,2022-05-07,33%,31%,25%,0%
+Scarborough Rouge Park,2022-05-07,33%,31%,25%,0%
+Scarborough Rouge Park,2022-05-08,34%,31%,24%,0%
+Scarborough Rouge Park,2022-05-08,34%,31%,24%,0%
+Scarborough Rouge Park,2022-05-09,34%,31%,24%,0%
+Scarborough Rouge Park,2022-05-09,33%,31%,24%,0%
+Scarborough Rouge Park,2022-05-10,34%,31%,24%,0%
+Scarborough Rouge Park,2022-05-10,35%,31%,23%,0%
+Scarborough Rouge Park,2022-05-11,35%,31%,23%,0%
+Scarborough Rouge Park,2022-05-11,34%,31%,23%,0%
+Scarborough Rouge Park,2022-05-12,35%,31%,23%,0%
+Scarborough Rouge Park,2022-05-12,37%,29%,23%,0%
+Scarborough Rouge Park,2022-05-13,46%,28%,22%,0%
+Scarborough Rouge Park,2022-05-13,45%,28%,22%,0%
+Scarborough Rouge Park,2022-05-14,45%,28%,21%,0%
+Scarborough Rouge Park,2022-05-14,45%,29%,20%,0%
+Scarborough Rouge Park,2022-05-15,45%,29%,20%,0%
+Scarborough Rouge Park,2022-05-15,45%,28%,21%,0%
+Scarborough Rouge Park,2022-05-16,41%,29%,23%,0%
+Scarborough Rouge Park,2022-05-16,42%,29%,23%,0%
+Scarborough Rouge Park,2022-05-17,42%,28%,23%,0%
+Scarborough Rouge Park,2022-05-17,42%,28%,23%,0%
+Scarborough Rouge Park,2022-05-18,40%,30%,24%,0%
+Scarborough Rouge Park,2022-05-18,42%,28%,24%,0%
+Scarborough Rouge Park,2022-05-19,45%,27%,23%,0%
+Scarborough Rouge Park,2022-05-19,43%,29%,22%,0%
+Scarborough Rouge Park,2022-05-20,43%,30%,22%,0%
+Scarborough Rouge Park,2022-05-20,39%,35%,21%,0%
+Scarborough Rouge Park,2022-05-21,42%,33%,20%,0%
+Scarborough Rouge Park,2022-05-21,43%,31%,21%,0%
+Scarborough Rouge Park,2022-05-22,43%,31%,20%,0%
+Scarborough Rouge Park,2022-05-22,44%,30%,21%,0%
+Scarborough Rouge Park,2022-05-23,46%,29%,19%,0%
+Scarborough Rouge Park,2022-05-23,45%,30%,20%,0%
+Scarborough Rouge Park,2022-05-24,69%,28%,3%,0%
+Scarborough Rouge Park,2022-05-24,65%,31%,4%,0%
+Scarborough Rouge Park,2022-05-25,67%,31%,2%,0%
+Scarborough Rouge Park,2022-05-25,67%,32%,2%,0%
+Scarborough Rouge Park,2022-05-26,69%,29%,2%,0%
+Scarborough Rouge Park,2022-05-26,66%,32%,2%,0%
+Scarborough Rouge Park,2022-05-27,63%,34%,3%,0%
+Scarborough Rouge Park,2022-05-27,60%,38%,2%,0%
+Scarborough Rouge Park,2022-05-28,53%,45%,2%,0%
+Scarborough Rouge Park,2022-05-28,69%,30%,2%,0%
+Scarborough Rouge Park,2022-05-29,69%,30%,1%,0%
+Scarborough Rouge Park,2022-05-29,71%,28%,1%,0%
+Scarborough Rouge Park,2022-05-30,71%,28%,1%,0%
+Scarborough Rouge Park,2022-05-30,77%,22%,1%,0%
+Scarborough Rouge Park,2022-05-31,67%,31%,1%,0%
+Scarborough Rouge Park,2022-05-31,60%,40%,1%,0%
+Scarborough Rouge Park,2022-06-01,63%,37%,1%,0%
+Scarborough Rouge Park,2022-06-01,65%,35%,1%,0%
+Scarborough Rouge Park,2022-06-03,64%,35%,1%,0%
+Scarborough Rouge Park,2022-06-03,65%,34%,1%,0%
+Scarborough Rouge Park,2022-12-30,63%,36%,1%,0%
+Scarborough Rouge Park,2022-12-30,67%,32%,1%,0%
+Scarborough Rouge Park,2023-02-15,66%,33%,1%,0%
 Guelph,2022-05-01,20%,15%,7%,55%
 Guelph,2022-09-01,21%,18%,12%,43%
 Guelph,2023-01-01,21%,16%,14%,43%
@@ -3131,6 +4319,79 @@ Lanark Frontenac Kingston,2022-05-22,48%,18%,20%,9%
 Lanark Frontenac Kingston,2022-05-22,48%,17%,20%,9%
 Lanark Frontenac Kingston,2022-05-23,50%,17%,19%,9%
 Lanark Frontenac Kingston,2022-05-23,49%,17%,19%,9%
+Mushkegowuk James Bay,2022-05-01,38%,18%,38%,0%
+Mushkegowuk James Bay,2022-09-01,32%,24%,34%,0%
+Mushkegowuk James Bay,2023-01-01,31%,24%,35%,0%
+Mushkegowuk James Bay,2023-05-01,31%,24%,35%,0%
+Mushkegowuk James Bay,2023-09-01,31%,24%,35%,0%
+Mushkegowuk James Bay,2024-01-01,31%,24%,35%,0%
+Mushkegowuk James Bay,2024-05-01,32%,24%,35%,0%
+Mushkegowuk James Bay,2024-09-01,32%,24%,35%,0%
+Mushkegowuk James Bay,2025-01-01,32%,24%,35%,0%
+Mushkegowuk James Bay,2025-05-01,31%,25%,35%,0%
+Mushkegowuk James Bay,2022-04-30,32%,24%,35%,0%
+Mushkegowuk James Bay,2022-04-30,32%,24%,34%,0%
+Mushkegowuk James Bay,2022-05-03,33%,24%,34%,0%
+Mushkegowuk James Bay,2022-05-03,33%,24%,34%,0%
+Mushkegowuk James Bay,2022-05-04,33%,23%,35%,0%
+Mushkegowuk James Bay,2022-05-04,32%,24%,35%,0%
+Mushkegowuk James Bay,2022-05-05,33%,23%,35%,0%
+Mushkegowuk James Bay,2022-05-05,33%,17%,39%,0%
+Mushkegowuk James Bay,2022-05-06,33%,17%,39%,0%
+Mushkegowuk James Bay,2022-05-06,33%,17%,39%,0%
+Mushkegowuk James Bay,2022-05-07,33%,16%,39%,0%
+Mushkegowuk James Bay,2022-05-07,33%,16%,39%,0%
+Mushkegowuk James Bay,2022-05-08,33%,16%,39%,0%
+Mushkegowuk James Bay,2022-05-08,33%,16%,39%,0%
+Mushkegowuk James Bay,2022-05-09,33%,16%,38%,0%
+Mushkegowuk James Bay,2022-05-09,33%,16%,38%,0%
+Mushkegowuk James Bay,2022-05-10,33%,16%,39%,0%
+Mushkegowuk James Bay,2022-05-10,33%,16%,38%,0%
+Mushkegowuk James Bay,2022-05-11,33%,16%,38%,0%
+Mushkegowuk James Bay,2022-05-11,32%,16%,41%,0%
+Mushkegowuk James Bay,2022-05-12,33%,15%,41%,0%
+Mushkegowuk James Bay,2022-05-12,33%,15%,40%,0%
+Mushkegowuk James Bay,2022-05-13,36%,12%,47%,0%
+Mushkegowuk James Bay,2022-05-13,35%,12%,48%,0%
+Mushkegowuk James Bay,2022-05-14,36%,12%,45%,0%
+Mushkegowuk James Bay,2022-05-14,36%,13%,45%,0%
+Mushkegowuk James Bay,2022-05-15,36%,13%,45%,0%
+Mushkegowuk James Bay,2022-05-15,36%,12%,46%,0%
+Mushkegowuk James Bay,2022-05-16,32%,12%,49%,0%
+Mushkegowuk James Bay,2022-05-16,33%,12%,49%,0%
+Mushkegowuk James Bay,2022-05-17,33%,12%,48%,0%
+Mushkegowuk James Bay,2022-05-17,34%,12%,48%,0%
+Mushkegowuk James Bay,2022-05-18,32%,13%,49%,0%
+Mushkegowuk James Bay,2022-05-18,33%,12%,48%,0%
+Mushkegowuk James Bay,2022-05-19,36%,12%,47%,0%
+Mushkegowuk James Bay,2022-05-19,35%,13%,47%,0%
+Mushkegowuk James Bay,2022-05-20,35%,13%,47%,0%
+Mushkegowuk James Bay,2022-05-20,31%,26%,38%,0%
+Mushkegowuk James Bay,2022-05-21,34%,25%,36%,0%
+Mushkegowuk James Bay,2022-05-21,34%,24%,37%,0%
+Mushkegowuk James Bay,2022-05-22,36%,19%,39%,0%
+Mushkegowuk James Bay,2022-05-22,37%,18%,39%,0%
+Mushkegowuk James Bay,2022-05-23,39%,18%,37%,0%
+Mushkegowuk James Bay,2022-05-23,38%,18%,38%,0%
+Mushkegowuk James Bay,2022-05-24,47%,4%,53%,0%
+Mushkegowuk James Bay,2022-05-24,36%,3%,60%,0%
+Mushkegowuk James Bay,2022-05-25,30%,3%,66%,0%
+Mushkegowuk James Bay,2022-05-25,30%,3%,67%,0%
+Mushkegowuk James Bay,2022-05-26,31%,3%,66%,0%
+Mushkegowuk James Bay,2022-05-26,30%,3%,67%,0%
+Mushkegowuk James Bay,2022-05-27,34%,3%,64%,0%
+Mushkegowuk James Bay,2022-05-27,32%,4%,65%,0%
+Mushkegowuk James Bay,2022-05-28,34%,5%,62%,0%
+Mushkegowuk James Bay,2022-05-28,32%,3%,63%,0%
+Mushkegowuk James Bay,2022-05-29,37%,3%,60%,0%
+Mushkegowuk James Bay,2022-05-29,39%,3%,58%,0%
+Mushkegowuk James Bay,2022-05-30,41%,3%,56%,0%
+Mushkegowuk James Bay,2022-05-30,41%,2%,56%,0%
+Mushkegowuk James Bay,2022-05-31,37%,3%,61%,0%
+Mushkegowuk James Bay,2022-05-31,32%,2%,66%,0%
+Mushkegowuk James Bay,2022-06-01,39%,4%,59%,0%
+Mushkegowuk James Bay,2022-06-01,25%,3%,75%,0%
+Mushkegowuk James Bay,2022-06-03,25%,1%,75%,0%
 Flamborough Glanbrook,2022-05-01,46%,24%,19%,7%
 Flamborough Glanbrook,2022-09-01,43%,26%,20%,6%
 Flamborough Glanbrook,2023-01-01,41%,25%,23%,6%
@@ -3185,6 +4446,60 @@ Flamborough Glanbrook,2022-05-22,44%,25%,19%,7%
 Flamborough Glanbrook,2022-05-22,45%,24%,19%,7%
 Flamborough Glanbrook,2022-05-23,47%,23%,18%,7%
 Flamborough Glanbrook,2022-05-23,46%,24%,19%,7%
+Windsor Tecumseh,2022-05-01,47%,18%,25%,0%
+Windsor Tecumseh,2022-09-01,29%,15%,43%,0%
+Windsor Tecumseh,2023-01-01,28%,13%,44%,0%
+Windsor Tecumseh,2023-05-01,29%,14%,43%,0%
+Windsor Tecumseh,2023-09-01,29%,14%,43%,0%
+Windsor Tecumseh,2024-01-01,29%,14%,43%,0%
+Windsor Tecumseh,2024-05-01,29%,14%,43%,0%
+Windsor Tecumseh,2024-09-01,28%,14%,43%,0%
+Windsor Tecumseh,2025-01-01,29%,15%,43%,0%
+Windsor Tecumseh,2025-05-01,28%,15%,43%,0%
+Windsor Tecumseh,2022-04-30,29%,14%,43%,0%
+Windsor Tecumseh,2022-04-30,29%,14%,42%,0%
+Windsor Tecumseh,2022-05-03,30%,14%,42%,0%
+Windsor Tecumseh,2022-05-03,29%,14%,42%,0%
+Windsor Tecumseh,2022-05-04,30%,14%,42%,0%
+Windsor Tecumseh,2022-05-04,29%,14%,42%,0%
+Windsor Tecumseh,2022-05-05,29%,17%,40%,0%
+Windsor Tecumseh,2022-05-05,29%,17%,40%,0%
+Windsor Tecumseh,2022-05-06,28%,16%,39%,0%
+Windsor Tecumseh,2022-05-06,27%,16%,39%,0%
+Windsor Tecumseh,2022-05-07,27%,16%,39%,0%
+Windsor Tecumseh,2022-05-07,27%,16%,40%,0%
+Windsor Tecumseh,2022-05-08,28%,16%,39%,0%
+Windsor Tecumseh,2022-05-08,28%,16%,39%,0%
+Windsor Tecumseh,2022-05-09,28%,16%,38%,0%
+Windsor Tecumseh,2022-05-09,28%,16%,38%,0%
+Windsor Tecumseh,2022-05-10,28%,16%,38%,0%
+Windsor Tecumseh,2022-05-10,29%,16%,38%,0%
+Windsor Tecumseh,2022-05-11,29%,16%,38%,0%
+Windsor Tecumseh,2022-05-11,28%,14%,40%,0%
+Windsor Tecumseh,2022-05-12,28%,14%,40%,0%
+Windsor Tecumseh,2022-05-12,29%,14%,40%,0%
+Windsor Tecumseh,2022-05-13,46%,14%,30%,0%
+Windsor Tecumseh,2022-05-13,45%,15%,30%,0%
+Windsor Tecumseh,2022-05-14,46%,15%,28%,0%
+Windsor Tecumseh,2022-05-14,46%,16%,28%,0%
+Windsor Tecumseh,2022-05-15,46%,16%,28%,0%
+Windsor Tecumseh,2022-05-15,46%,15%,29%,0%
+Windsor Tecumseh,2022-05-16,42%,15%,31%,0%
+Windsor Tecumseh,2022-05-16,42%,15%,31%,0%
+Windsor Tecumseh,2022-05-17,43%,15%,31%,0%
+Windsor Tecumseh,2022-05-17,43%,15%,30%,0%
+Windsor Tecumseh,2022-05-18,41%,16%,32%,0%
+Windsor Tecumseh,2022-05-18,43%,15%,31%,0%
+Windsor Tecumseh,2022-05-19,46%,15%,30%,0%
+Windsor Tecumseh,2022-05-19,45%,16%,30%,0%
+Windsor Tecumseh,2022-05-20,45%,16%,30%,0%
+Windsor Tecumseh,2022-05-20,43%,20%,27%,0%
+Windsor Tecumseh,2022-05-21,45%,20%,26%,0%
+Windsor Tecumseh,2022-05-21,45%,19%,27%,0%
+Windsor Tecumseh,2022-05-22,46%,18%,26%,0%
+Windsor Tecumseh,2022-05-22,46%,17%,26%,0%
+Windsor Tecumseh,2022-05-23,48%,17%,25%,0%
+Windsor Tecumseh,2022-05-23,47%,18%,25%,0%
 Wellington Halton Hills,2022-05-01,49%,17%,13%,17%
 Wellington Halton Hills,2022-09-01,52%,21%,13%,9%
 Wellington Halton Hills,2023-01-01,51%,19%,16%,9%
@@ -3347,6 +4662,62 @@ Peterborough Kawartha,2022-05-22,37%,33%,20%,5%
 Peterborough Kawartha,2022-05-22,38%,32%,20%,5%
 Peterborough Kawartha,2022-05-23,40%,32%,19%,5%
 Peterborough Kawartha,2022-05-23,39%,32%,20%,5%
+Brampton West,2022-05-01,49%,27%,19%,0%
+Brampton West,2022-09-01,39%,30%,21%,0%
+Brampton West,2023-01-01,37%,29%,25%,0%
+Brampton West,2023-05-01,37%,29%,25%,0%
+Brampton West,2023-09-01,38%,28%,25%,0%
+Brampton West,2024-01-01,38%,29%,26%,0%
+Brampton West,2024-05-01,37%,29%,26%,0%
+Brampton West,2024-09-01,37%,29%,25%,0%
+Brampton West,2025-01-01,37%,30%,25%,0%
+Brampton West,2025-05-01,37%,30%,25%,0%
+Brampton West,2022-04-30,38%,29%,25%,0%
+Brampton West,2022-04-30,38%,29%,24%,0%
+Brampton West,2022-05-03,38%,29%,24%,0%
+Brampton West,2022-05-03,39%,30%,25%,0%
+Brampton West,2022-05-04,39%,29%,26%,0%
+Brampton West,2022-05-04,38%,30%,26%,0%
+Brampton West,2022-05-05,39%,30%,25%,0%
+Brampton West,2022-05-05,39%,30%,25%,0%
+Brampton West,2022-05-06,39%,29%,25%,0%
+Brampton West,2022-05-06,38%,29%,26%,0%
+Brampton West,2022-05-07,38%,29%,26%,0%
+Brampton West,2022-05-07,38%,29%,26%,0%
+Brampton West,2022-05-08,38%,29%,26%,0%
+Brampton West,2022-05-08,38%,29%,26%,0%
+Brampton West,2022-05-09,38%,28%,25%,0%
+Brampton West,2022-05-09,38%,28%,25%,0%
+Brampton West,2022-05-10,38%,28%,25%,0%
+Brampton West,2022-05-10,39%,28%,24%,0%
+Brampton West,2022-05-11,39%,28%,24%,0%
+Brampton West,2022-05-11,39%,28%,24%,0%
+Brampton West,2022-05-12,39%,28%,24%,0%
+Brampton West,2022-05-12,40%,28%,24%,0%
+Brampton West,2022-05-13,48%,26%,21%,0%
+Brampton West,2022-05-13,47%,26%,21%,0%
+Brampton West,2022-05-14,48%,27%,19%,0%
+Brampton West,2022-05-14,47%,28%,19%,0%
+Brampton West,2022-05-15,47%,28%,19%,0%
+Brampton West,2022-05-15,47%,27%,20%,0%
+Brampton West,2022-05-16,44%,27%,22%,0%
+Brampton West,2022-05-16,44%,28%,22%,0%
+Brampton West,2022-05-17,45%,27%,21%,0%
+Brampton West,2022-05-17,45%,27%,21%,0%
+Brampton West,2022-05-18,43%,29%,22%,0%
+Brampton West,2022-05-18,45%,27%,22%,0%
+Brampton West,2022-05-19,48%,26%,21%,0%
+Brampton West,2022-05-19,46%,28%,21%,0%
+Brampton West,2022-05-20,46%,28%,20%,0%
+Brampton West,2022-05-20,44%,31%,20%,0%
+Brampton West,2022-05-21,46%,30%,19%,0%
+Brampton West,2022-05-21,46%,28%,20%,0%
+Brampton West,2022-05-22,47%,28%,20%,0%
+Brampton West,2022-05-22,48%,27%,20%,0%
+Brampton West,2022-05-23,50%,26%,18%,0%
+Brampton West,2022-05-23,49%,27%,19%,0%
+Brampton West,2022-05-24,95%,5%,1%,0%
+Brampton West,2022-05-24,93%,6%,1%,0%
 Hamilton Mountain,2022-05-01,30%,21%,38%,8%
 Hamilton Mountain,2022-09-01,30%,16%,38%,8%
 Hamilton Mountain,2023-01-01,30%,17%,39%,8%
@@ -4157,6 +5528,68 @@ Ottawa Vanier,2022-05-22,20%,42%,23%,10%
 Ottawa Vanier,2022-05-22,20%,41%,23%,10%
 Ottawa Vanier,2022-05-23,21%,41%,22%,10%
 Ottawa Vanier,2022-05-23,21%,41%,23%,10%
+Kanata Carleton,2022-05-01,42%,31%,23%,0%
+Kanata Carleton,2022-09-01,43%,28%,16%,0%
+Kanata Carleton,2023-01-01,41%,28%,19%,0%
+Kanata Carleton,2023-05-01,41%,28%,19%,0%
+Kanata Carleton,2023-09-01,41%,28%,19%,0%
+Kanata Carleton,2024-01-01,41%,28%,19%,0%
+Kanata Carleton,2024-05-01,40%,28%,20%,0%
+Kanata Carleton,2024-09-01,40%,28%,20%,0%
+Kanata Carleton,2025-01-01,40%,29%,19%,0%
+Kanata Carleton,2025-05-01,40%,29%,19%,0%
+Kanata Carleton,2022-04-30,41%,28%,19%,0%
+Kanata Carleton,2022-04-30,41%,28%,19%,0%
+Kanata Carleton,2022-05-03,41%,28%,19%,0%
+Kanata Carleton,2022-05-03,43%,29%,19%,0%
+Kanata Carleton,2022-05-04,43%,28%,20%,0%
+Kanata Carleton,2022-05-04,42%,29%,20%,0%
+Kanata Carleton,2022-05-05,42%,30%,19%,0%
+Kanata Carleton,2022-05-05,42%,29%,19%,0%
+Kanata Carleton,2022-05-06,41%,29%,19%,0%
+Kanata Carleton,2022-05-06,41%,28%,20%,0%
+Kanata Carleton,2022-05-07,41%,28%,20%,0%
+Kanata Carleton,2022-05-07,40%,28%,20%,0%
+Kanata Carleton,2022-05-08,41%,28%,19%,0%
+Kanata Carleton,2022-05-08,41%,28%,19%,0%
+Kanata Carleton,2022-05-09,41%,28%,19%,0%
+Kanata Carleton,2022-05-09,41%,28%,19%,0%
+Kanata Carleton,2022-05-10,41%,27%,20%,0%
+Kanata Carleton,2022-05-10,42%,27%,19%,0%
+Kanata Carleton,2022-05-11,42%,27%,19%,0%
+Kanata Carleton,2022-05-11,42%,27%,19%,0%
+Kanata Carleton,2022-05-12,43%,27%,18%,0%
+Kanata Carleton,2022-05-12,45%,26%,18%,0%
+Kanata Carleton,2022-05-13,42%,23%,24%,0%
+Kanata Carleton,2022-05-13,42%,23%,24%,0%
+Kanata Carleton,2022-05-14,42%,23%,22%,0%
+Kanata Carleton,2022-05-14,42%,24%,22%,0%
+Kanata Carleton,2022-05-15,42%,24%,22%,0%
+Kanata Carleton,2022-05-15,42%,23%,23%,0%
+Kanata Carleton,2022-05-16,38%,23%,24%,0%
+Kanata Carleton,2022-05-16,36%,30%,19%,0%
+Kanata Carleton,2022-05-17,32%,34%,29%,0%
+Kanata Carleton,2022-05-17,32%,34%,29%,0%
+Kanata Carleton,2022-05-18,30%,35%,29%,0%
+Kanata Carleton,2022-05-18,32%,34%,29%,0%
+Kanata Carleton,2022-05-19,34%,33%,29%,0%
+Kanata Carleton,2022-05-19,33%,35%,28%,0%
+Kanata Carleton,2022-05-20,33%,36%,27%,0%
+Kanata Carleton,2022-05-20,31%,39%,27%,0%
+Kanata Carleton,2022-05-21,38%,35%,24%,0%
+Kanata Carleton,2022-05-21,38%,33%,25%,0%
+Kanata Carleton,2022-05-22,41%,32%,24%,0%
+Kanata Carleton,2022-05-22,42%,31%,24%,0%
+Kanata Carleton,2022-05-23,43%,30%,22%,0%
+Kanata Carleton,2022-05-23,42%,31%,23%,0%
+Kanata Carleton,2022-05-24,98%,2%,8%,0%
+Kanata Carleton,2022-05-24,99%,1%,7%,0%
+Kanata Carleton,2022-05-25,99%,1%,9%,0%
+Kanata Carleton,2022-05-25,99%,1%,10%,0%
+Kanata Carleton,2022-05-26,99%,1%,6%,0%
+Kanata Carleton,2022-05-26,99%,1%,4%,0%
+Kanata Carleton,2022-05-27,99%,1%,2%,0%
+Kanata Carleton,2022-05-27,99%,1%,1%,0%
 Bay of Quinte,2022-05-01,38%,31%,19%,7%
 Bay of Quinte,2022-09-01,47%,25%,18%,5%
 Bay of Quinte,2023-01-01,45%,24%,21%,4%
@@ -4265,6 +5698,206 @@ Leeds Grenville 1000 Islands & Rideau Lakes,2022-05-22,55%,20%,13%,8%
 Leeds Grenville 1000 Islands & Rideau Lakes,2022-05-22,56%,19%,13%,8%
 Leeds Grenville 1000 Islands & Rideau Lakes,2022-05-23,57%,19%,12%,8%
 Leeds Grenville 1000 Islands & Rideau Lakes,2022-05-23,56%,19%,13%,8%
+Scarborough Centre,2022-05-01,36%,32%,24%,0%
+Scarborough Centre,2022-09-01,35%,32%,24%,0%
+Scarborough Centre,2023-01-01,35%,32%,24%,0%
+Scarborough Centre,2023-05-01,35%,33%,23%,0%
+Scarborough Centre,2023-09-01,35%,33%,23%,0%
+Scarborough Centre,2024-01-01,35%,33%,23%,0%
+Scarborough Centre,2024-05-01,35%,33%,23%,0%
+Scarborough Centre,2024-09-01,35%,33%,24%,0%
+Scarborough Centre,2025-01-01,35%,33%,23%,0%
+Scarborough Centre,2025-05-01,34%,34%,23%,0%
+Scarborough Centre,2022-04-30,35%,33%,23%,0%
+Scarborough Centre,2022-04-30,36%,33%,23%,0%
+Scarborough Centre,2022-05-03,36%,33%,23%,0%
+Scarborough Centre,2022-05-03,35%,32%,23%,0%
+Scarborough Centre,2022-05-04,36%,32%,23%,0%
+Scarborough Centre,2022-05-04,35%,33%,23%,0%
+Scarborough Centre,2022-05-05,35%,34%,22%,0%
+Scarborough Centre,2022-05-05,35%,34%,21%,0%
+Scarborough Centre,2022-05-06,35%,33%,21%,0%
+Scarborough Centre,2022-05-06,34%,32%,23%,0%
+Scarborough Centre,2022-05-07,34%,32%,23%,0%
+Scarborough Centre,2022-05-07,34%,32%,23%,0%
+Scarborough Centre,2022-05-08,34%,32%,22%,0%
+Scarborough Centre,2022-05-08,34%,32%,22%,0%
+Scarborough Centre,2022-05-09,34%,32%,22%,0%
+Scarborough Centre,2022-05-09,34%,32%,22%,0%
+Scarborough Centre,2022-05-10,34%,32%,22%,0%
+Scarborough Centre,2022-05-10,35%,32%,21%,0%
+Scarborough Centre,2022-05-11,35%,32%,21%,0%
+Scarborough Centre,2022-05-11,35%,32%,21%,0%
+Scarborough Centre,2022-05-12,35%,32%,21%,0%
+Scarborough Centre,2022-05-12,37%,30%,21%,0%
+Scarborough Centre,2022-05-13,36%,30%,26%,0%
+Scarborough Centre,2022-05-13,36%,30%,27%,0%
+Scarborough Centre,2022-05-14,36%,31%,25%,0%
+Scarborough Centre,2022-05-14,35%,32%,24%,0%
+Scarborough Centre,2022-05-15,35%,32%,24%,0%
+Scarborough Centre,2022-05-15,36%,31%,25%,0%
+Scarborough Centre,2022-05-16,32%,31%,27%,0%
+Scarborough Centre,2022-05-16,32%,32%,27%,0%
+Scarborough Centre,2022-05-17,33%,31%,27%,0%
+Scarborough Centre,2022-05-17,33%,31%,27%,0%
+Scarborough Centre,2022-05-18,31%,32%,28%,0%
+Scarborough Centre,2022-05-18,33%,31%,28%,0%
+Scarborough Centre,2022-05-19,35%,30%,27%,0%
+Scarborough Centre,2022-05-19,34%,32%,26%,0%
+Scarborough Centre,2022-05-20,34%,33%,26%,0%
+Scarborough Centre,2022-05-20,31%,37%,25%,0%
+Scarborough Centre,2022-05-21,33%,36%,23%,0%
+Scarborough Centre,2022-05-21,34%,34%,24%,0%
+Scarborough Centre,2022-05-22,34%,34%,24%,0%
+Scarborough Centre,2022-05-22,35%,32%,24%,0%
+Scarborough Centre,2022-05-23,37%,32%,23%,0%
+Scarborough Centre,2022-05-23,36%,32%,24%,0%
+Scarborough Centre,2022-05-24,74%,26%,2%,0%
+Scarborough Centre,2022-05-24,70%,29%,1%,0%
+Scarborough Centre,2022-05-25,66%,34%,1%,0%
+Scarborough Centre,2022-05-25,67%,33%,7%,0%
+Scarborough Centre,2022-05-26,67%,33%,6%,0%
+Scarborough Centre,2022-05-26,69%,31%,6%,0%
+Scarborough Centre,2022-05-27,67%,33%,5%,0%
+Scarborough Centre,2022-05-27,64%,36%,10%,0%
+Scarborough Centre,2022-05-28,59%,41%,8%,0%
+Scarborough Centre,2022-05-28,52%,48%,3%,0%
+Scarborough Centre,2022-05-29,69%,31%,3%,0%
+Scarborough Centre,2022-05-29,69%,31%,2%,0%
+Thunder Bay Atikokan,2022-05-01,36%,33%,24%,0%
+Thunder Bay Atikokan,2022-09-01,22%,41%,29%,0%
+Thunder Bay Atikokan,2023-01-01,22%,41%,29%,0%
+Thunder Bay Atikokan,2023-05-01,22%,42%,29%,0%
+Thunder Bay Atikokan,2023-09-01,22%,42%,28%,0%
+Thunder Bay Atikokan,2024-01-01,22%,42%,28%,0%
+Thunder Bay Atikokan,2024-05-01,22%,42%,28%,0%
+Thunder Bay Atikokan,2024-09-01,22%,42%,29%,0%
+Thunder Bay Atikokan,2025-01-01,22%,43%,28%,0%
+Thunder Bay Atikokan,2025-05-01,22%,43%,28%,0%
+Thunder Bay Atikokan,2022-04-30,22%,42%,28%,0%
+Thunder Bay Atikokan,2022-04-30,23%,42%,28%,0%
+Thunder Bay Atikokan,2022-05-03,23%,42%,28%,0%
+Thunder Bay Atikokan,2022-05-03,23%,41%,28%,0%
+Thunder Bay Atikokan,2022-05-04,23%,41%,28%,0%
+Thunder Bay Atikokan,2022-05-04,22%,42%,28%,0%
+Thunder Bay Atikokan,2022-05-05,23%,41%,27%,0%
+Thunder Bay Atikokan,2022-05-05,23%,37%,30%,0%
+Thunder Bay Atikokan,2022-05-06,23%,37%,30%,0%
+Thunder Bay Atikokan,2022-05-06,23%,36%,31%,0%
+Thunder Bay Atikokan,2022-05-07,23%,35%,31%,0%
+Thunder Bay Atikokan,2022-05-07,23%,36%,31%,0%
+Thunder Bay Atikokan,2022-05-08,23%,35%,31%,0%
+Thunder Bay Atikokan,2022-05-08,23%,36%,31%,0%
+Thunder Bay Atikokan,2022-05-09,23%,35%,31%,0%
+Thunder Bay Atikokan,2022-05-09,23%,35%,31%,0%
+Thunder Bay Atikokan,2022-05-10,22%,34%,33%,0%
+Thunder Bay Atikokan,2022-05-10,23%,34%,32%,0%
+Thunder Bay Atikokan,2022-05-11,23%,34%,32%,0%
+Thunder Bay Atikokan,2022-05-11,28%,34%,27%,0%
+Thunder Bay Atikokan,2022-05-12,28%,34%,27%,0%
+Thunder Bay Atikokan,2022-05-12,26%,33%,30%,0%
+Thunder Bay Atikokan,2022-05-13,36%,24%,33%,0%
+Thunder Bay Atikokan,2022-05-13,36%,24%,33%,0%
+Thunder Bay Atikokan,2022-05-14,36%,25%,31%,0%
+Thunder Bay Atikokan,2022-05-14,36%,26%,31%,0%
+Thunder Bay Atikokan,2022-05-15,36%,26%,31%,0%
+Thunder Bay Atikokan,2022-05-15,36%,25%,32%,0%
+Thunder Bay Atikokan,2022-05-16,33%,25%,34%,0%
+Thunder Bay Atikokan,2022-05-16,33%,26%,33%,0%
+Thunder Bay Atikokan,2022-05-17,34%,25%,33%,0%
+Thunder Bay Atikokan,2022-05-17,34%,25%,32%,0%
+Thunder Bay Atikokan,2022-05-18,32%,27%,34%,0%
+Thunder Bay Atikokan,2022-05-18,34%,25%,33%,0%
+Thunder Bay Atikokan,2022-05-19,36%,24%,32%,0%
+Thunder Bay Atikokan,2022-05-19,35%,26%,32%,0%
+Thunder Bay Atikokan,2022-05-20,35%,27%,31%,0%
+Thunder Bay Atikokan,2022-05-20,31%,37%,25%,0%
+Thunder Bay Atikokan,2022-05-21,34%,36%,24%,0%
+Thunder Bay Atikokan,2022-05-21,34%,34%,25%,0%
+Thunder Bay Atikokan,2022-05-22,35%,34%,25%,0%
+Thunder Bay Atikokan,2022-05-22,36%,32%,25%,0%
+Thunder Bay Atikokan,2022-05-23,37%,32%,23%,0%
+Thunder Bay Atikokan,2022-05-23,36%,33%,24%,0%
+Thunder Bay Atikokan,2022-05-24,71%,29%,3%,0%
+Thunder Bay Atikokan,2022-05-24,11%,97%,3%,0%
+Thunder Bay Atikokan,2022-05-25,12%,97%,2%,0%
+Thunder Bay Atikokan,2022-05-25,5%,98%,1%,0%
+Thunder Bay Atikokan,2022-05-26,78%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-26,65%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-27,79%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-27,79%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-28,80%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-28,75%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-29,39%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-29,48%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-30,57%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-30,62%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-31,38%,99%,1%,0%
+Thunder Bay Atikokan,2022-05-31,55%,99%,1%,0%
+Thunder Bay Atikokan,2022-06-01,74%,99%,11%,0%
+Thunder Bay Atikokan,2022-06-01,71%,89%,13%,0%
+Thunder Bay Atikokan,2022-06-03,72%,87%,17%,0%
+Thunder Bay Atikokan,2022-06-03,13%,83%,22%,0%
+Thunder Bay Atikokan,2022-12-30,36%,78%,22%,0%
+Thunder Bay Atikokan,2022-12-30,49%,78%,20%,0%
+Thunder Bay Atikokan,2023-02-15,56%,80%,19%,0%
+Thunder Bay Atikokan,2023-02-15,71%,81%,25%,0%
+Thunder Bay Atikokan,2023-03-09,80%,75%,25%,0%
+Thunder Bay Atikokan,2023-03-09,71%,75%,39%,0%
+Markham Thornhill,2022-05-01,48%,38%,9%,0%
+Markham Thornhill,2022-09-01,45%,38%,10%,0%
+Markham Thornhill,2023-01-01,43%,37%,14%,0%
+Markham Thornhill,2023-05-01,43%,36%,14%,0%
+Markham Thornhill,2023-09-01,44%,36%,14%,0%
+Markham Thornhill,2024-01-01,43%,36%,14%,0%
+Markham Thornhill,2024-05-01,43%,36%,14%,0%
+Markham Thornhill,2024-09-01,43%,37%,14%,0%
+Markham Thornhill,2025-01-01,43%,37%,14%,0%
+Markham Thornhill,2025-05-01,42%,38%,14%,0%
+Markham Thornhill,2022-04-30,44%,37%,14%,0%
+Markham Thornhill,2022-04-30,44%,37%,14%,0%
+Markham Thornhill,2022-05-03,44%,37%,14%,0%
+Markham Thornhill,2022-05-03,45%,38%,14%,0%
+Markham Thornhill,2022-05-04,46%,37%,15%,0%
+Markham Thornhill,2022-05-04,45%,38%,15%,0%
+Markham Thornhill,2022-05-05,45%,38%,14%,0%
+Markham Thornhill,2022-05-05,45%,38%,14%,0%
+Markham Thornhill,2022-05-06,45%,37%,14%,0%
+Markham Thornhill,2022-05-06,44%,37%,15%,0%
+Markham Thornhill,2022-05-07,44%,37%,15%,0%
+Markham Thornhill,2022-05-07,44%,37%,15%,0%
+Markham Thornhill,2022-05-08,44%,36%,15%,0%
+Markham Thornhill,2022-05-08,44%,37%,15%,0%
+Markham Thornhill,2022-05-09,44%,36%,14%,0%
+Markham Thornhill,2022-05-09,44%,36%,14%,0%
+Markham Thornhill,2022-05-10,44%,36%,15%,0%
+Markham Thornhill,2022-05-10,45%,36%,14%,0%
+Markham Thornhill,2022-05-11,45%,36%,14%,0%
+Markham Thornhill,2022-05-11,45%,36%,14%,0%
+Markham Thornhill,2022-05-12,45%,36%,14%,0%
+Markham Thornhill,2022-05-12,48%,34%,14%,0%
+Markham Thornhill,2022-05-13,49%,37%,9%,0%
+Markham Thornhill,2022-05-13,48%,38%,9%,0%
+Markham Thornhill,2022-05-14,48%,38%,8%,0%
+Markham Thornhill,2022-05-14,47%,39%,8%,0%
+Markham Thornhill,2022-05-15,48%,39%,8%,0%
+Markham Thornhill,2022-05-15,48%,38%,9%,0%
+Markham Thornhill,2022-05-16,44%,40%,10%,0%
+Markham Thornhill,2022-05-16,44%,40%,10%,0%
+Markham Thornhill,2022-05-17,45%,40%,10%,0%
+Markham Thornhill,2022-05-17,45%,39%,10%,0%
+Markham Thornhill,2022-05-18,42%,42%,10%,0%
+Markham Thornhill,2022-05-18,45%,39%,10%,0%
+Markham Thornhill,2022-05-19,47%,38%,10%,0%
+Markham Thornhill,2022-05-19,46%,40%,9%,0%
+Markham Thornhill,2022-05-20,45%,41%,9%,0%
+Markham Thornhill,2022-05-20,43%,43%,9%,0%
+Markham Thornhill,2022-05-21,45%,41%,8%,0%
+Markham Thornhill,2022-05-21,46%,40%,9%,0%
+Markham Thornhill,2022-05-22,47%,39%,9%,0%
+Markham Thornhill,2022-05-22,48%,38%,9%,0%
+Markham Thornhill,2022-05-23,50%,37%,8%,0%
+Markham Thornhill,2022-05-23,48%,38%,9%,0%
 Simcoe North,2022-05-01,48%,19%,16%,12%
 Simcoe North,2022-09-01,44%,29%,15%,6%
 Simcoe North,2023-01-01,42%,28%,18%,6%
@@ -4589,6 +6222,60 @@ Timiskaming Cochrane,2022-05-22,36%,11%,35%,9%
 Timiskaming Cochrane,2022-05-22,37%,11%,35%,9%
 Timiskaming Cochrane,2022-05-23,39%,11%,34%,9%
 Timiskaming Cochrane,2022-05-23,37%,11%,35%,9%
+Niagara Falls,2022-05-01,38%,13%,42%,0%
+Niagara Falls,2022-09-01,37%,17%,35%,0%
+Niagara Falls,2023-01-01,36%,17%,35%,0%
+Niagara Falls,2023-05-01,37%,17%,35%,0%
+Niagara Falls,2023-09-01,37%,17%,35%,0%
+Niagara Falls,2024-01-01,37%,17%,35%,0%
+Niagara Falls,2024-05-01,35%,17%,36%,0%
+Niagara Falls,2024-09-01,35%,17%,36%,0%
+Niagara Falls,2025-01-01,35%,18%,36%,0%
+Niagara Falls,2025-05-01,35%,18%,36%,0%
+Niagara Falls,2022-04-30,36%,17%,35%,0%
+Niagara Falls,2022-04-30,36%,17%,35%,0%
+Niagara Falls,2022-05-03,36%,17%,35%,0%
+Niagara Falls,2022-05-03,36%,17%,35%,0%
+Niagara Falls,2022-05-04,36%,17%,35%,0%
+Niagara Falls,2022-05-04,35%,17%,35%,0%
+Niagara Falls,2022-05-05,35%,19%,33%,0%
+Niagara Falls,2022-05-05,35%,19%,33%,0%
+Niagara Falls,2022-05-06,35%,18%,33%,0%
+Niagara Falls,2022-05-06,34%,18%,34%,0%
+Niagara Falls,2022-05-07,34%,18%,34%,0%
+Niagara Falls,2022-05-07,34%,18%,34%,0%
+Niagara Falls,2022-05-08,34%,18%,34%,0%
+Niagara Falls,2022-05-08,34%,18%,34%,0%
+Niagara Falls,2022-05-09,33%,17%,34%,0%
+Niagara Falls,2022-05-09,33%,17%,34%,0%
+Niagara Falls,2022-05-10,33%,17%,35%,0%
+Niagara Falls,2022-05-10,34%,17%,35%,0%
+Niagara Falls,2022-05-11,34%,17%,35%,0%
+Niagara Falls,2022-05-11,34%,17%,35%,0%
+Niagara Falls,2022-05-12,34%,17%,34%,0%
+Niagara Falls,2022-05-12,36%,13%,36%,0%
+Niagara Falls,2022-05-13,36%,8%,48%,0%
+Niagara Falls,2022-05-13,36%,8%,49%,0%
+Niagara Falls,2022-05-14,37%,9%,46%,0%
+Niagara Falls,2022-05-14,37%,9%,46%,0%
+Niagara Falls,2022-05-15,37%,9%,46%,0%
+Niagara Falls,2022-05-15,37%,9%,47%,0%
+Niagara Falls,2022-05-16,33%,9%,50%,0%
+Niagara Falls,2022-05-16,33%,9%,50%,0%
+Niagara Falls,2022-05-17,34%,9%,49%,0%
+Niagara Falls,2022-05-17,34%,9%,48%,0%
+Niagara Falls,2022-05-18,32%,9%,50%,0%
+Niagara Falls,2022-05-18,34%,9%,49%,0%
+Niagara Falls,2022-05-19,36%,8%,48%,0%
+Niagara Falls,2022-05-19,36%,9%,48%,0%
+Niagara Falls,2022-05-20,36%,9%,48%,0%
+Niagara Falls,2022-05-20,34%,16%,43%,0%
+Niagara Falls,2022-05-21,36%,16%,41%,0%
+Niagara Falls,2022-05-21,36%,15%,42%,0%
+Niagara Falls,2022-05-22,37%,13%,43%,0%
+Niagara Falls,2022-05-22,38%,12%,42%,0%
+Niagara Falls,2022-05-23,40%,12%,40%,0%
+Niagara Falls,2022-05-23,38%,13%,42%,0%
 Waterloo,2022-05-01,30%,17%,39%,10%
 Waterloo,2022-09-01,33%,21%,33%,7%
 Waterloo,2023-01-01,32%,19%,35%,7%
@@ -4913,6 +6600,61 @@ Haldimand Norfolk,2022-05-22,29%,9%,12%,5%
 Haldimand Norfolk,2022-05-22,29%,9%,12%,5%
 Haldimand Norfolk,2022-05-23,31%,8%,11%,5%
 Haldimand Norfolk,2022-05-23,30%,9%,11%,5%
+Scarborough Guildwood,2022-05-01,32%,40%,22%,0%
+Scarborough Guildwood,2022-09-01,31%,41%,20%,0%
+Scarborough Guildwood,2023-01-01,31%,42%,20%,0%
+Scarborough Guildwood,2023-05-01,31%,42%,19%,0%
+Scarborough Guildwood,2023-09-01,31%,42%,19%,0%
+Scarborough Guildwood,2024-01-01,31%,42%,20%,0%
+Scarborough Guildwood,2024-05-01,31%,42%,20%,0%
+Scarborough Guildwood,2024-09-01,31%,42%,20%,0%
+Scarborough Guildwood,2025-01-01,31%,43%,19%,0%
+Scarborough Guildwood,2025-05-01,30%,43%,19%,0%
+Scarborough Guildwood,2022-04-30,31%,42%,19%,0%
+Scarborough Guildwood,2022-04-30,31%,42%,19%,0%
+Scarborough Guildwood,2022-05-03,32%,42%,19%,0%
+Scarborough Guildwood,2022-05-03,31%,41%,19%,0%
+Scarborough Guildwood,2022-05-04,32%,41%,19%,0%
+Scarborough Guildwood,2022-05-04,31%,42%,19%,0%
+Scarborough Guildwood,2022-05-05,31%,43%,18%,0%
+Scarborough Guildwood,2022-05-05,31%,43%,18%,0%
+Scarborough Guildwood,2022-05-06,31%,42%,17%,0%
+Scarborough Guildwood,2022-05-06,30%,41%,19%,0%
+Scarborough Guildwood,2022-05-07,30%,41%,19%,0%
+Scarborough Guildwood,2022-05-07,30%,41%,19%,0%
+Scarborough Guildwood,2022-05-08,31%,41%,19%,0%
+Scarborough Guildwood,2022-05-08,30%,41%,19%,0%
+Scarborough Guildwood,2022-05-09,30%,41%,18%,0%
+Scarborough Guildwood,2022-05-09,30%,41%,18%,0%
+Scarborough Guildwood,2022-05-10,30%,40%,19%,0%
+Scarborough Guildwood,2022-05-10,31%,40%,18%,0%
+Scarborough Guildwood,2022-05-11,31%,40%,18%,0%
+Scarborough Guildwood,2022-05-11,31%,40%,18%,0%
+Scarborough Guildwood,2022-05-12,31%,40%,18%,0%
+Scarborough Guildwood,2022-05-12,32%,40%,18%,0%
+Scarborough Guildwood,2022-05-13,31%,46%,17%,0%
+Scarborough Guildwood,2022-05-13,31%,46%,17%,0%
+Scarborough Guildwood,2022-05-14,31%,47%,16%,0%
+Scarborough Guildwood,2022-05-14,31%,48%,15%,0%
+Scarborough Guildwood,2022-05-15,31%,48%,15%,0%
+Scarborough Guildwood,2022-05-15,31%,47%,16%,0%
+Scarborough Guildwood,2022-05-16,28%,48%,17%,0%
+Scarborough Guildwood,2022-05-16,35%,42%,16%,0%
+Scarborough Guildwood,2022-05-17,30%,38%,25%,0%
+Scarborough Guildwood,2022-05-17,31%,38%,25%,0%
+Scarborough Guildwood,2022-05-18,28%,39%,26%,0%
+Scarborough Guildwood,2022-05-18,30%,38%,26%,0%
+Scarborough Guildwood,2022-05-19,33%,37%,25%,0%
+Scarborough Guildwood,2022-05-19,31%,39%,25%,0%
+Scarborough Guildwood,2022-05-20,31%,40%,24%,0%
+Scarborough Guildwood,2022-05-20,28%,45%,23%,0%
+Scarborough Guildwood,2022-05-21,30%,43%,22%,0%
+Scarborough Guildwood,2022-05-21,30%,42%,23%,0%
+Scarborough Guildwood,2022-05-22,31%,41%,23%,0%
+Scarborough Guildwood,2022-05-22,32%,40%,23%,0%
+Scarborough Guildwood,2022-05-23,33%,39%,22%,0%
+Scarborough Guildwood,2022-05-23,32%,40%,22%,0%
+Scarborough Guildwood,2022-05-24,9%,91%,1%,0%
 Parkdale High Park,2022-05-01,15%,25%,49%,8%
 Parkdale High Park,2022-09-01,17%,26%,45%,6%
 Parkdale High Park,2023-01-01,16%,26%,46%,6%

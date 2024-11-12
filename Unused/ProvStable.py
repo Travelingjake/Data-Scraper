@@ -9,7 +9,7 @@ import pandas as pd
 from datetime import datetime
 
 # Define the URL to scrape
-url = "https://338canada.com/ontario/1010e.htm"
+url = "https://338canada.com/ontario/1018e.htm"
 
 # Send a GET request to the website
 response = requests.get(url)
