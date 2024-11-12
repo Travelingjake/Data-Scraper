@@ -1,15 +1,12 @@
 #This version is able to enter the site and corectly extract all data points but all in one cell
 
-
-
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime
 
 # Define the URL to scrape
-url = "https://338canada.com/ontario/1018e.htm"
+url = "https://338canada.com/ontario/1083e.htm"
 
 # Send a GET request to the website
 response = requests.get(url)

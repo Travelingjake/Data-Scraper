@@ -79,7 +79,7 @@ def extract_district_data(url):
         # Ensure all lists have the same length by trimming to the minimum length
         min_len = min(len(dates), len(pcpo_percentages), len(olp_percentages), len(ndp_percentages), len(gpo_percentages))
 
-        # Adjust all lists to length `min_len`
+        # Adjust all lists to length min_len
         dates = dates[:min_len]
         pcpo_percentages = pcpo_percentages[:min_len]
         olp_percentages = olp_percentages[:min_len]
@@ -98,6 +98,7 @@ def extract_district_data(url):
             })
 
     return data if data else "No polling data found"
+
 
 # Function to write data to CSV, replacing previous data
 def write_to_csv(file_path, data):
