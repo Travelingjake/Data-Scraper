@@ -1,4 +1,58 @@
 District,Date,PCPO,OLP,NDP,GPO
+Oakville North Burlington,2022-05-01,47%,35%,9%,6%
+Oakville North Burlington,2022-09-01,41%,39%,12%,4%
+Oakville North Burlington,2023-01-01,39%,37%,16%,4%
+Oakville North Burlington,2023-05-01,39%,37%,16%,4%
+Oakville North Burlington,2023-09-01,39%,37%,16%,4%
+Oakville North Burlington,2024-01-01,39%,37%,16%,3%
+Oakville North Burlington,2024-05-01,39%,37%,16%,3%
+Oakville North Burlington,2024-09-01,39%,38%,16%,3%
+Oakville North Burlington,2025-01-01,39%,38%,16%,3%
+Oakville North Burlington,2025-05-01,38%,39%,16%,3%
+Oakville North Burlington,2022-04-30,39%,37%,16%,3%
+Oakville North Burlington,2022-04-30,39%,37%,16%,3%
+Oakville North Burlington,2022-05-03,40%,37%,16%,3%
+Oakville North Burlington,2022-05-03,40%,38%,16%,3%
+Oakville North Burlington,2022-05-04,41%,37%,17%,3%
+Oakville North Burlington,2022-05-04,40%,38%,17%,3%
+Oakville North Burlington,2022-05-05,40%,38%,16%,4%
+Oakville North Burlington,2022-05-05,40%,38%,16%,4%
+Oakville North Burlington,2022-05-06,40%,37%,16%,5%
+Oakville North Burlington,2022-05-06,39%,36%,17%,5%
+Oakville North Burlington,2022-05-07,39%,36%,17%,5%
+Oakville North Burlington,2022-05-07,39%,36%,17%,5%
+Oakville North Burlington,2022-05-08,39%,36%,17%,5%
+Oakville North Burlington,2022-05-08,39%,36%,17%,5%
+Oakville North Burlington,2022-05-09,39%,36%,16%,5%
+Oakville North Burlington,2022-05-09,39%,36%,16%,5%
+Oakville North Burlington,2022-05-10,39%,35%,17%,5%
+Oakville North Burlington,2022-05-10,40%,35%,16%,5%
+Oakville North Burlington,2022-05-11,40%,35%,16%,5%
+Oakville North Burlington,2022-05-11,40%,35%,16%,5%
+Oakville North Burlington,2022-05-12,40%,35%,16%,5%
+Oakville North Burlington,2022-05-12,43%,33%,15%,4%
+Oakville North Burlington,2022-05-13,47%,35%,10%,4%
+Oakville North Burlington,2022-05-13,47%,35%,10%,4%
+Oakville North Burlington,2022-05-14,46%,36%,9%,5%
+Oakville North Burlington,2022-05-14,46%,37%,9%,5%
+Oakville North Burlington,2022-05-15,46%,37%,9%,5%
+Oakville North Burlington,2022-05-15,46%,36%,9%,5%
+Oakville North Burlington,2022-05-16,43%,37%,11%,7%
+Oakville North Burlington,2022-05-16,43%,37%,11%,6%
+Oakville North Burlington,2022-05-17,44%,36%,10%,6%
+Oakville North Burlington,2022-05-17,44%,36%,10%,6%
+Oakville North Burlington,2022-05-18,41%,38%,11%,6%
+Oakville North Burlington,2022-05-18,44%,36%,11%,6%
+Oakville North Burlington,2022-05-19,47%,35%,10%,6%
+Oakville North Burlington,2022-05-19,45%,37%,10%,5%
+Oakville North Burlington,2022-05-20,44%,38%,10%,5%
+Oakville North Burlington,2022-05-20,42%,40%,10%,5%
+Oakville North Burlington,2022-05-21,44%,39%,9%,5%
+Oakville North Burlington,2022-05-21,45%,37%,10%,5%
+Oakville North Burlington,2022-05-22,46%,37%,10%,5%
+Oakville North Burlington,2022-05-22,47%,35%,10%,6%
+Oakville North Burlington,2022-05-23,48%,35%,9%,5%
+Oakville North Burlington,2022-05-23,47%,35%,9%,6%
 Markham Unionville,2022-05-01,55%,31%,7%,5%
 Markham Unionville,2022-09-01,57%,29%,8%,2%
 Markham Unionville,2023-01-01,54%,28%,11%,2%
@@ -107,6 +161,60 @@ Oshawa,2022-05-22,40%,11%,40%,5%
 Oshawa,2022-05-22,41%,10%,40%,5%
 Oshawa,2022-05-23,43%,10%,38%,5%
 Oshawa,2022-05-23,41%,10%,39%,5%
+Algoma Manitoulin,2022-05-01,37%,14%,38%,5%
+Algoma Manitoulin,2022-09-01,27%,15%,43%,6%
+Algoma Manitoulin,2023-01-01,27%,15%,43%,6%
+Algoma Manitoulin,2023-05-01,27%,15%,42%,6%
+Algoma Manitoulin,2023-09-01,27%,15%,42%,6%
+Algoma Manitoulin,2024-01-01,27%,15%,42%,6%
+Algoma Manitoulin,2024-05-01,27%,16%,43%,6%
+Algoma Manitoulin,2024-09-01,27%,16%,43%,6%
+Algoma Manitoulin,2025-01-01,27%,16%,42%,6%
+Algoma Manitoulin,2025-05-01,27%,16%,42%,6%
+Algoma Manitoulin,2022-04-30,27%,16%,42%,6%
+Algoma Manitoulin,2022-04-30,28%,16%,42%,6%
+Algoma Manitoulin,2022-05-03,28%,16%,42%,6%
+Algoma Manitoulin,2022-05-03,29%,17%,44%,7%
+Algoma Manitoulin,2022-05-04,30%,16%,44%,6%
+Algoma Manitoulin,2022-05-04,29%,17%,44%,6%
+Algoma Manitoulin,2022-05-05,29%,20%,42%,7%
+Algoma Manitoulin,2022-05-05,29%,16%,44%,7%
+Algoma Manitoulin,2022-05-06,28%,16%,44%,9%
+Algoma Manitoulin,2022-05-06,28%,15%,44%,9%
+Algoma Manitoulin,2022-05-07,27%,11%,43%,14%
+Algoma Manitoulin,2022-05-07,27%,11%,43%,14%
+Algoma Manitoulin,2022-05-08,28%,11%,43%,14%
+Algoma Manitoulin,2022-05-08,28%,12%,43%,14%
+Algoma Manitoulin,2022-05-09,28%,11%,42%,14%
+Algoma Manitoulin,2022-05-09,28%,11%,42%,14%
+Algoma Manitoulin,2022-05-10,28%,12%,46%,9%
+Algoma Manitoulin,2022-05-10,29%,12%,45%,9%
+Algoma Manitoulin,2022-05-11,29%,12%,45%,9%
+Algoma Manitoulin,2022-05-11,28%,11%,47%,9%
+Algoma Manitoulin,2022-05-12,29%,11%,47%,9%
+Algoma Manitoulin,2022-05-12,29%,11%,46%,9%
+Algoma Manitoulin,2022-05-13,35%,9%,46%,3%
+Algoma Manitoulin,2022-05-13,35%,9%,46%,3%
+Algoma Manitoulin,2022-05-14,36%,9%,44%,4%
+Algoma Manitoulin,2022-05-14,36%,9%,44%,4%
+Algoma Manitoulin,2022-05-15,36%,9%,44%,4%
+Algoma Manitoulin,2022-05-15,35%,9%,45%,4%
+Algoma Manitoulin,2022-05-16,32%,9%,47%,5%
+Algoma Manitoulin,2022-05-16,32%,9%,47%,5%
+Algoma Manitoulin,2022-05-17,33%,9%,47%,4%
+Algoma Manitoulin,2022-05-17,33%,9%,46%,4%
+Algoma Manitoulin,2022-05-18,31%,9%,48%,4%
+Algoma Manitoulin,2022-05-18,33%,9%,47%,4%
+Algoma Manitoulin,2022-05-19,35%,9%,47%,4%
+Algoma Manitoulin,2022-05-19,35%,10%,46%,4%
+Algoma Manitoulin,2022-05-20,35%,10%,46%,4%
+Algoma Manitoulin,2022-05-20,31%,22%,37%,4%
+Algoma Manitoulin,2022-05-21,33%,21%,35%,4%
+Algoma Manitoulin,2022-05-21,33%,20%,37%,4%
+Algoma Manitoulin,2022-05-22,36%,14%,39%,5%
+Algoma Manitoulin,2022-05-22,37%,14%,39%,5%
+Algoma Manitoulin,2022-05-23,39%,14%,37%,5%
+Algoma Manitoulin,2022-05-23,37%,14%,38%,5%
 Eglinton Lawrence,2022-05-01,42%,42%,8%,5%
 Eglinton Lawrence,2022-09-01,37%,43%,14%,2%
 Eglinton Lawrence,2023-01-01,36%,43%,14%,2%
@@ -323,6 +431,60 @@ Don Valley North,2022-05-22,45%,40%,9%,5%
 Don Valley North,2022-05-22,46%,38%,9%,5%
 Don Valley North,2022-05-23,48%,37%,8%,5%
 Don Valley North,2022-05-23,47%,38%,9%,5%
+Oakville,2022-05-01,43%,37%,7%,7%
+Oakville,2022-09-01,41%,44%,8%,3%
+Oakville,2023-01-01,39%,43%,11%,3%
+Oakville,2023-05-01,40%,42%,11%,3%
+Oakville,2023-09-01,41%,41%,11%,3%
+Oakville,2024-01-01,41%,42%,11%,3%
+Oakville,2024-05-01,40%,42%,11%,3%
+Oakville,2024-09-01,40%,42%,11%,3%
+Oakville,2025-01-01,40%,43%,11%,3%
+Oakville,2025-05-01,40%,43%,11%,3%
+Oakville,2022-04-30,41%,42%,11%,3%
+Oakville,2022-04-30,41%,42%,11%,3%
+Oakville,2022-05-03,41%,42%,10%,3%
+Oakville,2022-05-03,41%,41%,10%,3%
+Oakville,2022-05-04,41%,40%,11%,2%
+Oakville,2022-05-04,40%,41%,11%,2%
+Oakville,2022-05-05,40%,41%,11%,3%
+Oakville,2022-05-05,40%,41%,11%,3%
+Oakville,2022-05-06,40%,41%,11%,3%
+Oakville,2022-05-06,40%,40%,12%,4%
+Oakville,2022-05-07,40%,40%,12%,4%
+Oakville,2022-05-07,40%,40%,12%,4%
+Oakville,2022-05-08,40%,40%,11%,4%
+Oakville,2022-05-08,40%,40%,11%,4%
+Oakville,2022-05-09,40%,40%,11%,4%
+Oakville,2022-05-09,40%,39%,11%,4%
+Oakville,2022-05-10,39%,39%,12%,4%
+Oakville,2022-05-10,40%,39%,11%,4%
+Oakville,2022-05-11,40%,39%,11%,4%
+Oakville,2022-05-11,39%,40%,11%,4%
+Oakville,2022-05-12,39%,40%,11%,4%
+Oakville,2022-05-12,40%,40%,11%,3%
+Oakville,2022-05-13,43%,37%,7%,5%
+Oakville,2022-05-13,43%,38%,7%,5%
+Oakville,2022-05-14,42%,38%,6%,6%
+Oakville,2022-05-14,41%,39%,6%,6%
+Oakville,2022-05-15,42%,39%,6%,6%
+Oakville,2022-05-15,42%,38%,7%,6%
+Oakville,2022-05-16,38%,38%,8%,8%
+Oakville,2022-05-16,39%,39%,8%,7%
+Oakville,2022-05-17,39%,38%,7%,7%
+Oakville,2022-05-17,40%,38%,7%,7%
+Oakville,2022-05-18,37%,40%,8%,7%
+Oakville,2022-05-18,40%,38%,8%,7%
+Oakville,2022-05-19,42%,37%,7%,7%
+Oakville,2022-05-19,40%,39%,7%,7%
+Oakville,2022-05-20,40%,40%,7%,6%
+Oakville,2022-05-20,38%,42%,7%,6%
+Oakville,2022-05-21,40%,40%,7%,6%
+Oakville,2022-05-21,41%,39%,7%,6%
+Oakville,2022-05-22,41%,38%,7%,6%
+Oakville,2022-05-22,43%,37%,7%,7%
+Oakville,2022-05-23,44%,36%,6%,7%
+Oakville,2022-05-23,43%,37%,7%,7%
 London North Centre,2022-05-01,31%,24%,33%,7%
 London North Centre,2022-09-01,32%,26%,30%,6%
 London North Centre,2023-01-01,31%,24%,32%,6%

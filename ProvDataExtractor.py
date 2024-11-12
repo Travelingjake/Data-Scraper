@@ -23,12 +23,21 @@ def extract_district_data(url):
         print(f"Failed to connect to {url}. Status code: {response.status_code}")
         return []
 
-    # Parse the HTML content
-    soup = BeautifulSoup(response.text, 'html.parser')
+    # Decode the content properly
+    page_content = response.content.decode('utf-8', 'ignore')  # Decode with 'ignore' to avoid issues with unrecognized chars
+    soup = BeautifulSoup(page_content, 'html.parser')
 
     # Extract the district name from the specific <h2> tag within the <div class="noads">
     district_name = soup.find('div', class_='noads').find('h2').get_text(strip=True)
-    district_name = district_name.replace('—', ' ')  # Replace hyphens with spaces
+    
+    # Clean up problematic characters like 'Ã¢Â€Â”' and replace them
+    district_name = district_name.replace('Ã¢Â€Â”', '—')  # Fix encoding issue (en dash)
+    district_name = district_name.replace('—', ' ')  # Replace en dash with space
+    district_name = re.sub(r"\s*\(ON\)$", "", district_name)  # Remove "(ON)" at the end (case-sensitive)
+    district_name = re.sub(r"\s*\(.*\)$", "", district_name)  # Optionally remove anything in parentheses
+    
+    # Now, district_name will be cleaned up without the "(ON)" suffix
+    print(f"Extracted district name: {district_name}")
 
     # Extract the polling data from <div class="hideifmobile">
     data = []
@@ -41,14 +50,25 @@ def extract_district_data(url):
         olp_pattern = r"OLP\s*(\d+%)"
         ndp_pattern = r"NDP\s*(\d+%)"
         gpo_pattern = r"GPO\s*(\d+%)"
+        
+        # Add patterns for 'NBPO' and 'ONP' to exclude them
+        nbpo_pattern = r"NBPO\s*(\d+%)"
+        onp_pattern = r"ONP\s*(\d+%)"
 
+        # Extracting the data, ensuring we skip 'NBPO' and 'ONP'
         dates = re.findall(date_pattern, text)
         pcpo_percentages = re.findall(pcpo_pattern, text)
         olp_percentages = re.findall(olp_pattern, text)
         ndp_percentages = re.findall(ndp_pattern, text)
         gpo_percentages = re.findall(gpo_pattern, text)
+        nbpo_percentages = re.findall(nbpo_pattern, text)
+        onp_percentages = re.findall(onp_pattern, text)
 
-        # Ensure all lists have the same length
+        # Remove 'NBPO' and 'ONP' data
+        # We remove the 'NBPO' and 'ONP' entries by simply skipping them in the lists
+        # NBPO and ONP do not affect the other entries, they are just ignored
+
+        # Ensure all lists have the same length, excluding 'NBPO' and 'ONP'
         min_len = min(len(dates), len(pcpo_percentages), len(olp_percentages), len(ndp_percentages), len(gpo_percentages))
         dates = dates[:min_len]
         pcpo_percentages = pcpo_percentages[:min_len]
@@ -66,6 +86,7 @@ def extract_district_data(url):
                 "NDP": ndp_percentages[i],
                 "GPO": gpo_percentages[i]
             })
+
     return data
 
 # Function to write data to CSV, replacing previous data
