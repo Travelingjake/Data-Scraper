@@ -1,124 +1,133 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from datetime import datetime
 import re
 from tqdm import tqdm  # Import the tqdm library for progress bar
 
 # Function to read URLs from the 'urls.txt' file
 def read_urls_from_file(file_path):
-    """Read the URLs from the file and return them as a list"""
+    """Read the URLs from the file and return them as a list."""
     with open(file_path, 'r') as file:
         return [line.strip() for line in file.readlines()]
 
+# Function to clean district name by fixing encoding issues and dashes
+def clean_district_name(district_name):
+    """Clean district names, ensuring consistent formatting with spaces and hyphens."""
+    district_name = district_name.replace('Ã¢Â€Â”', ' ')  # Misinterpreted em dash
+    district_name = district_name.replace('Ã¢Â€Â‘', ' ')  # Misinterpreted en dash
+    district_name = district_name.replace('—', ' ')  # Replace em dash with space
+    district_name = district_name.replace('–', ' ')  # Replace en dash with space
+    district_name = district_name.replace('-', ' ')  # Replace hyphen with space
+    district_name = re.sub(r"\s*\(.*\)$", "", district_name)  # Remove text in parentheses
+
+    return district_name.strip()
+
 # Function to extract district data from a given URL
 def extract_district_data(url):
-    """Extract district data from the given URL"""
-    # Send a GET request to the website
-    response = requests.get(url)
-    response.encoding = 'utf-8'  # Explicitly set the encoding to utf-8
-    
-    # Check for a successful connection
+    """Extract district data from the given URL."""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+    }
+    response = requests.get(url, headers=headers)
+    response.encoding = 'utf-8'
+
     if response.status_code != 200:
         print(f"Failed to connect to {url}. Status code: {response.status_code}")
-        return []
+        return "Failed to connect"
 
-    # Decode the content properly
-    page_content = response.content.decode('utf-8', 'ignore')  # Decode with 'ignore' to avoid issues with unrecognized chars
+    page_content = response.content.decode('utf-8', 'ignore')
     soup = BeautifulSoup(page_content, 'html.parser')
 
-    # Extract the district name from the specific <h2> tag within the <div class="noads">
-    district_name = soup.find('div', class_='noads').find('h2').get_text(strip=True)
-    
-    # Clean up problematic characters like 'Ã¢Â€Â”' and replace them
-    district_name = district_name.replace('Ã¢Â€Â”', '—')  # Fix encoding issue (en dash)
-    district_name = district_name.replace('—', ' ')  # Replace en dash with space
-    district_name = re.sub(r"\s*\(ON\)$", "", district_name)  # Remove "(ON)" at the end (case-sensitive)
-    district_name = re.sub(r"\s*\(.*\)$", "", district_name)  # Optionally remove anything in parentheses
-    
-    # Now, district_name will be cleaned up without the "(ON)" suffix
-    print(f"Extracted district name: {district_name}")
+    # Extract and clean the district name
+    district_name_element = soup.find('div', class_='noads')
+    if not district_name_element:
+        return "No district name found"
 
-    # Extract the polling data from <div class="hideifmobile">
+    district_name = district_name_element.find('h2').get_text(strip=True)
+    district_name = clean_district_name(district_name)
+
+    # Log the district name
+    print(f"Processing District: {district_name}")
+
     data = []
     for item in soup.find_all('div', class_='hideifmobile'):
         text = item.get_text(strip=True)
-        
-        # Use regex to extract polling information
+
+        # Patterns for extracting data
         date_pattern = r"\d{4}-\d{2}-\d{2}"
         pcpo_pattern = r"PCPO\s*(\d+%)"
         olp_pattern = r"OLP\s*(\d+%)"
         ndp_pattern = r"NDP\s*(\d+%)"
         gpo_pattern = r"GPO\s*(\d+%)"
-        
-        # Add patterns for 'NBPO' and 'ONP' to exclude them
-        nbpo_pattern = r"NBPO\s*(\d+%)"
-        onp_pattern = r"ONP\s*(\d+%)"
 
-        # Extracting the data, ensuring we skip 'NBPO' and 'ONP'
         dates = re.findall(date_pattern, text)
         pcpo_percentages = re.findall(pcpo_pattern, text)
         olp_percentages = re.findall(olp_pattern, text)
         ndp_percentages = re.findall(ndp_pattern, text)
         gpo_percentages = re.findall(gpo_pattern, text)
-        nbpo_percentages = re.findall(nbpo_pattern, text)
-        onp_percentages = re.findall(onp_pattern, text)
 
-        # Remove 'NBPO' and 'ONP' data
-        # We remove the 'NBPO' and 'ONP' entries by simply skipping them in the lists
-        # NBPO and ONP do not affect the other entries, they are just ignored
+        # Ensure all lists have the same length by trimming to the minimum length
+        min_len = min(len(dates), len(pcpo_percentages) or 0, len(olp_percentages) or 0, len(ndp_percentages) or 0, len(gpo_percentages) or 0)
 
-        # Ensure all lists have the same length, excluding 'NBPO' and 'ONP'
-        min_len = min(len(dates), len(pcpo_percentages), len(olp_percentages), len(ndp_percentages), len(gpo_percentages))
-        dates = dates[:min_len]
-        pcpo_percentages = pcpo_percentages[:min_len]
-        olp_percentages = olp_percentages[:min_len]
-        ndp_percentages = ndp_percentages[:min_len]
-        gpo_percentages = gpo_percentages[:min_len]
+        # Adjust missing lists to length `min_len` with '0%'
+        pcpo_percentages.extend(['0%'] * (min_len - len(pcpo_percentages)))
+        olp_percentages.extend(['0%'] * (min_len - len(olp_percentages)))
+        ndp_percentages.extend(['0%'] * (min_len - len(ndp_percentages)))
+        gpo_percentages.extend(['0%'] * (min_len - len(gpo_percentages)))
 
-        # Add the district name to each row and populate data
+        # Append data to the list
         for i in range(min_len):
             data.append({
                 "District": district_name,
-                "Date": dates[i],
+                "Date": dates[i] if i < len(dates) else "N/A",  # Handle missing dates as "N/A"
                 "PCPO": pcpo_percentages[i],
                 "OLP": olp_percentages[i],
                 "NDP": ndp_percentages[i],
                 "GPO": gpo_percentages[i]
             })
 
-    return data
+    return data if data else "No polling data found"
 
 # Function to write data to CSV, replacing previous data
 def write_to_csv(file_path, data):
-    """Write district data to CSV, replacing the previous data"""
-    # Convert the data into a DataFrame
+    """Write district data to CSV, replacing the previous data."""
     df = pd.DataFrame(data)
-    
+
+    # Fill missing columns with '0%' if any are missing in the DataFrame
+    for column in ["PCPO", "OLP", "NDP", "GPO"]:
+        if column not in df.columns:
+            df[column] = '0%'
+
     # Save the data to the CSV file, overwriting previous content
     df.to_csv(file_path, index=False)
     print(f"Data saved to {file_path}")
 
 # Main processing function
 def process_urls_and_extract_data(urls_file, output_csv_file):
-    """Process all URLs, extract district data, and save to CSV"""
-    # Read URLs from the file
+    """Process all URLs, extract district data, and save to CSV."""
     urls = read_urls_from_file(urls_file)
-    
-    # Prepare a list to collect the district data
     all_district_data = []
-    
+    failed_urls = []
+
     # Use tqdm for progress bar
     for url in tqdm(urls, desc="Processing URLs", unit="URL"):
-        district_data = extract_district_data(url)
-        if district_data:
-            all_district_data.extend(district_data)
-    
+        result = extract_district_data(url)
+        if isinstance(result, list):
+            all_district_data.extend(result)
+        else:
+            failed_urls.append((url, result))
+
     # Write the collected data to the CSV file, replacing previous data
     if all_district_data:
         write_to_csv(output_csv_file, all_district_data)
     else:
         print("No valid data extracted.")
+
+    # Output the reasons for failed URLs
+    if failed_urls:
+        print("\nThe following URLs were not processed:")
+        for url, reason in failed_urls:
+            print(f"{url} - Reason: {reason}")
 
 # Example usage
 urls_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/ProvUrls.txt'  # Path to your URLs list

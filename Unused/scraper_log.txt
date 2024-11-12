@@ -1,0 +1,30 @@
+2024-11-12 04:37:32,739 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:37:33,159 - DEBUG - https://338canada.com:443 "GET /ontario/1110e.htm HTTP/11" 406 None
+2024-11-12 04:37:33,166 - ERROR - HTTP error 406 when connecting to https://338canada.com/ontario/1110e.htm
+2024-11-12 04:37:33,167 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:37:33,574 - DEBUG - https://338canada.com:443 "GET /ontario/1118e.htm HTTP/11" 406 None
+2024-11-12 04:37:33,575 - ERROR - HTTP error 406 when connecting to https://338canada.com/ontario/1118e.htm
+2024-11-12 04:37:33,577 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:37:33,938 - DEBUG - https://338canada.com:443 "GET /ontario/1051e.htm HTTP/11" 406 None
+2024-11-12 04:37:33,940 - ERROR - HTTP error 406 when connecting to https://338canada.com/ontario/1051e.htm
+2024-11-12 04:37:33,940 - ERROR - Failed to process: https://338canada.com/ontario/1110e.htm
+2024-11-12 04:37:33,940 - ERROR - Failed to process: https://338canada.com/ontario/1118e.htm
+2024-11-12 04:37:33,940 - ERROR - Failed to process: https://338canada.com/ontario/1051e.htm
+2024-11-12 04:37:33,942 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:37:34,323 - DEBUG - https://338canada.com:443 "GET /ontario/1110e.htm HTTP/11" 406 None
+2024-11-12 04:37:34,323 - ERROR - HTTP error 406 when connecting to https://338canada.com/ontario/1110e.htm
+2024-11-12 04:37:34,324 - ERROR - No data found for https://338canada.com/ontario/1110e.htm
+2024-11-12 04:37:34,326 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:37:34,686 - DEBUG - https://338canada.com:443 "GET /ontario/1118e.htm HTTP/11" 406 None
+2024-11-12 04:37:34,687 - ERROR - HTTP error 406 when connecting to https://338canada.com/ontario/1118e.htm
+2024-11-12 04:37:34,688 - ERROR - No data found for https://338canada.com/ontario/1118e.htm
+2024-11-12 04:37:34,689 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:37:35,080 - DEBUG - https://338canada.com:443 "GET /ontario/1051e.htm HTTP/11" 406 None
+2024-11-12 04:37:35,082 - ERROR - HTTP error 406 when connecting to https://338canada.com/ontario/1051e.htm
+2024-11-12 04:37:35,082 - ERROR - No data found for https://338canada.com/ontario/1051e.htm
+2024-11-12 04:38:51,600 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:38:52,522 - DEBUG - https://338canada.com:443 "GET /ontario/1110e.htm HTTP/11" 200 None
+2024-11-12 04:38:52,546 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:38:53,572 - DEBUG - https://338canada.com:443 "GET /ontario/1118e.htm HTTP/11" 200 None
+2024-11-12 04:38:53,612 - DEBUG - Starting new HTTPS connection (1): 338canada.com:443
+2024-11-12 04:38:54,574 - DEBUG - https://338canada.com:443 "GET /ontario/1051e.htm HTTP/11" 200 None
