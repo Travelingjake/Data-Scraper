@@ -6,7 +6,7 @@ base_url = "https://338canada.com"
 district_url = f"{base_url}/federal.htm" 
 
 # Define output
-fed_file_path = "C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/FedUrls.txt"
+fed_file_path = "C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Federal/FedUrls.txt"
 
 # Function to read existing URLs from the file
 def read_existing_urls(file_path):
