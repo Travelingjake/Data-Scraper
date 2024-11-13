@@ -2,13 +2,17 @@ import requests
 from bs4 import BeautifulSoup
 
 # Define the URL to scrape
-url = "https://338canada.com/ontario/districts.htm"
+base_url = "https://338canada.com"
+district_url = f"{base_url}/ontario/districts.htm" 
+
+# Define output
+prov_file_path = "C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/ProvUrls.txt"
 
 # Function to read existing URLs from the file
 def read_existing_urls(file_path):
     try:
         with open(file_path, 'r') as file:
-            existing_urls = set(file.read().splitlines())  # Using a set to avoid duplicates
+            existing_urls = set(file.read().splitlines())  # Use set to avoid duplicates
         return existing_urls
     except FileNotFoundError:
         # If the file doesn't exist yet, return an empty set
@@ -21,7 +25,7 @@ def write_urls_to_file(file_path, new_urls):
             file.write(url + '\n')
 
 # Send a GET request to the website
-response = requests.get(url)
+response = requests.get(district_url)
 response.encoding = 'utf-8'  # Explicitly set the encoding to utf-8
 
 if response.status_code == 200:
@@ -40,13 +44,11 @@ district_urls = []
 for link in links:
     href = link['href']
     if ("/10" in href or "/11" in href): 
-        district_urls.append(href)
-
-# Define file path
-file_path = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/ProvUrls.txt'
+        full_url = href if href.startswith("http") else base_url + href  # Ensure URL is absolute
+        district_urls.append(full_url)
 
 # Read the existing URLs
-existing_urls = read_existing_urls(file_path)
+existing_urls = read_existing_urls(prov_file_path)
 
 # Create a set of new URLs from the extracted ones (to remove duplicates)
 new_urls = set(district_urls)
@@ -57,8 +59,8 @@ urls_to_remove = existing_urls - new_urls
 
 # If there are changes, update the file
 if urls_to_add or urls_to_remove:
-    updated_urls = existing_urls.union(urls_to_add)  # Add new URLs
-    write_urls_to_file(file_path, updated_urls)
+    updated_urls = existing_urls.union(urls_to_add)  # Combine existing with new URLs
+    write_urls_to_file(prov_file_path, updated_urls)
     print(f"URLs updated. Added {len(urls_to_add)} new URLs and removed {len(urls_to_remove)} old URLs.")
 else:
     print("No changes in URLs. The list is up-to-date.")

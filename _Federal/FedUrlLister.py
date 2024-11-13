@@ -2,7 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 
 # Define the URL to scrape
-url = "https://338canada.com/districts.htm"
+base_url = "https://338canada.com"
+district_url = f"{base_url}/federal.htm" 
+
+# Define output
+fed_file_path = "C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/FedUrls.txt"
 
 # Function to read existing URLs from the file
 def read_existing_urls(file_path):
@@ -21,7 +25,7 @@ def write_urls_to_file(file_path, new_urls):
             file.write(url + '\n')
 
 # Send a GET request to the website
-response = requests.get(url)
+response = requests.get(district_url)
 response.encoding = 'utf-8'  # Explicitly set the encoding to utf-8
 
 if response.status_code == 200:
@@ -39,16 +43,15 @@ links = soup.find_all('a', href=True)
 district_urls = []
 for link in links:
     href = link['href']
+     # Filter for URLs containing district number patterns; add base_url if needed
     if ("/100" in href or "/110" in href or "/120" in href or "/130" in href or
         "/240" in href or "/350" in href or "/351" in href or "/460" in href or
         "/470" in href or "/480" in href or "/590" in href): 
-        district_urls.append(href)
-
-# Define file path
-file_path = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/FedUrls.txt'
+        full_url = href if href.startswith("http") else base_url + href  # Ensure URL is absolute
+        district_urls.append(full_url)
 
 # Read the existing URLs
-existing_urls = read_existing_urls(file_path)
+existing_urls = read_existing_urls(fed_file_path)
 
 # Create a set of new URLs from the extracted ones (to remove duplicates)
 new_urls = set(district_urls)
@@ -60,7 +63,7 @@ urls_to_remove = existing_urls - new_urls
 # If there are changes, update the file
 if urls_to_add or urls_to_remove:
     updated_urls = existing_urls.union(urls_to_add)  # Add new URLs
-    write_urls_to_file(file_path, updated_urls)
+    write_urls_to_file(fed_file_path, updated_urls)
     print(f"URLs updated. Added {len(urls_to_add)} new URLs and removed {len(urls_to_remove)} old URLs.")
 else:
     print("No changes in URLs. The list is up-to-date.")
