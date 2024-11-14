@@ -144,7 +144,7 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
     print(f"Data saved to {output_csv_file}")
 
 # Example usage
-urls_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Federal/FedUrls.txt'  
-output_csv_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Federal/Federal_district_data.csv'
+urls_file = './_Federal/FedUrls.txt'  # Use relative path for input URL file
+output_csv_file = './_Federal/Federal_district_data.csv'  # Use relative path for output CSV file
 
 process_urls_and_extract_data(urls_file, output_csv_file)
