@@ -91,7 +91,7 @@ def extract_district_data(url):
             unique_dates.append(date)
             seen_dates.add(date)
 
-        date_iter = iter(unique_dates)
+        #date_iter = iter(unique_dates)
         text = re.sub(r"\d{4}-\d{2}-\d{2}", lambda match: unique_dates.pop(0) if unique_dates else "", text)
 
         #print(f"Final Cleaned Text: {text}")
@@ -101,28 +101,28 @@ def extract_district_data(url):
         dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
 
         # Extracting dates and party percentages
-        lpc_percentages = re.findall(r"LPC\s*(\d+%)", text) or ["0%"] * len(dates)
-        cpc_percentages = re.findall(r"CPC\s*(\d+%)", text) or ["0%"] * len(dates)
+        olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(dates)
+        pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(dates)
         ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
-        gpc_percentages = re.findall(r"GPC\s*(\d+%)", text) or ["0%"] * len(dates)
+        gpo_percentages = re.findall(r"GPO\s*(\d+%)", text) or ["0%"] * len(dates)
 
         # Ensure same length for all lists
-        min_len = min(len(dates), len(lpc_percentages), len(cpc_percentages), len(ndp_percentages), len(gpc_percentages))
+        min_len = min(len(dates), len(olp_percentages), len(pcpo_percentages), len(ndp_percentages), len(gpo_percentages))
         dates = dates[:min_len]
-        lpc_percentages = lpc_percentages[:min_len]
-        cpc_percentages = cpc_percentages[:min_len]
+        olp_percentages = olp_percentages[:min_len]
+        pcpo_percentages = pcpo_percentages[:min_len]
         ndp_percentages = ndp_percentages[:min_len]
-        gpc_percentages = gpc_percentages[:min_len]
+        gpo_percentages = gpo_percentages[:min_len]
 
         # Step 6: Add data to dictionary
         for i in range(min_len):
             data.append({
                 "District": district_name,
                 "Date": dates[i],
-                "LPC": lpc_percentages[i],
+                "LPC": olp_percentages[i],
                 "NDP": ndp_percentages[i],
-                "CPC": cpc_percentages[i],
-                "GPC": gpc_percentages[i]
+                "CPC": pcpo_percentages[i],
+                "GPC": gpo_percentages[i]
             })
 
     return data
@@ -144,7 +144,7 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
     print(f"Data saved to {output_csv_file}")
 
 # Example usage
-urls_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Federal/FedUrls.txt'  
-output_csv_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Federal/Federal_district_data.csv'
+urls_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Provincial/ProvUrls.txt'  
+output_csv_file = 'C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Provincial/Provincial_district_data.csv'
 
 process_urls_and_extract_data(urls_file, output_csv_file)
