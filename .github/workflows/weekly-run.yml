@@ -14,13 +14,13 @@ jobs:
     steps:
       # Check out the repository code
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Set up Python
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v2
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v3
         with:
-          python-version: '3.8'
+          python-version: '3.9'
 
       # Install dependencies (use a requirements.txt file or install directly)
       - name: Install dependencies

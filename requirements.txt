@@ -2,7 +2,3 @@ requests
 beautifulsoup4
 pandas
 tqdm
-re
-datetime
-os
-sys
