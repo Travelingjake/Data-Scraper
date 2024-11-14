@@ -119,10 +119,10 @@ def extract_district_data(url):
             data.append({
                 "District": district_name,
                 "Date": dates[i],
-                "LPC": olp_percentages[i],
+                "OLP": olp_percentages[i],
                 "NDP": ndp_percentages[i],
-                "CPC": pcpo_percentages[i],
-                "GPC": gpo_percentages[i]
+                "PCPO": pcpo_percentages[i],
+                "GPO": gpo_percentages[i]
             })
 
     return data
