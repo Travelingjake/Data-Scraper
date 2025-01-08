@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 # Define the URL to scrape
 base_url = "https://338canada.com"
-district_url = f"{base_url}/district.htm"
+district_url = f"{base_url}/districts.htm"
 
 # Define output
 fed_file_path = "C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Federal/FedUrls.txt"
