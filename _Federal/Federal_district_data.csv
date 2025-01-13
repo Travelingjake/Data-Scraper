@@ -34,6 +34,7 @@ Avalon,2024-12-15,35%,15%,47%,0%
 Avalon,2024-12-22,32%,15%,50%,0%
 Avalon,2024-12-29,32%,15%,50%,0%
 Avalon,2025-01-05,32%,15%,50%,0%
+Avalon,2025-01-12,33%,14%,50%,0%
 Cape Spear,2024-05-12,43%,22%,32%,0%
 Cape Spear,2024-05-19,43%,22%,33%,0%
 Cape Spear,2024-05-26,43%,22%,32%,0%
@@ -69,6 +70,7 @@ Cape Spear,2024-12-15,40%,25%,31%,0%
 Cape Spear,2024-12-22,38%,25%,35%,0%
 Cape Spear,2024-12-29,38%,25%,35%,0%
 Cape Spear,2025-01-05,37%,26%,34%,0%
+Cape Spear,2025-01-12,39%,24%,35%,0%
 Central Newfoundland,2024-05-12,31%,6%,62%,0%
 Central Newfoundland,2024-05-19,31%,5%,63%,0%
 Central Newfoundland,2024-05-26,31%,6%,62%,0%
@@ -104,6 +106,7 @@ Central Newfoundland,2024-12-15,30%,8%,59%,0%
 Central Newfoundland,2024-12-22,29%,8%,61%,0%
 Central Newfoundland,2024-12-29,29%,8%,61%,0%
 Central Newfoundland,2025-01-05,29%,8%,61%,0%
+Central Newfoundland,2025-01-12,30%,8%,60%,0%
 Labrador,2024-05-12,31%,22%,45%,0%
 Labrador,2024-05-19,30%,21%,46%,0%
 Labrador,2024-05-26,31%,22%,45%,0%
@@ -139,6 +142,7 @@ Labrador,2024-12-15,28%,24%,44%,0%
 Labrador,2024-12-22,27%,24%,46%,0%
 Labrador,2024-12-29,27%,24%,46%,0%
 Labrador,2025-01-05,26%,25%,46%,0%
+Labrador,2025-01-12,28%,23%,46%,0%
 Long Range Mountains,2024-05-12,31%,10%,56%,0%
 Long Range Mountains,2024-05-19,31%,10%,57%,0%
 Long Range Mountains,2024-05-26,31%,10%,56%,0%
@@ -174,6 +178,7 @@ Long Range Mountains,2024-12-15,29%,12%,54%,0%
 Long Range Mountains,2024-12-22,27%,12%,57%,0%
 Long Range Mountains,2024-12-29,27%,12%,57%,0%
 Long Range Mountains,2025-01-05,27%,13%,56%,0%
+Long Range Mountains,2025-01-12,28%,12%,56%,0%
 St. John's East,2024-05-12,37%,31%,30%,0%
 St. John's East,2024-05-19,36%,31%,31%,0%
 St. John's East,2024-05-26,36%,31%,30%,0%
@@ -209,6 +214,7 @@ St. John's East,2024-12-15,34%,34%,29%,0%
 St. John's East,2024-12-22,32%,34%,31%,0%
 St. John's East,2024-12-29,32%,34%,31%,0%
 St. John's East,2025-01-05,32%,35%,31%,0%
+St. John's East,2025-01-12,34%,32%,31%,0%
 Terra Nova The Peninsulas,2024-05-12,33%,7%,58%,0%
 Terra Nova The Peninsulas,2024-05-19,32%,7%,58%,0%
 Terra Nova The Peninsulas,2024-05-26,33%,7%,57%,0%
@@ -244,6 +250,7 @@ Terra Nova The Peninsulas,2024-12-15,31%,9%,56%,0%
 Terra Nova The Peninsulas,2024-12-22,29%,9%,58%,0%
 Terra Nova The Peninsulas,2024-12-29,30%,9%,58%,0%
 Terra Nova The Peninsulas,2025-01-05,29%,9%,57%,0%
+Terra Nova The Peninsulas,2025-01-12,31%,9%,57%,0%
 Cardigan,2024-05-12,38%,9%,47%,5%
 Cardigan,2024-05-19,37%,8%,48%,5%
 Cardigan,2024-05-26,38%,9%,47%,5%
@@ -279,6 +286,7 @@ Cardigan,2024-12-15,35%,11%,45%,6%
 Cardigan,2024-12-22,33%,11%,48%,5%
 Cardigan,2024-12-29,33%,11%,48%,5%
 Cardigan,2025-01-05,33%,12%,48%,5%
+Cardigan,2025-01-12,34%,11%,48%,5%
 Charlottetown,2024-05-12,34%,9%,46%,9%
 Charlottetown,2024-05-19,34%,9%,47%,9%
 Charlottetown,2024-05-26,34%,9%,46%,9%
@@ -314,6 +322,7 @@ Charlottetown,2024-12-15,32%,12%,44%,10%
 Charlottetown,2024-12-22,29%,12%,47%,10%
 Charlottetown,2024-12-29,30%,12%,47%,10%
 Charlottetown,2025-01-05,29%,12%,47%,10%
+Charlottetown,2025-01-12,31%,11%,47%,10%
 Egmont,2024-05-12,34%,8%,47%,9%
 Egmont,2024-05-19,34%,7%,48%,9%
 Egmont,2024-05-26,35%,8%,47%,9%
@@ -349,6 +358,7 @@ Egmont,2024-12-15,32%,10%,45%,10%
 Egmont,2024-12-22,30%,10%,48%,10%
 Egmont,2024-12-29,30%,10%,48%,10%
 Egmont,2025-01-05,29%,10%,48%,10%
+Egmont,2025-01-12,31%,10%,48%,10%
 Malpeque,2024-05-12,30%,7%,48%,13%
 Malpeque,2024-05-19,30%,7%,49%,13%
 Malpeque,2024-05-26,30%,7%,49%,13%
@@ -384,6 +394,7 @@ Malpeque,2024-12-15,28%,9%,46%,14%
 Malpeque,2024-12-22,26%,9%,49%,14%
 Malpeque,2024-12-29,26%,10%,49%,14%
 Malpeque,2025-01-05,26%,10%,49%,14%
+Malpeque,2025-01-12,27%,9%,49%,13%
 Acadie Annapolis,2024-05-12,20%,10%,67%,0%
 Acadie Annapolis,2024-05-19,20%,10%,67%,0%
 Acadie Annapolis,2024-05-26,20%,10%,66%,0%
@@ -419,6 +430,7 @@ Acadie Annapolis,2024-12-15,20%,13%,62%,0%
 Acadie Annapolis,2024-12-22,18%,13%,65%,0%
 Acadie Annapolis,2024-12-29,18%,13%,65%,0%
 Acadie Annapolis,2025-01-05,18%,13%,64%,0%
+Acadie Annapolis,2025-01-12,19%,12%,64%,0%
 Cape Breton Canso Antigonish,2024-05-12,33%,13%,52%,0%
 Cape Breton Canso Antigonish,2024-05-19,32%,12%,53%,0%
 Cape Breton Canso Antigonish,2024-05-26,33%,13%,52%,0%
@@ -454,6 +466,7 @@ Cape Breton Canso Antigonish,2024-12-15,31%,15%,50%,0%
 Cape Breton Canso Antigonish,2024-12-22,28%,15%,53%,0%
 Cape Breton Canso Antigonish,2024-12-29,28%,15%,53%,0%
 Cape Breton Canso Antigonish,2025-01-05,28%,15%,53%,0%
+Cape Breton Canso Antigonish,2025-01-12,29%,14%,53%,0%
 Central Nova,2024-05-12,32%,14%,49%,0%
 Central Nova,2024-05-19,32%,14%,50%,0%
 Central Nova,2024-05-26,32%,14%,49%,0%
@@ -489,6 +502,7 @@ Central Nova,2024-12-15,30%,17%,47%,0%
 Central Nova,2024-12-22,28%,17%,50%,0%
 Central Nova,2024-12-29,28%,17%,50%,0%
 Central Nova,2025-01-05,28%,17%,50%,0%
+Central Nova,2025-01-12,29%,16%,50%,0%
 Cumberland Colchester,2024-05-12,21%,10%,64%,3%
 Cumberland Colchester,2024-05-19,20%,10%,65%,3%
 Cumberland Colchester,2024-05-26,21%,10%,64%,3%
@@ -524,6 +538,7 @@ Cumberland Colchester,2024-12-15,20%,13%,60%,4%
 Cumberland Colchester,2024-12-22,19%,13%,63%,4%
 Cumberland Colchester,2024-12-29,19%,13%,62%,4%
 Cumberland Colchester,2025-01-05,19%,13%,62%,4%
+Cumberland Colchester,2025-01-12,20%,12%,62%,3%
 Dartmouth Cole Harbour,2024-05-12,37%,28%,28%,4%
 Dartmouth Cole Harbour,2024-05-19,37%,27%,28%,4%
 Dartmouth Cole Harbour,2024-05-26,37%,28%,27%,3%
@@ -559,6 +574,7 @@ Dartmouth Cole Harbour,2024-12-15,35%,30%,26%,4%
 Dartmouth Cole Harbour,2024-12-22,31%,32%,28%,4%
 Dartmouth Cole Harbour,2024-12-29,31%,33%,28%,4%
 Dartmouth Cole Harbour,2025-01-05,31%,33%,28%,4%
+Dartmouth Cole Harbour,2025-01-12,32%,31%,28%,4%
 Halifax,2024-05-12,39%,34%,23%,0%
 Halifax,2024-05-19,39%,34%,23%,0%
 Halifax,2024-05-26,39%,34%,23%,0%
@@ -594,41 +610,43 @@ Halifax,2024-12-15,35%,38%,22%,0%
 Halifax,2024-12-22,33%,39%,24%,0%
 Halifax,2024-12-29,33%,39%,24%,0%
 Halifax,2025-01-05,32%,39%,24%,0%
-Halifax West,2024-05-12,37%,25%,34%,3%
-Halifax West,2024-05-19,37%,24%,35%,3%
-Halifax West,2024-05-26,37%,25%,34%,3%
-Halifax West,2024-06-02,37%,25%,34%,3%
-Halifax West,2024-06-09,38%,26%,33%,3%
-Halifax West,2024-06-16,38%,26%,32%,3%
-Halifax West,2024-06-23,38%,27%,31%,3%
-Halifax West,2024-06-30,37%,27%,30%,3%
-Halifax West,2024-07-07,39%,27%,29%,3%
-Halifax West,2024-07-14,40%,27%,28%,3%
-Halifax West,2024-07-21,41%,27%,27%,3%
-Halifax West,2024-07-28,41%,27%,27%,3%
-Halifax West,2024-08-04,40%,27%,28%,3%
-Halifax West,2024-08-11,39%,27%,29%,3%
-Halifax West,2024-08-18,39%,26%,30%,3%
-Halifax West,2024-08-25,38%,26%,31%,3%
-Halifax West,2024-09-01,38%,24%,32%,3%
-Halifax West,2024-09-08,38%,24%,32%,3%
-Halifax West,2024-09-15,38%,23%,33%,3%
-Halifax West,2024-09-22,38%,23%,34%,3%
-Halifax West,2024-09-29,37%,24%,34%,3%
-Halifax West,2024-10-06,37%,24%,33%,3%
-Halifax West,2024-10-13,37%,25%,33%,3%
-Halifax West,2024-10-20,37%,25%,33%,3%
-Halifax West,2024-10-27,37%,25%,33%,3%
-Halifax West,2024-11-03,37%,26%,32%,3%
-Halifax West,2024-11-10,38%,25%,32%,3%
-Halifax West,2024-11-17,39%,25%,31%,3%
-Halifax West,2024-11-24,37%,26%,32%,3%
-Halifax West,2024-12-01,37%,26%,32%,3%
-Halifax West,2024-12-08,35%,27%,32%,3%
-Halifax West,2024-12-15,35%,27%,33%,3%
-Halifax West,2024-12-22,33%,27%,35%,3%
-Halifax West,2024-12-29,33%,28%,35%,3%
-Halifax West,2025-01-05,32%,28%,35%,3%
+Halifax,2025-01-12,34%,37%,24%,0%
+Halifax West,2024-05-12,37%,25%,34%,0%
+Halifax West,2024-05-19,37%,24%,35%,0%
+Halifax West,2024-05-26,37%,25%,34%,0%
+Halifax West,2024-06-02,37%,25%,34%,0%
+Halifax West,2024-06-09,38%,26%,33%,0%
+Halifax West,2024-06-16,38%,26%,32%,0%
+Halifax West,2024-06-23,38%,27%,31%,0%
+Halifax West,2024-06-30,37%,27%,30%,0%
+Halifax West,2024-07-07,39%,27%,29%,0%
+Halifax West,2024-07-14,40%,27%,28%,0%
+Halifax West,2024-07-21,41%,27%,27%,0%
+Halifax West,2024-07-28,41%,27%,27%,0%
+Halifax West,2024-08-04,40%,27%,28%,0%
+Halifax West,2024-08-11,39%,27%,29%,0%
+Halifax West,2024-08-18,39%,26%,30%,0%
+Halifax West,2024-08-25,38%,26%,31%,0%
+Halifax West,2024-09-01,38%,24%,32%,0%
+Halifax West,2024-09-08,38%,24%,32%,0%
+Halifax West,2024-09-15,38%,23%,33%,0%
+Halifax West,2024-09-22,38%,23%,34%,0%
+Halifax West,2024-09-29,37%,24%,34%,0%
+Halifax West,2024-10-06,37%,24%,33%,0%
+Halifax West,2024-10-13,37%,25%,33%,0%
+Halifax West,2024-10-20,37%,25%,33%,0%
+Halifax West,2024-10-27,37%,25%,33%,0%
+Halifax West,2024-11-03,37%,26%,32%,0%
+Halifax West,2024-11-10,38%,25%,32%,0%
+Halifax West,2024-11-17,39%,25%,31%,0%
+Halifax West,2024-11-24,37%,26%,32%,0%
+Halifax West,2024-12-01,37%,26%,32%,0%
+Halifax West,2024-12-08,35%,27%,32%,0%
+Halifax West,2024-12-15,35%,27%,33%,0%
+Halifax West,2024-12-22,33%,27%,35%,0%
+Halifax West,2024-12-29,33%,28%,35%,0%
+Halifax West,2025-01-05,32%,28%,35%,0%
+Halifax West,2025-01-12,34%,26%,35%,0%
 Kings Hants,2024-05-12,33%,17%,46%,0%
 Kings Hants,2024-05-19,33%,17%,46%,0%
 Kings Hants,2024-05-26,33%,17%,46%,0%
@@ -664,6 +682,7 @@ Kings Hants,2024-12-15,31%,20%,44%,0%
 Kings Hants,2024-12-22,29%,19%,47%,0%
 Kings Hants,2024-12-29,29%,20%,47%,0%
 Kings Hants,2025-01-05,28%,20%,47%,0%
+Kings Hants,2025-01-12,30%,19%,47%,0%
 Sackville Bedford Preston,2024-05-12,34%,23%,39%,0%
 Sackville Bedford Preston,2024-05-19,34%,23%,40%,0%
 Sackville Bedford Preston,2024-05-26,34%,23%,39%,0%
@@ -699,6 +718,7 @@ Sackville Bedford Preston,2024-12-15,32%,26%,37%,0%
 Sackville Bedford Preston,2024-12-22,30%,26%,40%,0%
 Sackville Bedford Preston,2024-12-29,30%,26%,40%,0%
 Sackville Bedford Preston,2025-01-05,29%,26%,40%,0%
+Sackville Bedford Preston,2025-01-12,31%,24%,40%,0%
 South Shore St. Margarets,2024-05-12,24%,15%,59%,3%
 South Shore St. Margarets,2024-05-19,23%,14%,59%,3%
 South Shore St. Margarets,2024-05-26,24%,15%,58%,3%
@@ -734,6 +754,7 @@ South Shore St. Margarets,2024-12-15,22%,17%,56%,3%
 South Shore St. Margarets,2024-12-22,21%,17%,58%,3%
 South Shore St. Margarets,2024-12-29,21%,18%,58%,3%
 South Shore St. Margarets,2025-01-05,21%,18%,58%,3%
+South Shore St. Margarets,2025-01-12,22%,17%,58%,3%
 Sydney Glace Bay,2024-05-12,30%,17%,50%,0%
 Sydney Glace Bay,2024-05-19,30%,17%,51%,0%
 Sydney Glace Bay,2024-05-26,30%,17%,50%,0%
@@ -769,6 +790,7 @@ Sydney Glace Bay,2024-12-15,28%,20%,48%,0%
 Sydney Glace Bay,2024-12-22,26%,20%,51%,0%
 Sydney Glace Bay,2024-12-29,26%,20%,51%,0%
 Sydney Glace Bay,2025-01-05,26%,20%,51%,0%
+Sydney Glace Bay,2025-01-12,27%,19%,51%,0%
 Acadie Bathurst,2024-05-12,56%,12%,25%,4%
 Acadie Bathurst,2024-05-19,55%,12%,26%,4%
 Acadie Bathurst,2024-05-26,56%,12%,25%,3%
@@ -804,6 +826,7 @@ Acadie Bathurst,2024-12-15,48%,16%,27%,4%
 Acadie Bathurst,2024-12-22,46%,16%,30%,4%
 Acadie Bathurst,2024-12-29,46%,17%,30%,4%
 Acadie Bathurst,2025-01-05,46%,17%,30%,4%
+Acadie Bathurst,2025-01-12,47%,15%,30%,4%
 Beauséjour,2024-05-12,46%,11%,32%,6%
 Beauséjour,2024-05-19,45%,11%,33%,6%
 Beauséjour,2024-05-26,46%,11%,32%,6%
@@ -839,6 +862,7 @@ Beauséjour,2024-12-15,43%,14%,31%,7%
 Beauséjour,2024-12-22,41%,14%,34%,7%
 Beauséjour,2024-12-29,41%,14%,34%,7%
 Beauséjour,2025-01-05,41%,14%,34%,7%
+Beauséjour,2025-01-12,42%,13%,34%,7%
 Fredericton Oromocto,2024-05-12,27%,11%,47%,12%
 Fredericton Oromocto,2024-05-19,27%,11%,48%,12%
 Fredericton Oromocto,2024-05-26,28%,11%,48%,12%
@@ -874,6 +898,7 @@ Fredericton Oromocto,2024-12-15,25%,14%,45%,13%
 Fredericton Oromocto,2024-12-22,23%,14%,48%,13%
 Fredericton Oromocto,2024-12-29,23%,14%,48%,13%
 Fredericton Oromocto,2025-01-05,23%,14%,48%,13%
+Fredericton Oromocto,2025-01-12,24%,13%,48%,12%
 Fundy Royal,2024-05-12,17%,12%,63%,5%
 Fundy Royal,2024-05-19,17%,12%,63%,5%
 Fundy Royal,2024-05-26,17%,12%,62%,5%
@@ -909,6 +934,7 @@ Fundy Royal,2024-12-15,17%,15%,58%,6%
 Fundy Royal,2024-12-22,15%,15%,61%,5%
 Fundy Royal,2024-12-29,15%,15%,60%,5%
 Fundy Royal,2025-01-05,15%,15%,60%,6%
+Fundy Royal,2025-01-12,16%,14%,61%,5%
 Madawaska Restigouche,2024-05-12,41%,6%,43%,3%
 Madawaska Restigouche,2024-05-19,40%,6%,44%,3%
 Madawaska Restigouche,2024-05-26,41%,6%,43%,3%
@@ -944,6 +970,7 @@ Madawaska Restigouche,2024-12-15,38%,8%,42%,3%
 Madawaska Restigouche,2024-12-22,36%,9%,46%,3%
 Madawaska Restigouche,2024-12-29,36%,9%,45%,3%
 Madawaska Restigouche,2025-01-05,36%,9%,45%,3%
+Madawaska Restigouche,2025-01-12,37%,8%,45%,3%
 Miramichi Grand Lake,2024-05-12,25%,6%,62%,5%
 Miramichi Grand Lake,2024-05-19,25%,6%,63%,4%
 Miramichi Grand Lake,2024-05-26,25%,6%,62%,4%
@@ -979,6 +1006,7 @@ Miramichi Grand Lake,2024-12-15,24%,9%,58%,5%
 Miramichi Grand Lake,2024-12-22,23%,9%,61%,5%
 Miramichi Grand Lake,2024-12-29,23%,9%,61%,5%
 Miramichi Grand Lake,2025-01-05,22%,9%,61%,5%
+Miramichi Grand Lake,2025-01-12,24%,8%,60%,5%
 Moncton Dieppe,2024-05-12,40%,16%,36%,5%
 Moncton Dieppe,2024-05-19,40%,16%,37%,5%
 Moncton Dieppe,2024-05-26,40%,17%,36%,5%
@@ -1014,6 +1042,7 @@ Moncton Dieppe,2024-12-15,37%,19%,35%,5%
 Moncton Dieppe,2024-12-22,35%,19%,38%,5%
 Moncton Dieppe,2024-12-29,35%,19%,38%,5%
 Moncton Dieppe,2025-01-05,35%,20%,37%,5%
+Moncton Dieppe,2025-01-12,36%,18%,38%,5%
 Saint John Kennebecasis,2024-05-12,31%,11%,53%,3%
 Saint John Kennebecasis,2024-05-19,30%,11%,54%,3%
 Saint John Kennebecasis,2024-05-26,30%,11%,53%,3%
@@ -1049,6 +1078,7 @@ Saint John Kennebecasis,2024-12-15,28%,14%,52%,3%
 Saint John Kennebecasis,2024-12-22,26%,13%,55%,3%
 Saint John Kennebecasis,2024-12-29,26%,14%,54%,3%
 Saint John Kennebecasis,2025-01-05,26%,14%,54%,3%
+Saint John Kennebecasis,2025-01-12,27%,13%,54%,3%
 Saint John St. Croix,2024-05-12,19%,11%,63%,4%
 Saint John St. Croix,2024-05-19,19%,10%,64%,4%
 Saint John St. Croix,2024-05-26,19%,11%,63%,4%
@@ -1084,6 +1114,7 @@ Saint John St. Croix,2024-12-15,19%,14%,59%,5%
 Saint John St. Croix,2024-12-22,17%,14%,61%,5%
 Saint John St. Croix,2024-12-29,17%,14%,61%,5%
 Saint John St. Croix,2025-01-05,17%,14%,61%,5%
+Saint John St. Croix,2025-01-12,18%,13%,61%,4%
 Tobique Mactaquac,2024-05-12,15%,9%,68%,5%
 Tobique Mactaquac,2024-05-19,15%,9%,68%,5%
 Tobique Mactaquac,2024-05-26,15%,9%,68%,5%
@@ -1119,6 +1150,7 @@ Tobique Mactaquac,2024-12-15,14%,12%,63%,5%
 Tobique Mactaquac,2024-12-22,13%,12%,66%,5%
 Tobique Mactaquac,2024-12-29,13%,12%,65%,5%
 Tobique Mactaquac,2025-01-05,13%,12%,65%,5%
+Tobique Mactaquac,2025-01-12,14%,11%,65%,5%
 Abitibi Baie James Nunavik Eeyou,2024-05-12,16%,14%,24%,4%
 Abitibi Baie James Nunavik Eeyou,2024-05-19,16%,14%,23%,4%
 Abitibi Baie James Nunavik Eeyou,2024-05-26,16%,14%,23%,4%
@@ -1154,6 +1186,7 @@ Abitibi Baie James Nunavik Eeyou,2024-12-15,14%,16%,22%,4%
 Abitibi Baie James Nunavik Eeyou,2024-12-22,14%,15%,24%,4%
 Abitibi Baie James Nunavik Eeyou,2024-12-29,13%,15%,24%,4%
 Abitibi Baie James Nunavik Eeyou,2025-01-05,13%,15%,24%,4%
+Abitibi Baie James Nunavik Eeyou,2025-01-12,13%,14%,25%,4%
 Abitibi Témiscamingue,2024-05-12,15%,7%,20%,4%
 Abitibi Témiscamingue,2024-05-19,14%,7%,19%,4%
 Abitibi Témiscamingue,2024-05-26,15%,7%,19%,4%
@@ -1189,6 +1222,7 @@ Abitibi Témiscamingue,2024-12-15,13%,9%,18%,5%
 Abitibi Témiscamingue,2024-12-22,12%,8%,20%,4%
 Abitibi Témiscamingue,2024-12-29,12%,8%,20%,4%
 Abitibi Témiscamingue,2025-01-05,12%,8%,20%,4%
+Abitibi Témiscamingue,2025-01-12,12%,8%,21%,4%
 Ahuntsic Cartierville,2024-05-12,48%,11%,11%,5%
 Ahuntsic Cartierville,2024-05-19,47%,11%,11%,5%
 Ahuntsic Cartierville,2024-05-26,48%,11%,10%,5%
@@ -1224,41 +1258,43 @@ Ahuntsic Cartierville,2024-12-15,31%,15%,17%,5%
 Ahuntsic Cartierville,2024-12-22,32%,16%,18%,5%
 Ahuntsic Cartierville,2024-12-29,32%,16%,18%,5%
 Ahuntsic Cartierville,2025-01-05,31%,16%,19%,5%
-Alfred Pellan,2024-05-12,42%,7%,17%,3%
-Alfred Pellan,2024-05-19,41%,7%,16%,3%
-Alfred Pellan,2024-05-26,43%,7%,16%,3%
-Alfred Pellan,2024-06-02,44%,7%,17%,3%
-Alfred Pellan,2024-06-09,44%,7%,17%,3%
-Alfred Pellan,2024-06-16,44%,7%,17%,3%
-Alfred Pellan,2024-06-23,40%,8%,20%,3%
-Alfred Pellan,2024-06-30,39%,8%,19%,3%
-Alfred Pellan,2024-07-07,39%,8%,19%,3%
-Alfred Pellan,2024-07-14,39%,8%,19%,3%
-Alfred Pellan,2024-07-21,39%,8%,19%,3%
-Alfred Pellan,2024-07-28,39%,8%,19%,3%
-Alfred Pellan,2024-08-04,41%,8%,18%,3%
-Alfred Pellan,2024-08-11,41%,8%,18%,3%
-Alfred Pellan,2024-08-18,40%,8%,19%,3%
-Alfred Pellan,2024-08-25,41%,8%,19%,3%
-Alfred Pellan,2024-09-01,42%,8%,19%,3%
-Alfred Pellan,2024-09-08,42%,8%,18%,3%
-Alfred Pellan,2024-09-15,41%,8%,18%,3%
-Alfred Pellan,2024-09-22,36%,8%,19%,3%
-Alfred Pellan,2024-09-29,34%,9%,19%,3%
-Alfred Pellan,2024-10-06,34%,10%,19%,3%
-Alfred Pellan,2024-10-13,34%,10%,18%,3%
-Alfred Pellan,2024-10-20,35%,9%,18%,3%
-Alfred Pellan,2024-10-27,35%,9%,17%,3%
-Alfred Pellan,2024-11-03,35%,9%,18%,3%
-Alfred Pellan,2024-11-10,35%,9%,18%,3%
-Alfred Pellan,2024-11-17,34%,9%,18%,3%
-Alfred Pellan,2024-11-24,33%,9%,19%,3%
-Alfred Pellan,2024-12-01,32%,9%,20%,3%
-Alfred Pellan,2024-12-08,32%,10%,19%,3%
-Alfred Pellan,2024-12-15,31%,10%,19%,3%
-Alfred Pellan,2024-12-22,31%,10%,21%,3%
-Alfred Pellan,2024-12-29,31%,10%,21%,3%
-Alfred Pellan,2025-01-05,30%,9%,21%,3%
+Ahuntsic Cartierville,2025-01-12,31%,15%,19%,5%
+Alfred Pellan,2024-05-12,42%,7%,17%,0%
+Alfred Pellan,2024-05-19,41%,7%,16%,0%
+Alfred Pellan,2024-05-26,43%,7%,16%,0%
+Alfred Pellan,2024-06-02,44%,7%,17%,0%
+Alfred Pellan,2024-06-09,44%,7%,17%,0%
+Alfred Pellan,2024-06-16,44%,7%,17%,0%
+Alfred Pellan,2024-06-23,40%,8%,20%,0%
+Alfred Pellan,2024-06-30,39%,8%,19%,0%
+Alfred Pellan,2024-07-07,39%,8%,19%,0%
+Alfred Pellan,2024-07-14,39%,8%,19%,0%
+Alfred Pellan,2024-07-21,39%,8%,19%,0%
+Alfred Pellan,2024-07-28,39%,8%,19%,0%
+Alfred Pellan,2024-08-04,41%,8%,18%,0%
+Alfred Pellan,2024-08-11,41%,8%,18%,0%
+Alfred Pellan,2024-08-18,40%,8%,19%,0%
+Alfred Pellan,2024-08-25,41%,8%,19%,0%
+Alfred Pellan,2024-09-01,42%,8%,19%,0%
+Alfred Pellan,2024-09-08,42%,8%,18%,0%
+Alfred Pellan,2024-09-15,41%,8%,18%,0%
+Alfred Pellan,2024-09-22,36%,8%,19%,0%
+Alfred Pellan,2024-09-29,34%,9%,19%,0%
+Alfred Pellan,2024-10-06,34%,10%,19%,0%
+Alfred Pellan,2024-10-13,34%,10%,18%,0%
+Alfred Pellan,2024-10-20,35%,9%,18%,0%
+Alfred Pellan,2024-10-27,35%,9%,17%,0%
+Alfred Pellan,2024-11-03,35%,9%,18%,0%
+Alfred Pellan,2024-11-10,35%,9%,18%,0%
+Alfred Pellan,2024-11-17,34%,9%,18%,0%
+Alfred Pellan,2024-11-24,33%,9%,19%,0%
+Alfred Pellan,2024-12-01,32%,9%,20%,0%
+Alfred Pellan,2024-12-08,32%,10%,19%,0%
+Alfred Pellan,2024-12-15,31%,10%,19%,0%
+Alfred Pellan,2024-12-22,31%,10%,21%,0%
+Alfred Pellan,2024-12-29,31%,10%,21%,0%
+Alfred Pellan,2025-01-05,30%,9%,21%,0%
+Alfred Pellan,2025-01-12,30%,9%,22%,0%
 Argenteuil La Petite Nation,2024-05-12,31%,7%,19%,0%
 Argenteuil La Petite Nation,2024-05-19,30%,7%,18%,0%
 Argenteuil La Petite Nation,2024-05-26,31%,7%,18%,0%
@@ -1294,6 +1330,7 @@ Argenteuil La Petite Nation,2024-12-15,28%,9%,18%,0%
 Argenteuil La Petite Nation,2024-12-22,27%,9%,20%,0%
 Argenteuil La Petite Nation,2024-12-29,27%,9%,20%,0%
 Argenteuil La Petite Nation,2025-01-05,26%,9%,20%,0%
+Argenteuil La Petite Nation,2025-01-12,26%,8%,21%,0%
 Beauce,2024-05-12,5%,2%,69%,0%
 Beauce,2024-05-19,5%,2%,68%,0%
 Beauce,2024-05-26,6%,2%,67%,0%
@@ -1329,6 +1366,7 @@ Beauce,2024-12-15,5%,4%,64%,0%
 Beauce,2024-12-22,4%,4%,66%,0%
 Beauce,2024-12-29,4%,4%,66%,0%
 Beauce,2025-01-05,4%,4%,66%,0%
+Beauce,2025-01-12,4%,3%,66%,0%
 Beauharnois Salaberry Soulanges Huntingdon,2024-05-12,19%,7%,16%,0%
 Beauharnois Salaberry Soulanges Huntingdon,2024-05-19,18%,7%,15%,0%
 Beauharnois Salaberry Soulanges Huntingdon,2024-05-26,19%,8%,15%,0%
@@ -1364,6 +1402,7 @@ Beauharnois Salaberry Soulanges Huntingdon,2024-12-15,16%,9%,14%,0%
 Beauharnois Salaberry Soulanges Huntingdon,2024-12-22,16%,9%,16%,0%
 Beauharnois Salaberry Soulanges Huntingdon,2024-12-29,16%,9%,16%,0%
 Beauharnois Salaberry Soulanges Huntingdon,2025-01-05,15%,9%,16%,0%
+Beauharnois Salaberry Soulanges Huntingdon,2025-01-12,15%,8%,17%,0%
 Beauport Limoilou,2024-05-12,16%,9%,37%,4%
 Beauport Limoilou,2024-05-19,15%,9%,35%,4%
 Beauport Limoilou,2024-05-26,16%,9%,34%,4%
@@ -1399,6 +1438,7 @@ Beauport Limoilou,2024-12-15,14%,11%,34%,4%
 Beauport Limoilou,2024-12-22,14%,11%,35%,4%
 Beauport Limoilou,2024-12-29,14%,11%,35%,4%
 Beauport Limoilou,2025-01-05,13%,10%,35%,4%
+Beauport Limoilou,2025-01-12,13%,10%,36%,3%
 Bécancour Nicolet Saurel Alnôbak,2024-05-12,11%,5%,21%,0%
 Bécancour Nicolet Saurel Alnôbak,2024-05-19,10%,5%,20%,0%
 Bécancour Nicolet Saurel Alnôbak,2024-05-26,11%,5%,20%,0%
@@ -1434,6 +1474,7 @@ Bécancour Nicolet Saurel Alnôbak,2024-12-15,10%,7%,20%,0%
 Bécancour Nicolet Saurel Alnôbak,2024-12-22,9%,7%,22%,0%
 Bécancour Nicolet Saurel Alnôbak,2024-12-29,9%,7%,22%,0%
 Bécancour Nicolet Saurel Alnôbak,2025-01-05,9%,6%,22%,0%
+Bécancour Nicolet Saurel Alnôbak,2025-01-12,9%,6%,23%,0%
 Bellechasse Les Etchemins Lévis,2024-05-12,9%,4%,58%,0%
 Bellechasse Les Etchemins Lévis,2024-05-19,9%,4%,56%,0%
 Bellechasse Les Etchemins Lévis,2024-05-26,9%,4%,56%,0%
@@ -1469,6 +1510,7 @@ Bellechasse Les Etchemins Lévis,2024-12-15,8%,6%,54%,0%
 Bellechasse Les Etchemins Lévis,2024-12-22,8%,6%,56%,0%
 Bellechasse Les Etchemins Lévis,2024-12-29,8%,6%,56%,0%
 Bellechasse Les Etchemins Lévis,2025-01-05,7%,6%,56%,0%
+Bellechasse Les Etchemins Lévis,2025-01-12,7%,5%,57%,0%
 Beloeil Chambly,2024-05-12,19%,8%,11%,4%
 Beloeil Chambly,2024-05-19,18%,8%,11%,3%
 Beloeil Chambly,2024-05-26,19%,8%,10%,3%
@@ -1504,6 +1546,7 @@ Beloeil Chambly,2024-12-15,17%,10%,10%,4%
 Beloeil Chambly,2024-12-22,16%,10%,12%,4%
 Beloeil Chambly,2024-12-29,16%,10%,12%,4%
 Beloeil Chambly,2025-01-05,16%,9%,12%,3%
+Beloeil Chambly,2025-01-12,16%,9%,12%,3%
 Berthier Maskinongé,2024-05-12,10%,31%,15%,0%
 Berthier Maskinongé,2024-05-19,10%,31%,14%,0%
 Berthier Maskinongé,2024-05-26,10%,31%,14%,0%
@@ -1539,6 +1582,7 @@ Berthier Maskinongé,2024-12-15,9%,33%,13%,0%
 Berthier Maskinongé,2024-12-22,8%,32%,15%,0%
 Berthier Maskinongé,2024-12-29,8%,32%,15%,0%
 Berthier Maskinongé,2025-01-05,8%,31%,15%,0%
+Berthier Maskinongé,2025-01-12,8%,30%,16%,0%
 Bourassa,2024-05-12,55%,9%,11%,5%
 Bourassa,2024-05-19,54%,9%,11%,5%
 Bourassa,2024-05-26,56%,9%,10%,5%
@@ -1574,6 +1618,7 @@ Bourassa,2024-12-15,44%,13%,13%,5%
 Bourassa,2024-12-22,43%,14%,15%,4%
 Bourassa,2024-12-29,42%,13%,15%,4%
 Bourassa,2025-01-05,42%,13%,15%,4%
+Bourassa,2025-01-12,42%,13%,16%,4%
 Brome Missisquoi,2024-05-12,26%,7%,24%,6%
 Brome Missisquoi,2024-05-19,25%,7%,23%,6%
 Brome Missisquoi,2024-05-26,26%,7%,23%,6%
@@ -1609,6 +1654,7 @@ Brome Missisquoi,2024-12-15,24%,9%,23%,5%
 Brome Missisquoi,2024-12-22,22%,9%,25%,5%
 Brome Missisquoi,2024-12-29,22%,9%,25%,5%
 Brome Missisquoi,2025-01-05,22%,9%,25%,5%
+Brome Missisquoi,2025-01-12,21%,8%,26%,5%
 Brossard Saint Lambert,2024-05-12,43%,13%,18%,0%
 Brossard Saint Lambert,2024-05-19,42%,13%,18%,0%
 Brossard Saint Lambert,2024-05-26,44%,13%,17%,0%
@@ -1644,6 +1690,7 @@ Brossard Saint Lambert,2024-12-15,35%,15%,20%,0%
 Brossard Saint Lambert,2024-12-22,34%,15%,22%,0%
 Brossard Saint Lambert,2024-12-29,34%,15%,22%,0%
 Brossard Saint Lambert,2025-01-05,33%,14%,22%,0%
+Brossard Saint Lambert,2025-01-12,33%,14%,23%,0%
 Charlesbourg Haute Saint Charles,2024-05-12,12%,5%,54%,0%
 Charlesbourg Haute Saint Charles,2024-05-19,11%,5%,53%,0%
 Charlesbourg Haute Saint Charles,2024-05-26,12%,5%,52%,0%
@@ -1679,6 +1726,7 @@ Charlesbourg Haute Saint Charles,2024-12-15,10%,7%,50%,0%
 Charlesbourg Haute Saint Charles,2024-12-22,10%,6%,53%,0%
 Charlesbourg Haute Saint Charles,2024-12-29,10%,6%,53%,0%
 Charlesbourg Haute Saint Charles,2025-01-05,9%,6%,53%,0%
+Charlesbourg Haute Saint Charles,2025-01-12,9%,6%,54%,0%
 Châteauguay Les Jardins de Napierville,2024-05-12,30%,7%,16%,0%
 Châteauguay Les Jardins de Napierville,2024-05-19,29%,7%,15%,0%
 Châteauguay Les Jardins de Napierville,2024-05-26,30%,8%,15%,0%
@@ -1714,6 +1762,7 @@ Châteauguay Les Jardins de Napierville,2024-12-15,26%,10%,16%,0%
 Châteauguay Les Jardins de Napierville,2024-12-22,25%,9%,18%,0%
 Châteauguay Les Jardins de Napierville,2024-12-29,25%,9%,18%,0%
 Châteauguay Les Jardins de Napierville,2025-01-05,24%,9%,18%,0%
+Châteauguay Les Jardins de Napierville,2025-01-12,24%,8%,19%,0%
 Chicoutimi Le Fjord,2024-05-12,11%,4%,46%,0%
 Chicoutimi Le Fjord,2024-05-19,11%,4%,44%,0%
 Chicoutimi Le Fjord,2024-05-26,12%,4%,43%,0%
@@ -1749,6 +1798,7 @@ Chicoutimi Le Fjord,2024-12-15,10%,6%,39%,0%
 Chicoutimi Le Fjord,2024-12-22,10%,6%,40%,0%
 Chicoutimi Le Fjord,2024-12-29,10%,5%,40%,0%
 Chicoutimi Le Fjord,2025-01-05,10%,5%,40%,0%
+Chicoutimi Le Fjord,2025-01-12,9%,5%,41%,0%
 Compton Stanstead,2024-05-12,28%,8%,22%,5%
 Compton Stanstead,2024-05-19,27%,8%,21%,5%
 Compton Stanstead,2024-05-26,28%,8%,21%,5%
@@ -1784,6 +1834,7 @@ Compton Stanstead,2024-12-15,25%,10%,21%,5%
 Compton Stanstead,2024-12-22,24%,9%,23%,5%
 Compton Stanstead,2024-12-29,24%,9%,23%,5%
 Compton Stanstead,2025-01-05,23%,9%,23%,5%
+Compton Stanstead,2025-01-12,23%,9%,24%,5%
 Côte du Sud Rivière du Loup Kataskomiq Témiscouata,2024-05-12,11%,3%,52%,0%
 Côte du Sud Rivière du Loup Kataskomiq Témiscouata,2024-05-19,11%,3%,50%,0%
 Côte du Sud Rivière du Loup Kataskomiq Témiscouata,2024-05-26,12%,3%,50%,0%
@@ -1819,6 +1870,7 @@ Côte du Sud Rivière du Loup Kataskomiq Témiscouata,2024-12-15,10%,4%,49%,0%
 Côte du Sud Rivière du Loup Kataskomiq Témiscouata,2024-12-22,9%,4%,51%,0%
 Côte du Sud Rivière du Loup Kataskomiq Témiscouata,2024-12-29,9%,4%,51%,0%
 Côte du Sud Rivière du Loup Kataskomiq Témiscouata,2025-01-05,9%,4%,51%,0%
+Côte du Sud Rivière du Loup Kataskomiq Témiscouata,2025-01-12,9%,4%,52%,0%
 Côte Nord Kawawachikamach Nitassinan,2024-05-12,11%,5%,32%,0%
 Côte Nord Kawawachikamach Nitassinan,2024-05-19,11%,5%,30%,0%
 Côte Nord Kawawachikamach Nitassinan,2024-05-26,11%,5%,30%,0%
@@ -1854,6 +1906,7 @@ Côte Nord Kawawachikamach Nitassinan,2024-12-15,10%,6%,29%,0%
 Côte Nord Kawawachikamach Nitassinan,2024-12-22,9%,6%,31%,0%
 Côte Nord Kawawachikamach Nitassinan,2024-12-29,9%,6%,31%,0%
 Côte Nord Kawawachikamach Nitassinan,2025-01-05,9%,6%,31%,0%
+Côte Nord Kawawachikamach Nitassinan,2025-01-12,8%,5%,32%,0%
 Dorval Lachine LaSalle,2024-05-12,42%,14%,18%,5%
 Dorval Lachine LaSalle,2024-05-19,42%,14%,17%,5%
 Dorval Lachine LaSalle,2024-05-26,43%,14%,16%,5%
@@ -1889,6 +1942,7 @@ Dorval Lachine LaSalle,2024-12-15,30%,19%,21%,6%
 Dorval Lachine LaSalle,2024-12-22,30%,19%,23%,5%
 Dorval Lachine LaSalle,2024-12-29,30%,19%,23%,5%
 Dorval Lachine LaSalle,2025-01-05,30%,19%,23%,5%
+Dorval Lachine LaSalle,2025-01-12,30%,18%,24%,5%
 Drummond,2024-05-12,11%,13%,28%,0%
 Drummond,2024-05-19,11%,13%,27%,0%
 Drummond,2024-05-26,11%,13%,26%,0%
@@ -1924,6 +1978,7 @@ Drummond,2024-12-15,10%,15%,25%,0%
 Drummond,2024-12-22,9%,14%,27%,0%
 Drummond,2024-12-29,9%,14%,27%,0%
 Drummond,2025-01-05,9%,14%,27%,0%
+Drummond,2025-01-12,9%,13%,28%,0%
 Gaspésie Les Îles de la Madeleine Listuguj,2024-05-12,33%,4%,12%,0%
 Gaspésie Les Îles de la Madeleine Listuguj,2024-05-19,32%,4%,11%,0%
 Gaspésie Les Îles de la Madeleine Listuguj,2024-05-26,34%,4%,11%,0%
@@ -1959,41 +2014,43 @@ Gaspésie Les Îles de la Madeleine Listuguj,2024-12-15,30%,6%,11%,0%
 Gaspésie Les Îles de la Madeleine Listuguj,2024-12-22,29%,6%,13%,0%
 Gaspésie Les Îles de la Madeleine Listuguj,2024-12-29,29%,6%,13%,0%
 Gaspésie Les Îles de la Madeleine Listuguj,2025-01-05,29%,6%,13%,0%
-Gatineau,2024-05-12,40%,9%,16%,3%
-Gatineau,2024-05-19,40%,9%,16%,3%
-Gatineau,2024-05-26,41%,9%,15%,3%
-Gatineau,2024-06-02,42%,9%,16%,3%
-Gatineau,2024-06-09,42%,9%,16%,3%
-Gatineau,2024-06-16,42%,9%,17%,3%
-Gatineau,2024-06-23,40%,10%,16%,3%
-Gatineau,2024-06-30,39%,10%,16%,3%
-Gatineau,2024-07-07,40%,10%,16%,3%
-Gatineau,2024-07-14,40%,10%,16%,3%
-Gatineau,2024-07-21,40%,10%,15%,3%
-Gatineau,2024-07-28,40%,10%,15%,3%
-Gatineau,2024-08-04,42%,10%,15%,3%
-Gatineau,2024-08-11,42%,10%,15%,3%
-Gatineau,2024-08-18,41%,10%,16%,3%
-Gatineau,2024-08-25,42%,9%,16%,3%
-Gatineau,2024-09-01,43%,10%,15%,3%
-Gatineau,2024-09-08,42%,10%,15%,3%
-Gatineau,2024-09-15,42%,10%,15%,3%
-Gatineau,2024-09-22,42%,10%,15%,3%
-Gatineau,2024-09-29,40%,11%,16%,3%
-Gatineau,2024-10-06,40%,11%,16%,3%
-Gatineau,2024-10-13,40%,11%,15%,3%
-Gatineau,2024-10-20,41%,11%,15%,3%
-Gatineau,2024-10-27,41%,10%,14%,3%
-Gatineau,2024-11-03,41%,10%,15%,3%
-Gatineau,2024-11-10,40%,10%,15%,3%
-Gatineau,2024-11-17,40%,10%,15%,3%
-Gatineau,2024-11-24,39%,11%,16%,3%
-Gatineau,2024-12-01,38%,11%,16%,3%
-Gatineau,2024-12-08,37%,11%,16%,3%
-Gatineau,2024-12-15,37%,11%,16%,3%
-Gatineau,2024-12-22,36%,11%,18%,3%
-Gatineau,2024-12-29,36%,11%,18%,3%
-Gatineau,2025-01-05,36%,11%,18%,3%
+Gaspésie Les Îles de la Madeleine Listuguj,2025-01-12,28%,5%,13%,0%
+Gatineau,2024-05-12,40%,9%,16%,0%
+Gatineau,2024-05-19,40%,9%,16%,0%
+Gatineau,2024-05-26,41%,9%,15%,0%
+Gatineau,2024-06-02,42%,9%,16%,0%
+Gatineau,2024-06-09,42%,9%,16%,0%
+Gatineau,2024-06-16,42%,9%,17%,0%
+Gatineau,2024-06-23,40%,10%,16%,0%
+Gatineau,2024-06-30,39%,10%,16%,0%
+Gatineau,2024-07-07,40%,10%,16%,0%
+Gatineau,2024-07-14,40%,10%,16%,0%
+Gatineau,2024-07-21,40%,10%,15%,0%
+Gatineau,2024-07-28,40%,10%,15%,0%
+Gatineau,2024-08-04,42%,10%,15%,0%
+Gatineau,2024-08-11,42%,10%,15%,0%
+Gatineau,2024-08-18,41%,10%,16%,0%
+Gatineau,2024-08-25,42%,9%,16%,0%
+Gatineau,2024-09-01,43%,10%,15%,0%
+Gatineau,2024-09-08,42%,10%,15%,0%
+Gatineau,2024-09-15,42%,10%,15%,0%
+Gatineau,2024-09-22,42%,10%,15%,0%
+Gatineau,2024-09-29,40%,11%,16%,0%
+Gatineau,2024-10-06,40%,11%,16%,0%
+Gatineau,2024-10-13,40%,11%,15%,0%
+Gatineau,2024-10-20,41%,11%,15%,0%
+Gatineau,2024-10-27,41%,10%,14%,0%
+Gatineau,2024-11-03,41%,10%,15%,0%
+Gatineau,2024-11-10,40%,10%,15%,0%
+Gatineau,2024-11-17,40%,10%,15%,0%
+Gatineau,2024-11-24,39%,11%,16%,0%
+Gatineau,2024-12-01,38%,11%,16%,0%
+Gatineau,2024-12-08,37%,11%,16%,0%
+Gatineau,2024-12-15,37%,11%,16%,0%
+Gatineau,2024-12-22,36%,11%,18%,0%
+Gatineau,2024-12-29,36%,11%,18%,0%
+Gatineau,2025-01-05,36%,11%,18%,0%
+Gatineau,2025-01-12,35%,10%,19%,0%
 Hochelaga Rosemont Est,2024-05-12,33%,20%,7%,4%
 Hochelaga Rosemont Est,2024-05-19,32%,20%,7%,4%
 Hochelaga Rosemont Est,2024-05-26,33%,20%,7%,4%
@@ -2029,6 +2086,7 @@ Hochelaga Rosemont Est,2024-12-15,25%,25%,8%,4%
 Hochelaga Rosemont Est,2024-12-22,24%,26%,9%,4%
 Hochelaga Rosemont Est,2024-12-29,24%,26%,9%,4%
 Hochelaga Rosemont Est,2025-01-05,24%,25%,9%,4%
+Hochelaga Rosemont Est,2025-01-12,24%,25%,10%,4%
 Honoré Mercier,2024-05-12,49%,8%,16%,3%
 Honoré Mercier,2024-05-19,49%,8%,16%,3%
 Honoré Mercier,2024-05-26,50%,8%,15%,3%
@@ -2064,6 +2122,7 @@ Honoré Mercier,2024-12-15,39%,12%,19%,3%
 Honoré Mercier,2024-12-22,38%,12%,21%,3%
 Honoré Mercier,2024-12-29,38%,12%,21%,3%
 Honoré Mercier,2025-01-05,38%,11%,21%,3%
+Honoré Mercier,2025-01-12,37%,11%,22%,3%
 Hull Aylmer,2024-05-12,48%,12%,15%,5%
 Hull Aylmer,2024-05-19,47%,12%,14%,5%
 Hull Aylmer,2024-05-26,49%,12%,14%,5%
@@ -2099,6 +2158,7 @@ Hull Aylmer,2024-12-15,40%,16%,17%,5%
 Hull Aylmer,2024-12-22,40%,15%,19%,5%
 Hull Aylmer,2024-12-29,40%,15%,19%,5%
 Hull Aylmer,2025-01-05,39%,15%,19%,5%
+Hull Aylmer,2025-01-12,39%,14%,20%,5%
 Joliette Manawan,2024-05-12,18%,6%,13%,4%
 Joliette Manawan,2024-05-19,18%,6%,12%,3%
 Joliette Manawan,2024-05-26,18%,6%,12%,3%
@@ -2134,6 +2194,7 @@ Joliette Manawan,2024-12-15,16%,8%,12%,4%
 Joliette Manawan,2024-12-22,16%,7%,13%,4%
 Joliette Manawan,2024-12-29,16%,7%,14%,4%
 Joliette Manawan,2025-01-05,15%,7%,14%,3%
+Joliette Manawan,2025-01-12,15%,7%,14%,3%
 Jonquière,2024-05-12,13%,5%,34%,0%
 Jonquière,2024-05-19,12%,5%,33%,0%
 Jonquière,2024-05-26,13%,5%,32%,0%
@@ -2169,6 +2230,7 @@ Jonquière,2024-12-15,12%,7%,29%,0%
 Jonquière,2024-12-22,11%,7%,31%,0%
 Jonquière,2024-12-29,11%,6%,31%,0%
 Jonquière,2025-01-05,11%,6%,31%,0%
+Jonquière,2025-01-12,10%,6%,32%,0%
 La Pointe de l'Île,2024-05-12,22%,10%,10%,0%
 La Pointe de l'Île,2024-05-19,21%,10%,9%,0%
 La Pointe de l'Île,2024-05-26,23%,10%,9%,0%
@@ -2204,41 +2266,43 @@ La Pointe de l'Île,2024-12-15,18%,13%,10%,0%
 La Pointe de l'Île,2024-12-22,17%,13%,12%,0%
 La Pointe de l'Île,2024-12-29,17%,13%,12%,0%
 La Pointe de l'Île,2025-01-05,17%,13%,12%,0%
-La Prairie Atateken,2024-05-12,24%,7%,14%,3%
-La Prairie Atateken,2024-05-19,23%,7%,13%,3%
-La Prairie Atateken,2024-05-26,24%,7%,13%,3%
-La Prairie Atateken,2024-06-02,25%,8%,14%,3%
-La Prairie Atateken,2024-06-09,25%,8%,15%,3%
-La Prairie Atateken,2024-06-16,26%,8%,15%,3%
-La Prairie Atateken,2024-06-23,24%,8%,14%,3%
-La Prairie Atateken,2024-06-30,23%,8%,14%,3%
-La Prairie Atateken,2024-07-07,23%,8%,14%,3%
-La Prairie Atateken,2024-07-14,24%,8%,13%,3%
-La Prairie Atateken,2024-07-21,24%,8%,13%,3%
-La Prairie Atateken,2024-07-28,24%,8%,13%,3%
-La Prairie Atateken,2024-08-04,25%,8%,13%,3%
-La Prairie Atateken,2024-08-11,25%,8%,13%,3%
-La Prairie Atateken,2024-08-18,25%,8%,14%,3%
-La Prairie Atateken,2024-08-25,25%,8%,14%,3%
-La Prairie Atateken,2024-09-01,26%,8%,14%,3%
-La Prairie Atateken,2024-09-08,26%,8%,13%,3%
-La Prairie Atateken,2024-09-15,25%,8%,13%,3%
-La Prairie Atateken,2024-09-22,25%,8%,13%,3%
-La Prairie Atateken,2024-09-29,24%,9%,13%,3%
-La Prairie Atateken,2024-10-06,23%,9%,13%,3%
-La Prairie Atateken,2024-10-13,24%,9%,13%,3%
-La Prairie Atateken,2024-10-20,24%,9%,12%,3%
-La Prairie Atateken,2024-10-27,24%,9%,12%,3%
-La Prairie Atateken,2024-11-03,24%,9%,12%,3%
-La Prairie Atateken,2024-11-10,24%,8%,12%,3%
-La Prairie Atateken,2024-11-17,24%,8%,13%,3%
-La Prairie Atateken,2024-11-24,22%,9%,13%,3%
-La Prairie Atateken,2024-12-01,22%,9%,14%,3%
-La Prairie Atateken,2024-12-08,21%,9%,13%,3%
-La Prairie Atateken,2024-12-15,21%,9%,13%,3%
-La Prairie Atateken,2024-12-22,20%,9%,15%,3%
-La Prairie Atateken,2024-12-29,20%,9%,15%,3%
-La Prairie Atateken,2025-01-05,20%,9%,15%,3%
+La Pointe de l'Île,2025-01-12,16%,12%,12%,0%
+La Prairie Atateken,2024-05-12,24%,7%,14%,0%
+La Prairie Atateken,2024-05-19,23%,7%,13%,0%
+La Prairie Atateken,2024-05-26,24%,7%,13%,0%
+La Prairie Atateken,2024-06-02,25%,8%,14%,0%
+La Prairie Atateken,2024-06-09,25%,8%,15%,0%
+La Prairie Atateken,2024-06-16,26%,8%,15%,0%
+La Prairie Atateken,2024-06-23,24%,8%,14%,0%
+La Prairie Atateken,2024-06-30,23%,8%,14%,0%
+La Prairie Atateken,2024-07-07,23%,8%,14%,0%
+La Prairie Atateken,2024-07-14,24%,8%,13%,0%
+La Prairie Atateken,2024-07-21,24%,8%,13%,0%
+La Prairie Atateken,2024-07-28,24%,8%,13%,0%
+La Prairie Atateken,2024-08-04,25%,8%,13%,0%
+La Prairie Atateken,2024-08-11,25%,8%,13%,0%
+La Prairie Atateken,2024-08-18,25%,8%,14%,0%
+La Prairie Atateken,2024-08-25,25%,8%,14%,0%
+La Prairie Atateken,2024-09-01,26%,8%,14%,0%
+La Prairie Atateken,2024-09-08,26%,8%,13%,0%
+La Prairie Atateken,2024-09-15,25%,8%,13%,0%
+La Prairie Atateken,2024-09-22,25%,8%,13%,0%
+La Prairie Atateken,2024-09-29,24%,9%,13%,0%
+La Prairie Atateken,2024-10-06,23%,9%,13%,0%
+La Prairie Atateken,2024-10-13,24%,9%,13%,0%
+La Prairie Atateken,2024-10-20,24%,9%,12%,0%
+La Prairie Atateken,2024-10-27,24%,9%,12%,0%
+La Prairie Atateken,2024-11-03,24%,9%,12%,0%
+La Prairie Atateken,2024-11-10,24%,8%,12%,0%
+La Prairie Atateken,2024-11-17,24%,8%,13%,0%
+La Prairie Atateken,2024-11-24,22%,9%,13%,0%
+La Prairie Atateken,2024-12-01,22%,9%,14%,0%
+La Prairie Atateken,2024-12-08,21%,9%,13%,0%
+La Prairie Atateken,2024-12-15,21%,9%,13%,0%
+La Prairie Atateken,2024-12-22,20%,9%,15%,0%
+La Prairie Atateken,2024-12-29,20%,9%,15%,0%
+La Prairie Atateken,2025-01-05,20%,9%,15%,0%
+La Prairie Atateken,2025-01-12,20%,8%,15%,0%
 Lac Saint Jean,2024-05-12,15%,3%,30%,0%
 Lac Saint Jean,2024-05-19,14%,3%,29%,0%
 Lac Saint Jean,2024-05-26,15%,3%,28%,0%
@@ -2274,6 +2338,7 @@ Lac Saint Jean,2024-12-15,13%,5%,28%,0%
 Lac Saint Jean,2024-12-22,12%,4%,30%,0%
 Lac Saint Jean,2024-12-29,12%,4%,30%,0%
 Lac Saint Jean,2025-01-05,12%,4%,30%,0%
+Lac Saint Jean,2025-01-12,11%,4%,30%,0%
 Lac Saint Louis,2024-05-12,45%,13%,26%,7%
 Lac Saint Louis,2024-05-19,45%,14%,25%,7%
 Lac Saint Louis,2024-05-26,46%,14%,24%,7%
@@ -2309,6 +2374,7 @@ Lac Saint Louis,2024-12-15,36%,18%,30%,7%
 Lac Saint Louis,2024-12-22,36%,18%,29%,7%
 Lac Saint Louis,2024-12-29,36%,18%,29%,7%
 Lac Saint Louis,2025-01-05,36%,18%,30%,6%
+Lac Saint Louis,2025-01-12,36%,17%,31%,6%
 LaSalle Émard Verdun,2024-05-12,35%,19%,12%,0%
 LaSalle Émard Verdun,2024-05-19,34%,19%,11%,0%
 LaSalle Émard Verdun,2024-05-26,35%,20%,11%,0%
@@ -2344,6 +2410,7 @@ LaSalle Émard Verdun,2024-12-15,24%,28%,12%,0%
 LaSalle Émard Verdun,2024-12-22,25%,28%,14%,0%
 LaSalle Émard Verdun,2024-12-29,25%,28%,14%,0%
 LaSalle Émard Verdun,2025-01-05,24%,27%,14%,0%
+LaSalle Émard Verdun,2025-01-12,24%,26%,15%,0%
 Laurentides Labelle,2024-05-12,19%,5%,14%,4%
 Laurentides Labelle,2024-05-19,18%,5%,13%,4%
 Laurentides Labelle,2024-05-26,19%,5%,13%,4%
@@ -2379,6 +2446,7 @@ Laurentides Labelle,2024-12-15,17%,7%,13%,4%
 Laurentides Labelle,2024-12-22,16%,7%,14%,4%
 Laurentides Labelle,2024-12-29,16%,7%,14%,4%
 Laurentides Labelle,2025-01-05,16%,7%,14%,4%
+Laurentides Labelle,2025-01-12,15%,6%,15%,4%
 Laurier Sainte Marie,2024-05-12,37%,29%,7%,4%
 Laurier Sainte Marie,2024-05-19,36%,29%,7%,4%
 Laurier Sainte Marie,2024-05-26,37%,29%,6%,4%
@@ -2414,6 +2482,7 @@ Laurier Sainte Marie,2024-12-15,28%,34%,7%,4%
 Laurier Sainte Marie,2024-12-22,28%,34%,7%,4%
 Laurier Sainte Marie,2024-12-29,27%,34%,7%,4%
 Laurier Sainte Marie,2025-01-05,27%,34%,7%,4%
+Laurier Sainte Marie,2025-01-12,27%,33%,8%,4%
 Laval Les Îles,2024-05-12,38%,9%,25%,4%
 Laval Les Îles,2024-05-19,38%,9%,24%,4%
 Laval Les Îles,2024-05-26,39%,9%,24%,4%
@@ -2449,6 +2518,7 @@ Laval Les Îles,2024-12-15,30%,11%,27%,5%
 Laval Les Îles,2024-12-22,29%,12%,27%,4%
 Laval Les Îles,2024-12-29,29%,12%,27%,4%
 Laval Les Îles,2025-01-05,29%,12%,28%,4%
+Laval Les Îles,2025-01-12,28%,11%,29%,4%
 Les Pays d'en Haut,2024-05-12,21%,7%,16%,0%
 Les Pays d'en Haut,2024-05-19,20%,7%,15%,0%
 Les Pays d'en Haut,2024-05-26,21%,7%,14%,0%
@@ -2484,6 +2554,7 @@ Les Pays d'en Haut,2024-12-15,19%,9%,14%,0%
 Les Pays d'en Haut,2024-12-22,18%,8%,16%,0%
 Les Pays d'en Haut,2024-12-29,18%,8%,16%,0%
 Les Pays d'en Haut,2025-01-05,17%,8%,16%,0%
+Les Pays d'en Haut,2025-01-12,17%,7%,17%,0%
 Lévis Lotbinière,2024-05-12,11%,6%,57%,0%
 Lévis Lotbinière,2024-05-19,11%,6%,55%,0%
 Lévis Lotbinière,2024-05-26,11%,6%,55%,0%
@@ -2519,6 +2590,7 @@ Lévis Lotbinière,2024-12-15,10%,8%,53%,0%
 Lévis Lotbinière,2024-12-22,9%,7%,55%,0%
 Lévis Lotbinière,2024-12-29,9%,7%,55%,0%
 Lévis Lotbinière,2025-01-05,9%,7%,55%,0%
+Lévis Lotbinière,2025-01-12,9%,7%,56%,0%
 Longueuil Charles LeMoyne,2024-05-12,32%,12%,13%,6%
 Longueuil Charles LeMoyne,2024-05-19,31%,12%,12%,6%
 Longueuil Charles LeMoyne,2024-05-26,32%,12%,12%,6%
@@ -2554,6 +2626,7 @@ Longueuil Charles LeMoyne,2024-12-15,28%,14%,12%,5%
 Longueuil Charles LeMoyne,2024-12-22,27%,14%,14%,5%
 Longueuil Charles LeMoyne,2024-12-29,27%,14%,14%,5%
 Longueuil Charles LeMoyne,2025-01-05,27%,13%,14%,5%
+Longueuil Charles LeMoyne,2025-01-12,27%,13%,15%,5%
 Longueuil Saint Hubert,2024-05-12,25%,10%,13%,7%
 Longueuil Saint Hubert,2024-05-19,25%,10%,12%,7%
 Longueuil Saint Hubert,2024-05-26,26%,10%,12%,7%
@@ -2589,6 +2662,7 @@ Longueuil Saint Hubert,2024-12-15,23%,12%,12%,6%
 Longueuil Saint Hubert,2024-12-22,22%,11%,13%,6%
 Longueuil Saint Hubert,2024-12-29,22%,11%,13%,6%
 Longueuil Saint Hubert,2025-01-05,21%,11%,14%,6%
+Longueuil Saint Hubert,2025-01-12,21%,10%,14%,5%
 Louis Hébert,2024-05-12,28%,7%,33%,4%
 Louis Hébert,2024-05-19,27%,7%,32%,4%
 Louis Hébert,2024-05-26,29%,7%,31%,4%
@@ -2624,6 +2698,7 @@ Louis Hébert,2024-12-15,25%,9%,31%,4%
 Louis Hébert,2024-12-22,24%,9%,33%,4%
 Louis Hébert,2024-12-29,24%,9%,33%,4%
 Louis Hébert,2025-01-05,23%,8%,33%,4%
+Louis Hébert,2025-01-12,23%,8%,34%,4%
 Louis Saint Laurent Akiawenhrahk,2024-05-12,10%,4%,60%,0%
 Louis Saint Laurent Akiawenhrahk,2024-05-19,10%,5%,58%,0%
 Louis Saint Laurent Akiawenhrahk,2024-05-26,11%,5%,57%,0%
@@ -2659,6 +2734,7 @@ Louis Saint Laurent Akiawenhrahk,2024-12-15,10%,6%,55%,0%
 Louis Saint Laurent Akiawenhrahk,2024-12-22,9%,6%,57%,0%
 Louis Saint Laurent Akiawenhrahk,2024-12-29,9%,6%,57%,0%
 Louis Saint Laurent Akiawenhrahk,2025-01-05,9%,6%,57%,0%
+Louis Saint Laurent Akiawenhrahk,2025-01-12,9%,6%,58%,0%
 Marc Aurèle Fortin,2024-05-12,36%,10%,18%,0%
 Marc Aurèle Fortin,2024-05-19,36%,10%,17%,0%
 Marc Aurèle Fortin,2024-05-26,37%,10%,17%,0%
@@ -2694,6 +2770,7 @@ Marc Aurèle Fortin,2024-12-15,29%,12%,20%,0%
 Marc Aurèle Fortin,2024-12-22,28%,11%,22%,0%
 Marc Aurèle Fortin,2024-12-29,28%,11%,22%,0%
 Marc Aurèle Fortin,2025-01-05,27%,11%,22%,0%
+Marc Aurèle Fortin,2025-01-12,27%,10%,23%,0%
 Mégantic L'Érable Lotbinière,2024-05-12,7%,2%,66%,0%
 Mégantic L'Érable Lotbinière,2024-05-19,7%,2%,64%,0%
 Mégantic L'Érable Lotbinière,2024-05-26,8%,2%,63%,0%
@@ -2729,6 +2806,7 @@ Mégantic L'Érable Lotbinière,2024-12-15,7%,4%,60%,0%
 Mégantic L'Érable Lotbinière,2024-12-22,6%,4%,62%,0%
 Mégantic L'Érable Lotbinière,2024-12-29,6%,4%,62%,0%
 Mégantic L'Érable Lotbinière,2025-01-05,6%,4%,62%,0%
+Mégantic L'Érable Lotbinière,2025-01-12,6%,4%,62%,0%
 Mirabel,2024-05-12,16%,8%,18%,4%
 Mirabel,2024-05-19,16%,8%,17%,4%
 Mirabel,2024-05-26,16%,8%,17%,4%
@@ -2764,6 +2842,7 @@ Mirabel,2024-12-15,14%,10%,16%,4%
 Mirabel,2024-12-22,14%,10%,18%,4%
 Mirabel,2024-12-29,14%,10%,18%,4%
 Mirabel,2025-01-05,13%,9%,18%,4%
+Mirabel,2025-01-12,13%,9%,19%,4%
 Mount Royal,2024-05-12,51%,8%,30%,0%
 Mount Royal,2024-05-19,51%,8%,29%,0%
 Mount Royal,2024-05-26,53%,8%,28%,0%
@@ -2799,6 +2878,7 @@ Mount Royal,2024-12-15,39%,12%,37%,0%
 Mount Royal,2024-12-22,44%,10%,37%,0%
 Mount Royal,2024-12-29,44%,10%,37%,0%
 Mount Royal,2025-01-05,44%,10%,38%,0%
+Mount Royal,2025-01-12,43%,9%,39%,0%
 Mont Saint Bruno L'Acadie,2024-05-12,28%,8%,13%,0%
 Mont Saint Bruno L'Acadie,2024-05-19,27%,8%,12%,0%
 Mont Saint Bruno L'Acadie,2024-05-26,28%,8%,12%,0%
@@ -2834,6 +2914,7 @@ Mont Saint Bruno L'Acadie,2024-12-15,25%,10%,12%,0%
 Mont Saint Bruno L'Acadie,2024-12-22,24%,9%,14%,0%
 Mont Saint Bruno L'Acadie,2024-12-29,24%,9%,14%,0%
 Mont Saint Bruno L'Acadie,2025-01-05,23%,9%,14%,0%
+Mont Saint Bruno L'Acadie,2025-01-12,23%,9%,14%,0%
 Montcalm,2024-05-12,16%,6%,15%,4%
 Montcalm,2024-05-19,15%,6%,14%,4%
 Montcalm,2024-05-26,16%,6%,14%,4%
@@ -2869,6 +2950,7 @@ Montcalm,2024-12-15,14%,8%,14%,4%
 Montcalm,2024-12-22,13%,7%,15%,4%
 Montcalm,2024-12-29,13%,7%,15%,4%
 Montcalm,2025-01-05,13%,7%,15%,4%
+Montcalm,2025-01-12,13%,7%,16%,4%
 Montmorency Charlevoix,2024-05-12,13%,4%,40%,0%
 Montmorency Charlevoix,2024-05-19,12%,4%,38%,0%
 Montmorency Charlevoix,2024-05-26,13%,4%,38%,0%
@@ -2904,6 +2986,7 @@ Montmorency Charlevoix,2024-12-15,11%,6%,37%,0%
 Montmorency Charlevoix,2024-12-22,10%,6%,39%,0%
 Montmorency Charlevoix,2024-12-29,10%,5%,39%,0%
 Montmorency Charlevoix,2025-01-05,10%,5%,39%,0%
+Montmorency Charlevoix,2025-01-12,10%,5%,40%,0%
 Notre Dame de Grâce Westmount,2024-05-12,48%,19%,18%,7%
 Notre Dame de Grâce Westmount,2024-05-19,48%,19%,17%,6%
 Notre Dame de Grâce Westmount,2024-05-26,49%,19%,16%,6%
@@ -2939,6 +3022,7 @@ Notre Dame de Grâce Westmount,2024-12-15,36%,26%,20%,7%
 Notre Dame de Grâce Westmount,2024-12-22,36%,26%,22%,7%
 Notre Dame de Grâce Westmount,2024-12-29,36%,26%,22%,7%
 Notre Dame de Grâce Westmount,2025-01-05,35%,26%,22%,7%
+Notre Dame de Grâce Westmount,2025-01-12,35%,25%,24%,7%
 Outremont,2024-05-12,41%,26%,10%,5%
 Outremont,2024-05-19,40%,26%,10%,5%
 Outremont,2024-05-26,41%,26%,10%,5%
@@ -2974,6 +3058,7 @@ Outremont,2024-12-15,32%,31%,11%,5%
 Outremont,2024-12-22,32%,31%,13%,5%
 Outremont,2024-12-29,32%,31%,13%,5%
 Outremont,2025-01-05,31%,31%,13%,5%
+Outremont,2025-01-12,31%,30%,13%,5%
 Papineau,2024-05-12,43%,24%,9%,7%
 Papineau,2024-05-19,42%,25%,9%,7%
 Papineau,2024-05-26,43%,25%,8%,7%
@@ -3009,6 +3094,7 @@ Papineau,2024-12-15,35%,29%,10%,7%
 Papineau,2024-12-22,33%,30%,11%,6%
 Papineau,2024-12-29,33%,30%,11%,6%
 Papineau,2025-01-05,33%,29%,12%,6%
+Papineau,2025-01-12,33%,29%,12%,6%
 Pierre Boucher Les Patriotes Verchères,2024-05-12,20%,10%,15%,0%
 Pierre Boucher Les Patriotes Verchères,2024-05-19,19%,10%,14%,0%
 Pierre Boucher Les Patriotes Verchères,2024-05-26,20%,10%,14%,0%
@@ -3044,6 +3130,7 @@ Pierre Boucher Les Patriotes Verchères,2024-12-15,18%,12%,14%,0%
 Pierre Boucher Les Patriotes Verchères,2024-12-22,17%,11%,16%,0%
 Pierre Boucher Les Patriotes Verchères,2024-12-29,17%,11%,16%,0%
 Pierre Boucher Les Patriotes Verchères,2025-01-05,16%,11%,16%,0%
+Pierre Boucher Les Patriotes Verchères,2025-01-12,16%,10%,16%,0%
 Pierrefonds Dollard,2024-05-12,46%,13%,28%,0%
 Pierrefonds Dollard,2024-05-19,46%,14%,28%,0%
 Pierrefonds Dollard,2024-05-26,47%,14%,27%,0%
@@ -3079,6 +3166,7 @@ Pierrefonds Dollard,2024-12-15,36%,18%,32%,0%
 Pierrefonds Dollard,2024-12-22,36%,18%,33%,0%
 Pierrefonds Dollard,2024-12-29,36%,18%,33%,0%
 Pierrefonds Dollard,2025-01-05,36%,18%,34%,0%
+Pierrefonds Dollard,2025-01-12,35%,17%,35%,0%
 Pontiac Kitigan Zibi,2024-05-12,34%,11%,29%,5%
 Pontiac Kitigan Zibi,2024-05-19,34%,12%,28%,5%
 Pontiac Kitigan Zibi,2024-05-26,35%,12%,27%,5%
@@ -3114,6 +3202,7 @@ Pontiac Kitigan Zibi,2024-12-15,31%,14%,27%,5%
 Pontiac Kitigan Zibi,2024-12-22,30%,13%,30%,5%
 Pontiac Kitigan Zibi,2024-12-29,30%,13%,30%,5%
 Pontiac Kitigan Zibi,2025-01-05,30%,13%,30%,5%
+Pontiac Kitigan Zibi,2025-01-12,30%,12%,31%,5%
 Portneuf Jacques Cartier,2024-05-12,9%,4%,59%,0%
 Portneuf Jacques Cartier,2024-05-19,9%,4%,57%,0%
 Portneuf Jacques Cartier,2024-05-26,9%,4%,56%,0%
@@ -3149,6 +3238,7 @@ Portneuf Jacques Cartier,2024-12-15,8%,6%,54%,0%
 Portneuf Jacques Cartier,2024-12-22,7%,5%,57%,0%
 Portneuf Jacques Cartier,2024-12-29,7%,5%,57%,0%
 Portneuf Jacques Cartier,2025-01-05,7%,5%,57%,0%
+Portneuf Jacques Cartier,2025-01-12,7%,5%,57%,0%
 Québec Centre,2024-05-12,28%,13%,23%,4%
 Québec Centre,2024-05-19,27%,13%,22%,4%
 Québec Centre,2024-05-26,29%,13%,21%,4%
@@ -3184,6 +3274,7 @@ Québec Centre,2024-12-15,25%,15%,21%,4%
 Québec Centre,2024-12-22,24%,14%,23%,4%
 Québec Centre,2024-12-29,24%,14%,23%,4%
 Québec Centre,2025-01-05,23%,14%,23%,4%
+Québec Centre,2025-01-12,23%,13%,24%,4%
 Repentigny,2024-05-12,22%,7%,12%,0%
 Repentigny,2024-05-19,21%,7%,11%,0%
 Repentigny,2024-05-26,22%,7%,11%,0%
@@ -3219,6 +3310,7 @@ Repentigny,2024-12-15,20%,9%,11%,0%
 Repentigny,2024-12-22,19%,9%,12%,0%
 Repentigny,2024-12-29,19%,9%,12%,0%
 Repentigny,2025-01-05,19%,8%,12%,0%
+Repentigny,2025-01-12,18%,8%,13%,0%
 Richmond Arthabaska,2024-05-12,7%,4%,66%,0%
 Richmond Arthabaska,2024-05-19,7%,4%,64%,0%
 Richmond Arthabaska,2024-05-26,7%,4%,63%,0%
@@ -3254,6 +3346,7 @@ Richmond Arthabaska,2024-12-15,6%,6%,58%,0%
 Richmond Arthabaska,2024-12-22,6%,5%,55%,0%
 Richmond Arthabaska,2024-12-29,6%,5%,55%,0%
 Richmond Arthabaska,2025-01-05,6%,5%,55%,0%
+Richmond Arthabaska,2025-01-12,6%,5%,54%,0%
 Rimouski La Matapédia,2024-05-12,17%,5%,15%,0%
 Rimouski La Matapédia,2024-05-19,17%,5%,14%,0%
 Rimouski La Matapédia,2024-05-26,18%,6%,13%,0%
@@ -3289,6 +3382,7 @@ Rimouski La Matapédia,2024-12-15,15%,7%,13%,0%
 Rimouski La Matapédia,2024-12-22,15%,7%,15%,0%
 Rimouski La Matapédia,2024-12-29,15%,7%,15%,0%
 Rimouski La Matapédia,2025-01-05,15%,7%,15%,0%
+Rimouski La Matapédia,2025-01-12,14%,7%,16%,0%
 Rivière des Milles Îles,2024-05-12,25%,7%,15%,3%
 Rivière des Milles Îles,2024-05-19,24%,7%,14%,3%
 Rivière des Milles Îles,2024-05-26,25%,7%,13%,3%
@@ -3324,6 +3418,7 @@ Rivière des Milles Îles,2024-12-15,22%,9%,13%,3%
 Rivière des Milles Îles,2024-12-22,21%,9%,15%,3%
 Rivière des Milles Îles,2024-12-29,21%,9%,15%,3%
 Rivière des Milles Îles,2025-01-05,21%,9%,15%,3%
+Rivière des Milles Îles,2025-01-12,20%,8%,16%,3%
 Rivière du Nord,2024-05-12,18%,7%,16%,0%
 Rivière du Nord,2024-05-19,18%,7%,15%,0%
 Rivière du Nord,2024-05-26,19%,7%,15%,0%
@@ -3359,6 +3454,7 @@ Rivière du Nord,2024-12-15,15%,9%,17%,0%
 Rivière du Nord,2024-12-22,15%,8%,19%,0%
 Rivière du Nord,2024-12-29,14%,8%,19%,0%
 Rivière du Nord,2025-01-05,14%,8%,19%,0%
+Rivière du Nord,2025-01-12,14%,8%,19%,0%
 Rosemont La Petite Patrie,2024-05-12,16%,49%,7%,6%
 Rosemont La Petite Patrie,2024-05-19,16%,49%,7%,5%
 Rosemont La Petite Patrie,2024-05-26,16%,50%,6%,6%
@@ -3394,6 +3490,7 @@ Rosemont La Petite Patrie,2024-12-15,12%,53%,6%,5%
 Rosemont La Petite Patrie,2024-12-22,12%,54%,7%,5%
 Rosemont La Petite Patrie,2024-12-29,12%,54%,7%,5%
 Rosemont La Petite Patrie,2025-01-05,12%,53%,7%,5%
+Rosemont La Petite Patrie,2025-01-12,12%,52%,8%,5%
 Saint Hyacinthe Bagot Acton,2024-05-12,18%,11%,18%,0%
 Saint Hyacinthe Bagot Acton,2024-05-19,17%,11%,16%,0%
 Saint Hyacinthe Bagot Acton,2024-05-26,18%,11%,16%,0%
@@ -3429,6 +3526,7 @@ Saint Hyacinthe Bagot Acton,2024-12-15,16%,13%,16%,0%
 Saint Hyacinthe Bagot Acton,2024-12-22,15%,12%,18%,0%
 Saint Hyacinthe Bagot Acton,2024-12-29,15%,12%,18%,0%
 Saint Hyacinthe Bagot Acton,2025-01-05,15%,12%,18%,0%
+Saint Hyacinthe Bagot Acton,2025-01-12,14%,11%,18%,0%
 Saint Jean,2024-05-12,20%,9%,19%,5%
 Saint Jean,2024-05-19,19%,8%,18%,5%
 Saint Jean,2024-05-26,20%,9%,18%,5%
@@ -3464,6 +3562,7 @@ Saint Jean,2024-12-15,18%,11%,17%,5%
 Saint Jean,2024-12-22,17%,10%,19%,5%
 Saint Jean,2024-12-29,17%,10%,19%,5%
 Saint Jean,2025-01-05,16%,10%,19%,4%
+Saint Jean,2025-01-12,16%,9%,20%,4%
 Saint Laurent,2024-05-12,55%,10%,24%,0%
 Saint Laurent,2024-05-19,54%,11%,23%,0%
 Saint Laurent,2024-05-26,56%,11%,22%,0%
@@ -3499,6 +3598,7 @@ Saint Laurent,2024-12-15,45%,14%,28%,0%
 Saint Laurent,2024-12-22,44%,14%,29%,0%
 Saint Laurent,2024-12-29,44%,14%,29%,0%
 Saint Laurent,2025-01-05,44%,14%,29%,0%
+Saint Laurent,2025-01-12,43%,13%,30%,0%
 Saint Léonard Saint Michel,2024-05-12,63%,8%,15%,0%
 Saint Léonard Saint Michel,2024-05-19,62%,8%,15%,0%
 Saint Léonard Saint Michel,2024-05-26,63%,8%,14%,0%
@@ -3534,6 +3634,7 @@ Saint Léonard Saint Michel,2024-12-15,51%,13%,20%,0%
 Saint Léonard Saint Michel,2024-12-22,50%,13%,22%,0%
 Saint Léonard Saint Michel,2024-12-29,50%,13%,22%,0%
 Saint Léonard Saint Michel,2025-01-05,49%,13%,22%,0%
+Saint Léonard Saint Michel,2025-01-12,49%,12%,23%,0%
 Saint Maurice Champlain,2024-05-12,33%,6%,27%,4%
 Saint Maurice Champlain,2024-05-19,33%,6%,26%,4%
 Saint Maurice Champlain,2024-05-26,34%,6%,25%,4%
@@ -3569,6 +3670,7 @@ Saint Maurice Champlain,2024-12-15,30%,8%,22%,4%
 Saint Maurice Champlain,2024-12-22,29%,8%,24%,4%
 Saint Maurice Champlain,2024-12-29,29%,8%,24%,4%
 Saint Maurice Champlain,2025-01-05,28%,7%,24%,4%
+Saint Maurice Champlain,2025-01-12,28%,7%,25%,4%
 Shefford,2024-05-12,23%,6%,20%,5%
 Shefford,2024-05-19,22%,6%,19%,5%
 Shefford,2024-05-26,23%,6%,19%,5%
@@ -3604,6 +3706,7 @@ Shefford,2024-12-15,21%,8%,19%,4%
 Shefford,2024-12-22,20%,8%,21%,4%
 Shefford,2024-12-29,19%,8%,21%,4%
 Shefford,2025-01-05,19%,8%,21%,4%
+Shefford,2025-01-12,19%,7%,21%,4%
 Sherbrooke,2024-05-12,29%,14%,18%,5%
 Sherbrooke,2024-05-19,28%,14%,17%,5%
 Sherbrooke,2024-05-26,29%,14%,16%,5%
@@ -3639,6 +3742,7 @@ Sherbrooke,2024-12-15,26%,16%,17%,5%
 Sherbrooke,2024-12-22,25%,16%,19%,5%
 Sherbrooke,2024-12-29,25%,15%,19%,5%
 Sherbrooke,2025-01-05,24%,15%,19%,5%
+Sherbrooke,2025-01-12,24%,14%,19%,5%
 Terrebonne,2024-05-12,20%,7%,15%,0%
 Terrebonne,2024-05-19,19%,7%,14%,0%
 Terrebonne,2024-05-26,20%,7%,13%,0%
@@ -3674,6 +3778,7 @@ Terrebonne,2024-12-15,18%,9%,13%,0%
 Terrebonne,2024-12-22,17%,9%,15%,0%
 Terrebonne,2024-12-29,17%,9%,15%,0%
 Terrebonne,2025-01-05,17%,9%,15%,0%
+Terrebonne,2025-01-12,17%,8%,16%,0%
 Thérèse De Blainville,2024-05-12,29%,7%,15%,3%
 Thérèse De Blainville,2024-05-19,28%,7%,14%,3%
 Thérèse De Blainville,2024-05-26,29%,7%,14%,3%
@@ -3709,6 +3814,7 @@ Thérèse De Blainville,2024-12-15,26%,9%,14%,3%
 Thérèse De Blainville,2024-12-22,25%,9%,15%,3%
 Thérèse De Blainville,2024-12-29,25%,8%,15%,3%
 Thérèse De Blainville,2025-01-05,24%,8%,16%,3%
+Thérèse De Blainville,2025-01-12,24%,8%,16%,3%
 Trois Rivières,2024-05-12,17%,8%,38%,4%
 Trois Rivières,2024-05-19,17%,8%,36%,4%
 Trois Rivières,2024-05-26,18%,8%,36%,4%
@@ -3744,6 +3850,7 @@ Trois Rivières,2024-12-15,16%,10%,35%,4%
 Trois Rivières,2024-12-22,15%,9%,36%,4%
 Trois Rivières,2024-12-29,15%,9%,36%,4%
 Trois Rivières,2025-01-05,14%,9%,36%,4%
+Trois Rivières,2025-01-12,14%,9%,37%,4%
 Vaudreuil,2024-05-12,37%,11%,22%,5%
 Vaudreuil,2024-05-19,36%,11%,21%,4%
 Vaudreuil,2024-05-26,37%,11%,21%,5%
@@ -3779,6 +3886,7 @@ Vaudreuil,2024-12-15,30%,13%,21%,5%
 Vaudreuil,2024-12-22,30%,13%,23%,5%
 Vaudreuil,2024-12-29,30%,13%,23%,5%
 Vaudreuil,2025-01-05,29%,12%,23%,5%
+Vaudreuil,2025-01-12,29%,12%,24%,4%
 Ville Marie Le Sud Ouest Île des Soeurs,2024-05-12,47%,17%,17%,5%
 Ville Marie Le Sud Ouest Île des Soeurs,2024-05-19,47%,17%,17%,5%
 Ville Marie Le Sud Ouest Île des Soeurs,2024-05-26,48%,17%,16%,5%
@@ -3814,6 +3922,7 @@ Ville Marie Le Sud Ouest Île des Soeurs,2024-12-15,37%,22%,19%,5%
 Ville Marie Le Sud Ouest Île des Soeurs,2024-12-22,36%,22%,21%,5%
 Ville Marie Le Sud Ouest Île des Soeurs,2024-12-29,36%,22%,21%,5%
 Ville Marie Le Sud Ouest Île des Soeurs,2025-01-05,35%,22%,21%,5%
+Ville Marie Le Sud Ouest Île des Soeurs,2025-01-12,35%,21%,22%,4%
 Vimy,2024-05-12,45%,9%,18%,0%
 Vimy,2024-05-19,44%,9%,17%,0%
 Vimy,2024-05-26,46%,9%,17%,0%
@@ -3849,6 +3958,7 @@ Vimy,2024-12-15,36%,11%,20%,0%
 Vimy,2024-12-22,35%,11%,22%,0%
 Vimy,2024-12-29,35%,11%,22%,0%
 Vimy,2025-01-05,34%,10%,22%,0%
+Vimy,2025-01-12,34%,10%,23%,0%
 Ajax,2024-05-12,42%,15%,35%,9%
 Ajax,2024-05-19,42%,15%,34%,9%
 Ajax,2024-05-26,43%,14%,34%,9%
@@ -3884,6 +3994,7 @@ Ajax,2024-12-15,39%,17%,36%,8%
 Ajax,2024-12-22,37%,18%,37%,8%
 Ajax,2024-12-29,37%,18%,37%,8%
 Ajax,2025-01-05,37%,18%,37%,8%
+Ajax,2025-01-12,38%,17%,38%,7%
 Algonquin Renfrew Pembroke,2024-05-12,9%,19%,63%,6%
 Algonquin Renfrew Pembroke,2024-05-19,9%,19%,63%,6%
 Algonquin Renfrew Pembroke,2024-05-26,10%,19%,63%,6%
@@ -3919,6 +4030,7 @@ Algonquin Renfrew Pembroke,2024-12-15,7%,20%,63%,5%
 Algonquin Renfrew Pembroke,2024-12-22,7%,21%,63%,5%
 Algonquin Renfrew Pembroke,2024-12-29,7%,21%,63%,5%
 Algonquin Renfrew Pembroke,2025-01-05,7%,21%,63%,5%
+Algonquin Renfrew Pembroke,2025-01-12,7%,20%,64%,5%
 Aurora Oak Ridges Richmond Hill,2024-05-12,34%,8%,54%,0%
 Aurora Oak Ridges Richmond Hill,2024-05-19,34%,8%,54%,0%
 Aurora Oak Ridges Richmond Hill,2024-05-26,35%,8%,53%,0%
@@ -3954,6 +4066,7 @@ Aurora Oak Ridges Richmond Hill,2024-12-15,30%,10%,55%,0%
 Aurora Oak Ridges Richmond Hill,2024-12-22,29%,11%,57%,0%
 Aurora Oak Ridges Richmond Hill,2024-12-29,29%,11%,56%,0%
 Aurora Oak Ridges Richmond Hill,2025-01-05,28%,11%,57%,0%
+Aurora Oak Ridges Richmond Hill,2025-01-12,29%,10%,57%,0%
 Barrie South Innisfil,2024-05-12,18%,16%,61%,0%
 Barrie South Innisfil,2024-05-19,18%,16%,61%,0%
 Barrie South Innisfil,2024-05-26,18%,15%,61%,0%
@@ -3989,6 +4102,7 @@ Barrie South Innisfil,2024-12-15,15%,17%,60%,0%
 Barrie South Innisfil,2024-12-22,14%,18%,61%,0%
 Barrie South Innisfil,2024-12-29,14%,18%,61%,0%
 Barrie South Innisfil,2025-01-05,14%,18%,61%,0%
+Barrie South Innisfil,2025-01-12,14%,17%,62%,0%
 Barrie Springwater Oro Medonte,2024-05-12,19%,17%,60%,0%
 Barrie Springwater Oro Medonte,2024-05-19,19%,17%,60%,0%
 Barrie Springwater Oro Medonte,2024-05-26,20%,17%,59%,0%
@@ -4024,6 +4138,7 @@ Barrie Springwater Oro Medonte,2024-12-15,17%,18%,60%,0%
 Barrie Springwater Oro Medonte,2024-12-22,15%,19%,60%,0%
 Barrie Springwater Oro Medonte,2024-12-29,16%,19%,60%,0%
 Barrie Springwater Oro Medonte,2025-01-05,15%,19%,60%,0%
+Barrie Springwater Oro Medonte,2025-01-12,16%,18%,61%,0%
 Bay of Quinte,2024-05-12,24%,16%,54%,4%
 Bay of Quinte,2024-05-19,24%,15%,54%,5%
 Bay of Quinte,2024-05-26,25%,15%,53%,4%
@@ -4059,6 +4174,7 @@ Bay of Quinte,2024-12-15,21%,17%,55%,4%
 Bay of Quinte,2024-12-22,19%,18%,56%,4%
 Bay of Quinte,2024-12-29,19%,18%,56%,4%
 Bay of Quinte,2025-01-05,19%,18%,56%,4%
+Bay of Quinte,2025-01-12,19%,17%,57%,4%
 Beaches East York,2024-05-12,43%,25%,20%,10%
 Beaches East York,2024-05-19,43%,25%,20%,10%
 Beaches East York,2024-05-26,44%,24%,20%,10%
@@ -4094,6 +4210,7 @@ Beaches East York,2024-12-15,40%,26%,23%,9%
 Beaches East York,2024-12-22,38%,28%,24%,8%
 Beaches East York,2024-12-29,38%,28%,24%,9%
 Beaches East York,2025-01-05,37%,28%,24%,8%
+Beaches East York,2025-01-12,38%,27%,24%,8%
 Bowmanville Oshawa North,2024-05-12,19%,18%,57%,0%
 Bowmanville Oshawa North,2024-05-19,19%,18%,57%,0%
 Bowmanville Oshawa North,2024-05-26,20%,18%,57%,0%
@@ -4129,6 +4246,7 @@ Bowmanville Oshawa North,2024-12-15,17%,20%,57%,0%
 Bowmanville Oshawa North,2024-12-22,15%,21%,58%,0%
 Bowmanville Oshawa North,2024-12-29,15%,21%,58%,0%
 Bowmanville Oshawa North,2025-01-05,15%,21%,58%,0%
+Bowmanville Oshawa North,2025-01-12,16%,20%,59%,0%
 Brampton Centre,2024-05-12,37%,17%,41%,0%
 Brampton Centre,2024-05-19,37%,17%,41%,0%
 Brampton Centre,2024-05-26,38%,16%,40%,0%
@@ -4164,6 +4282,7 @@ Brampton Centre,2024-12-15,33%,18%,42%,0%
 Brampton Centre,2024-12-22,32%,19%,44%,0%
 Brampton Centre,2024-12-29,32%,19%,44%,0%
 Brampton Centre,2025-01-05,31%,19%,44%,0%
+Brampton Centre,2025-01-12,32%,18%,44%,0%
 Brampton Chinguacousy Park,2024-05-12,39%,18%,40%,0%
 Brampton Chinguacousy Park,2024-05-19,39%,17%,40%,0%
 Brampton Chinguacousy Park,2024-05-26,40%,17%,39%,0%
@@ -4199,6 +4318,7 @@ Brampton Chinguacousy Park,2024-12-15,35%,19%,41%,0%
 Brampton Chinguacousy Park,2024-12-22,33%,20%,43%,0%
 Brampton Chinguacousy Park,2024-12-29,33%,20%,43%,0%
 Brampton Chinguacousy Park,2025-01-05,33%,20%,43%,0%
+Brampton Chinguacousy Park,2025-01-12,33%,19%,43%,0%
 Brampton East,2024-05-12,42%,17%,38%,0%
 Brampton East,2024-05-19,42%,17%,38%,0%
 Brampton East,2024-05-26,43%,16%,37%,0%
@@ -4234,6 +4354,7 @@ Brampton East,2024-12-15,38%,18%,39%,0%
 Brampton East,2024-12-22,36%,19%,40%,0%
 Brampton East,2024-12-29,36%,19%,40%,0%
 Brampton East,2025-01-05,36%,20%,41%,0%
+Brampton East,2025-01-12,37%,18%,41%,0%
 Brampton North Caledon,2024-05-12,40%,15%,43%,0%
 Brampton North Caledon,2024-05-19,40%,15%,43%,0%
 Brampton North Caledon,2024-05-26,42%,14%,42%,0%
@@ -4269,6 +4390,7 @@ Brampton North Caledon,2024-12-15,36%,16%,45%,0%
 Brampton North Caledon,2024-12-22,34%,17%,46%,0%
 Brampton North Caledon,2024-12-29,34%,17%,46%,0%
 Brampton North Caledon,2025-01-05,34%,17%,46%,0%
+Brampton North Caledon,2025-01-12,35%,16%,47%,0%
 Brampton South,2024-05-12,43%,15%,39%,0%
 Brampton South,2024-05-19,43%,15%,39%,0%
 Brampton South,2024-05-26,44%,14%,38%,0%
@@ -4304,6 +4426,7 @@ Brampton South,2024-12-15,39%,16%,40%,0%
 Brampton South,2024-12-22,37%,17%,41%,0%
 Brampton South,2024-12-29,37%,17%,41%,0%
 Brampton South,2025-01-05,36%,17%,42%,0%
+Brampton South,2025-01-12,37%,16%,42%,0%
 Brampton West,2024-05-12,45%,14%,37%,0%
 Brampton West,2024-05-19,45%,14%,37%,0%
 Brampton West,2024-05-26,46%,14%,36%,0%
@@ -4339,6 +4462,7 @@ Brampton West,2024-12-15,41%,16%,38%,0%
 Brampton West,2024-12-22,39%,17%,40%,0%
 Brampton West,2024-12-29,39%,17%,40%,0%
 Brampton West,2025-01-05,38%,17%,40%,0%
+Brampton West,2025-01-12,39%,16%,40%,0%
 Brantford Brant South Six Nations,2024-05-12,17%,21%,53%,5%
 Brantford Brant South Six Nations,2024-05-19,17%,20%,53%,5%
 Brantford Brant South Six Nations,2024-05-26,18%,20%,52%,5%
@@ -4374,6 +4498,7 @@ Brantford Brant South Six Nations,2024-12-15,14%,21%,54%,5%
 Brantford Brant South Six Nations,2024-12-22,13%,22%,55%,5%
 Brantford Brant South Six Nations,2024-12-29,13%,22%,55%,5%
 Brantford Brant South Six Nations,2025-01-05,13%,22%,55%,5%
+Brantford Brant South Six Nations,2025-01-12,13%,21%,56%,5%
 Bruce Grey Owen Sound,2024-05-12,12%,12%,64%,9%
 Bruce Grey Owen Sound,2024-05-19,12%,12%,64%,9%
 Bruce Grey Owen Sound,2024-05-26,12%,12%,64%,9%
@@ -4409,6 +4534,7 @@ Bruce Grey Owen Sound,2024-12-15,10%,14%,64%,8%
 Bruce Grey Owen Sound,2024-12-22,9%,14%,65%,7%
 Bruce Grey Owen Sound,2024-12-29,9%,14%,65%,7%
 Bruce Grey Owen Sound,2025-01-05,9%,15%,65%,7%
+Bruce Grey Owen Sound,2025-01-12,9%,14%,66%,7%
 Burlington,2024-05-12,34%,11%,46%,7%
 Burlington,2024-05-19,34%,11%,46%,7%
 Burlington,2024-05-26,35%,11%,45%,7%
@@ -4444,6 +4570,7 @@ Burlington,2024-12-15,30%,13%,48%,6%
 Burlington,2024-12-22,29%,14%,49%,6%
 Burlington,2024-12-29,29%,14%,49%,6%
 Burlington,2025-01-05,28%,14%,49%,6%
+Burlington,2025-01-12,29%,13%,50%,6%
 Burlington North Milton West,2024-05-12,37%,10%,47%,4%
 Burlington North Milton West,2024-05-19,37%,10%,47%,4%
 Burlington North Milton West,2024-05-26,38%,10%,46%,4%
@@ -4479,6 +4606,7 @@ Burlington North Milton West,2024-12-15,33%,12%,48%,4%
 Burlington North Milton West,2024-12-22,31%,13%,50%,4%
 Burlington North Milton West,2024-12-29,31%,12%,50%,4%
 Burlington North Milton West,2025-01-05,31%,13%,50%,4%
+Burlington North Milton West,2025-01-12,31%,12%,50%,4%
 Cambridge,2024-05-12,29%,18%,44%,6%
 Cambridge,2024-05-19,29%,18%,44%,6%
 Cambridge,2024-05-26,30%,18%,43%,6%
@@ -4514,6 +4642,7 @@ Cambridge,2024-12-15,25%,19%,45%,6%
 Cambridge,2024-12-22,23%,20%,46%,6%
 Cambridge,2024-12-29,24%,20%,46%,6%
 Cambridge,2025-01-05,23%,20%,46%,6%
+Cambridge,2025-01-12,24%,19%,47%,6%
 Carleton,2024-05-12,19%,11%,65%,4%
 Carleton,2024-05-19,19%,11%,65%,4%
 Carleton,2024-05-26,20%,11%,64%,4%
@@ -4549,6 +4678,7 @@ Carleton,2024-12-15,17%,13%,64%,4%
 Carleton,2024-12-22,15%,13%,65%,4%
 Carleton,2024-12-29,16%,13%,65%,4%
 Carleton,2025-01-05,15%,13%,65%,4%
+Carleton,2025-01-12,16%,13%,66%,4%
 Chatham Kent Leamington,2024-05-12,17%,15%,58%,3%
 Chatham Kent Leamington,2024-05-19,17%,15%,58%,3%
 Chatham Kent Leamington,2024-05-26,18%,15%,57%,3%
@@ -4584,6 +4714,7 @@ Chatham Kent Leamington,2024-12-15,15%,16%,57%,3%
 Chatham Kent Leamington,2024-12-22,14%,18%,58%,3%
 Chatham Kent Leamington,2024-12-29,14%,17%,58%,3%
 Chatham Kent Leamington,2025-01-05,13%,18%,58%,3%
+Chatham Kent Leamington,2025-01-12,14%,17%,58%,3%
 Davenport,2024-05-12,35%,41%,17%,5%
 Davenport,2024-05-19,36%,40%,17%,5%
 Davenport,2024-05-26,37%,40%,17%,5%
@@ -4619,6 +4750,7 @@ Davenport,2024-12-15,34%,40%,19%,5%
 Davenport,2024-12-22,31%,42%,20%,4%
 Davenport,2024-12-29,32%,42%,20%,4%
 Davenport,2025-01-05,31%,42%,20%,4%
+Davenport,2025-01-12,32%,40%,21%,4%
 Don Valley North,2024-05-12,42%,11%,43%,4%
 Don Valley North,2024-05-19,42%,11%,43%,4%
 Don Valley North,2024-05-26,43%,10%,42%,4%
@@ -4654,6 +4786,7 @@ Don Valley North,2024-12-15,35%,13%,46%,4%
 Don Valley North,2024-12-22,33%,13%,48%,4%
 Don Valley North,2024-12-29,33%,13%,48%,4%
 Don Valley North,2025-01-05,33%,13%,48%,4%
+Don Valley North,2025-01-12,33%,13%,48%,4%
 Don Valley West,2024-05-12,46%,10%,40%,0%
 Don Valley West,2024-05-19,46%,10%,40%,0%
 Don Valley West,2024-05-26,47%,10%,39%,0%
@@ -4689,6 +4822,7 @@ Don Valley West,2024-12-15,39%,12%,44%,0%
 Don Valley West,2024-12-22,37%,13%,45%,0%
 Don Valley West,2024-12-29,37%,13%,45%,0%
 Don Valley West,2025-01-05,37%,13%,46%,0%
+Don Valley West,2025-01-12,37%,12%,46%,0%
 Dufferin Caledon,2024-05-12,17%,10%,62%,8%
 Dufferin Caledon,2024-05-19,17%,10%,61%,8%
 Dufferin Caledon,2024-05-26,18%,10%,61%,8%
@@ -4724,6 +4858,7 @@ Dufferin Caledon,2024-12-15,15%,12%,61%,7%
 Dufferin Caledon,2024-12-22,14%,13%,62%,7%
 Dufferin Caledon,2024-12-29,14%,13%,62%,7%
 Dufferin Caledon,2025-01-05,13%,13%,62%,7%
+Dufferin Caledon,2025-01-12,14%,12%,63%,7%
 Eglinton Lawrence,2024-05-12,34%,9%,46%,10%
 Eglinton Lawrence,2024-05-19,35%,9%,45%,10%
 Eglinton Lawrence,2024-05-26,36%,9%,45%,10%
@@ -4759,6 +4894,7 @@ Eglinton Lawrence,2024-12-15,28%,11%,50%,9%
 Eglinton Lawrence,2024-12-22,27%,12%,51%,8%
 Eglinton Lawrence,2024-12-29,27%,12%,51%,8%
 Eglinton Lawrence,2025-01-05,26%,12%,52%,8%
+Eglinton Lawrence,2025-01-12,27%,11%,52%,8%
 Elgin St. Thomas London South,2024-05-12,11%,16%,63%,4%
 Elgin St. Thomas London South,2024-05-19,11%,16%,63%,5%
 Elgin St. Thomas London South,2024-05-26,11%,16%,62%,4%
@@ -4794,6 +4930,7 @@ Elgin St. Thomas London South,2024-12-15,9%,17%,61%,5%
 Elgin St. Thomas London South,2024-12-22,8%,18%,62%,4%
 Elgin St. Thomas London South,2024-12-29,8%,18%,62%,4%
 Elgin St. Thomas London South,2025-01-05,8%,18%,62%,4%
+Elgin St. Thomas London South,2025-01-12,8%,17%,63%,4%
 Essex,2024-05-12,8%,32%,53%,0%
 Essex,2024-05-19,8%,32%,53%,0%
 Essex,2024-05-26,8%,31%,53%,0%
@@ -4829,6 +4966,7 @@ Essex,2024-12-15,6%,31%,54%,0%
 Essex,2024-12-22,5%,32%,54%,0%
 Essex,2024-12-29,5%,32%,54%,0%
 Essex,2025-01-05,5%,33%,54%,0%
+Essex,2025-01-12,6%,31%,55%,0%
 Etobicoke Centre,2024-05-12,38%,12%,46%,0%
 Etobicoke Centre,2024-05-19,38%,11%,46%,0%
 Etobicoke Centre,2024-05-26,39%,11%,45%,0%
@@ -4864,6 +5002,7 @@ Etobicoke Centre,2024-12-15,31%,13%,50%,0%
 Etobicoke Centre,2024-12-22,30%,14%,51%,0%
 Etobicoke Centre,2024-12-29,30%,14%,51%,0%
 Etobicoke Centre,2025-01-05,29%,14%,51%,0%
+Etobicoke Centre,2025-01-12,30%,13%,52%,0%
 Etobicoke Lakeshore,2024-05-12,36%,14%,43%,4%
 Etobicoke Lakeshore,2024-05-19,37%,14%,42%,4%
 Etobicoke Lakeshore,2024-05-26,38%,14%,42%,4%
@@ -4899,6 +5038,7 @@ Etobicoke Lakeshore,2024-12-15,30%,16%,46%,4%
 Etobicoke Lakeshore,2024-12-22,29%,17%,47%,4%
 Etobicoke Lakeshore,2024-12-29,29%,17%,47%,4%
 Etobicoke Lakeshore,2025-01-05,28%,17%,47%,4%
+Etobicoke Lakeshore,2025-01-12,29%,16%,48%,4%
 Etobicoke North,2024-05-12,48%,12%,35%,0%
 Etobicoke North,2024-05-19,48%,12%,35%,0%
 Etobicoke North,2024-05-26,49%,11%,34%,0%
@@ -4934,6 +5074,7 @@ Etobicoke North,2024-12-15,42%,14%,38%,0%
 Etobicoke North,2024-12-22,40%,15%,40%,0%
 Etobicoke North,2024-12-29,40%,15%,40%,0%
 Etobicoke North,2025-01-05,40%,15%,40%,0%
+Etobicoke North,2025-01-12,40%,14%,40%,0%
 Flamborough Glanbrook Brant North,2024-05-12,20%,15%,57%,5%
 Flamborough Glanbrook Brant North,2024-05-19,20%,14%,57%,5%
 Flamborough Glanbrook Brant North,2024-05-26,21%,14%,57%,5%
@@ -4969,6 +5110,7 @@ Flamborough Glanbrook Brant North,2024-12-15,18%,16%,57%,5%
 Flamborough Glanbrook Brant North,2024-12-22,17%,17%,58%,5%
 Flamborough Glanbrook Brant North,2024-12-29,17%,17%,58%,5%
 Flamborough Glanbrook Brant North,2025-01-05,16%,17%,58%,5%
+Flamborough Glanbrook Brant North,2025-01-12,17%,16%,59%,5%
 Guelph,2024-05-12,30%,23%,31%,14%
 Guelph,2024-05-19,30%,23%,31%,14%
 Guelph,2024-05-26,31%,22%,30%,13%
@@ -5004,6 +5146,7 @@ Guelph,2024-12-15,27%,24%,32%,12%
 Guelph,2024-12-22,26%,26%,32%,12%
 Guelph,2024-12-29,26%,26%,32%,12%
 Guelph,2025-01-05,26%,26%,32%,12%
+Guelph,2025-01-12,27%,25%,33%,12%
 Haldimand Norfolk,2024-05-12,17%,13%,62%,0%
 Haldimand Norfolk,2024-05-19,17%,13%,62%,0%
 Haldimand Norfolk,2024-05-26,18%,13%,61%,0%
@@ -5039,6 +5182,7 @@ Haldimand Norfolk,2024-12-15,14%,15%,61%,0%
 Haldimand Norfolk,2024-12-22,14%,16%,62%,0%
 Haldimand Norfolk,2024-12-29,14%,16%,62%,0%
 Haldimand Norfolk,2025-01-05,13%,16%,62%,0%
+Haldimand Norfolk,2025-01-12,14%,15%,63%,0%
 Haliburton Kawartha Lakes,2024-05-12,14%,14%,64%,5%
 Haliburton Kawartha Lakes,2024-05-19,14%,14%,64%,5%
 Haliburton Kawartha Lakes,2024-05-26,14%,14%,64%,5%
@@ -5074,6 +5218,7 @@ Haliburton Kawartha Lakes,2024-12-15,12%,15%,63%,5%
 Haliburton Kawartha Lakes,2024-12-22,11%,16%,64%,5%
 Haliburton Kawartha Lakes,2024-12-29,11%,16%,64%,5%
 Haliburton Kawartha Lakes,2025-01-05,11%,16%,64%,5%
+Haliburton Kawartha Lakes,2025-01-12,11%,15%,65%,5%
 Hamilton Centre,2024-05-12,17%,50%,24%,5%
 Hamilton Centre,2024-05-19,17%,50%,24%,5%
 Hamilton Centre,2024-05-26,18%,49%,24%,5%
@@ -5109,6 +5254,7 @@ Hamilton Centre,2024-12-15,15%,49%,25%,5%
 Hamilton Centre,2024-12-22,13%,51%,26%,5%
 Hamilton Centre,2024-12-29,13%,51%,26%,5%
 Hamilton Centre,2025-01-05,13%,52%,26%,5%
+Hamilton Centre,2025-01-12,14%,50%,27%,5%
 Hamilton East Stoney Creek,2024-05-12,30%,23%,40%,4%
 Hamilton East Stoney Creek,2024-05-19,30%,23%,40%,4%
 Hamilton East Stoney Creek,2024-05-26,31%,23%,39%,4%
@@ -5144,6 +5290,7 @@ Hamilton East Stoney Creek,2024-12-15,27%,24%,41%,4%
 Hamilton East Stoney Creek,2024-12-22,25%,25%,42%,4%
 Hamilton East Stoney Creek,2024-12-29,25%,25%,42%,4%
 Hamilton East Stoney Creek,2025-01-05,25%,25%,42%,4%
+Hamilton East Stoney Creek,2025-01-12,25%,24%,43%,4%
 Hamilton Mountain,2024-05-12,26%,33%,34%,4%
 Hamilton Mountain,2024-05-19,26%,33%,34%,4%
 Hamilton Mountain,2024-05-26,27%,33%,33%,4%
@@ -5179,6 +5326,7 @@ Hamilton Mountain,2024-12-15,23%,33%,35%,4%
 Hamilton Mountain,2024-12-22,21%,35%,36%,4%
 Hamilton Mountain,2024-12-29,21%,35%,36%,4%
 Hamilton Mountain,2025-01-05,21%,36%,36%,4%
+Hamilton Mountain,2025-01-12,21%,34%,37%,4%
 Hamilton West Ancaster Dundas,2024-05-12,34%,21%,38%,5%
 Hamilton West Ancaster Dundas,2024-05-19,34%,21%,38%,5%
 Hamilton West Ancaster Dundas,2024-05-26,35%,20%,38%,5%
@@ -5214,6 +5362,7 @@ Hamilton West Ancaster Dundas,2024-12-15,30%,22%,39%,5%
 Hamilton West Ancaster Dundas,2024-12-22,29%,23%,41%,5%
 Hamilton West Ancaster Dundas,2024-12-29,29%,23%,40%,5%
 Hamilton West Ancaster Dundas,2025-01-05,28%,23%,41%,5%
+Hamilton West Ancaster Dundas,2025-01-12,29%,22%,41%,5%
 Hastings Lennox and Addington Tyendinaga,2024-05-12,22%,11%,59%,4%
 Hastings Lennox and Addington Tyendinaga,2024-05-19,22%,11%,59%,4%
 Hastings Lennox and Addington Tyendinaga,2024-05-26,23%,11%,59%,4%
@@ -5249,6 +5398,7 @@ Hastings Lennox and Addington Tyendinaga,2024-12-15,19%,13%,59%,4%
 Hastings Lennox and Addington Tyendinaga,2024-12-22,18%,14%,60%,4%
 Hastings Lennox and Addington Tyendinaga,2024-12-29,18%,14%,60%,4%
 Hastings Lennox and Addington Tyendinaga,2025-01-05,18%,14%,60%,4%
+Hastings Lennox and Addington Tyendinaga,2025-01-12,18%,13%,61%,4%
 Humber River Black Creek,2024-05-12,48%,19%,25%,6%
 Humber River Black Creek,2024-05-19,48%,19%,25%,6%
 Humber River Black Creek,2024-05-26,49%,18%,25%,6%
@@ -5284,6 +5434,7 @@ Humber River Black Creek,2024-12-15,44%,21%,28%,5%
 Humber River Black Creek,2024-12-22,41%,23%,28%,5%
 Humber River Black Creek,2024-12-29,41%,23%,28%,5%
 Humber River Black Creek,2025-01-05,41%,24%,28%,5%
+Humber River Black Creek,2025-01-12,42%,22%,29%,5%
 Huron Bruce,2024-05-12,13%,13%,69%,0%
 Huron Bruce,2024-05-19,13%,13%,69%,0%
 Huron Bruce,2024-05-26,14%,13%,69%,0%
@@ -5319,6 +5470,7 @@ Huron Bruce,2024-12-15,11%,15%,68%,0%
 Huron Bruce,2024-12-22,10%,16%,69%,0%
 Huron Bruce,2024-12-29,10%,16%,69%,0%
 Huron Bruce,2025-01-05,10%,16%,69%,0%
+Huron Bruce,2025-01-12,10%,15%,70%,0%
 Kanata,2024-05-12,32%,15%,46%,5%
 Kanata,2024-05-19,33%,15%,46%,5%
 Kanata,2024-05-26,34%,15%,45%,5%
@@ -5354,6 +5506,7 @@ Kanata,2024-12-15,29%,17%,47%,5%
 Kanata,2024-12-22,27%,18%,48%,5%
 Kanata,2024-12-29,27%,18%,48%,5%
 Kanata,2025-01-05,27%,18%,49%,5%
+Kanata,2025-01-12,28%,17%,49%,5%
 Kapuskasing Timmins Mushkegowuk,2024-05-12,17%,40%,36%,0%
 Kapuskasing Timmins Mushkegowuk,2024-05-19,17%,39%,36%,0%
 Kapuskasing Timmins Mushkegowuk,2024-05-26,18%,39%,35%,0%
@@ -5389,6 +5542,7 @@ Kapuskasing Timmins Mushkegowuk,2024-12-15,15%,39%,37%,0%
 Kapuskasing Timmins Mushkegowuk,2024-12-22,14%,41%,38%,0%
 Kapuskasing Timmins Mushkegowuk,2024-12-29,14%,41%,38%,0%
 Kapuskasing Timmins Mushkegowuk,2025-01-05,13%,41%,38%,0%
+Kapuskasing Timmins Mushkegowuk,2025-01-12,14%,39%,39%,0%
 Kenora Kiiwetinoong,2024-05-12,11%,29%,55%,0%
 Kenora Kiiwetinoong,2024-05-19,11%,28%,55%,0%
 Kenora Kiiwetinoong,2024-05-26,11%,28%,55%,0%
@@ -5424,6 +5578,7 @@ Kenora Kiiwetinoong,2024-12-15,9%,29%,55%,0%
 Kenora Kiiwetinoong,2024-12-22,8%,30%,56%,0%
 Kenora Kiiwetinoong,2024-12-29,8%,30%,56%,0%
 Kenora Kiiwetinoong,2025-01-05,8%,30%,55%,0%
+Kenora Kiiwetinoong,2025-01-12,8%,29%,57%,0%
 Kingston and the Islands,2024-05-12,31%,30%,33%,5%
 Kingston and the Islands,2024-05-19,31%,30%,33%,5%
 Kingston and the Islands,2024-05-26,32%,30%,32%,5%
@@ -5459,6 +5614,7 @@ Kingston and the Islands,2024-12-15,27%,31%,34%,5%
 Kingston and the Islands,2024-12-22,26%,32%,35%,5%
 Kingston and the Islands,2024-12-29,26%,32%,35%,5%
 Kingston and the Islands,2025-01-05,25%,33%,35%,5%
+Kingston and the Islands,2025-01-12,26%,31%,36%,4%
 King Vaughan,2024-05-12,29%,7%,60%,0%
 King Vaughan,2024-05-19,29%,7%,60%,0%
 King Vaughan,2024-05-26,30%,7%,59%,0%
@@ -5494,6 +5650,7 @@ King Vaughan,2024-12-15,26%,9%,59%,0%
 King Vaughan,2024-12-22,24%,9%,61%,0%
 King Vaughan,2024-12-29,24%,9%,61%,0%
 King Vaughan,2025-01-05,24%,9%,61%,0%
+King Vaughan,2025-01-12,24%,9%,61%,0%
 Kitchener Centre,2024-05-12,17%,13%,28%,39%
 Kitchener Centre,2024-05-19,17%,13%,28%,39%
 Kitchener Centre,2024-05-26,18%,13%,28%,38%
@@ -5529,6 +5686,7 @@ Kitchener Centre,2024-12-15,14%,16%,29%,37%
 Kitchener Centre,2024-12-22,13%,17%,31%,36%
 Kitchener Centre,2024-12-29,13%,17%,31%,36%
 Kitchener Centre,2025-01-05,13%,17%,31%,36%
+Kitchener Centre,2025-01-12,13%,16%,32%,35%
 Kitchener Conestoga,2024-05-12,28%,12%,47%,9%
 Kitchener Conestoga,2024-05-19,28%,12%,47%,9%
 Kitchener Conestoga,2024-05-26,29%,12%,47%,9%
@@ -5564,6 +5722,7 @@ Kitchener Conestoga,2024-12-15,25%,14%,49%,8%
 Kitchener Conestoga,2024-12-22,23%,15%,50%,8%
 Kitchener Conestoga,2024-12-29,23%,15%,50%,8%
 Kitchener Conestoga,2025-01-05,23%,15%,50%,8%
+Kitchener Conestoga,2025-01-12,23%,14%,51%,7%
 Kitchener South Hespeler,2024-05-12,26%,16%,46%,10%
 Kitchener South Hespeler,2024-05-19,26%,16%,46%,10%
 Kitchener South Hespeler,2024-05-26,27%,16%,45%,10%
@@ -5599,6 +5758,7 @@ Kitchener South Hespeler,2024-12-15,23%,17%,47%,8%
 Kitchener South Hespeler,2024-12-22,21%,19%,49%,8%
 Kitchener South Hespeler,2024-12-29,21%,18%,49%,8%
 Kitchener South Hespeler,2025-01-05,21%,19%,49%,8%
+Kitchener South Hespeler,2025-01-12,21%,18%,50%,8%
 Lanark Frontenac,2024-05-12,15%,15%,62%,5%
 Lanark Frontenac,2024-05-19,15%,15%,62%,5%
 Lanark Frontenac,2024-05-26,16%,15%,61%,5%
@@ -5634,6 +5794,7 @@ Lanark Frontenac,2024-12-15,13%,16%,61%,5%
 Lanark Frontenac,2024-12-22,12%,17%,62%,5%
 Lanark Frontenac,2024-12-29,12%,17%,62%,5%
 Lanark Frontenac,2025-01-05,12%,17%,62%,5%
+Lanark Frontenac,2025-01-12,12%,16%,63%,5%
 Leeds Grenville Thousand Islands Rideau Lakes,2024-05-12,13%,13%,62%,10%
 Leeds Grenville Thousand Islands Rideau Lakes,2024-05-19,13%,13%,62%,10%
 Leeds Grenville Thousand Islands Rideau Lakes,2024-05-26,13%,13%,62%,10%
@@ -5669,6 +5830,7 @@ Leeds Grenville Thousand Islands Rideau Lakes,2024-12-15,11%,15%,62%,9%
 Leeds Grenville Thousand Islands Rideau Lakes,2024-12-22,10%,16%,63%,8%
 Leeds Grenville Thousand Islands Rideau Lakes,2024-12-29,10%,16%,63%,8%
 Leeds Grenville Thousand Islands Rideau Lakes,2025-01-05,10%,16%,63%,8%
+Leeds Grenville Thousand Islands Rideau Lakes,2025-01-12,10%,15%,64%,8%
 London Centre,2024-05-12,28%,32%,33%,4%
 London Centre,2024-05-19,28%,32%,33%,4%
 London Centre,2024-05-26,29%,31%,33%,4%
@@ -5704,6 +5866,7 @@ London Centre,2024-12-15,25%,32%,34%,4%
 London Centre,2024-12-22,23%,34%,35%,4%
 London Centre,2024-12-29,23%,34%,35%,4%
 London Centre,2025-01-05,23%,34%,36%,4%
+London Centre,2025-01-12,24%,33%,36%,4%
 London Fanshawe,2024-05-12,14%,46%,34%,0%
 London Fanshawe,2024-05-19,14%,46%,34%,0%
 London Fanshawe,2024-05-26,15%,45%,33%,0%
@@ -5739,6 +5902,7 @@ London Fanshawe,2024-12-15,12%,45%,35%,0%
 London Fanshawe,2024-12-22,11%,47%,35%,0%
 London Fanshawe,2024-12-29,11%,47%,35%,0%
 London Fanshawe,2025-01-05,11%,47%,35%,0%
+London Fanshawe,2025-01-12,11%,45%,36%,0%
 London West,2024-05-12,27%,24%,43%,0%
 London West,2024-05-19,27%,24%,43%,0%
 London West,2024-05-26,28%,23%,43%,0%
@@ -5774,6 +5938,7 @@ London West,2024-12-15,24%,24%,45%,0%
 London West,2024-12-22,22%,26%,46%,0%
 London West,2024-12-29,22%,26%,46%,0%
 London West,2025-01-05,22%,26%,46%,0%
+London West,2025-01-12,23%,25%,47%,0%
 Markham Stouffville,2024-05-12,40%,9%,45%,4%
 Markham Stouffville,2024-05-19,40%,9%,45%,4%
 Markham Stouffville,2024-05-26,42%,9%,44%,4%
@@ -5809,6 +5974,7 @@ Markham Stouffville,2024-12-15,36%,11%,46%,4%
 Markham Stouffville,2024-12-22,34%,12%,48%,4%
 Markham Stouffville,2024-12-29,34%,12%,47%,4%
 Markham Stouffville,2025-01-05,34%,12%,48%,4%
+Markham Stouffville,2025-01-12,34%,11%,48%,4%
 Markham Thornhill,2024-05-12,50%,9%,36%,4%
 Markham Thornhill,2024-05-19,50%,9%,36%,4%
 Markham Thornhill,2024-05-26,51%,9%,35%,4%
@@ -5844,6 +6010,7 @@ Markham Thornhill,2024-12-15,46%,11%,37%,4%
 Markham Thornhill,2024-12-22,44%,12%,39%,4%
 Markham Thornhill,2024-12-29,44%,12%,39%,4%
 Markham Thornhill,2025-01-05,43%,12%,39%,4%
+Markham Thornhill,2025-01-12,44%,12%,39%,4%
 Markham Unionville,2024-05-12,35%,6%,53%,5%
 Markham Unionville,2024-05-19,36%,6%,53%,5%
 Markham Unionville,2024-05-26,37%,6%,52%,5%
@@ -5879,6 +6046,7 @@ Markham Unionville,2024-12-15,31%,8%,54%,5%
 Markham Unionville,2024-12-22,30%,9%,55%,5%
 Markham Unionville,2024-12-29,30%,9%,55%,5%
 Markham Unionville,2025-01-05,30%,9%,56%,5%
+Markham Unionville,2025-01-12,30%,8%,56%,5%
 Middlesex London,2024-05-12,16%,17%,59%,4%
 Middlesex London,2024-05-19,16%,17%,59%,4%
 Middlesex London,2024-05-26,17%,17%,59%,4%
@@ -5914,6 +6082,7 @@ Middlesex London,2024-12-15,14%,18%,58%,4%
 Middlesex London,2024-12-22,13%,20%,59%,4%
 Middlesex London,2024-12-29,13%,19%,59%,4%
 Middlesex London,2025-01-05,13%,20%,59%,4%
+Middlesex London,2025-01-12,13%,18%,60%,4%
 Milton East Halton Hills South,2024-05-12,31%,10%,52%,5%
 Milton East Halton Hills South,2024-05-19,31%,10%,52%,5%
 Milton East Halton Hills South,2024-05-26,32%,9%,51%,5%
@@ -5949,6 +6118,7 @@ Milton East Halton Hills South,2024-12-15,27%,11%,53%,5%
 Milton East Halton Hills South,2024-12-22,26%,12%,54%,5%
 Milton East Halton Hills South,2024-12-29,26%,12%,54%,5%
 Milton East Halton Hills South,2025-01-05,26%,12%,55%,5%
+Milton East Halton Hills South,2025-01-12,26%,11%,55%,5%
 Mississauga Centre,2024-05-12,43%,13%,39%,3%
 Mississauga Centre,2024-05-19,43%,12%,39%,3%
 Mississauga Centre,2024-05-26,45%,12%,38%,3%
@@ -5984,6 +6154,7 @@ Mississauga Centre,2024-12-15,39%,14%,40%,3%
 Mississauga Centre,2024-12-22,37%,15%,41%,3%
 Mississauga Centre,2024-12-29,37%,15%,41%,3%
 Mississauga Centre,2025-01-05,37%,15%,42%,3%
+Mississauga Centre,2025-01-12,38%,14%,42%,3%
 Mississauga East Cooksville,2024-05-12,40%,12%,43%,0%
 Mississauga East Cooksville,2024-05-19,41%,11%,43%,0%
 Mississauga East Cooksville,2024-05-26,42%,11%,42%,0%
@@ -6019,6 +6190,7 @@ Mississauga East Cooksville,2024-12-15,36%,13%,44%,0%
 Mississauga East Cooksville,2024-12-22,35%,14%,46%,0%
 Mississauga East Cooksville,2024-12-29,35%,14%,45%,0%
 Mississauga East Cooksville,2025-01-05,34%,14%,46%,0%
+Mississauga East Cooksville,2025-01-12,35%,13%,46%,0%
 Mississauga Erin Mills,2024-05-12,40%,11%,44%,3%
 Mississauga Erin Mills,2024-05-19,40%,11%,44%,3%
 Mississauga Erin Mills,2024-05-26,41%,11%,43%,3%
@@ -6054,6 +6226,7 @@ Mississauga Erin Mills,2024-12-15,36%,13%,45%,3%
 Mississauga Erin Mills,2024-12-22,34%,14%,46%,3%
 Mississauga Erin Mills,2024-12-29,34%,14%,46%,3%
 Mississauga Erin Mills,2025-01-05,34%,14%,47%,3%
+Mississauga Erin Mills,2025-01-12,34%,13%,47%,3%
 Mississauga Lakeshore,2024-05-12,34%,10%,49%,4%
 Mississauga Lakeshore,2024-05-19,34%,10%,49%,4%
 Mississauga Lakeshore,2024-05-26,35%,10%,48%,4%
@@ -6089,6 +6262,7 @@ Mississauga Lakeshore,2024-12-15,30%,12%,50%,4%
 Mississauga Lakeshore,2024-12-22,29%,13%,51%,4%
 Mississauga Lakeshore,2024-12-29,29%,12%,51%,4%
 Mississauga Lakeshore,2025-01-05,28%,13%,52%,4%
+Mississauga Lakeshore,2025-01-12,29%,12%,52%,4%
 Mississauga Malton,2024-05-12,41%,15%,40%,4%
 Mississauga Malton,2024-05-19,41%,15%,40%,4%
 Mississauga Malton,2024-05-26,42%,14%,39%,4%
@@ -6124,6 +6298,7 @@ Mississauga Malton,2024-12-15,37%,16%,41%,4%
 Mississauga Malton,2024-12-22,35%,17%,42%,4%
 Mississauga Malton,2024-12-29,35%,17%,42%,4%
 Mississauga Malton,2025-01-05,35%,18%,43%,4%
+Mississauga Malton,2025-01-12,36%,16%,43%,4%
 Mississauga Streetsville,2024-05-12,36%,13%,44%,4%
 Mississauga Streetsville,2024-05-19,37%,13%,44%,4%
 Mississauga Streetsville,2024-05-26,38%,12%,44%,4%
@@ -6159,6 +6334,7 @@ Mississauga Streetsville,2024-12-15,32%,14%,46%,4%
 Mississauga Streetsville,2024-12-22,31%,15%,47%,4%
 Mississauga Streetsville,2024-12-29,31%,15%,47%,4%
 Mississauga Streetsville,2025-01-05,30%,15%,47%,4%
+Mississauga Streetsville,2025-01-12,31%,14%,48%,4%
 Nepean,2024-05-12,35%,17%,43%,4%
 Nepean,2024-05-19,35%,17%,43%,4%
 Nepean,2024-05-26,36%,17%,42%,4%
@@ -6194,6 +6370,7 @@ Nepean,2024-12-15,31%,18%,44%,4%
 Nepean,2024-12-22,30%,19%,45%,4%
 Nepean,2024-12-29,30%,19%,45%,4%
 Nepean,2025-01-05,29%,20%,45%,4%
+Nepean,2025-01-12,30%,18%,46%,4%
 Newmarket Aurora,2024-05-12,33%,12%,49%,4%
 Newmarket Aurora,2024-05-19,33%,12%,49%,4%
 Newmarket Aurora,2024-05-26,34%,12%,48%,4%
@@ -6229,6 +6406,7 @@ Newmarket Aurora,2024-12-15,29%,13%,50%,4%
 Newmarket Aurora,2024-12-22,28%,14%,51%,4%
 Newmarket Aurora,2024-12-29,28%,14%,51%,4%
 Newmarket Aurora,2025-01-05,27%,14%,51%,4%
+Newmarket Aurora,2025-01-12,28%,14%,52%,4%
 New Tecumseth Gwillimbury,2024-05-12,19%,13%,62%,0%
 New Tecumseth Gwillimbury,2024-05-19,19%,13%,62%,0%
 New Tecumseth Gwillimbury,2024-05-26,20%,13%,61%,0%
@@ -6264,6 +6442,7 @@ New Tecumseth Gwillimbury,2024-12-15,16%,14%,61%,0%
 New Tecumseth Gwillimbury,2024-12-22,15%,15%,62%,0%
 New Tecumseth Gwillimbury,2024-12-29,15%,15%,62%,0%
 New Tecumseth Gwillimbury,2025-01-05,15%,16%,62%,0%
+New Tecumseth Gwillimbury,2025-01-12,15%,15%,63%,0%
 Niagara Falls Niagara on the Lake,2024-05-12,23%,19%,51%,4%
 Niagara Falls Niagara on the Lake,2024-05-19,23%,18%,51%,4%
 Niagara Falls Niagara on the Lake,2024-05-26,24%,18%,50%,4%
@@ -6299,6 +6478,7 @@ Niagara Falls Niagara on the Lake,2024-12-15,20%,19%,52%,4%
 Niagara Falls Niagara on the Lake,2024-12-22,18%,20%,53%,4%
 Niagara Falls Niagara on the Lake,2024-12-29,18%,20%,53%,4%
 Niagara Falls Niagara on the Lake,2025-01-05,18%,21%,53%,4%
+Niagara Falls Niagara on the Lake,2025-01-12,19%,19%,54%,4%
 Niagara South,2024-05-12,22%,24%,46%,4%
 Niagara South,2024-05-19,22%,24%,46%,4%
 Niagara South,2024-05-26,23%,24%,45%,4%
@@ -6334,6 +6514,7 @@ Niagara South,2024-12-15,19%,25%,47%,4%
 Niagara South,2024-12-22,17%,26%,48%,4%
 Niagara South,2024-12-29,17%,26%,48%,4%
 Niagara South,2025-01-05,17%,26%,48%,4%
+Niagara South,2025-01-12,18%,25%,49%,4%
 Niagara West,2024-05-12,19%,14%,57%,5%
 Niagara West,2024-05-19,19%,14%,57%,6%
 Niagara West,2024-05-26,20%,14%,56%,5%
@@ -6369,6 +6550,7 @@ Niagara West,2024-12-15,17%,15%,56%,6%
 Niagara West,2024-12-22,16%,16%,58%,5%
 Niagara West,2024-12-29,16%,16%,58%,5%
 Niagara West,2025-01-05,15%,17%,58%,5%
+Niagara West,2025-01-12,16%,16%,59%,5%
 Nipissing Timiskaming,2024-05-12,28%,25%,42%,0%
 Nipissing Timiskaming,2024-05-19,28%,25%,42%,0%
 Nipissing Timiskaming,2024-05-26,29%,24%,41%,0%
@@ -6404,6 +6586,7 @@ Nipissing Timiskaming,2024-12-15,24%,25%,43%,0%
 Nipissing Timiskaming,2024-12-22,23%,27%,44%,0%
 Nipissing Timiskaming,2024-12-29,23%,27%,44%,0%
 Nipissing Timiskaming,2025-01-05,22%,27%,44%,0%
+Nipissing Timiskaming,2025-01-12,23%,25%,45%,0%
 Northumberland Clarke,2024-05-12,21%,14%,57%,5%
 Northumberland Clarke,2024-05-19,22%,14%,57%,5%
 Northumberland Clarke,2024-05-26,22%,14%,56%,5%
@@ -6439,6 +6622,7 @@ Northumberland Clarke,2024-12-15,19%,15%,57%,5%
 Northumberland Clarke,2024-12-22,17%,16%,58%,5%
 Northumberland Clarke,2024-12-29,18%,16%,58%,5%
 Northumberland Clarke,2025-01-05,17%,17%,58%,5%
+Northumberland Clarke,2025-01-12,18%,15%,59%,5%
 Oakville East,2024-05-12,35%,10%,50%,3%
 Oakville East,2024-05-19,35%,10%,50%,3%
 Oakville East,2024-05-26,36%,9%,49%,3%
@@ -6474,6 +6658,7 @@ Oakville East,2024-12-15,31%,11%,51%,3%
 Oakville East,2024-12-22,30%,12%,53%,3%
 Oakville East,2024-12-29,30%,12%,52%,3%
 Oakville East,2025-01-05,29%,12%,53%,3%
+Oakville East,2025-01-12,30%,11%,53%,3%
 Oakville West,2024-05-12,37%,9%,49%,4%
 Oakville West,2024-05-19,37%,9%,49%,4%
 Oakville West,2024-05-26,38%,9%,48%,3%
@@ -6509,6 +6694,7 @@ Oakville West,2024-12-15,32%,11%,50%,4%
 Oakville West,2024-12-22,31%,11%,52%,3%
 Oakville West,2024-12-29,31%,11%,52%,3%
 Oakville West,2025-01-05,30%,12%,52%,3%
+Oakville West,2025-01-12,31%,11%,52%,3%
 Orléans,2024-05-12,41%,16%,38%,3%
 Orléans,2024-05-19,42%,16%,38%,3%
 Orléans,2024-05-26,43%,15%,37%,3%
@@ -6544,6 +6730,7 @@ Orléans,2024-12-15,38%,17%,39%,3%
 Orléans,2024-12-22,36%,19%,39%,3%
 Orléans,2024-12-29,36%,19%,39%,3%
 Orléans,2025-01-05,36%,19%,40%,3%
+Orléans,2025-01-12,37%,18%,40%,3%
 Oshawa,2024-05-12,12%,28%,50%,7%
 Oshawa,2024-05-19,12%,28%,50%,7%
 Oshawa,2024-05-26,13%,28%,49%,7%
@@ -6579,6 +6766,7 @@ Oshawa,2024-12-15,10%,29%,52%,5%
 Oshawa,2024-12-22,9%,30%,52%,5%
 Oshawa,2024-12-29,9%,30%,52%,5%
 Oshawa,2025-01-05,9%,30%,52%,5%
+Oshawa,2025-01-12,10%,29%,54%,4%
 Ottawa Centre,2024-05-12,35%,34%,23%,5%
 Ottawa Centre,2024-05-19,35%,34%,23%,5%
 Ottawa Centre,2024-05-26,36%,34%,23%,5%
@@ -6614,6 +6802,7 @@ Ottawa Centre,2024-12-15,32%,35%,25%,5%
 Ottawa Centre,2024-12-22,30%,37%,26%,5%
 Ottawa Centre,2024-12-29,30%,37%,26%,5%
 Ottawa Centre,2025-01-05,29%,37%,26%,5%
+Ottawa Centre,2025-01-12,31%,35%,26%,5%
 Ottawa South,2024-05-12,39%,19%,36%,4%
 Ottawa South,2024-05-19,39%,19%,36%,4%
 Ottawa South,2024-05-26,40%,19%,35%,4%
@@ -6649,6 +6838,7 @@ Ottawa South,2024-12-15,35%,21%,37%,4%
 Ottawa South,2024-12-22,34%,22%,37%,4%
 Ottawa South,2024-12-29,34%,22%,37%,4%
 Ottawa South,2025-01-05,33%,22%,38%,4%
+Ottawa South,2025-01-12,34%,21%,38%,4%
 Ottawa Vanier Gloucester,2024-05-12,38%,25%,28%,6%
 Ottawa Vanier Gloucester,2024-05-19,38%,25%,28%,6%
 Ottawa Vanier Gloucester,2024-05-26,40%,24%,28%,6%
@@ -6684,6 +6874,7 @@ Ottawa Vanier Gloucester,2024-12-15,35%,26%,30%,6%
 Ottawa Vanier Gloucester,2024-12-22,33%,28%,31%,6%
 Ottawa Vanier Gloucester,2024-12-29,33%,28%,31%,6%
 Ottawa Vanier Gloucester,2025-01-05,33%,28%,31%,6%
+Ottawa Vanier Gloucester,2025-01-12,34%,26%,32%,6%
 Ottawa West Nepean,2024-05-12,35%,21%,36%,5%
 Ottawa West Nepean,2024-05-19,35%,21%,36%,6%
 Ottawa West Nepean,2024-05-26,36%,21%,36%,5%
@@ -6719,6 +6910,7 @@ Ottawa West Nepean,2024-12-15,31%,22%,38%,6%
 Ottawa West Nepean,2024-12-22,29%,24%,39%,5%
 Ottawa West Nepean,2024-12-29,29%,24%,39%,5%
 Ottawa West Nepean,2025-01-05,29%,24%,39%,5%
+Ottawa West Nepean,2025-01-12,30%,23%,40%,5%
 Oxford,2024-05-12,11%,18%,60%,5%
 Oxford,2024-05-19,12%,18%,60%,5%
 Oxford,2024-05-26,12%,18%,59%,5%
@@ -6754,6 +6946,7 @@ Oxford,2024-12-15,10%,19%,59%,5%
 Oxford,2024-12-22,9%,21%,59%,5%
 Oxford,2024-12-29,9%,20%,59%,5%
 Oxford,2025-01-05,9%,21%,59%,5%
+Oxford,2025-01-12,9%,19%,60%,5%
 Parry Sound Muskoka,2024-05-12,10%,15%,59%,13%
 Parry Sound Muskoka,2024-05-19,10%,15%,59%,13%
 Parry Sound Muskoka,2024-05-26,10%,15%,59%,13%
@@ -6789,6 +6982,7 @@ Parry Sound Muskoka,2024-12-15,8%,17%,60%,11%
 Parry Sound Muskoka,2024-12-22,8%,18%,61%,10%
 Parry Sound Muskoka,2024-12-29,8%,18%,60%,10%
 Parry Sound Muskoka,2025-01-05,8%,18%,61%,10%
+Parry Sound Muskoka,2025-01-12,8%,17%,62%,10%
 Perth Wellington,2024-05-12,12%,16%,66%,0%
 Perth Wellington,2024-05-19,12%,16%,66%,0%
 Perth Wellington,2024-05-26,13%,16%,66%,0%
@@ -6824,6 +7018,7 @@ Perth Wellington,2024-12-15,10%,17%,65%,0%
 Perth Wellington,2024-12-22,9%,18%,66%,0%
 Perth Wellington,2024-12-29,9%,18%,66%,0%
 Perth Wellington,2025-01-05,9%,18%,66%,0%
+Perth Wellington,2025-01-12,9%,17%,67%,0%
 Peterborough,2024-05-12,22%,19%,52%,4%
 Peterborough,2024-05-19,22%,19%,52%,5%
 Peterborough,2024-05-26,23%,19%,51%,4%
@@ -6859,6 +7054,7 @@ Peterborough,2024-12-15,19%,20%,53%,4%
 Peterborough,2024-12-22,18%,21%,54%,4%
 Peterborough,2024-12-29,18%,21%,54%,4%
 Peterborough,2025-01-05,17%,21%,54%,4%
+Peterborough,2025-01-12,18%,20%,55%,4%
 Pickering Brooklin,2024-05-12,38%,14%,45%,0%
 Pickering Brooklin,2024-05-19,38%,14%,45%,0%
 Pickering Brooklin,2024-05-26,39%,14%,44%,0%
@@ -6894,6 +7090,7 @@ Pickering Brooklin,2024-12-15,34%,16%,46%,0%
 Pickering Brooklin,2024-12-22,32%,17%,47%,0%
 Pickering Brooklin,2024-12-29,32%,17%,47%,0%
 Pickering Brooklin,2025-01-05,32%,17%,48%,0%
+Pickering Brooklin,2025-01-12,32%,16%,48%,0%
 Prescott Russell Cumberland,2024-05-12,37%,12%,43%,4%
 Prescott Russell Cumberland,2024-05-19,37%,12%,43%,4%
 Prescott Russell Cumberland,2024-05-26,38%,11%,42%,4%
@@ -6929,6 +7126,7 @@ Prescott Russell Cumberland,2024-12-15,33%,13%,44%,4%
 Prescott Russell Cumberland,2024-12-22,32%,14%,45%,4%
 Prescott Russell Cumberland,2024-12-29,32%,14%,45%,4%
 Prescott Russell Cumberland,2025-01-05,31%,14%,46%,4%
+Prescott Russell Cumberland,2025-01-12,32%,13%,46%,4%
 Richmond Hill South,2024-05-12,36%,9%,49%,0%
 Richmond Hill South,2024-05-19,37%,9%,49%,0%
 Richmond Hill South,2024-05-26,38%,9%,48%,0%
@@ -6964,6 +7162,7 @@ Richmond Hill South,2024-12-15,32%,11%,50%,0%
 Richmond Hill South,2024-12-22,31%,12%,52%,0%
 Richmond Hill South,2024-12-29,31%,12%,52%,0%
 Richmond Hill South,2025-01-05,30%,12%,52%,0%
+Richmond Hill South,2025-01-12,31%,11%,52%,0%
 Sarnia Lambton Bkejwanong,2024-05-12,11%,21%,60%,3%
 Sarnia Lambton Bkejwanong,2024-05-19,11%,21%,60%,3%
 Sarnia Lambton Bkejwanong,2024-05-26,11%,20%,60%,3%
@@ -6999,6 +7198,7 @@ Sarnia Lambton Bkejwanong,2024-12-15,9%,22%,59%,3%
 Sarnia Lambton Bkejwanong,2024-12-22,8%,23%,60%,3%
 Sarnia Lambton Bkejwanong,2024-12-29,8%,23%,60%,3%
 Sarnia Lambton Bkejwanong,2025-01-05,8%,23%,60%,3%
+Sarnia Lambton Bkejwanong,2025-01-12,8%,22%,61%,3%
 Sault Ste. Marie Algoma,2024-05-12,21%,27%,48%,0%
 Sault Ste. Marie Algoma,2024-05-19,21%,27%,48%,0%
 Sault Ste. Marie Algoma,2024-05-26,22%,26%,47%,0%
@@ -7034,6 +7234,7 @@ Sault Ste. Marie Algoma,2024-12-15,16%,24%,54%,0%
 Sault Ste. Marie Algoma,2024-12-22,15%,26%,54%,0%
 Sault Ste. Marie Algoma,2024-12-29,15%,25%,54%,0%
 Sault Ste. Marie Algoma,2025-01-05,15%,26%,55%,0%
+Sault Ste. Marie Algoma,2025-01-12,15%,24%,56%,0%
 Scarborough Agincourt,2024-05-12,45%,11%,39%,4%
 Scarborough Agincourt,2024-05-19,45%,11%,39%,4%
 Scarborough Agincourt,2024-05-26,46%,11%,38%,4%
@@ -7069,6 +7270,7 @@ Scarborough Agincourt,2024-12-15,39%,13%,42%,4%
 Scarborough Agincourt,2024-12-22,37%,14%,44%,4%
 Scarborough Agincourt,2024-12-29,37%,14%,44%,4%
 Scarborough Agincourt,2025-01-05,36%,14%,44%,4%
+Scarborough Agincourt,2025-01-12,37%,13%,44%,3%
 Scarborough Centre Don Valley East,2024-05-12,45%,15%,35%,0%
 Scarborough Centre Don Valley East,2024-05-19,45%,15%,35%,0%
 Scarborough Centre Don Valley East,2024-05-26,47%,15%,34%,0%
@@ -7104,6 +7306,7 @@ Scarborough Centre Don Valley East,2024-12-15,39%,17%,38%,0%
 Scarborough Centre Don Valley East,2024-12-22,39%,19%,38%,0%
 Scarborough Centre Don Valley East,2024-12-29,39%,18%,38%,0%
 Scarborough Centre Don Valley East,2025-01-05,38%,19%,38%,0%
+Scarborough Centre Don Valley East,2025-01-12,39%,18%,38%,0%
 Scarborough Guildwood Rouge Park,2024-05-12,50%,15%,31%,0%
 Scarborough Guildwood Rouge Park,2024-05-19,50%,15%,31%,0%
 Scarborough Guildwood Rouge Park,2024-05-26,51%,14%,30%,0%
@@ -7139,6 +7342,7 @@ Scarborough Guildwood Rouge Park,2024-12-15,44%,17%,34%,0%
 Scarborough Guildwood Rouge Park,2024-12-22,42%,18%,36%,0%
 Scarborough Guildwood Rouge Park,2024-12-29,42%,18%,36%,0%
 Scarborough Guildwood Rouge Park,2025-01-05,42%,18%,36%,0%
+Scarborough Guildwood Rouge Park,2025-01-12,43%,17%,36%,0%
 Scarborough North,2024-05-12,56%,13%,27%,0%
 Scarborough North,2024-05-19,56%,13%,27%,0%
 Scarborough North,2024-05-26,57%,13%,26%,0%
@@ -7174,6 +7378,7 @@ Scarborough North,2024-12-15,49%,15%,30%,0%
 Scarborough North,2024-12-22,47%,16%,31%,0%
 Scarborough North,2024-12-29,48%,16%,31%,0%
 Scarborough North,2025-01-05,47%,17%,32%,0%
+Scarborough North,2025-01-12,48%,16%,32%,0%
 Scarborough Southwest,2024-05-12,47%,18%,29%,5%
 Scarborough Southwest,2024-05-19,47%,18%,29%,5%
 Scarborough Southwest,2024-05-26,48%,17%,28%,4%
@@ -7209,6 +7414,7 @@ Scarborough Southwest,2024-12-15,42%,19%,32%,5%
 Scarborough Southwest,2024-12-22,40%,21%,33%,4%
 Scarborough Southwest,2024-12-29,40%,21%,33%,4%
 Scarborough Southwest,2025-01-05,39%,21%,33%,4%
+Scarborough Southwest,2025-01-12,40%,20%,34%,4%
 Scarborough Woburn,2024-05-12,49%,15%,31%,0%
 Scarborough Woburn,2024-05-19,49%,14%,31%,0%
 Scarborough Woburn,2024-05-26,51%,14%,31%,0%
@@ -7244,6 +7450,7 @@ Scarborough Woburn,2024-12-15,44%,16%,34%,0%
 Scarborough Woburn,2024-12-22,42%,18%,36%,0%
 Scarborough Woburn,2024-12-29,42%,17%,36%,0%
 Scarborough Woburn,2025-01-05,41%,18%,36%,0%
+Scarborough Woburn,2025-01-12,42%,17%,36%,0%
 Simcoe Grey,2024-05-12,16%,13%,60%,8%
 Simcoe Grey,2024-05-19,17%,13%,60%,8%
 Simcoe Grey,2024-05-26,17%,13%,59%,8%
@@ -7279,6 +7486,7 @@ Simcoe Grey,2024-12-15,14%,14%,59%,7%
 Simcoe Grey,2024-12-22,13%,15%,60%,7%
 Simcoe Grey,2024-12-29,13%,15%,60%,7%
 Simcoe Grey,2025-01-05,13%,16%,60%,7%
+Simcoe Grey,2025-01-12,13%,15%,61%,6%
 Simcoe North,2024-05-12,19%,16%,55%,6%
 Simcoe North,2024-05-19,19%,16%,55%,6%
 Simcoe North,2024-05-26,20%,16%,54%,6%
@@ -7314,6 +7522,7 @@ Simcoe North,2024-12-15,16%,17%,55%,6%
 Simcoe North,2024-12-22,15%,18%,56%,6%
 Simcoe North,2024-12-29,15%,18%,56%,6%
 Simcoe North,2025-01-05,15%,18%,56%,6%
+Simcoe North,2025-01-12,15%,17%,57%,6%
 Spadina Harbourfront,2024-05-12,28%,36%,29%,6%
 Spadina Harbourfront,2024-05-19,28%,35%,29%,6%
 Spadina Harbourfront,2024-05-26,29%,35%,29%,6%
@@ -7349,6 +7558,7 @@ Spadina Harbourfront,2024-12-15,25%,35%,31%,6%
 Spadina Harbourfront,2024-12-22,23%,37%,32%,6%
 Spadina Harbourfront,2024-12-29,23%,37%,32%,6%
 Spadina Harbourfront,2025-01-05,22%,37%,32%,6%
+Spadina Harbourfront,2025-01-12,23%,36%,33%,6%
 St. Catharines,2024-05-12,29%,23%,42%,4%
 St. Catharines,2024-05-19,29%,22%,42%,4%
 St. Catharines,2024-05-26,30%,22%,41%,4%
@@ -7384,6 +7594,7 @@ St. Catharines,2024-12-15,25%,23%,43%,4%
 St. Catharines,2024-12-22,23%,25%,44%,4%
 St. Catharines,2024-12-29,23%,25%,44%,4%
 St. Catharines,2025-01-05,23%,25%,45%,4%
+St. Catharines,2025-01-12,24%,23%,45%,4%
 Stormont Dundas Glengarry,2024-05-12,14%,11%,67%,5%
 Stormont Dundas Glengarry,2024-05-19,14%,10%,67%,5%
 Stormont Dundas Glengarry,2024-05-26,15%,10%,67%,4%
@@ -7419,6 +7630,7 @@ Stormont Dundas Glengarry,2024-12-15,12%,12%,66%,5%
 Stormont Dundas Glengarry,2024-12-22,11%,13%,67%,4%
 Stormont Dundas Glengarry,2024-12-29,11%,13%,67%,5%
 Stormont Dundas Glengarry,2025-01-05,11%,13%,67%,4%
+Stormont Dundas Glengarry,2025-01-12,11%,12%,68%,4%
 Sudbury,2024-05-12,26%,30%,37%,4%
 Sudbury,2024-05-19,26%,30%,37%,4%
 Sudbury,2024-05-26,27%,30%,36%,4%
@@ -7454,6 +7666,7 @@ Sudbury,2024-12-15,23%,31%,38%,4%
 Sudbury,2024-12-22,21%,32%,39%,4%
 Sudbury,2024-12-29,21%,32%,39%,4%
 Sudbury,2025-01-05,21%,33%,39%,4%
+Sudbury,2025-01-12,22%,31%,40%,4%
 Sudbury East Manitoulin Nickel Belt,2024-05-12,24%,32%,36%,4%
 Sudbury East Manitoulin Nickel Belt,2024-05-19,24%,32%,36%,4%
 Sudbury East Manitoulin Nickel Belt,2024-05-26,25%,32%,36%,4%
@@ -7489,6 +7702,7 @@ Sudbury East Manitoulin Nickel Belt,2024-12-15,21%,32%,37%,4%
 Sudbury East Manitoulin Nickel Belt,2024-12-22,19%,34%,38%,3%
 Sudbury East Manitoulin Nickel Belt,2024-12-29,19%,34%,38%,3%
 Sudbury East Manitoulin Nickel Belt,2025-01-05,19%,34%,38%,3%
+Sudbury East Manitoulin Nickel Belt,2025-01-12,20%,33%,39%,3%
 Taiaiako'n Parkdale High Park,2024-05-12,33%,41%,20%,4%
 Taiaiako'n Parkdale High Park,2024-05-19,33%,41%,20%,4%
 Taiaiako'n Parkdale High Park,2024-05-26,34%,40%,20%,4%
@@ -7524,6 +7738,7 @@ Taiaiako'n Parkdale High Park,2024-12-15,31%,40%,22%,4%
 Taiaiako'n Parkdale High Park,2024-12-22,29%,42%,22%,4%
 Taiaiako'n Parkdale High Park,2024-12-29,29%,42%,22%,4%
 Taiaiako'n Parkdale High Park,2025-01-05,29%,43%,23%,4%
+Taiaiako'n Parkdale High Park,2025-01-12,30%,41%,23%,4%
 Thornhill,2024-05-12,23%,6%,66%,3%
 Thornhill,2024-05-19,23%,6%,66%,4%
 Thornhill,2024-05-26,24%,6%,65%,3%
@@ -7559,6 +7774,7 @@ Thornhill,2024-12-15,20%,8%,65%,4%
 Thornhill,2024-12-22,19%,8%,66%,4%
 Thornhill,2024-12-29,19%,8%,66%,4%
 Thornhill,2025-01-05,19%,8%,67%,4%
+Thornhill,2025-01-12,19%,8%,67%,3%
 Thunder Bay Rainy River,2024-05-12,25%,27%,39%,6%
 Thunder Bay Rainy River,2024-05-19,25%,27%,39%,6%
 Thunder Bay Rainy River,2024-05-26,26%,26%,39%,6%
@@ -7594,6 +7810,7 @@ Thunder Bay Rainy River,2024-12-15,22%,28%,41%,5%
 Thunder Bay Rainy River,2024-12-22,21%,29%,42%,5%
 Thunder Bay Rainy River,2024-12-29,21%,29%,42%,5%
 Thunder Bay Rainy River,2025-01-05,20%,29%,42%,5%
+Thunder Bay Rainy River,2025-01-12,21%,28%,43%,5%
 Thunder Bay Superior North,2024-05-12,31%,30%,33%,4%
 Thunder Bay Superior North,2024-05-19,31%,30%,33%,4%
 Thunder Bay Superior North,2024-05-26,32%,29%,32%,4%
@@ -7629,6 +7846,7 @@ Thunder Bay Superior North,2024-12-15,28%,30%,34%,4%
 Thunder Bay Superior North,2024-12-22,26%,32%,35%,4%
 Thunder Bay Superior North,2024-12-29,26%,32%,35%,4%
 Thunder Bay Superior North,2025-01-05,26%,32%,35%,4%
+Thunder Bay Superior North,2025-01-12,27%,30%,36%,3%
 Toronto Centre,2024-05-12,38%,27%,19%,14%
 Toronto Centre,2024-05-19,38%,27%,19%,14%
 Toronto Centre,2024-05-26,39%,27%,19%,14%
@@ -7664,6 +7882,7 @@ Toronto Centre,2024-12-15,38%,30%,22%,7%
 Toronto Centre,2024-12-22,36%,32%,23%,7%
 Toronto Centre,2024-12-29,36%,32%,23%,7%
 Toronto Centre,2025-01-05,35%,32%,24%,7%
+Toronto Centre,2025-01-12,37%,30%,24%,7%
 Toronto Danforth,2024-05-12,30%,31%,26%,11%
 Toronto Danforth,2024-05-19,30%,31%,26%,11%
 Toronto Danforth,2024-05-26,32%,31%,25%,11%
@@ -7699,6 +7918,7 @@ Toronto Danforth,2024-12-15,29%,33%,29%,8%
 Toronto Danforth,2024-12-22,27%,34%,29%,7%
 Toronto Danforth,2024-12-29,27%,34%,29%,8%
 Toronto Danforth,2025-01-05,26%,35%,29%,7%
+Toronto Danforth,2025-01-12,27%,33%,30%,7%
 Toronto St. Paul's,2024-05-12,38%,16%,35%,10%
 Toronto St. Paul's,2024-05-19,38%,16%,35%,10%
 Toronto St. Paul's,2024-05-26,39%,16%,34%,10%
@@ -7734,6 +7954,7 @@ Toronto St. Paul's,2024-12-15,35%,14%,42%,7%
 Toronto St. Paul's,2024-12-22,33%,14%,43%,7%
 Toronto St. Paul's,2024-12-29,33%,14%,43%,7%
 Toronto St. Paul's,2025-01-05,33%,15%,43%,7%
+Toronto St. Paul's,2025-01-12,33%,14%,44%,6%
 University Rosedale,2024-05-12,36%,30%,25%,8%
 University Rosedale,2024-05-19,36%,29%,25%,8%
 University Rosedale,2024-05-26,37%,29%,24%,8%
@@ -7769,6 +7990,7 @@ University Rosedale,2024-12-15,33%,30%,27%,7%
 University Rosedale,2024-12-22,33%,31%,27%,7%
 University Rosedale,2024-12-29,33%,31%,27%,7%
 University Rosedale,2025-01-05,33%,31%,27%,7%
+University Rosedale,2025-01-12,34%,30%,28%,6%
 Vaughan Woodbridge,2024-05-12,35%,7%,52%,0%
 Vaughan Woodbridge,2024-05-19,36%,7%,52%,0%
 Vaughan Woodbridge,2024-05-26,37%,7%,51%,0%
@@ -7804,6 +8026,7 @@ Vaughan Woodbridge,2024-12-15,31%,9%,53%,0%
 Vaughan Woodbridge,2024-12-22,30%,10%,55%,0%
 Vaughan Woodbridge,2024-12-29,30%,10%,55%,0%
 Vaughan Woodbridge,2025-01-05,29%,10%,55%,0%
+Vaughan Woodbridge,2025-01-12,30%,9%,55%,0%
 Waterloo,2024-05-12,35%,20%,36%,6%
 Waterloo,2024-05-19,35%,20%,36%,6%
 Waterloo,2024-05-26,36%,20%,36%,6%
@@ -7839,6 +8062,7 @@ Waterloo,2024-12-15,31%,21%,37%,6%
 Waterloo,2024-12-22,30%,23%,39%,6%
 Waterloo,2024-12-29,30%,23%,39%,6%
 Waterloo,2025-01-05,29%,23%,39%,6%
+Waterloo,2025-01-12,30%,22%,39%,6%
 Wellington Halton Hills North,2024-05-12,18%,12%,59%,8%
 Wellington Halton Hills North,2024-05-19,18%,11%,59%,9%
 Wellington Halton Hills North,2024-05-26,19%,11%,58%,8%
@@ -7874,6 +8098,7 @@ Wellington Halton Hills North,2024-12-15,16%,13%,59%,8%
 Wellington Halton Hills North,2024-12-22,15%,14%,60%,7%
 Wellington Halton Hills North,2024-12-29,15%,14%,60%,7%
 Wellington Halton Hills North,2025-01-05,15%,14%,60%,7%
+Wellington Halton Hills North,2025-01-12,15%,13%,61%,7%
 Whitby,2024-05-12,35%,15%,45%,3%
 Whitby,2024-05-19,35%,15%,44%,3%
 Whitby,2024-05-26,36%,15%,44%,3%
@@ -7909,6 +8134,7 @@ Whitby,2024-12-15,31%,17%,46%,3%
 Whitby,2024-12-22,29%,18%,47%,3%
 Whitby,2024-12-29,29%,18%,47%,3%
 Whitby,2025-01-05,29%,18%,47%,3%
+Whitby,2025-01-12,30%,17%,48%,3%
 Willowdale,2024-05-12,37%,11%,44%,7%
 Willowdale,2024-05-19,37%,11%,44%,7%
 Willowdale,2024-05-26,38%,10%,43%,7%
@@ -7944,6 +8170,7 @@ Willowdale,2024-12-15,30%,13%,48%,6%
 Willowdale,2024-12-22,29%,13%,49%,6%
 Willowdale,2024-12-29,29%,13%,49%,6%
 Willowdale,2025-01-05,29%,14%,50%,6%
+Willowdale,2025-01-12,29%,13%,50%,6%
 Windsor Tecumseh Lakeshore,2024-05-12,23%,33%,36%,0%
 Windsor Tecumseh Lakeshore,2024-05-19,23%,32%,36%,0%
 Windsor Tecumseh Lakeshore,2024-05-26,24%,32%,36%,0%
@@ -7979,6 +8206,7 @@ Windsor Tecumseh Lakeshore,2024-12-15,20%,33%,38%,0%
 Windsor Tecumseh Lakeshore,2024-12-22,19%,34%,38%,0%
 Windsor Tecumseh Lakeshore,2024-12-29,19%,34%,38%,0%
 Windsor Tecumseh Lakeshore,2025-01-05,18%,35%,38%,0%
+Windsor Tecumseh Lakeshore,2025-01-12,19%,33%,39%,0%
 Windsor West,2024-05-12,17%,47%,30%,0%
 Windsor West,2024-05-19,17%,47%,30%,0%
 Windsor West,2024-05-26,17%,47%,30%,0%
@@ -8014,6 +8242,7 @@ Windsor West,2024-12-15,14%,47%,31%,0%
 Windsor West,2024-12-22,13%,48%,32%,0%
 Windsor West,2024-12-29,13%,48%,32%,0%
 Windsor West,2025-01-05,13%,49%,32%,0%
+Windsor West,2025-01-12,13%,47%,33%,0%
 York Centre,2024-05-12,36%,10%,49%,0%
 York Centre,2024-05-19,37%,10%,49%,0%
 York Centre,2024-05-26,38%,10%,48%,0%
@@ -8049,6 +8278,7 @@ York Centre,2024-12-15,29%,12%,53%,0%
 York Centre,2024-12-22,28%,13%,55%,0%
 York Centre,2024-12-29,28%,13%,55%,0%
 York Centre,2025-01-05,27%,13%,55%,0%
+York Centre,2025-01-12,28%,12%,55%,0%
 York Durham,2024-05-12,17%,12%,66%,0%
 York Durham,2024-05-19,17%,12%,66%,0%
 York Durham,2024-05-26,18%,12%,65%,0%
@@ -8084,6 +8314,7 @@ York Durham,2024-12-15,15%,14%,65%,0%
 York Durham,2024-12-22,14%,15%,66%,0%
 York Durham,2024-12-29,14%,15%,66%,0%
 York Durham,2025-01-05,14%,15%,66%,0%
+York Durham,2025-01-12,14%,14%,67%,0%
 York South Weston Etobicoke,2024-05-12,45%,17%,32%,4%
 York South Weston Etobicoke,2024-05-19,46%,17%,31%,4%
 York South Weston Etobicoke,2024-05-26,47%,16%,31%,4%
@@ -8119,6 +8350,7 @@ York South Weston Etobicoke,2024-12-15,40%,18%,34%,4%
 York South Weston Etobicoke,2024-12-22,38%,19%,36%,4%
 York South Weston Etobicoke,2024-12-29,38%,19%,36%,4%
 York South Weston Etobicoke,2025-01-05,38%,20%,36%,4%
+York South Weston Etobicoke,2025-01-12,39%,18%,36%,4%
 Brandon Souris,2024-05-12,10%,19%,65%,0%
 Brandon Souris,2024-05-19,11%,18%,66%,0%
 Brandon Souris,2024-05-26,11%,18%,66%,0%
@@ -8154,6 +8386,7 @@ Brandon Souris,2024-12-15,9%,19%,66%,0%
 Brandon Souris,2024-12-22,9%,19%,68%,0%
 Brandon Souris,2024-12-29,9%,19%,67%,0%
 Brandon Souris,2025-01-05,8%,19%,67%,0%
+Brandon Souris,2025-01-12,9%,19%,68%,0%
 Churchill Keewatinook Aski,2024-05-12,24%,42%,27%,4%
 Churchill Keewatinook Aski,2024-05-19,24%,41%,27%,4%
 Churchill Keewatinook Aski,2024-05-26,25%,40%,28%,4%
@@ -8189,6 +8422,7 @@ Churchill Keewatinook Aski,2024-12-15,21%,41%,31%,4%
 Churchill Keewatinook Aski,2024-12-22,20%,39%,34%,4%
 Churchill Keewatinook Aski,2024-12-29,20%,39%,34%,4%
 Churchill Keewatinook Aski,2025-01-05,19%,39%,34%,4%
+Churchill Keewatinook Aski,2025-01-12,20%,38%,35%,4%
 Elmwood Transcona,2024-05-12,14%,48%,32%,0%
 Elmwood Transcona,2024-05-19,14%,47%,32%,0%
 Elmwood Transcona,2024-05-26,15%,47%,33%,0%
@@ -8224,6 +8458,7 @@ Elmwood Transcona,2024-12-15,4%,44%,48%,0%
 Elmwood Transcona,2024-12-22,4%,44%,50%,0%
 Elmwood Transcona,2024-12-29,4%,44%,49%,0%
 Elmwood Transcona,2025-01-05,4%,44%,49%,0%
+Elmwood Transcona,2025-01-12,4%,42%,51%,0%
 Kildonan St. Paul,2024-05-12,25%,22%,45%,0%
 Kildonan St. Paul,2024-05-19,26%,22%,45%,0%
 Kildonan St. Paul,2024-05-26,26%,21%,45%,0%
@@ -8259,6 +8494,7 @@ Kildonan St. Paul,2024-12-15,21%,22%,50%,0%
 Kildonan St. Paul,2024-12-22,20%,22%,52%,0%
 Kildonan St. Paul,2024-12-29,20%,22%,52%,0%
 Kildonan St. Paul,2025-01-05,20%,22%,52%,0%
+Kildonan St. Paul,2025-01-12,20%,21%,53%,0%
 Portage Lisgar,2024-05-12,10%,13%,60%,0%
 Portage Lisgar,2024-05-19,10%,13%,61%,0%
 Portage Lisgar,2024-05-26,11%,13%,61%,0%
@@ -8294,6 +8530,7 @@ Portage Lisgar,2024-12-15,9%,15%,63%,0%
 Portage Lisgar,2024-12-22,9%,15%,66%,0%
 Portage Lisgar,2024-12-29,9%,15%,65%,0%
 Portage Lisgar,2025-01-05,9%,15%,66%,0%
+Portage Lisgar,2025-01-12,9%,14%,66%,0%
 Provencher,2024-05-12,15%,12%,55%,4%
 Provencher,2024-05-19,16%,12%,55%,4%
 Provencher,2024-05-26,16%,11%,55%,4%
@@ -8329,6 +8566,7 @@ Provencher,2024-12-15,14%,13%,58%,4%
 Provencher,2024-12-22,13%,13%,61%,4%
 Provencher,2024-12-29,13%,13%,61%,4%
 Provencher,2025-01-05,13%,13%,61%,4%
+Provencher,2025-01-12,13%,13%,61%,4%
 Riding Mountain,2024-05-12,11%,13%,65%,3%
 Riding Mountain,2024-05-19,11%,13%,65%,3%
 Riding Mountain,2024-05-26,12%,13%,65%,3%
@@ -8364,6 +8602,7 @@ Riding Mountain,2024-12-15,10%,14%,66%,3%
 Riding Mountain,2024-12-22,9%,14%,68%,3%
 Riding Mountain,2024-12-29,9%,14%,68%,3%
 Riding Mountain,2025-01-05,9%,15%,68%,3%
+Riding Mountain,2025-01-12,10%,14%,68%,3%
 St. Boniface St. Vital,2024-05-12,42%,21%,31%,0%
 St. Boniface St. Vital,2024-05-19,42%,20%,31%,0%
 St. Boniface St. Vital,2024-05-26,43%,20%,31%,0%
@@ -8399,6 +8638,7 @@ St. Boniface St. Vital,2024-12-15,36%,22%,36%,0%
 St. Boniface St. Vital,2024-12-22,35%,22%,38%,0%
 St. Boniface St. Vital,2024-12-29,35%,22%,38%,0%
 St. Boniface St. Vital,2025-01-05,35%,22%,38%,0%
+St. Boniface St. Vital,2025-01-12,35%,21%,38%,0%
 Selkirk Interlake Eastman,2024-05-12,12%,18%,62%,4%
 Selkirk Interlake Eastman,2024-05-19,12%,18%,62%,4%
 Selkirk Interlake Eastman,2024-05-26,12%,17%,63%,4%
@@ -8434,6 +8674,7 @@ Selkirk Interlake Eastman,2024-12-15,10%,19%,63%,4%
 Selkirk Interlake Eastman,2024-12-22,10%,19%,64%,4%
 Selkirk Interlake Eastman,2024-12-29,10%,19%,64%,4%
 Selkirk Interlake Eastman,2025-01-05,10%,19%,64%,4%
+Selkirk Interlake Eastman,2025-01-12,10%,18%,65%,4%
 Winnipeg Centre,2024-05-12,28%,49%,15%,3%
 Winnipeg Centre,2024-05-19,28%,48%,15%,3%
 Winnipeg Centre,2024-05-26,29%,47%,15%,3%
@@ -8469,6 +8710,7 @@ Winnipeg Centre,2024-12-15,25%,49%,18%,3%
 Winnipeg Centre,2024-12-22,23%,49%,20%,3%
 Winnipeg Centre,2024-12-29,24%,49%,20%,3%
 Winnipeg Centre,2025-01-05,23%,50%,20%,3%
+Winnipeg Centre,2025-01-12,24%,48%,20%,4%
 Winnipeg North,2024-05-12,52%,27%,16%,0%
 Winnipeg North,2024-05-19,52%,27%,16%,0%
 Winnipeg North,2024-05-26,54%,26%,16%,0%
@@ -8504,6 +8746,7 @@ Winnipeg North,2024-12-15,46%,29%,20%,0%
 Winnipeg North,2024-12-22,44%,30%,22%,0%
 Winnipeg North,2024-12-29,45%,30%,21%,0%
 Winnipeg North,2025-01-05,44%,30%,22%,0%
+Winnipeg North,2025-01-12,45%,29%,22%,0%
 Winnipeg South,2024-05-12,46%,14%,36%,0%
 Winnipeg South,2024-05-19,46%,14%,36%,0%
 Winnipeg South,2024-05-26,47%,13%,35%,0%
@@ -8539,6 +8782,7 @@ Winnipeg South,2024-12-15,39%,16%,40%,0%
 Winnipeg South,2024-12-22,38%,16%,42%,0%
 Winnipeg South,2024-12-29,38%,16%,42%,0%
 Winnipeg South,2025-01-05,37%,16%,43%,0%
+Winnipeg South,2025-01-12,38%,15%,43%,0%
 Winnipeg South Centre,2024-05-12,43%,20%,31%,4%
 Winnipeg South Centre,2024-05-19,44%,20%,31%,4%
 Winnipeg South Centre,2024-05-26,45%,19%,31%,4%
@@ -8574,6 +8818,7 @@ Winnipeg South Centre,2024-12-15,37%,21%,35%,3%
 Winnipeg South Centre,2024-12-22,36%,21%,37%,4%
 Winnipeg South Centre,2024-12-29,36%,21%,37%,4%
 Winnipeg South Centre,2025-01-05,35%,22%,37%,4%
+Winnipeg South Centre,2025-01-12,36%,21%,38%,4%
 Winnipeg West,2024-05-12,36%,14%,44%,0%
 Winnipeg West,2024-05-19,37%,14%,44%,0%
 Winnipeg West,2024-05-26,38%,13%,44%,0%
@@ -8609,6 +8854,7 @@ Winnipeg West,2024-12-15,31%,15%,49%,0%
 Winnipeg West,2024-12-22,29%,15%,51%,0%
 Winnipeg West,2024-12-29,29%,15%,51%,0%
 Winnipeg West,2025-01-05,29%,15%,51%,0%
+Winnipeg West,2025-01-12,29%,14%,52%,0%
 Battlefords Lloydminster Meadow Lake,2024-05-12,5%,11%,63%,0%
 Battlefords Lloydminster Meadow Lake,2024-05-19,5%,11%,63%,0%
 Battlefords Lloydminster Meadow Lake,2024-05-26,5%,11%,63%,0%
@@ -8644,6 +8890,7 @@ Battlefords Lloydminster Meadow Lake,2024-12-15,4%,12%,62%,0%
 Battlefords Lloydminster Meadow Lake,2024-12-22,4%,13%,64%,0%
 Battlefords Lloydminster Meadow Lake,2024-12-29,4%,13%,64%,0%
 Battlefords Lloydminster Meadow Lake,2025-01-05,4%,13%,64%,0%
+Battlefords Lloydminster Meadow Lake,2025-01-12,4%,12%,65%,0%
 Carlton Trail Eagle Creek,2024-05-12,3%,12%,69%,0%
 Carlton Trail Eagle Creek,2024-05-19,3%,12%,69%,0%
 Carlton Trail Eagle Creek,2024-05-26,4%,11%,69%,0%
@@ -8679,6 +8926,7 @@ Carlton Trail Eagle Creek,2024-12-15,3%,13%,68%,0%
 Carlton Trail Eagle Creek,2024-12-22,3%,13%,70%,0%
 Carlton Trail Eagle Creek,2024-12-29,3%,13%,70%,0%
 Carlton Trail Eagle Creek,2025-01-05,3%,13%,70%,0%
+Carlton Trail Eagle Creek,2025-01-12,3%,13%,70%,0%
 Desnethé Missinippi Churchill River,2024-05-12,36%,26%,32%,0%
 Desnethé Missinippi Churchill River,2024-05-19,37%,25%,32%,0%
 Desnethé Missinippi Churchill River,2024-05-26,38%,24%,32%,0%
@@ -8714,6 +8962,7 @@ Desnethé Missinippi Churchill River,2024-12-15,33%,28%,32%,0%
 Desnethé Missinippi Churchill River,2024-12-22,32%,28%,35%,0%
 Desnethé Missinippi Churchill River,2024-12-29,32%,28%,34%,0%
 Desnethé Missinippi Churchill River,2025-01-05,32%,28%,35%,0%
+Desnethé Missinippi Churchill River,2025-01-12,32%,27%,35%,0%
 Moose Jaw Lake Centre Lanigan,2024-05-12,4%,17%,64%,0%
 Moose Jaw Lake Centre Lanigan,2024-05-19,4%,17%,65%,0%
 Moose Jaw Lake Centre Lanigan,2024-05-26,4%,16%,65%,0%
@@ -8749,6 +8998,7 @@ Moose Jaw Lake Centre Lanigan,2024-12-15,4%,18%,64%,0%
 Moose Jaw Lake Centre Lanigan,2024-12-22,4%,18%,66%,0%
 Moose Jaw Lake Centre Lanigan,2024-12-29,4%,18%,66%,0%
 Moose Jaw Lake Centre Lanigan,2025-01-05,4%,18%,66%,0%
+Moose Jaw Lake Centre Lanigan,2025-01-12,4%,17%,66%,0%
 Prince Albert,2024-05-12,9%,13%,67%,0%
 Prince Albert,2024-05-19,9%,13%,67%,0%
 Prince Albert,2024-05-26,9%,13%,68%,0%
@@ -8784,6 +9034,7 @@ Prince Albert,2024-12-15,9%,15%,66%,0%
 Prince Albert,2024-12-22,8%,15%,68%,0%
 Prince Albert,2024-12-29,8%,15%,68%,0%
 Prince Albert,2025-01-05,8%,15%,68%,0%
+Prince Albert,2025-01-12,8%,14%,68%,0%
 Regina Lewvan,2024-05-12,11%,32%,50%,0%
 Regina Lewvan,2024-05-19,11%,31%,51%,0%
 Regina Lewvan,2024-05-26,12%,31%,51%,0%
@@ -8819,6 +9070,7 @@ Regina Lewvan,2024-12-15,10%,30%,53%,0%
 Regina Lewvan,2024-12-22,10%,29%,55%,0%
 Regina Lewvan,2024-12-29,10%,29%,55%,0%
 Regina Lewvan,2025-01-05,10%,29%,55%,0%
+Regina Lewvan,2025-01-12,10%,28%,56%,0%
 Regina Qu'Appelle,2024-05-12,8%,21%,66%,0%
 Regina Qu'Appelle,2024-05-19,8%,21%,66%,0%
 Regina Qu'Appelle,2024-05-26,8%,20%,66%,0%
@@ -8854,6 +9106,7 @@ Regina Qu'Appelle,2024-12-15,8%,22%,64%,0%
 Regina Qu'Appelle,2024-12-22,7%,22%,66%,0%
 Regina Qu'Appelle,2024-12-29,7%,22%,66%,0%
 Regina Qu'Appelle,2025-01-05,7%,22%,66%,0%
+Regina Qu'Appelle,2025-01-12,7%,21%,66%,0%
 Regina Wascana,2024-05-12,22%,17%,57%,0%
 Regina Wascana,2024-05-19,22%,17%,57%,0%
 Regina Wascana,2024-05-26,23%,16%,57%,0%
@@ -8889,6 +9142,7 @@ Regina Wascana,2024-12-15,21%,17%,56%,0%
 Regina Wascana,2024-12-22,20%,17%,58%,0%
 Regina Wascana,2024-12-29,20%,17%,58%,0%
 Regina Wascana,2025-01-05,20%,17%,58%,0%
+Regina Wascana,2025-01-12,20%,16%,59%,0%
 Saskatoon South,2024-05-12,11%,29%,55%,0%
 Saskatoon South,2024-05-19,12%,28%,55%,0%
 Saskatoon South,2024-05-26,12%,28%,56%,0%
@@ -8924,6 +9178,7 @@ Saskatoon South,2024-12-15,11%,27%,57%,0%
 Saskatoon South,2024-12-22,10%,27%,58%,0%
 Saskatoon South,2024-12-29,10%,27%,58%,0%
 Saskatoon South,2025-01-05,10%,28%,58%,0%
+Saskatoon South,2025-01-12,10%,27%,59%,0%
 Saskatoon University,2024-05-12,8%,33%,54%,0%
 Saskatoon University,2024-05-19,8%,33%,54%,0%
 Saskatoon University,2024-05-26,9%,32%,55%,0%
@@ -8959,6 +9214,7 @@ Saskatoon University,2024-12-15,8%,31%,56%,0%
 Saskatoon University,2024-12-22,7%,31%,57%,0%
 Saskatoon University,2024-12-29,8%,31%,57%,0%
 Saskatoon University,2025-01-05,7%,31%,57%,0%
+Saskatoon University,2025-01-12,8%,30%,58%,0%
 Saskatoon West,2024-05-12,6%,37%,51%,0%
 Saskatoon West,2024-05-19,6%,37%,52%,0%
 Saskatoon West,2024-05-26,7%,36%,52%,0%
@@ -8994,6 +9250,7 @@ Saskatoon West,2024-12-15,6%,34%,54%,0%
 Saskatoon West,2024-12-22,5%,34%,56%,0%
 Saskatoon West,2024-12-29,5%,34%,56%,0%
 Saskatoon West,2025-01-05,5%,34%,56%,0%
+Saskatoon West,2025-01-12,6%,33%,57%,0%
 Souris Moose Mountain,2024-05-12,0%,7%,82%,0%
 Souris Moose Mountain,2024-05-19,0%,7%,82%,0%
 Souris Moose Mountain,2024-05-26,0%,7%,82%,0%
@@ -9029,6 +9286,7 @@ Souris Moose Mountain,2024-12-15,0%,9%,80%,0%
 Souris Moose Mountain,2024-12-22,0%,9%,83%,0%
 Souris Moose Mountain,2024-12-29,0%,9%,83%,0%
 Souris Moose Mountain,2025-01-05,0%,9%,83%,0%
+Souris Moose Mountain,2025-01-12,0%,8%,83%,0%
 Swift Current Grasslands Kindersley,2024-05-12,0%,9%,74%,0%
 Swift Current Grasslands Kindersley,2024-05-19,0%,9%,74%,0%
 Swift Current Grasslands Kindersley,2024-05-26,0%,8%,74%,0%
@@ -9064,6 +9322,7 @@ Swift Current Grasslands Kindersley,2024-12-15,0%,10%,72%,0%
 Swift Current Grasslands Kindersley,2024-12-22,0%,10%,75%,0%
 Swift Current Grasslands Kindersley,2024-12-29,0%,10%,75%,0%
 Swift Current Grasslands Kindersley,2025-01-05,0%,10%,75%,0%
+Swift Current Grasslands Kindersley,2025-01-12,0%,10%,75%,0%
 Yorkton Melville,2024-05-12,4%,11%,72%,0%
 Yorkton Melville,2024-05-19,4%,10%,72%,0%
 Yorkton Melville,2024-05-26,4%,10%,73%,0%
@@ -9099,6 +9358,7 @@ Yorkton Melville,2024-12-15,4%,12%,71%,0%
 Yorkton Melville,2024-12-22,4%,12%,73%,0%
 Yorkton Melville,2024-12-29,4%,12%,73%,0%
 Yorkton Melville,2025-01-05,4%,12%,73%,0%
+Yorkton Melville,2025-01-12,4%,12%,73%,0%
 Airdrie Cochrane,2024-05-12,7%,13%,65%,0%
 Airdrie Cochrane,2024-05-19,7%,13%,65%,0%
 Airdrie Cochrane,2024-05-26,7%,13%,66%,0%
@@ -9134,6 +9394,7 @@ Airdrie Cochrane,2024-12-15,7%,16%,63%,0%
 Airdrie Cochrane,2024-12-22,7%,15%,66%,0%
 Airdrie Cochrane,2024-12-29,7%,15%,66%,0%
 Airdrie Cochrane,2025-01-05,7%,16%,65%,0%
+Airdrie Cochrane,2025-01-12,8%,15%,66%,0%
 Battle River Crowfoot,2024-05-12,0%,9%,78%,0%
 Battle River Crowfoot,2024-05-19,0%,9%,78%,0%
 Battle River Crowfoot,2024-05-26,0%,8%,78%,0%
@@ -9169,6 +9430,7 @@ Battle River Crowfoot,2024-12-15,0%,11%,76%,0%
 Battle River Crowfoot,2024-12-22,0%,11%,79%,0%
 Battle River Crowfoot,2024-12-29,0%,11%,79%,0%
 Battle River Crowfoot,2025-01-05,0%,11%,78%,0%
+Battle River Crowfoot,2025-01-12,0%,11%,79%,0%
 Bow River,2024-05-12,6%,9%,76%,0%
 Bow River,2024-05-19,6%,9%,77%,0%
 Bow River,2024-05-26,6%,8%,77%,0%
@@ -9204,6 +9466,7 @@ Bow River,2024-12-15,6%,11%,75%,0%
 Bow River,2024-12-22,6%,10%,78%,0%
 Bow River,2024-12-29,6%,11%,77%,0%
 Bow River,2025-01-05,6%,11%,77%,0%
+Bow River,2025-01-12,6%,10%,77%,0%
 Calgary Centre,2024-05-12,23%,15%,59%,0%
 Calgary Centre,2024-05-19,23%,15%,59%,0%
 Calgary Centre,2024-05-26,24%,14%,59%,0%
@@ -9239,6 +9502,7 @@ Calgary Centre,2024-12-15,24%,16%,56%,0%
 Calgary Centre,2024-12-22,23%,16%,58%,0%
 Calgary Centre,2024-12-29,23%,16%,57%,0%
 Calgary Centre,2025-01-05,23%,17%,57%,0%
+Calgary Centre,2025-01-12,24%,16%,57%,0%
 Calgary Confederation,2024-05-12,20%,16%,52%,4%
 Calgary Confederation,2024-05-19,20%,15%,52%,4%
 Calgary Confederation,2024-05-26,21%,14%,53%,4%
@@ -9274,6 +9538,7 @@ Calgary Confederation,2024-12-15,20%,16%,53%,4%
 Calgary Confederation,2024-12-22,19%,15%,55%,4%
 Calgary Confederation,2024-12-29,19%,15%,55%,4%
 Calgary Confederation,2025-01-05,19%,16%,54%,4%
+Calgary Confederation,2025-01-12,20%,15%,54%,4%
 Calgary Crowfoot,2024-05-12,16%,15%,61%,0%
 Calgary Crowfoot,2024-05-19,16%,14%,61%,0%
 Calgary Crowfoot,2024-05-26,16%,14%,61%,0%
@@ -9309,41 +9574,43 @@ Calgary Crowfoot,2024-12-15,17%,16%,58%,0%
 Calgary Crowfoot,2024-12-22,16%,16%,59%,0%
 Calgary Crowfoot,2024-12-29,16%,16%,59%,0%
 Calgary Crowfoot,2025-01-05,16%,16%,59%,0%
-Calgary East,2024-05-12,14%,17%,61%,3%
-Calgary East,2024-05-19,14%,17%,61%,3%
-Calgary East,2024-05-26,15%,16%,62%,3%
-Calgary East,2024-06-02,15%,16%,61%,3%
-Calgary East,2024-06-09,15%,17%,60%,3%
-Calgary East,2024-06-16,16%,17%,59%,3%
-Calgary East,2024-06-23,15%,18%,60%,3%
-Calgary East,2024-06-30,15%,17%,59%,3%
-Calgary East,2024-07-07,15%,17%,59%,3%
-Calgary East,2024-07-14,15%,17%,60%,3%
-Calgary East,2024-07-21,15%,17%,60%,3%
-Calgary East,2024-07-28,15%,17%,60%,3%
-Calgary East,2024-08-04,14%,17%,60%,3%
-Calgary East,2024-08-11,14%,18%,60%,3%
-Calgary East,2024-08-18,14%,18%,60%,3%
-Calgary East,2024-08-25,15%,18%,59%,3%
-Calgary East,2024-09-01,15%,18%,58%,3%
-Calgary East,2024-09-08,15%,19%,58%,3%
-Calgary East,2024-09-15,16%,18%,58%,3%
-Calgary East,2024-09-22,16%,18%,58%,3%
-Calgary East,2024-09-29,15%,18%,58%,3%
-Calgary East,2024-10-06,14%,19%,59%,3%
-Calgary East,2024-10-13,14%,19%,59%,3%
-Calgary East,2024-10-20,14%,18%,59%,3%
-Calgary East,2024-10-27,14%,19%,59%,3%
-Calgary East,2024-11-03,15%,19%,59%,3%
-Calgary East,2024-11-10,15%,19%,58%,3%
-Calgary East,2024-11-17,16%,19%,57%,3%
-Calgary East,2024-11-24,16%,18%,58%,3%
-Calgary East,2024-12-01,15%,18%,59%,3%
-Calgary East,2024-12-08,15%,19%,59%,3%
-Calgary East,2024-12-15,15%,19%,58%,3%
-Calgary East,2024-12-22,15%,18%,61%,3%
-Calgary East,2024-12-29,15%,19%,60%,3%
-Calgary East,2025-01-05,15%,19%,60%,3%
+Calgary Crowfoot,2025-01-12,17%,16%,59%,0%
+Calgary East,2024-05-12,14%,17%,61%,0%
+Calgary East,2024-05-19,14%,17%,61%,0%
+Calgary East,2024-05-26,15%,16%,62%,0%
+Calgary East,2024-06-02,15%,16%,61%,0%
+Calgary East,2024-06-09,15%,17%,60%,0%
+Calgary East,2024-06-16,16%,17%,59%,0%
+Calgary East,2024-06-23,15%,18%,60%,0%
+Calgary East,2024-06-30,15%,17%,59%,0%
+Calgary East,2024-07-07,15%,17%,59%,0%
+Calgary East,2024-07-14,15%,17%,60%,0%
+Calgary East,2024-07-21,15%,17%,60%,0%
+Calgary East,2024-07-28,15%,17%,60%,0%
+Calgary East,2024-08-04,14%,17%,60%,0%
+Calgary East,2024-08-11,14%,18%,60%,0%
+Calgary East,2024-08-18,14%,18%,60%,0%
+Calgary East,2024-08-25,15%,18%,59%,0%
+Calgary East,2024-09-01,15%,18%,58%,0%
+Calgary East,2024-09-08,15%,19%,58%,0%
+Calgary East,2024-09-15,16%,18%,58%,0%
+Calgary East,2024-09-22,16%,18%,58%,0%
+Calgary East,2024-09-29,15%,18%,58%,0%
+Calgary East,2024-10-06,14%,19%,59%,0%
+Calgary East,2024-10-13,14%,19%,59%,0%
+Calgary East,2024-10-20,14%,18%,59%,0%
+Calgary East,2024-10-27,14%,19%,59%,0%
+Calgary East,2024-11-03,15%,19%,59%,0%
+Calgary East,2024-11-10,15%,19%,58%,0%
+Calgary East,2024-11-17,16%,19%,57%,0%
+Calgary East,2024-11-24,16%,18%,58%,0%
+Calgary East,2024-12-01,15%,18%,59%,0%
+Calgary East,2024-12-08,15%,19%,59%,0%
+Calgary East,2024-12-15,15%,19%,58%,0%
+Calgary East,2024-12-22,15%,18%,61%,0%
+Calgary East,2024-12-29,15%,19%,60%,0%
+Calgary East,2025-01-05,15%,19%,60%,0%
+Calgary East,2025-01-12,15%,18%,60%,0%
 Calgary Heritage,2024-05-12,12%,16%,66%,0%
 Calgary Heritage,2024-05-19,12%,16%,66%,0%
 Calgary Heritage,2024-05-26,13%,15%,66%,0%
@@ -9379,6 +9646,7 @@ Calgary Heritage,2024-12-15,13%,18%,63%,0%
 Calgary Heritage,2024-12-22,13%,17%,65%,0%
 Calgary Heritage,2024-12-29,13%,18%,65%,0%
 Calgary Heritage,2025-01-05,13%,18%,64%,0%
+Calgary Heritage,2025-01-12,13%,17%,64%,0%
 Calgary McKnight,2024-05-12,35%,16%,45%,0%
 Calgary McKnight,2024-05-19,35%,15%,45%,0%
 Calgary McKnight,2024-05-26,36%,15%,45%,0%
@@ -9414,6 +9682,7 @@ Calgary McKnight,2024-12-15,35%,16%,44%,0%
 Calgary McKnight,2024-12-22,34%,16%,47%,0%
 Calgary McKnight,2024-12-29,34%,16%,47%,0%
 Calgary McKnight,2025-01-05,34%,16%,46%,0%
+Calgary McKnight,2025-01-12,35%,15%,46%,0%
 Calgary Midnapore,2024-05-12,9%,17%,66%,0%
 Calgary Midnapore,2024-05-19,9%,17%,66%,0%
 Calgary Midnapore,2024-05-26,9%,16%,67%,0%
@@ -9449,6 +9718,7 @@ Calgary Midnapore,2024-12-15,10%,19%,63%,0%
 Calgary Midnapore,2024-12-22,9%,18%,65%,0%
 Calgary Midnapore,2024-12-29,9%,18%,65%,0%
 Calgary Midnapore,2025-01-05,9%,19%,65%,0%
+Calgary Midnapore,2025-01-12,10%,18%,65%,0%
 Calgary Nose Hill,2024-05-12,15%,16%,62%,0%
 Calgary Nose Hill,2024-05-19,15%,15%,62%,0%
 Calgary Nose Hill,2024-05-26,15%,14%,63%,0%
@@ -9484,6 +9754,7 @@ Calgary Nose Hill,2024-12-15,16%,17%,59%,0%
 Calgary Nose Hill,2024-12-22,15%,17%,61%,0%
 Calgary Nose Hill,2024-12-29,15%,17%,61%,0%
 Calgary Nose Hill,2025-01-05,15%,17%,61%,0%
+Calgary Nose Hill,2025-01-12,16%,17%,61%,0%
 Calgary Shepard,2024-05-12,10%,15%,68%,0%
 Calgary Shepard,2024-05-19,11%,15%,68%,0%
 Calgary Shepard,2024-05-26,11%,14%,68%,0%
@@ -9519,6 +9790,7 @@ Calgary Shepard,2024-12-15,11%,17%,65%,0%
 Calgary Shepard,2024-12-22,11%,17%,67%,0%
 Calgary Shepard,2024-12-29,11%,17%,67%,0%
 Calgary Shepard,2025-01-05,11%,17%,66%,0%
+Calgary Shepard,2025-01-12,11%,16%,66%,0%
 Calgary Signal Hill,2024-05-12,14%,13%,66%,0%
 Calgary Signal Hill,2024-05-19,14%,13%,66%,0%
 Calgary Signal Hill,2024-05-26,15%,12%,67%,0%
@@ -9554,6 +9826,7 @@ Calgary Signal Hill,2024-12-15,15%,15%,63%,0%
 Calgary Signal Hill,2024-12-22,15%,14%,65%,0%
 Calgary Signal Hill,2024-12-29,15%,14%,65%,0%
 Calgary Signal Hill,2025-01-05,15%,15%,64%,0%
+Calgary Signal Hill,2025-01-12,15%,14%,64%,0%
 Calgary Skyview,2024-05-12,25%,15%,53%,0%
 Calgary Skyview,2024-05-19,25%,15%,54%,0%
 Calgary Skyview,2024-05-26,26%,14%,55%,0%
@@ -9589,6 +9862,7 @@ Calgary Skyview,2024-12-15,25%,15%,54%,0%
 Calgary Skyview,2024-12-22,24%,15%,57%,0%
 Calgary Skyview,2024-12-29,24%,15%,56%,0%
 Calgary Skyview,2025-01-05,24%,15%,56%,0%
+Calgary Skyview,2025-01-12,25%,15%,56%,0%
 Edmonton Centre,2024-05-12,25%,30%,40%,0%
 Edmonton Centre,2024-05-19,25%,29%,40%,0%
 Edmonton Centre,2024-05-26,25%,28%,41%,0%
@@ -9624,6 +9898,7 @@ Edmonton Centre,2024-12-15,25%,29%,41%,0%
 Edmonton Centre,2024-12-22,24%,28%,44%,0%
 Edmonton Centre,2024-12-29,24%,28%,43%,0%
 Edmonton Centre,2025-01-05,24%,29%,43%,0%
+Edmonton Centre,2025-01-12,25%,28%,43%,0%
 Edmonton Gateway,2024-05-12,20%,24%,52%,0%
 Edmonton Gateway,2024-05-19,20%,24%,53%,0%
 Edmonton Gateway,2024-05-26,20%,22%,54%,0%
@@ -9659,6 +9934,7 @@ Edmonton Gateway,2024-12-15,20%,24%,53%,0%
 Edmonton Gateway,2024-12-22,19%,23%,56%,0%
 Edmonton Gateway,2024-12-29,19%,23%,55%,0%
 Edmonton Gateway,2025-01-05,19%,23%,55%,0%
+Edmonton Gateway,2025-01-12,19%,22%,55%,0%
 Edmonton Griesbach,2024-05-12,12%,39%,43%,0%
 Edmonton Griesbach,2024-05-19,12%,38%,44%,0%
 Edmonton Griesbach,2024-05-26,12%,37%,45%,0%
@@ -9694,6 +9970,7 @@ Edmonton Griesbach,2024-12-15,12%,39%,44%,0%
 Edmonton Griesbach,2024-12-22,11%,38%,46%,0%
 Edmonton Griesbach,2024-12-29,12%,38%,46%,0%
 Edmonton Griesbach,2025-01-05,11%,38%,46%,0%
+Edmonton Griesbach,2025-01-12,12%,37%,46%,0%
 Edmonton Manning,2024-05-12,16%,30%,49%,0%
 Edmonton Manning,2024-05-19,16%,29%,50%,0%
 Edmonton Manning,2024-05-26,16%,28%,51%,0%
@@ -9729,6 +10006,7 @@ Edmonton Manning,2024-12-15,16%,29%,51%,0%
 Edmonton Manning,2024-12-22,15%,28%,54%,0%
 Edmonton Manning,2024-12-29,15%,28%,53%,0%
 Edmonton Manning,2025-01-05,15%,29%,53%,0%
+Edmonton Manning,2025-01-12,16%,28%,53%,0%
 Edmonton Northwest,2024-05-12,18%,26%,52%,0%
 Edmonton Northwest,2024-05-19,18%,26%,53%,0%
 Edmonton Northwest,2024-05-26,18%,24%,54%,0%
@@ -9764,6 +10042,7 @@ Edmonton Northwest,2024-12-15,18%,26%,53%,0%
 Edmonton Northwest,2024-12-22,17%,25%,56%,0%
 Edmonton Northwest,2024-12-29,17%,25%,56%,0%
 Edmonton Northwest,2025-01-05,17%,25%,55%,0%
+Edmonton Northwest,2025-01-12,18%,24%,55%,0%
 Edmonton Riverbend,2024-05-12,19%,23%,54%,0%
 Edmonton Riverbend,2024-05-19,19%,22%,55%,0%
 Edmonton Riverbend,2024-05-26,20%,21%,56%,0%
@@ -9799,6 +10078,7 @@ Edmonton Riverbend,2024-12-15,19%,23%,55%,0%
 Edmonton Riverbend,2024-12-22,18%,22%,57%,0%
 Edmonton Riverbend,2024-12-29,18%,22%,57%,0%
 Edmonton Riverbend,2025-01-05,18%,22%,56%,0%
+Edmonton Riverbend,2025-01-12,19%,22%,56%,0%
 Edmonton Southeast,2024-05-12,27%,22%,47%,0%
 Edmonton Southeast,2024-05-19,28%,21%,47%,0%
 Edmonton Southeast,2024-05-26,28%,20%,48%,0%
@@ -9834,6 +10114,7 @@ Edmonton Southeast,2024-12-15,27%,22%,48%,0%
 Edmonton Southeast,2024-12-22,26%,21%,50%,0%
 Edmonton Southeast,2024-12-29,27%,21%,50%,0%
 Edmonton Southeast,2025-01-05,26%,21%,50%,0%
+Edmonton Southeast,2025-01-12,27%,20%,49%,0%
 Edmonton Strathcona,2024-05-12,7%,56%,32%,0%
 Edmonton Strathcona,2024-05-19,7%,55%,33%,0%
 Edmonton Strathcona,2024-05-26,7%,53%,34%,0%
@@ -9869,6 +10150,7 @@ Edmonton Strathcona,2024-12-15,7%,54%,34%,0%
 Edmonton Strathcona,2024-12-22,7%,52%,37%,0%
 Edmonton Strathcona,2024-12-29,7%,52%,37%,0%
 Edmonton Strathcona,2025-01-05,7%,53%,36%,0%
+Edmonton Strathcona,2025-01-12,7%,52%,37%,0%
 Edmonton West,2024-05-12,19%,23%,55%,0%
 Edmonton West,2024-05-19,19%,22%,55%,0%
 Edmonton West,2024-05-26,19%,22%,56%,0%
@@ -9904,6 +10186,7 @@ Edmonton West,2024-12-15,19%,23%,55%,0%
 Edmonton West,2024-12-22,18%,22%,57%,0%
 Edmonton West,2024-12-29,18%,22%,57%,0%
 Edmonton West,2025-01-05,18%,23%,56%,0%
+Edmonton West,2025-01-12,19%,22%,57%,0%
 Foothills,2024-05-12,5%,11%,75%,0%
 Foothills,2024-05-19,5%,10%,75%,0%
 Foothills,2024-05-26,5%,10%,75%,0%
@@ -9939,6 +10222,7 @@ Foothills,2024-12-15,5%,13%,73%,0%
 Foothills,2024-12-22,5%,12%,75%,0%
 Foothills,2024-12-29,5%,13%,75%,0%
 Foothills,2025-01-05,5%,13%,75%,0%
+Foothills,2025-01-12,5%,12%,75%,0%
 Fort McMurray Cold Lake,2024-05-12,5%,9%,71%,0%
 Fort McMurray Cold Lake,2024-05-19,5%,9%,72%,0%
 Fort McMurray Cold Lake,2024-05-26,5%,9%,72%,0%
@@ -9974,6 +10258,7 @@ Fort McMurray Cold Lake,2024-12-15,5%,11%,70%,0%
 Fort McMurray Cold Lake,2024-12-22,5%,11%,72%,0%
 Fort McMurray Cold Lake,2024-12-29,5%,11%,72%,0%
 Fort McMurray Cold Lake,2025-01-05,5%,11%,72%,0%
+Fort McMurray Cold Lake,2025-01-12,5%,11%,72%,0%
 Grande Prairie,2024-05-12,0%,11%,74%,0%
 Grande Prairie,2024-05-19,0%,11%,74%,0%
 Grande Prairie,2024-05-26,0%,10%,75%,0%
@@ -10009,41 +10294,43 @@ Grande Prairie,2024-12-15,0%,13%,73%,0%
 Grande Prairie,2024-12-22,0%,13%,76%,0%
 Grande Prairie,2024-12-29,0%,13%,76%,0%
 Grande Prairie,2025-01-05,0%,13%,75%,0%
-Lakeland,2024-05-12,0%,9%,72%,0%
-Lakeland,2024-05-19,0%,9%,72%,0%
-Lakeland,2024-05-26,0%,9%,72%,0%
-Lakeland,2024-06-02,0%,9%,72%,0%
-Lakeland,2024-06-09,0%,9%,71%,0%
-Lakeland,2024-06-16,0%,10%,70%,0%
-Lakeland,2024-06-23,0%,10%,70%,0%
-Lakeland,2024-06-30,0%,10%,70%,0%
-Lakeland,2024-07-07,0%,10%,70%,0%
-Lakeland,2024-07-14,0%,10%,70%,0%
-Lakeland,2024-07-21,0%,10%,70%,0%
-Lakeland,2024-07-28,0%,10%,70%,0%
-Lakeland,2024-08-04,0%,10%,70%,0%
-Lakeland,2024-08-11,0%,10%,70%,0%
-Lakeland,2024-08-18,0%,10%,70%,0%
-Lakeland,2024-08-25,0%,10%,69%,0%
-Lakeland,2024-09-01,0%,11%,69%,0%
-Lakeland,2024-09-08,0%,11%,69%,0%
-Lakeland,2024-09-15,0%,10%,70%,0%
-Lakeland,2024-09-22,0%,10%,70%,0%
-Lakeland,2024-09-29,0%,11%,70%,0%
-Lakeland,2024-10-06,0%,11%,70%,0%
-Lakeland,2024-10-13,0%,11%,70%,0%
-Lakeland,2024-10-20,0%,11%,71%,0%
-Lakeland,2024-10-27,0%,11%,70%,0%
-Lakeland,2024-11-03,0%,11%,70%,0%
-Lakeland,2024-11-10,0%,11%,70%,0%
-Lakeland,2024-11-17,0%,11%,69%,0%
-Lakeland,2024-11-24,0%,11%,70%,0%
-Lakeland,2024-12-01,0%,11%,71%,0%
-Lakeland,2024-12-08,0%,11%,70%,0%
-Lakeland,2024-12-15,0%,11%,70%,0%
-Lakeland,2024-12-22,0%,11%,73%,0%
-Lakeland,2024-12-29,0%,11%,73%,0%
-Lakeland,2025-01-05,0%,11%,72%,0%
+Grande Prairie,2025-01-12,0%,13%,76%,0%
+Lakeland,2024-05-12,3%,9%,72%,0%
+Lakeland,2024-05-19,3%,9%,72%,0%
+Lakeland,2024-05-26,3%,9%,72%,0%
+Lakeland,2024-06-02,3%,9%,72%,0%
+Lakeland,2024-06-09,3%,9%,71%,0%
+Lakeland,2024-06-16,3%,10%,70%,0%
+Lakeland,2024-06-23,3%,10%,70%,0%
+Lakeland,2024-06-30,3%,10%,70%,0%
+Lakeland,2024-07-07,3%,10%,70%,0%
+Lakeland,2024-07-14,3%,10%,70%,0%
+Lakeland,2024-07-21,3%,10%,70%,0%
+Lakeland,2024-07-28,3%,10%,70%,0%
+Lakeland,2024-08-04,3%,10%,70%,0%
+Lakeland,2024-08-11,3%,10%,70%,0%
+Lakeland,2024-08-18,3%,10%,70%,0%
+Lakeland,2024-08-25,3%,10%,69%,0%
+Lakeland,2024-09-01,3%,11%,69%,0%
+Lakeland,2024-09-08,3%,11%,69%,0%
+Lakeland,2024-09-15,3%,10%,70%,0%
+Lakeland,2024-09-22,3%,10%,70%,0%
+Lakeland,2024-09-29,3%,11%,70%,0%
+Lakeland,2024-10-06,3%,11%,70%,0%
+Lakeland,2024-10-13,3%,11%,70%,0%
+Lakeland,2024-10-20,3%,11%,71%,0%
+Lakeland,2024-10-27,3%,11%,70%,0%
+Lakeland,2024-11-03,3%,11%,70%,0%
+Lakeland,2024-11-10,3%,11%,70%,0%
+Lakeland,2024-11-17,3%,11%,69%,0%
+Lakeland,2024-11-24,3%,11%,70%,0%
+Lakeland,2024-12-01,3%,11%,71%,0%
+Lakeland,2024-12-08,3%,11%,70%,0%
+Lakeland,2024-12-15,3%,11%,70%,0%
+Lakeland,2024-12-22,3%,11%,73%,0%
+Lakeland,2024-12-29,3%,11%,73%,0%
+Lakeland,2025-01-05,3%,11%,72%,0%
+Lakeland,2025-01-12,3%,11%,72%,0%
 Leduc Wetaskiwin,2024-05-12,5%,16%,67%,0%
 Leduc Wetaskiwin,2024-05-19,5%,16%,68%,0%
 Leduc Wetaskiwin,2024-05-26,5%,15%,68%,0%
@@ -10079,6 +10366,7 @@ Leduc Wetaskiwin,2024-12-15,5%,18%,66%,0%
 Leduc Wetaskiwin,2024-12-22,5%,18%,68%,0%
 Leduc Wetaskiwin,2024-12-29,5%,18%,68%,0%
 Leduc Wetaskiwin,2025-01-05,5%,18%,67%,0%
+Leduc Wetaskiwin,2025-01-12,5%,17%,68%,0%
 Lethbridge,2024-05-12,10%,21%,67%,0%
 Lethbridge,2024-05-19,10%,20%,67%,0%
 Lethbridge,2024-05-26,10%,20%,68%,0%
@@ -10114,6 +10402,7 @@ Lethbridge,2024-12-15,10%,23%,64%,0%
 Lethbridge,2024-12-22,10%,22%,66%,0%
 Lethbridge,2024-12-29,10%,22%,65%,0%
 Lethbridge,2025-01-05,10%,23%,65%,0%
+Lethbridge,2025-01-12,10%,22%,65%,0%
 Medicine Hat Cardston Warner,2024-05-12,5%,13%,70%,0%
 Medicine Hat Cardston Warner,2024-05-19,5%,12%,70%,0%
 Medicine Hat Cardston Warner,2024-05-26,5%,12%,70%,0%
@@ -10149,6 +10438,7 @@ Medicine Hat Cardston Warner,2024-12-15,5%,15%,68%,0%
 Medicine Hat Cardston Warner,2024-12-22,5%,14%,70%,0%
 Medicine Hat Cardston Warner,2024-12-29,5%,14%,70%,0%
 Medicine Hat Cardston Warner,2025-01-05,5%,15%,70%,0%
+Medicine Hat Cardston Warner,2025-01-12,5%,14%,70%,0%
 Parkland,2024-05-12,4%,14%,65%,0%
 Parkland,2024-05-19,4%,14%,65%,0%
 Parkland,2024-05-26,4%,13%,66%,0%
@@ -10184,6 +10474,7 @@ Parkland,2024-12-15,4%,16%,64%,0%
 Parkland,2024-12-22,4%,16%,66%,0%
 Parkland,2024-12-29,4%,16%,66%,0%
 Parkland,2025-01-05,4%,16%,66%,0%
+Parkland,2025-01-12,4%,15%,66%,0%
 Peace River Westlock,2024-05-12,4%,12%,67%,0%
 Peace River Westlock,2024-05-19,4%,12%,67%,0%
 Peace River Westlock,2024-05-26,4%,11%,68%,0%
@@ -10219,6 +10510,7 @@ Peace River Westlock,2024-12-15,4%,14%,66%,0%
 Peace River Westlock,2024-12-22,4%,14%,69%,0%
 Peace River Westlock,2024-12-29,4%,14%,69%,0%
 Peace River Westlock,2025-01-05,4%,15%,68%,0%
+Peace River Westlock,2025-01-12,4%,14%,69%,0%
 Ponoka Didsbury,2024-05-12,0%,10%,74%,0%
 Ponoka Didsbury,2024-05-19,0%,10%,74%,0%
 Ponoka Didsbury,2024-05-26,0%,9%,75%,0%
@@ -10254,6 +10546,7 @@ Ponoka Didsbury,2024-12-15,0%,12%,73%,0%
 Ponoka Didsbury,2024-12-22,0%,12%,76%,0%
 Ponoka Didsbury,2024-12-29,0%,12%,75%,0%
 Ponoka Didsbury,2025-01-05,0%,12%,75%,0%
+Ponoka Didsbury,2025-01-12,0%,12%,75%,0%
 Red Deer,2024-05-12,6%,17%,67%,0%
 Red Deer,2024-05-19,6%,17%,68%,0%
 Red Deer,2024-05-26,6%,16%,69%,0%
@@ -10289,6 +10582,7 @@ Red Deer,2024-12-15,7%,19%,66%,0%
 Red Deer,2024-12-22,6%,19%,69%,0%
 Red Deer,2024-12-29,6%,19%,68%,0%
 Red Deer,2025-01-05,6%,19%,68%,0%
+Red Deer,2025-01-12,7%,19%,68%,0%
 Sherwood Park Fort Saskatchewan,2024-05-12,7%,21%,66%,0%
 Sherwood Park Fort Saskatchewan,2024-05-19,7%,21%,66%,0%
 Sherwood Park Fort Saskatchewan,2024-05-26,7%,20%,67%,0%
@@ -10324,6 +10618,7 @@ Sherwood Park Fort Saskatchewan,2024-12-15,7%,23%,63%,0%
 Sherwood Park Fort Saskatchewan,2024-12-22,7%,22%,65%,0%
 Sherwood Park Fort Saskatchewan,2024-12-29,7%,22%,64%,0%
 Sherwood Park Fort Saskatchewan,2025-01-05,7%,23%,64%,0%
+Sherwood Park Fort Saskatchewan,2025-01-12,7%,22%,65%,0%
 St. Albert Sturgeon River,2024-05-12,8%,21%,62%,0%
 St. Albert Sturgeon River,2024-05-19,8%,21%,62%,0%
 St. Albert Sturgeon River,2024-05-26,8%,20%,63%,0%
@@ -10359,6 +10654,7 @@ St. Albert Sturgeon River,2024-12-15,8%,23%,60%,0%
 St. Albert Sturgeon River,2024-12-22,8%,23%,62%,0%
 St. Albert Sturgeon River,2024-12-29,8%,23%,62%,0%
 St. Albert Sturgeon River,2025-01-05,8%,23%,61%,0%
+St. Albert Sturgeon River,2025-01-12,9%,23%,62%,0%
 Yellowhead,2024-05-12,7%,13%,64%,0%
 Yellowhead,2024-05-19,7%,13%,65%,0%
 Yellowhead,2024-05-26,8%,12%,65%,0%
@@ -10394,6 +10690,7 @@ Yellowhead,2024-12-15,8%,15%,63%,0%
 Yellowhead,2024-12-22,8%,15%,65%,0%
 Yellowhead,2024-12-29,8%,15%,65%,0%
 Yellowhead,2025-01-05,8%,15%,65%,0%
+Yellowhead,2025-01-12,8%,15%,65%,0%
 Abbotsford South Langley,2024-05-12,15%,13%,65%,4%
 Abbotsford South Langley,2024-05-19,15%,14%,64%,4%
 Abbotsford South Langley,2024-05-26,16%,14%,63%,4%
@@ -10429,6 +10726,7 @@ Abbotsford South Langley,2024-12-15,16%,16%,59%,4%
 Abbotsford South Langley,2024-12-22,15%,18%,60%,4%
 Abbotsford South Langley,2024-12-29,15%,18%,60%,4%
 Abbotsford South Langley,2025-01-05,15%,17%,60%,4%
+Abbotsford South Langley,2025-01-12,16%,16%,61%,4%
 Burnaby Central,2024-05-12,20%,34%,39%,4%
 Burnaby Central,2024-05-19,20%,34%,39%,4%
 Burnaby Central,2024-05-26,21%,35%,38%,4%
@@ -10464,6 +10762,7 @@ Burnaby Central,2024-12-15,22%,36%,35%,4%
 Burnaby Central,2024-12-22,20%,39%,35%,4%
 Burnaby Central,2024-12-29,20%,39%,35%,4%
 Burnaby Central,2025-01-05,20%,38%,36%,3%
+Burnaby Central,2025-01-12,21%,36%,37%,4%
 Burnaby North Seymour,2024-05-12,28%,21%,44%,5%
 Burnaby North Seymour,2024-05-19,28%,22%,44%,5%
 Burnaby North Seymour,2024-05-26,30%,22%,42%,5%
@@ -10499,6 +10798,7 @@ Burnaby North Seymour,2024-12-15,29%,24%,41%,4%
 Burnaby North Seymour,2024-12-22,28%,26%,41%,4%
 Burnaby North Seymour,2024-12-29,28%,26%,41%,4%
 Burnaby North Seymour,2025-01-05,28%,25%,41%,4%
+Burnaby North Seymour,2025-01-12,29%,23%,42%,4%
 Cariboo Prince George,2024-05-12,8%,14%,69%,4%
 Cariboo Prince George,2024-05-19,8%,14%,68%,4%
 Cariboo Prince George,2024-05-26,9%,15%,67%,4%
@@ -10534,6 +10834,7 @@ Cariboo Prince George,2024-12-15,9%,18%,64%,4%
 Cariboo Prince George,2024-12-22,9%,19%,64%,4%
 Cariboo Prince George,2024-12-29,9%,19%,64%,4%
 Cariboo Prince George,2025-01-05,9%,19%,65%,4%
+Cariboo Prince George,2025-01-12,9%,17%,65%,4%
 Chilliwack Hope,2024-05-12,9%,19%,64%,4%
 Chilliwack Hope,2024-05-19,9%,20%,64%,4%
 Chilliwack Hope,2024-05-26,10%,20%,63%,4%
@@ -10569,6 +10870,7 @@ Chilliwack Hope,2024-12-15,10%,23%,59%,4%
 Chilliwack Hope,2024-12-22,9%,24%,59%,3%
 Chilliwack Hope,2024-12-29,10%,25%,59%,3%
 Chilliwack Hope,2025-01-05,9%,24%,59%,3%
+Chilliwack Hope,2025-01-12,10%,22%,60%,3%
 Cloverdale Langley City,2024-05-12,26%,15%,56%,0%
 Cloverdale Langley City,2024-05-19,26%,15%,56%,0%
 Cloverdale Langley City,2024-05-26,27%,16%,54%,0%
@@ -10604,6 +10906,7 @@ Cloverdale Langley City,2024-12-15,27%,17%,53%,0%
 Cloverdale Langley City,2024-12-22,18%,17%,62%,0%
 Cloverdale Langley City,2024-12-29,19%,17%,62%,0%
 Cloverdale Langley City,2025-01-05,18%,16%,62%,0%
+Cloverdale Langley City,2025-01-12,19%,15%,62%,0%
 Columbia Kootenay Southern Rockies,2024-05-12,4%,26%,61%,4%
 Columbia Kootenay Southern Rockies,2024-05-19,4%,27%,61%,5%
 Columbia Kootenay Southern Rockies,2024-05-26,5%,28%,60%,4%
@@ -10639,6 +10942,7 @@ Columbia Kootenay Southern Rockies,2024-12-15,5%,31%,56%,4%
 Columbia Kootenay Southern Rockies,2024-12-22,4%,33%,56%,4%
 Columbia Kootenay Southern Rockies,2024-12-29,4%,33%,56%,4%
 Columbia Kootenay Southern Rockies,2025-01-05,4%,32%,56%,4%
+Columbia Kootenay Southern Rockies,2025-01-12,5%,30%,58%,4%
 Coquitlam Port Coquitlam,2024-05-12,26%,22%,49%,0%
 Coquitlam Port Coquitlam,2024-05-19,26%,22%,49%,0%
 Coquitlam Port Coquitlam,2024-05-26,27%,23%,47%,0%
@@ -10674,6 +10978,7 @@ Coquitlam Port Coquitlam,2024-12-15,27%,24%,45%,0%
 Coquitlam Port Coquitlam,2024-12-22,25%,26%,46%,0%
 Coquitlam Port Coquitlam,2024-12-29,26%,26%,46%,0%
 Coquitlam Port Coquitlam,2025-01-05,25%,25%,46%,0%
+Coquitlam Port Coquitlam,2025-01-12,27%,23%,47%,0%
 Courtenay Alberni,2024-05-12,8%,33%,48%,8%
 Courtenay Alberni,2024-05-19,8%,34%,48%,9%
 Courtenay Alberni,2024-05-26,8%,34%,47%,8%
@@ -10709,6 +11014,7 @@ Courtenay Alberni,2024-12-15,8%,38%,43%,8%
 Courtenay Alberni,2024-12-22,7%,40%,43%,7%
 Courtenay Alberni,2024-12-29,7%,40%,43%,7%
 Courtenay Alberni,2025-01-05,7%,39%,44%,7%
+Courtenay Alberni,2025-01-12,8%,37%,46%,8%
 Cowichan Malahat Langford,2024-05-12,10%,34%,45%,8%
 Cowichan Malahat Langford,2024-05-19,10%,34%,45%,8%
 Cowichan Malahat Langford,2024-05-26,10%,35%,44%,8%
@@ -10744,6 +11050,7 @@ Cowichan Malahat Langford,2024-12-15,11%,37%,42%,7%
 Cowichan Malahat Langford,2024-12-22,10%,39%,41%,7%
 Cowichan Malahat Langford,2024-12-29,10%,39%,41%,7%
 Cowichan Malahat Langford,2025-01-05,10%,38%,42%,7%
+Cowichan Malahat Langford,2025-01-12,10%,36%,44%,7%
 Delta,2024-05-12,28%,14%,53%,0%
 Delta,2024-05-19,28%,14%,52%,0%
 Delta,2024-05-26,29%,14%,51%,0%
@@ -10779,6 +11086,7 @@ Delta,2024-12-15,29%,16%,49%,0%
 Delta,2024-12-22,28%,18%,50%,0%
 Delta,2024-12-29,28%,18%,50%,0%
 Delta,2025-01-05,28%,17%,50%,0%
+Delta,2025-01-12,29%,16%,51%,0%
 Esquimalt Saanich Sooke,2024-05-12,14%,36%,36%,11%
 Esquimalt Saanich Sooke,2024-05-19,14%,36%,36%,11%
 Esquimalt Saanich Sooke,2024-05-26,14%,37%,35%,11%
@@ -10814,6 +11122,7 @@ Esquimalt Saanich Sooke,2024-12-15,14%,39%,33%,10%
 Esquimalt Saanich Sooke,2024-12-22,13%,41%,34%,10%
 Esquimalt Saanich Sooke,2024-12-29,13%,41%,34%,10%
 Esquimalt Saanich Sooke,2025-01-05,13%,40%,34%,10%
+Esquimalt Saanich Sooke,2025-01-12,14%,38%,36%,10%
 Fleetwood Port Kells,2024-05-12,32%,16%,47%,0%
 Fleetwood Port Kells,2024-05-19,32%,17%,47%,0%
 Fleetwood Port Kells,2024-05-26,33%,17%,45%,0%
@@ -10849,6 +11158,7 @@ Fleetwood Port Kells,2024-12-15,33%,18%,44%,0%
 Fleetwood Port Kells,2024-12-22,31%,20%,44%,0%
 Fleetwood Port Kells,2024-12-29,31%,20%,44%,0%
 Fleetwood Port Kells,2025-01-05,31%,19%,45%,0%
+Fleetwood Port Kells,2025-01-12,32%,18%,45%,0%
 Kamloops Shuswap Central Rockies,2024-05-12,9%,18%,63%,6%
 Kamloops Shuswap Central Rockies,2024-05-19,9%,19%,62%,6%
 Kamloops Shuswap Central Rockies,2024-05-26,9%,19%,61%,6%
@@ -10884,6 +11194,7 @@ Kamloops Shuswap Central Rockies,2024-12-15,10%,22%,58%,6%
 Kamloops Shuswap Central Rockies,2024-12-22,9%,23%,58%,6%
 Kamloops Shuswap Central Rockies,2024-12-29,9%,24%,58%,6%
 Kamloops Shuswap Central Rockies,2025-01-05,9%,23%,58%,6%
+Kamloops Shuswap Central Rockies,2025-01-12,10%,22%,59%,6%
 Kamloops Thompson Nicola,2024-05-12,9%,21%,62%,5%
 Kamloops Thompson Nicola,2024-05-19,10%,21%,61%,5%
 Kamloops Thompson Nicola,2024-05-26,10%,22%,60%,5%
@@ -10919,6 +11230,7 @@ Kamloops Thompson Nicola,2024-12-15,10%,25%,56%,5%
 Kamloops Thompson Nicola,2024-12-22,10%,26%,57%,4%
 Kamloops Thompson Nicola,2024-12-29,10%,26%,56%,4%
 Kamloops Thompson Nicola,2025-01-05,10%,26%,57%,4%
+Kamloops Thompson Nicola,2025-01-12,10%,24%,58%,4%
 Kelowna,2024-05-12,15%,16%,62%,4%
 Kelowna,2024-05-19,15%,16%,61%,4%
 Kelowna,2024-05-26,16%,17%,60%,4%
@@ -10954,41 +11266,43 @@ Kelowna,2024-12-15,16%,19%,56%,4%
 Kelowna,2024-12-22,15%,21%,57%,4%
 Kelowna,2024-12-29,15%,21%,57%,4%
 Kelowna,2025-01-05,15%,20%,57%,4%
-Langley Township Fraser Heights,2024-05-12,17%,14%,64%,0%
-Langley Township Fraser Heights,2024-05-19,17%,15%,63%,0%
-Langley Township Fraser Heights,2024-05-26,18%,15%,62%,0%
-Langley Township Fraser Heights,2024-06-02,18%,15%,61%,0%
-Langley Township Fraser Heights,2024-06-09,18%,15%,61%,0%
-Langley Township Fraser Heights,2024-06-16,19%,16%,60%,0%
-Langley Township Fraser Heights,2024-06-23,19%,17%,59%,0%
-Langley Township Fraser Heights,2024-06-30,19%,17%,58%,0%
-Langley Township Fraser Heights,2024-07-07,19%,17%,58%,0%
-Langley Township Fraser Heights,2024-07-14,19%,17%,57%,0%
-Langley Township Fraser Heights,2024-07-21,19%,17%,57%,0%
-Langley Township Fraser Heights,2024-07-28,19%,17%,57%,0%
-Langley Township Fraser Heights,2024-08-04,19%,17%,57%,0%
-Langley Township Fraser Heights,2024-08-11,19%,17%,57%,0%
-Langley Township Fraser Heights,2024-08-18,19%,17%,57%,0%
-Langley Township Fraser Heights,2024-08-25,19%,17%,57%,0%
-Langley Township Fraser Heights,2024-09-01,20%,16%,58%,0%
-Langley Township Fraser Heights,2024-09-08,20%,16%,57%,0%
-Langley Township Fraser Heights,2024-09-15,21%,15%,58%,0%
-Langley Township Fraser Heights,2024-09-22,21%,15%,57%,0%
-Langley Township Fraser Heights,2024-09-29,21%,16%,58%,0%
-Langley Township Fraser Heights,2024-10-06,19%,16%,58%,0%
-Langley Township Fraser Heights,2024-10-13,19%,17%,58%,0%
-Langley Township Fraser Heights,2024-10-20,20%,17%,57%,0%
-Langley Township Fraser Heights,2024-10-27,20%,17%,56%,0%
-Langley Township Fraser Heights,2024-11-03,20%,17%,57%,0%
-Langley Township Fraser Heights,2024-11-10,20%,16%,57%,0%
-Langley Township Fraser Heights,2024-11-17,21%,16%,57%,0%
-Langley Township Fraser Heights,2024-11-24,20%,16%,58%,0%
-Langley Township Fraser Heights,2024-12-01,19%,16%,58%,0%
-Langley Township Fraser Heights,2024-12-08,18%,17%,58%,0%
-Langley Township Fraser Heights,2024-12-15,18%,17%,58%,0%
-Langley Township Fraser Heights,2024-12-22,17%,19%,59%,0%
-Langley Township Fraser Heights,2024-12-29,17%,19%,58%,0%
-Langley Township Fraser Heights,2025-01-05,17%,19%,59%,0%
+Kelowna,2025-01-12,16%,19%,58%,4%
+Langley Township Fraser Heights,2024-05-12,17%,14%,64%,3%
+Langley Township Fraser Heights,2024-05-19,17%,15%,63%,3%
+Langley Township Fraser Heights,2024-05-26,18%,15%,62%,3%
+Langley Township Fraser Heights,2024-06-02,18%,15%,61%,3%
+Langley Township Fraser Heights,2024-06-09,18%,15%,61%,3%
+Langley Township Fraser Heights,2024-06-16,19%,16%,60%,3%
+Langley Township Fraser Heights,2024-06-23,19%,17%,59%,3%
+Langley Township Fraser Heights,2024-06-30,19%,17%,58%,3%
+Langley Township Fraser Heights,2024-07-07,19%,17%,58%,3%
+Langley Township Fraser Heights,2024-07-14,19%,17%,57%,3%
+Langley Township Fraser Heights,2024-07-21,19%,17%,57%,3%
+Langley Township Fraser Heights,2024-07-28,19%,17%,57%,3%
+Langley Township Fraser Heights,2024-08-04,19%,17%,57%,3%
+Langley Township Fraser Heights,2024-08-11,19%,17%,57%,3%
+Langley Township Fraser Heights,2024-08-18,19%,17%,57%,3%
+Langley Township Fraser Heights,2024-08-25,19%,17%,57%,3%
+Langley Township Fraser Heights,2024-09-01,20%,16%,58%,3%
+Langley Township Fraser Heights,2024-09-08,20%,16%,57%,3%
+Langley Township Fraser Heights,2024-09-15,21%,15%,58%,3%
+Langley Township Fraser Heights,2024-09-22,21%,15%,57%,3%
+Langley Township Fraser Heights,2024-09-29,21%,16%,58%,3%
+Langley Township Fraser Heights,2024-10-06,19%,16%,58%,3%
+Langley Township Fraser Heights,2024-10-13,19%,17%,58%,3%
+Langley Township Fraser Heights,2024-10-20,20%,17%,57%,3%
+Langley Township Fraser Heights,2024-10-27,20%,17%,56%,3%
+Langley Township Fraser Heights,2024-11-03,20%,17%,57%,3%
+Langley Township Fraser Heights,2024-11-10,20%,16%,57%,3%
+Langley Township Fraser Heights,2024-11-17,21%,16%,57%,3%
+Langley Township Fraser Heights,2024-11-24,20%,16%,58%,3%
+Langley Township Fraser Heights,2024-12-01,19%,16%,58%,3%
+Langley Township Fraser Heights,2024-12-08,18%,17%,58%,3%
+Langley Township Fraser Heights,2024-12-15,18%,17%,58%,3%
+Langley Township Fraser Heights,2024-12-22,17%,19%,59%,3%
+Langley Township Fraser Heights,2024-12-29,17%,19%,58%,3%
+Langley Township Fraser Heights,2025-01-05,17%,19%,59%,3%
+Langley Township Fraser Heights,2025-01-12,18%,17%,59%,3%
 Mission Matsqui Abbotsford,2024-05-12,13%,13%,66%,4%
 Mission Matsqui Abbotsford,2024-05-19,13%,13%,66%,5%
 Mission Matsqui Abbotsford,2024-05-26,14%,14%,64%,5%
@@ -11024,6 +11338,7 @@ Mission Matsqui Abbotsford,2024-12-15,15%,16%,61%,5%
 Mission Matsqui Abbotsford,2024-12-22,14%,17%,61%,4%
 Mission Matsqui Abbotsford,2024-12-29,14%,17%,61%,4%
 Mission Matsqui Abbotsford,2025-01-05,14%,17%,62%,4%
+Mission Matsqui Abbotsford,2025-01-12,14%,16%,62%,4%
 Nanaimo Ladysmith,2024-05-12,7%,22%,41%,27%
 Nanaimo Ladysmith,2024-05-19,7%,23%,41%,27%
 Nanaimo Ladysmith,2024-05-26,8%,23%,40%,26%
@@ -11059,6 +11374,7 @@ Nanaimo Ladysmith,2024-12-15,8%,27%,37%,25%
 Nanaimo Ladysmith,2024-12-22,7%,29%,38%,24%
 Nanaimo Ladysmith,2024-12-29,7%,29%,37%,24%
 Nanaimo Ladysmith,2025-01-05,7%,29%,38%,23%
+Nanaimo Ladysmith,2025-01-12,8%,27%,39%,24%
 New Westminster Burnaby Maillardville,2024-05-12,15%,41%,37%,5%
 New Westminster Burnaby Maillardville,2024-05-19,15%,41%,36%,5%
 New Westminster Burnaby Maillardville,2024-05-26,16%,42%,35%,5%
@@ -11094,6 +11410,7 @@ New Westminster Burnaby Maillardville,2024-12-15,16%,43%,34%,5%
 New Westminster Burnaby Maillardville,2024-12-22,14%,45%,34%,4%
 New Westminster Burnaby Maillardville,2024-12-29,14%,45%,34%,4%
 New Westminster Burnaby Maillardville,2025-01-05,14%,45%,35%,4%
+New Westminster Burnaby Maillardville,2025-01-12,15%,42%,36%,5%
 North Island Powell River,2024-05-12,7%,29%,54%,7%
 North Island Powell River,2024-05-19,7%,30%,53%,7%
 North Island Powell River,2024-05-26,8%,30%,52%,7%
@@ -11129,6 +11446,7 @@ North Island Powell River,2024-12-15,7%,34%,49%,6%
 North Island Powell River,2024-12-22,7%,36%,49%,6%
 North Island Powell River,2024-12-29,7%,36%,49%,6%
 North Island Powell River,2025-01-05,7%,35%,50%,6%
+North Island Powell River,2025-01-12,7%,33%,52%,6%
 North Vancouver Capilano,2024-05-12,30%,15%,48%,5%
 North Vancouver Capilano,2024-05-19,31%,15%,48%,6%
 North Vancouver Capilano,2024-05-26,32%,15%,46%,5%
@@ -11164,6 +11482,7 @@ North Vancouver Capilano,2024-12-15,32%,17%,44%,5%
 North Vancouver Capilano,2024-12-22,30%,18%,45%,5%
 North Vancouver Capilano,2024-12-29,30%,18%,45%,5%
 North Vancouver Capilano,2025-01-05,30%,18%,46%,5%
+North Vancouver Capilano,2025-01-12,31%,16%,46%,5%
 Okanagan Lake West South Kelowna,2024-05-12,13%,13%,67%,3%
 Okanagan Lake West South Kelowna,2024-05-19,13%,14%,67%,4%
 Okanagan Lake West South Kelowna,2024-05-26,13%,14%,66%,3%
@@ -11199,6 +11518,7 @@ Okanagan Lake West South Kelowna,2024-12-15,14%,17%,62%,4%
 Okanagan Lake West South Kelowna,2024-12-22,13%,18%,62%,3%
 Okanagan Lake West South Kelowna,2024-12-29,13%,18%,62%,3%
 Okanagan Lake West South Kelowna,2025-01-05,13%,18%,63%,3%
+Okanagan Lake West South Kelowna,2025-01-12,14%,16%,63%,3%
 Pitt Meadows Maple Ridge,2024-05-12,14%,24%,57%,0%
 Pitt Meadows Maple Ridge,2024-05-19,14%,24%,57%,0%
 Pitt Meadows Maple Ridge,2024-05-26,15%,25%,55%,0%
@@ -11234,6 +11554,7 @@ Pitt Meadows Maple Ridge,2024-12-15,15%,26%,54%,0%
 Pitt Meadows Maple Ridge,2024-12-22,14%,28%,54%,0%
 Pitt Meadows Maple Ridge,2024-12-29,14%,28%,54%,0%
 Pitt Meadows Maple Ridge,2025-01-05,14%,27%,55%,0%
+Pitt Meadows Maple Ridge,2025-01-12,14%,25%,56%,0%
 Port Moody Coquitlam,2024-05-12,17%,26%,48%,0%
 Port Moody Coquitlam,2024-05-19,17%,26%,47%,0%
 Port Moody Coquitlam,2024-05-26,17%,27%,46%,0%
@@ -11269,6 +11590,7 @@ Port Moody Coquitlam,2024-12-15,18%,29%,44%,0%
 Port Moody Coquitlam,2024-12-22,16%,31%,44%,0%
 Port Moody Coquitlam,2024-12-29,16%,31%,44%,0%
 Port Moody Coquitlam,2025-01-05,16%,30%,45%,0%
+Port Moody Coquitlam,2025-01-12,17%,28%,46%,0%
 Prince George Peace River Northern Rockies,2024-05-12,4%,10%,74%,4%
 Prince George Peace River Northern Rockies,2024-05-19,4%,10%,73%,4%
 Prince George Peace River Northern Rockies,2024-05-26,5%,10%,72%,4%
@@ -11304,6 +11626,7 @@ Prince George Peace River Northern Rockies,2024-12-15,5%,13%,69%,4%
 Prince George Peace River Northern Rockies,2024-12-22,4%,14%,70%,4%
 Prince George Peace River Northern Rockies,2024-12-29,5%,14%,70%,4%
 Prince George Peace River Northern Rockies,2025-01-05,4%,14%,71%,4%
+Prince George Peace River Northern Rockies,2025-01-12,5%,13%,71%,4%
 Richmond Centre Marpole,2024-05-12,25%,15%,55%,4%
 Richmond Centre Marpole,2024-05-19,25%,15%,54%,4%
 Richmond Centre Marpole,2024-05-26,26%,16%,53%,4%
@@ -11339,6 +11662,7 @@ Richmond Centre Marpole,2024-12-15,26%,17%,51%,4%
 Richmond Centre Marpole,2024-12-22,24%,19%,52%,4%
 Richmond Centre Marpole,2024-12-29,24%,19%,51%,4%
 Richmond Centre Marpole,2025-01-05,24%,19%,52%,3%
+Richmond Centre Marpole,2025-01-12,25%,17%,53%,4%
 Richmond East Steveston,2024-05-12,27%,15%,54%,0%
 Richmond East Steveston,2024-05-19,28%,15%,53%,0%
 Richmond East Steveston,2024-05-26,29%,15%,52%,0%
@@ -11374,6 +11698,7 @@ Richmond East Steveston,2024-12-15,29%,17%,50%,0%
 Richmond East Steveston,2024-12-22,27%,19%,50%,0%
 Richmond East Steveston,2024-12-29,27%,19%,50%,0%
 Richmond East Steveston,2025-01-05,27%,18%,50%,0%
+Richmond East Steveston,2025-01-12,28%,17%,51%,0%
 Saanich Gulf Islands,2024-05-12,11%,15%,32%,41%
 Saanich Gulf Islands,2024-05-19,11%,15%,31%,41%
 Saanich Gulf Islands,2024-05-26,11%,15%,31%,41%
@@ -11409,6 +11734,7 @@ Saanich Gulf Islands,2024-12-15,11%,19%,30%,37%
 Saanich Gulf Islands,2024-12-22,11%,21%,32%,35%
 Saanich Gulf Islands,2024-12-29,11%,21%,31%,35%
 Saanich Gulf Islands,2025-01-05,11%,20%,32%,35%
+Saanich Gulf Islands,2025-01-12,11%,19%,33%,35%
 Similkameen South Okanagan West Kootenay,2024-05-12,7%,29%,56%,4%
 Similkameen South Okanagan West Kootenay,2024-05-19,7%,29%,56%,4%
 Similkameen South Okanagan West Kootenay,2024-05-26,8%,30%,55%,4%
@@ -11444,6 +11770,7 @@ Similkameen South Okanagan West Kootenay,2024-12-15,8%,33%,52%,4%
 Similkameen South Okanagan West Kootenay,2024-12-22,7%,34%,51%,4%
 Similkameen South Okanagan West Kootenay,2024-12-29,7%,35%,51%,4%
 Similkameen South Okanagan West Kootenay,2025-01-05,7%,34%,52%,4%
+Similkameen South Okanagan West Kootenay,2025-01-12,8%,32%,54%,4%
 Skeena Bulkley Valley,2024-05-12,3%,31%,58%,7%
 Skeena Bulkley Valley,2024-05-19,3%,31%,57%,7%
 Skeena Bulkley Valley,2024-05-26,3%,32%,56%,7%
@@ -11479,6 +11806,7 @@ Skeena Bulkley Valley,2024-12-15,4%,36%,51%,7%
 Skeena Bulkley Valley,2024-12-22,3%,38%,51%,6%
 Skeena Bulkley Valley,2024-12-29,3%,38%,51%,6%
 Skeena Bulkley Valley,2025-01-05,3%,37%,51%,6%
+Skeena Bulkley Valley,2025-01-12,3%,35%,53%,6%
 South Surrey White Rock,2024-05-12,23%,11%,64%,0%
 South Surrey White Rock,2024-05-19,23%,11%,63%,0%
 South Surrey White Rock,2024-05-26,24%,12%,62%,0%
@@ -11514,6 +11842,7 @@ South Surrey White Rock,2024-12-15,25%,14%,58%,0%
 South Surrey White Rock,2024-12-22,23%,15%,59%,0%
 South Surrey White Rock,2024-12-29,24%,15%,58%,0%
 South Surrey White Rock,2025-01-05,24%,15%,59%,0%
+South Surrey White Rock,2025-01-12,25%,14%,59%,0%
 Surrey Centre,2024-05-12,33%,23%,37%,0%
 Surrey Centre,2024-05-19,33%,24%,37%,0%
 Surrey Centre,2024-05-26,34%,24%,36%,0%
@@ -11549,6 +11878,7 @@ Surrey Centre,2024-12-15,33%,26%,35%,0%
 Surrey Centre,2024-12-22,31%,28%,35%,0%
 Surrey Centre,2024-12-29,31%,28%,35%,0%
 Surrey Centre,2025-01-05,31%,28%,35%,0%
+Surrey Centre,2025-01-12,33%,26%,36%,0%
 Surrey Newton,2024-05-12,42%,23%,31%,0%
 Surrey Newton,2024-05-19,42%,24%,30%,0%
 Surrey Newton,2024-05-26,43%,24%,29%,0%
@@ -11584,6 +11914,7 @@ Surrey Newton,2024-12-15,38%,27%,30%,0%
 Surrey Newton,2024-12-22,36%,31%,31%,0%
 Surrey Newton,2024-12-29,36%,31%,30%,0%
 Surrey Newton,2025-01-05,36%,30%,31%,0%
+Surrey Newton,2025-01-12,38%,28%,32%,0%
 Vancouver Centre,2024-05-12,29%,25%,39%,5%
 Vancouver Centre,2024-05-19,29%,26%,38%,5%
 Vancouver Centre,2024-05-26,30%,26%,37%,5%
@@ -11619,6 +11950,7 @@ Vancouver Centre,2024-12-15,30%,27%,35%,5%
 Vancouver Centre,2024-12-22,28%,32%,34%,4%
 Vancouver Centre,2024-12-29,28%,32%,34%,4%
 Vancouver Centre,2025-01-05,28%,32%,34%,4%
+Vancouver Centre,2025-01-12,30%,29%,35%,4%
 Vancouver East,2024-05-12,13%,50%,22%,10%
 Vancouver East,2024-05-19,13%,50%,22%,11%
 Vancouver East,2024-05-26,14%,51%,21%,10%
@@ -11654,6 +11986,7 @@ Vancouver East,2024-12-15,14%,52%,20%,9%
 Vancouver East,2024-12-22,12%,56%,20%,9%
 Vancouver East,2024-12-29,12%,55%,20%,9%
 Vancouver East,2025-01-05,12%,55%,21%,9%
+Vancouver East,2025-01-12,13%,52%,22%,9%
 Vancouver Fraserview South Burnaby,2024-05-12,30%,26%,39%,0%
 Vancouver Fraserview South Burnaby,2024-05-19,31%,27%,38%,0%
 Vancouver Fraserview South Burnaby,2024-05-26,32%,27%,37%,0%
@@ -11689,6 +12022,7 @@ Vancouver Fraserview South Burnaby,2024-12-15,32%,28%,36%,0%
 Vancouver Fraserview South Burnaby,2024-12-22,30%,31%,36%,0%
 Vancouver Fraserview South Burnaby,2024-12-29,30%,31%,36%,0%
 Vancouver Fraserview South Burnaby,2025-01-05,30%,30%,36%,0%
+Vancouver Fraserview South Burnaby,2025-01-12,31%,28%,37%,0%
 Vancouver Granville,2024-05-12,25%,26%,41%,4%
 Vancouver Granville,2024-05-19,26%,27%,40%,4%
 Vancouver Granville,2024-05-26,26%,27%,39%,4%
@@ -11724,6 +12058,7 @@ Vancouver Granville,2024-12-15,26%,29%,38%,3%
 Vancouver Granville,2024-12-22,24%,31%,38%,3%
 Vancouver Granville,2024-12-29,24%,31%,37%,3%
 Vancouver Granville,2025-01-05,24%,31%,38%,3%
+Vancouver Granville,2025-01-12,26%,28%,39%,3%
 Vancouver Kingsway,2024-05-12,20%,45%,28%,5%
 Vancouver Kingsway,2024-05-19,20%,45%,27%,5%
 Vancouver Kingsway,2024-05-26,20%,46%,27%,5%
@@ -11759,6 +12094,7 @@ Vancouver Kingsway,2024-12-15,20%,47%,25%,5%
 Vancouver Kingsway,2024-12-22,18%,50%,25%,4%
 Vancouver Kingsway,2024-12-29,18%,50%,25%,4%
 Vancouver Kingsway,2025-01-05,18%,49%,26%,4%
+Vancouver Kingsway,2025-01-12,20%,47%,27%,5%
 Vancouver Quadra,2024-05-12,29%,15%,47%,7%
 Vancouver Quadra,2024-05-19,29%,15%,47%,8%
 Vancouver Quadra,2024-05-26,31%,16%,45%,7%
@@ -11794,6 +12130,7 @@ Vancouver Quadra,2024-12-15,30%,17%,44%,7%
 Vancouver Quadra,2024-12-22,29%,19%,44%,7%
 Vancouver Quadra,2024-12-29,29%,19%,44%,7%
 Vancouver Quadra,2025-01-05,29%,19%,45%,6%
+Vancouver Quadra,2025-01-12,30%,17%,45%,6%
 Vernon Lake Country Monashee,2024-05-12,11%,16%,62%,6%
 Vernon Lake Country Monashee,2024-05-19,11%,16%,62%,6%
 Vernon Lake Country Monashee,2024-05-26,11%,17%,61%,6%
@@ -11829,6 +12166,7 @@ Vernon Lake Country Monashee,2024-12-15,12%,19%,57%,6%
 Vernon Lake Country Monashee,2024-12-22,11%,21%,58%,6%
 Vernon Lake Country Monashee,2024-12-29,11%,21%,58%,6%
 Vernon Lake Country Monashee,2025-01-05,11%,21%,58%,6%
+Vernon Lake Country Monashee,2025-01-12,12%,19%,59%,6%
 Victoria,2024-05-12,15%,38%,27%,19%
 Victoria,2024-05-19,15%,38%,26%,19%
 Victoria,2024-05-26,16%,39%,26%,18%
@@ -11864,6 +12202,7 @@ Victoria,2024-12-15,16%,42%,25%,15%
 Victoria,2024-12-22,15%,44%,26%,14%
 Victoria,2024-12-29,15%,44%,26%,14%
 Victoria,2025-01-05,15%,43%,26%,14%
+Victoria,2025-01-12,16%,41%,27%,14%
 West Vancouver Sunshine Coast Sea to Sky Country,2024-05-12,22%,21%,46%,8%
 West Vancouver Sunshine Coast Sea to Sky Country,2024-05-19,22%,22%,46%,9%
 West Vancouver Sunshine Coast Sea to Sky Country,2024-05-26,23%,22%,44%,8%
@@ -11899,3 +12238,4 @@ West Vancouver Sunshine Coast Sea to Sky Country,2024-12-15,23%,24%,43%,8%
 West Vancouver Sunshine Coast Sea to Sky Country,2024-12-22,21%,26%,44%,7%
 West Vancouver Sunshine Coast Sea to Sky Country,2024-12-29,21%,26%,43%,7%
 West Vancouver Sunshine Coast Sea to Sky Country,2025-01-05,21%,25%,44%,7%
+West Vancouver Sunshine Coast Sea to Sky Country,2025-01-12,22%,23%,45%,7%
