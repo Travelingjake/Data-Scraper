@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 
 # Define the URL to scrape
 base_url = "https://338canada.com"
@@ -42,11 +43,9 @@ links = soup.find_all('a', href=True)
 # Extract URLs that likely correspond to district pages
 district_urls = []
 for link in links:
-    href = link['href']
+    href = link['href'].strip()
      # Filter for URLs containing district number patterns; add base_url if needed
-    if ("/100" in href or "/110" in href or "/120" in href or "/130" in href or
-        "/240" in href or "/350" in href or "/351" in href or "/460" in href or
-        "/470" in href or "/480" in href or "/590" in href): 
+    if re.match(r'.*\d{5}.*', href) is not None:
         full_url = href if href.startswith("http") else base_url + href  # Ensure URL is absolute
         district_urls.append(full_url)
 

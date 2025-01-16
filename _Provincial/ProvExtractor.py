@@ -129,6 +129,7 @@ def extract_district_data(url):
 
     return data
 
+
 # Step 7: Process and print data (for one URL)
 def process_urls_and_extract_data(urls_file, output_csv_file):
     urls = read_urls_from_file(urls_file)

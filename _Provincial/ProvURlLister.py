@@ -42,7 +42,7 @@ links = soup.find_all('a', href=True)
 # Extract URLs that likely correspond to district pages
 district_urls = []
 for link in links:
-    href = link['href']
+    href = link['href'].strip()
     if ("/10" in href or "/11" in href): 
         full_url = href if href.startswith("http") else base_url + href  # Ensure URL is absolute
         district_urls.append(full_url)
