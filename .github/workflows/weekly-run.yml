@@ -2,45 +2,45 @@ name: Run Python Script Every 8 Hours
 
 on:
   schedule:
+    # This will trigger the action every 8 hours
     - cron: '0 */8 * * *'  # Runs every 8 hours
-  workflow_dispatch:  # Allows manual trigger
+  # Allows you to manually trigger the workflow
+  workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repository with full history
+      # Check out the repository code
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # Ensures full repo history for commits
 
-      # Set up Python 3.9
+      # Set up Python
       - name: Set up Python 3.9
         uses: actions/setup-python@v3
         with:
           python-version: '3.9'
 
-      # Install dependencies
+      # Install dependencies (use a requirements.txt file or install directly)
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Run the Provincial data extraction script
+      # Run your Provincial script
       - name: Run Provincial script
         run: python _Provincial/ProvExtractor.py
 
-      # Check git status and see if there are changes
-      - name: Check git status
-        run: git status
+      # Run your Federal script
+     # - name: Run Federal script
+     #   run: python _Federal/FedExtractor.py
 
-      # Commit and push changes only if there are updates
+      # Commit and push changes
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add _Provincial/Provincial_district_data.csv
-          git diff --quiet && echo "No changes to commit" || (git commit -m "Update data via GitHub Actions" && git push origin main)
+          git add .
+          git commit -m "Update data via GitHub Actions"
+          git push
