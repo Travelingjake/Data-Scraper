@@ -7,10 +7,10 @@ import re
 # Step 1: Get the URL from ...txt
 def read_urls_from_file(file_path):
     """Read the URLs from the file and return them as a list."""
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         return [line.strip() for line in file.readlines()]
 
-# Step 1.2 Extract data from the given URL
+# Step 2 Extract data from the given URL
 def extract_district_data(url):
     """Extract district data from the given URL."""
     headers = {
@@ -23,24 +23,20 @@ def extract_district_data(url):
         print(f"Failed to connect to {url}. Status code: {response.status_code}")
         return []
 
-    page_content = response.content.decode('utf-8', 'ignore')
+    #page_content = response.content.decode('utf-8', 'ignore')
     soup = BeautifulSoup(page_content, 'html.parser')
 
-    # Step 2.1: Clean district name
+    # Step 3: Clean district name
     def clean_district_name(district_name):
-        """Clean district names, ensuring consistent formatting."""
-        district_name = district_name.replace('Ã¢Â€Â”', ' ')  # Misinterpreted em dash
-        district_name = district_name.replace('Ã¢Â€Â‘', ' ')  # Misinterpreted en dash
-        district_name = district_name.replace('—', ' ')  # Replace em dash with space
-        district_name = district_name.replace('–', ' ')  # Replace en dash with space
-        district_name = district_name.replace('-', ' ')  # Replace hyphen with space
-        district_name = district_name.replace('1000', 'Thousand')  # Replace '1000' with 'Thousand'
-        district_name = district_name.replace('&', 'and')  # Replace '&' with 'and'
-        district_name = district_name.replace('’', "'")  # Normalize curly apostrophes
-        district_name = re.sub(r"\s*\(.*\)$", "", district_name)  # Remove text in parentheses
-        return district_name.strip()
-
-    # Extract district name (adjusting to the structure of the page)
+        """Clean district names for consistency."""
+        replacements = {
+            'Ã¢Â€Â”': ' ', 'Ã¢Â€Â‘': ' ', '—': ' ', '–': ' ', '-': ' ',
+            '1000': 'Thousand', '&': 'and', '’': "'"
+        }
+        for old, new in replacements.items():
+            district_name = district_name.replace(old, new)
+        return re.sub(r"\s*\(.*\)$", "", district_name).strip()
+        
     district_name = None
     try:
         district_name_tag = soup.find('div', class_='noads').find('h2')
@@ -55,7 +51,7 @@ def extract_district_data(url):
         print(f"District name not found for URL: {url}")
         return []
 
-    # Step 3.1: Text Processing in HTML
+    # Step 4: Text Processing in HTML
     data = []
     for item in soup.find_all('div', class_='hideifmobile'):
         text = item.get_text(strip=True)
@@ -69,19 +65,19 @@ def extract_district_data(url):
         if odds_index:
             text = text[:odds_index.start()].strip()
 
-#Step 3.1 Adds a space to the right of %
+#Step 5.1 Adds a space to the right of %
         text = re.sub(r"(\d+%)", r"\1 ", text)
 
-#Step 3.2 Dates Clearing (yyyy-mm// ddx... to dd x...) and (yyyy-mm-dd [adds this space])
+#Step 5.2 Dates Clearing (yyyy-mm// ddx... to dd x...) and (yyyy-mm-dd [adds this space])
         text = re.sub(r"(\d{4}-\d{2}-\d{2})(?=\d{4}-\d{2}-\d{2})", r"\1 ", text)
         text = re.sub(r"(\d{4}-\d{2}-\d{2})(\S)", r"\1 \2", text)
 
-#Step 3.3 Clears any 8 number string into the last 4 numbers (starting date)
+#Step 5.3 Clears any 8 number string into the last 4 numbers (starting date)
         text = re.sub(r"(\d{4})(\d{4})", r"\2", text)
 
         #print(f"Nearly Cleaned: {text}")
 
-# Step 3.4 Removes Date duplicates
+# Step 5.4 Removes Date duplicates
         dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
 
         seen_dates = set()
@@ -96,7 +92,7 @@ def extract_district_data(url):
 
         #print(f"Final Cleaned Text: {text}")
 
-#Step 3.5 Dates (YYYY-MM-DD format)
+#Step 5.5 Dates (YYYY-MM-DD format)
 
         dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
 
@@ -146,5 +142,4 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
 # Example usage
 urls_file = './_Provincial/ProvUrls.txt'  # Use relative path for input URL file
 output_csv_file = './_Provincial/Provincial_district_data.csv'  # Use relative path for output CSV file
-
 process_urls_and_extract_data(urls_file, output_csv_file)
