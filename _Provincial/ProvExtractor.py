@@ -134,7 +134,6 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
             all_data.extend(data)
 
     df = pd.DataFrame(all_data)
-    df = depivot_data(df)
     df.to_csv(output_csv_file, index=False)
     print(f"Data saved to {output_csv_file}")
 
