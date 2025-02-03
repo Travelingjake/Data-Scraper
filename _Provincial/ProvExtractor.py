@@ -10,7 +10,6 @@ def read_urls_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return [line.strip() for line in file.readlines()]
 
-
 # Step 2: Extract data from the given URL
 def extract_district_data(url):
     """Extract district data from the given URL."""
@@ -22,6 +21,7 @@ def extract_district_data(url):
 
     if response.status_code != 200:
         print(f"Failed to connect to {url}. Status code: {response.status_code}")
+        print(response.text)  # For debugging
         return []
 
     page_content = response.content.decode('utf-8', 'ignore')
@@ -37,7 +37,7 @@ def extract_district_data(url):
         for old, new in replacements.items():
             district_name = district_name.replace(old, new)
         return re.sub(r"\s*\(.*\)$", "", district_name).strip()
-        
+
     district_name = None
     try:
         district_container = soup.find('div', class_='noads')
@@ -48,7 +48,7 @@ def extract_district_data(url):
     except AttributeError:
         print(f"District name not found for URL: {url}")
         return []
-        
+
     if not district_name:
         print(f"District name not found for URL: {url}")
         return []
@@ -131,11 +131,15 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
         print(f"Processing {url}...")
         data = extract_district_data(url)
         if data:
+            print(f"Extracted data from {url}: {data}")  # For debugging
             all_data.extend(data)
 
-    df = pd.DataFrame(all_data)
-    df.to_csv(output_csv_file, index=False)
-    print(f"Data saved to {output_csv_file}")
+    if all_data:
+        df = pd.DataFrame(all_data)
+        df.to_csv(output_csv_file, index=False)
+        print(f"Data saved to {output_csv_file}")
+    else:
+        print("No data extracted. Check the URLs and the scraping logic.")
 
 # Example usage
 urls_file = './_Provincial/ProvUrls.txt'  # Use relative path for input URL file
