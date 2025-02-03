@@ -26,6 +26,7 @@ def extract_district_data(url):
         return []
 
     #page_content = response.content.decode('utf-8', 'ignore')
+    page_content = response.content.decode('utf-8', 'ignore')
     soup = BeautifulSoup(page_content, 'html.parser')
 
     # Step 3: Clean district name
@@ -40,11 +41,11 @@ def extract_district_data(url):
         return re.sub(r"\s*\(.*\)$", "", district_name).strip()
         
     district_name = None
-    try:
-        district_name_tag = soup.find('div', class_='noads').find('h2')
-        if district_name_tag:
-            district_name = clean_district_name(district_name_tag.get_text(strip=True))
-            print(f"Found district name: {district_name}")  # Debugging output
+district_container = soup.find('div', class_='noads')
+if district_container:
+    district_name_tag = district_container.find('h2')
+    if district_name_tag:
+        district_name = clean_district_name(district_name_tag.get_text(strip=True))
     except AttributeError:
         print(f"District name not found for URL: {url}")
         return []
