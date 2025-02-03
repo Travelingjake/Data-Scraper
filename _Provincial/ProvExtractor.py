@@ -1,5 +1,9 @@
 from tqdm import tqdm  # Import the tqdm library for progress bar
 import requests
+from selenium import webdriver
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.by import By
+import time
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
@@ -10,20 +14,31 @@ def read_urls_from_file(file_path):
     with open(file_path, 'r') as file:
         return [line.strip() for line in file.readlines()]
 
-# Step 1.2 Extract data from the given URL
+# Step 1.2 Extract data from the given URL using Selenium to handle hover
 def extract_district_data(url):
-    """Extract district data from the given URL."""
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-    }
-    response = requests.get(url, headers=headers)
-    response.encoding = 'utf-8'
+    """Extract district data from the given URL, handling hover events using Selenium."""
+    # Setup Selenium WebDriver (make sure to have ChromeDriver or another driver installed)
+    driver = webdriver.Chrome(executable_path='/path/to/chromedriver')  # Adjust path if needed
+    driver.get(url)
+    
+    # Wait for the page to load fully (adjust timing as needed)
+    time.sleep(3)
 
-    if response.status_code != 200:
-        print(f"Failed to connect to {url}. Status code: {response.status_code}")
-        return []
+    # Find the element that triggers the hover (you'll need to inspect the page and update this)
+    hover_element = driver.find_element(By.CSS_SELECTOR, ".hover-target-class")
 
-    page_content = response.content.decode('utf-8', 'ignore')
+    # Simulate the hover action
+    actions = ActionChains(driver)
+    actions.move_to_element(hover_element).perform()
+    
+    # Wait a moment for the hover effect to show the necessary data
+    time.sleep(1)  # Adjust as needed to give the page time to show the data
+
+    # Now that the hover is done, extract the page source
+    page_content = driver.page_source
+    driver.quit()
+
+    # Parse the page with BeautifulSoup
     soup = BeautifulSoup(page_content, 'html.parser')
 
     # Step 2.1: Clean district name
@@ -56,7 +71,7 @@ def extract_district_data(url):
         return []
 
     # Extract data from the page
-        data = []
+    data = []
     textbox = soup.find('g', class_='textbox')
     if not textbox:
         print(f"⚠️ No polling data found for {district_name}. Skipping.")
@@ -91,15 +106,17 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
     urls = read_urls_from_file(urls_file)
     all_data = []
 
-    first_url = urls[0]
-    print(f"🚀 Processing {first_url}...")
-    data = extract_district_data(first_url)
-    if data:
-        print(f"✅ Extracted {len(data)} rows. Adding to all_data.")
-        all_data.extend(data)
-    else:
-        print(f"⚠️ No data extracted from {first_url}. Skipping CSV update.")
+    # Process all URLs
+    for url in tqdm(urls, desc="Processing URLs", unit="URL"):
+        print(f"🚀 Processing {url}...")
+        data = extract_district_data(url)
+        if data:
+            print(f"✅ Extracted {len(data)} rows. Adding to all_data.")
+            all_data.extend(data)
+        else:
+            print(f"⚠️ No data extracted from {url}. Skipping CSV update.")
 
+    # Create DataFrame from all extracted data
     df = pd.DataFrame(all_data)
     if df.empty:
         print("⚠️ DataFrame is EMPTY. No data to save!")
@@ -124,4 +141,3 @@ urls_file = './_Provincial/ProvUrls.txt'  # Use relative path for input URL file
 output_csv_file = './_Provincial/Provincial_district_data.csv'  # Use relative path for output CSV file
 
 process_urls_and_extract_data(urls_file, output_csv_file)
-
