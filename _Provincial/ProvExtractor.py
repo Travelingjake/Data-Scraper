@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
-from functions import depivot_data
 
 # Step 1: Get the URL from ...txt
 def read_urls_from_file(file_path):
