@@ -12,7 +12,8 @@ def read_urls_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return [line.strip() for line in file.readlines()]
 
-# Step 2 Extract data from the given URL
+
+# Step 2: Extract data from the given URL
 def extract_district_data(url):
     """Extract district data from the given URL."""
     headers = {
@@ -25,7 +26,6 @@ def extract_district_data(url):
         print(f"Failed to connect to {url}. Status code: {response.status_code}")
         return []
 
-    #page_content = response.content.decode('utf-8', 'ignore')
     page_content = response.content.decode('utf-8', 'ignore')
     soup = BeautifulSoup(page_content, 'html.parser')
 
@@ -40,7 +40,7 @@ def extract_district_data(url):
             district_name = district_name.replace(old, new)
         return re.sub(r"\s*\(.*\)$", "", district_name).strip()
         
-        district_name = None
+    district_name = None
     try:
         district_container = soup.find('div', class_='noads')
         if district_container:
@@ -63,41 +63,36 @@ def extract_district_data(url):
         # Processing each item to extract useful data
         comma_index = text.find(',')
         if comma_index != -1:
-            text = text[comma_index+1:].strip()
+            text = text[comma_index + 1:].strip()
 
         odds_index = re.search(r"(x?odds)", text, re.IGNORECASE)
         if odds_index:
             text = text[:odds_index.start()].strip()
 
-#Step 5.1 Adds a space to the right of %
+        # Step 5.1 Adds a space to the right of %
         text = re.sub(r"(\d+%)", r"\1 ", text)
 
-#Step 5.2 Dates Clearing (yyyy-mm// ddx... to dd x...) and (yyyy-mm-dd [adds this space])
+        # Step 5.2 Dates Clearing (yyyy-mm-dd to dd x...) and (yyyy-mm-dd adds this space)
         text = re.sub(r"(\d{4}-\d{2}-\d{2})(?=\d{4}-\d{2}-\d{2})", r"\1 ", text)
         text = re.sub(r"(\d{4}-\d{2}-\d{2})(\S)", r"\1 \2", text)
 
-#Step 5.3 Clears any 8 number string into the last 4 numbers (starting date)
+        # Step 5.3 Clears any 8 number string into the last 4 numbers (starting date)
         text = re.sub(r"(\d{4})(\d{4})", r"\2", text)
 
-        #print(f"Nearly Cleaned: {text}")
-
-# Step 5.4 Removes Date duplicates
+        # Step 5.4 Removes Date duplicates
         dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
 
         seen_dates = set()
         unique_dates = []
         for date in dates:
-         if date not in seen_dates:
-            unique_dates.append(date)
-            seen_dates.add(date)
+            if date not in seen_dates:
+                unique_dates.append(date)
+                seen_dates.add(date)
 
-        #date_iter = iter(unique_dates)
+        # Dates
         text = re.sub(r"\d{4}-\d{2}-\d{2}", lambda match: unique_dates.pop(0) if unique_dates else "", text)
 
-        #print(f"Final Cleaned Text: {text}")
-
-#Step 5.5 Dates (YYYY-MM-DD format)
-
+        # Step 5.5 Dates (YYYY-MM-DD format)
         dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
 
         # Extracting dates and party percentages
