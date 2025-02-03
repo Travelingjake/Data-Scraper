@@ -24,6 +24,8 @@ def extract_district_data(url):
         print(response.text)  # For debugging
         return []
 
+    print(f"Successfully connected to {url}")
+
     page_content = response.content.decode('utf-8', 'ignore')
     soup = BeautifulSoup(page_content, 'html.parser')
 
@@ -45,8 +47,12 @@ def extract_district_data(url):
             district_name_tag = district_container.find('h2')
             if district_name_tag:
                 district_name = clean_district_name(district_name_tag.get_text(strip=True))
+            else:
+                print("District name not found in 'h2' tag.")
+        else:
+            print("District container not found.")
     except AttributeError:
-        print(f"District name not found for URL: {url}")
+        print(f"Error extracting district name from URL: {url}")
         return []
 
     if not district_name:
@@ -58,6 +64,9 @@ def extract_district_data(url):
     for item in soup.find_all('div', class_='hideifmobile'):
         text = item.get_text(strip=True)
 
+        # Debugging: print text found in the div
+        print(f"Extracted text: {text[:100]}...")  # Show first 100 characters for review
+
         # Processing each item to extract useful data
         comma_index = text.find(',')
         if comma_index != -1:
@@ -67,33 +76,9 @@ def extract_district_data(url):
         if odds_index:
             text = text[:odds_index.start()].strip()
 
-        # Step 5.1 Adds a space to the right of %
-        text = re.sub(r"(\d+%)", r"\1 ", text)
+        # Add additional text cleaning steps here...
 
-        # Step 5.2 Dates Clearing (yyyy-mm-dd to dd x...) and (yyyy-mm-dd adds this space)
-        text = re.sub(r"(\d{4}-\d{2}-\d{2})(?=\d{4}-\d{2}-\d{2})", r"\1 ", text)
-        text = re.sub(r"(\d{4}-\d{2}-\d{2})(\S)", r"\1 \2", text)
-
-        # Step 5.3 Clears any 8 number string into the last 4 numbers (starting date)
-        text = re.sub(r"(\d{4})(\d{4})", r"\2", text)
-
-        # Step 5.4 Removes Date duplicates
-        dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
-
-        seen_dates = set()
-        unique_dates = []
-        for date in dates:
-            if date not in seen_dates:
-                unique_dates.append(date)
-                seen_dates.add(date)
-
-        # Dates
-        text = re.sub(r"\d{4}-\d{2}-\d{2}", lambda match: unique_dates.pop(0) if unique_dates else "", text)
-
-        # Step 5.5 Dates (YYYY-MM-DD format)
-        dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
-
-        # Extracting dates and party percentages
+        # Extracting party percentages
         olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(dates)
         pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(dates)
         ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
@@ -107,7 +92,7 @@ def extract_district_data(url):
         ndp_percentages = ndp_percentages[:min_len]
         gpo_percentages = gpo_percentages[:min_len]
 
-        # Step 6: Add data to dictionary
+        # Add data to list
         for i in range(min_len):
             data.append({
                 "District": district_name,
