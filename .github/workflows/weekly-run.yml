@@ -41,10 +41,13 @@ jobs:
         run: git status
 
       # Commit and push changes to GitHub if there are updates
-      - name: Commit and push changes
+      - name: Check git status and commit changes if any
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
+          
           git add .
+          git status  # This will show changes if any
           git diff --quiet && echo "No changes to commit" || (git commit -m "Update provincial data" && git push origin main)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
