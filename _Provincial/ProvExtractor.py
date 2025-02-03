@@ -3,6 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
+from ..functions import depivot_data
+
 
 # Step 1: Get the URL from ...txt
 def read_urls_from_file(file_path):
@@ -123,6 +125,7 @@ def extract_district_data(url):
 
     return data
 
+
 # Step 7: Process and print data (for one URL)
 def process_urls_and_extract_data(urls_file, output_csv_file):
     urls = read_urls_from_file(urls_file)
@@ -136,6 +139,7 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
             all_data.extend(data)
 
     df = pd.DataFrame(all_data)
+    df = depivot_data(df)
     df.to_csv(output_csv_file, index=False)
     print(f"Data saved to {output_csv_file}")
 
