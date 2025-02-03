@@ -40,16 +40,17 @@ def extract_district_data(url):
             district_name = district_name.replace(old, new)
         return re.sub(r"\s*\(.*\)$", "", district_name).strip()
         
-    district_name = None
-district_container = soup.find('div', class_='noads')
-if district_container:
-    district_name_tag = district_container.find('h2')
-    if district_name_tag:
-        district_name = clean_district_name(district_name_tag.get_text(strip=True))
+        district_name = None
+    try:
+        district_container = soup.find('div', class_='noads')
+        if district_container:
+            district_name_tag = district_container.find('h2')
+            if district_name_tag:
+                district_name = clean_district_name(district_name_tag.get_text(strip=True))
     except AttributeError:
         print(f"District name not found for URL: {url}")
         return []
-
+        
     if not district_name:
         print(f"District name not found for URL: {url}")
         return []
