@@ -57,33 +57,30 @@ def extract_district_data(url):
 
     # Extract data from the page
     data = []
-    for item in soup.find_all('div', class_='hideifmobile'):
-        text = item.get_text(strip=True)
-        print(f"🔎 Extracted text: {text}")  # Debugging output
+    textbox = soup.find('g', class_='textbox')
+    if not textbox:
+        print(f"⚠️ No polling data found for {district_name}. Skipping.")
+        return []
 
-        # Extracting numeric data
-        dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
-        print(f"📅 Dates found: {dates}")
-        olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(dates)
-        pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(dates)
-        ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
-        gpo_percentages = re.findall(r"GPO\s*(\d+%)", text) or ["0%"] * len(dates)
+    texts = textbox.find_all('text')
+    if len(texts) < 5:
+        print(f"⚠️ Insufficient polling data found for {district_name}. Skipping.")
+        return []
 
-        # Ensure same length for all lists
-        min_len = min(len(dates), len(olp_percentages), len(pcpo_percentages), len(ndp_percentages), len(gpo_percentages))
-        if min_len == 0:
-            print(f"⚠️ No valid data extracted for {district_name}. Skipping.")
-            continue
-            
-        for i in range(min_len):
-            data.append({
-                "District": district_name,
-                "Date": dates[i],
-                "OLP": olp_percentages[i],
-                "NDP": ndp_percentages[i],
-                "PCPO": pcpo_percentages[i],
-                "GPO": gpo_percentages[i]
-            })
+    date = texts[0].get_text(strip=True)
+    pcpo = re.search(r"PCPO (\d+%)", texts[1].get_text(strip=True))
+    olp = re.search(r"OLP (\d+%)", texts[2].get_text(strip=True))
+    ndp = re.search(r"NDP (\d+%)", texts[3].get_text(strip=True))
+    gpo = re.search(r"GPO (\d+%)", texts[4].get_text(strip=True))
+
+    data.append({
+        "District": district_name,
+        "Date": date,
+        "PCPO": pcpo.group(1) if pcpo else "0%",
+        "OLP": olp.group(1) if olp else "0%",
+        "NDP": ndp.group(1) if ndp else "0%",
+        "GPO": gpo.group(1) if gpo else "0%"
+    })
 
     if not data:
         print(f"⚠️ No formatted data found for {district_name}.")
