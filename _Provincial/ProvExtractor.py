@@ -46,24 +46,24 @@ def extract_district_data(url):
         district_name_tag = soup.find('div', class_='noads').find('h2')
         if district_name_tag:
             district_name = clean_district_name(district_name_tag.get_text(strip=True))
-            print(f"Found district name: {district_name}")  # Debugging output
+            print(f"✅Found district name: {district_name}")  # Debugging output
     except AttributeError:
-        print(f"District name not found for URL: {url}")
+        print(f"❌District name not found for URL: {url}")
         return []
 
     if not district_name:
-        print(f"District name not found for URL: {url}")
+        print(f"⚠️District name not found for URL: {url}")
         return []
 
     # Extract data from the page
     data = []
     for item in soup.find_all('div', class_='hideifmobile'):
         text = item.get_text(strip=True)
-        print(f"Extracted text: {text}")  # Debugging output
+        print(f"🔎 Extracted text: {text}")  # Debugging output
 
-        # Further text processing...
+        # Extracting numeric data
         dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
-        print(f"Dates: {dates}")  # Debugging output
+        print(f"📅 Dates found: {dates}")
         olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(dates)
         pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(dates)
         ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
@@ -71,12 +71,10 @@ def extract_district_data(url):
 
         # Ensure same length for all lists
         min_len = min(len(dates), len(olp_percentages), len(pcpo_percentages), len(ndp_percentages), len(gpo_percentages))
-        dates = dates[:min_len]
-        olp_percentages = olp_percentages[:min_len]
-        pcpo_percentages = pcpo_percentages[:min_len]
-        ndp_percentages = ndp_percentages[:min_len]
-        gpo_percentages = gpo_percentages[:min_len]
-
+        if min_len == 0:
+            print(f"⚠️ No valid data extracted for {district_name}. Skipping.")
+            continue
+            
         for i in range(min_len):
             data.append({
                 "District": district_name,
@@ -87,6 +85,8 @@ def extract_district_data(url):
                 "GPO": gpo_percentages[i]
             })
 
+    if not data:
+        print(f"⚠️ No formatted data found for {district_name}.")
     return data
 
 # Step 7: Process and print data (for one URL)
@@ -95,10 +95,21 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
     all_data = []
 
     first_url = urls[0]
-    print(f"Processing {first_url}...")
+    print(f"🚀 Processing {first_url}...")
     data = extract_district_data(first_url)
     if data:
+        print(f"✅ Extracted {len(data)} rows. Adding to all_data.")
         all_data.extend(data)
+    else:
+        print(f"⚠️ No data extracted from {first_url}. Skipping CSV update.")
+
+    df = pd.DataFrame(all_data)
+    if df.empty:
+        print("⚠️ DataFrame is EMPTY. No data to save!")
+    else:
+        print(f"📊 DataFrame has {df.shape[0]} rows. Saving to CSV.")
+        df.to_csv(output_csv_file, index=False)
+        print(f"✅ Data saved to {output_csv_file}")
 
     # Adding tqdm for the progress bar while processing URLs
     #for url in tqdm(urls, desc="Processing URLs", unit="URL"):
@@ -107,9 +118,9 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
     #    if data:
     #        all_data.extend(data)
 
-    df = pd.DataFrame(all_data)
-    df.to_csv(output_csv_file, index=False)
-    print(f"Data saved to {output_csv_file}")
+    #df = pd.DataFrame(all_data)
+    #df.to_csv(output_csv_file, index=False)
+    #print(f"Data saved to {output_csv_file}")
 
 # Example usage
 urls_file = './_Provincial/ProvUrls.txt'  # Use relative path for input URL file
