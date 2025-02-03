@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 
@@ -5,8 +6,11 @@ from bs4 import BeautifulSoup
 base_url = "https://338canada.com"
 district_url = f"{base_url}/ontario/districts.htm" 
 
-# Define output
-prov_file_path = "C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Provincial/ProvUrls.txt"
+# Define output (relative path for GitHub Actions)
+prov_file_path = './_Provincial/ProvUrls.txt'
+
+# Ensure the directory exists
+os.makedirs(os.path.dirname(prov_file_path), exist_ok=True)
 
 # Function to read existing URLs from the file
 def read_existing_urls(file_path):
