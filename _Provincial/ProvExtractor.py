@@ -1,8 +1,13 @@
 from tqdm import tqdm  # Import the tqdm library for progress bar
 import requests
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -17,12 +22,24 @@ def read_urls_from_file(file_path):
 # Step 1.2 Extract data from the given URL using Selenium to handle hover
 def extract_district_data(url):
     """Extract district data from the given URL, handling hover events using Selenium."""
-    # Setup Selenium WebDriver (make sure to have ChromeDriver or another driver installed)
-    driver = webdriver.Chrome(executable_path='/path/to/chromedriver')  # Adjust path if needed
+    # Setup Selenium WebDriver (using ChromeDriverManager to handle ChromeDriver installation)
+    service = Service(ChromeDriverManager().install())
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Optional: Run headless if needed
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    
+    # Open the URL
     driver.get(url)
     
     # Wait for the page to load fully (adjust timing as needed)
-    time.sleep(3)
+    try:
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, ".hover-target-class"))
+        )
+    except Exception as e:
+        print(f"⚠️ Timeout or error loading page: {url}. Error: {e}")
+        driver.quit()
+        return []
 
     # Find the element that triggers the hover (you'll need to inspect the page and update this)
     hover_element = driver.find_element(By.CSS_SELECTOR, ".hover-target-class")
@@ -106,7 +123,7 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
     urls = read_urls_from_file(urls_file)
     all_data = []
 
-    # Process all URLs
+    # Process all URLs with tqdm progress bar
     for url in tqdm(urls, desc="Processing URLs", unit="URL"):
         print(f"🚀 Processing {url}...")
         data = extract_district_data(url)
