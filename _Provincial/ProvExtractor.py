@@ -139,9 +139,6 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
         data = extract_district_data(url)
         if data:
             all_data.extend(data)
-        
-        # Simulate a small delay between each request (e.g., 3 seconds)
-        time.sleep(2)  # Adjust the time (in seconds) to control the pacing
     
     df = pd.DataFrame(all_data)
     df.to_csv(output_csv_file, index=False)
