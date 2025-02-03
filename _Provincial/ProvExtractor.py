@@ -56,23 +56,23 @@ def extract_district_data(url):
         return []
 
     # Extract data from the page
-    data = []
+        data = []
     textbox = soup.find('g', class_='textbox')
     if not textbox:
         print(f"⚠️ No polling data found for {district_name}. Skipping.")
         return []
-
+    
     texts = textbox.find_all('text')
     if len(texts) < 5:
         print(f"⚠️ Insufficient polling data found for {district_name}. Skipping.")
         return []
-
+    
     date = texts[0].get_text(strip=True)
     pcpo = re.search(r"PCPO (\d+%)", texts[1].get_text(strip=True))
     olp = re.search(r"OLP (\d+%)", texts[2].get_text(strip=True))
     ndp = re.search(r"NDP (\d+%)", texts[3].get_text(strip=True))
     gpo = re.search(r"GPO (\d+%)", texts[4].get_text(strip=True))
-
+    
     data.append({
         "District": district_name,
         "Date": date,
