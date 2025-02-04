@@ -33,10 +33,6 @@ jobs:
       - name: Run Provincial script
         run: python _Provincial/ProvExtractor.py
 
-      # Run your Federal script
-     # - name: Run Federal script
-     #   run: python _Federal/FedExtractor.py
-
       # Commit and push changes if there are any
       - name: Commit and push changes
         run: |
