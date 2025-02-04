@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
-import time
 
 # Step 1: Get the URL from ...txt
 def read_urls_from_file(file_path):
@@ -21,7 +20,6 @@ def extract_district_data(url):
     response.encoding = 'utf-8'
 
     if response.status_code != 200:
-        print(f"Failed to connect to {url}. Status code: {response.status_code}")
         return []
 
     page_content = response.content.decode('utf-8', 'ignore')
@@ -47,105 +45,72 @@ def extract_district_data(url):
         district_name_tag = soup.find('div', class_='noads').find('h2')
         if district_name_tag:
             district_name = clean_district_name(district_name_tag.get_text(strip=True))
-            print(f"Found district name: {district_name}")  # Debugging output
     except AttributeError:
-        print(f"District name not found for URL: {url}")
         return []
 
     if not district_name:
-        print(f"District name not found for URL: {url}")
         return []
 
     # Step 3.1: Text Processing in HTML
     data = []
-    for item in soup.find_all('div', class_='hideifmobile'):
-        text = item.get_text(strip=True)
-
-        # Processing each item to extract useful data
-        comma_index = text.find(',')
-        if comma_index != -1:
-            text = text[comma_index+1:].strip()
-
-        odds_index = re.search(r"(x?odds)", text, re.IGNORECASE)
-        if odds_index:
-            text = text[:odds_index.start()].strip()
-
-#Step 3.1 Adds a space to the right of %
-        text = re.sub(r"(\d+%)", r"\1 ", text)
-
-#Step 3.2 Dates Clearing (yyyy-mm// ddx... to dd x...) and (yyyy-mm-dd [adds this space])
-        text = re.sub(r"(\d{4}-\d{2}-\d{2})(?=\d{4}-\d{2}-\d{2})", r"\1 ", text)
-        text = re.sub(r"(\d{4}-\d{2}-\d{2})(\S)", r"\1 \2", text)
-
-#Step 3.3 Clears any 8 number string into the last 4 numbers (starting date)
-        text = re.sub(r"(\d{4})(\d{4})", r"\2", text)
-
-        #print(f"Nearly Cleaned: {text}")
-
-# Step 3.4 Removes Date duplicates
-        dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
-
-        seen_dates = set()
-        unique_dates = []
-        for date in dates:
-         if date not in seen_dates:
-            unique_dates.append(date)
-            seen_dates.add(date)
-
-        #date_iter = iter(unique_dates)
-        text = re.sub(r"\d{4}-\d{2}-\d{2}", lambda match: unique_dates.pop(0) if unique_dates else "", text)
-
-        #print(f"Final Cleaned Text: {text}")
-
-#Step 3.5 Dates (YYYY-MM-DD format)
-
-        dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
-
-        # Extracting dates and party percentages
-        olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(dates)
-        pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(dates)
-        ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
-        gpo_percentages = re.findall(r"GPO\s*(\d+%)", text) or ["0%"] * len(dates)
-
-        # Ensure same length for all lists
-        min_len = min(len(dates), len(olp_percentages), len(pcpo_percentages), len(ndp_percentages), len(gpo_percentages))
-        dates = dates[:min_len]
-        olp_percentages = olp_percentages[:min_len]
-        pcpo_percentages = pcpo_percentages[:min_len]
-        ndp_percentages = ndp_percentages[:min_len]
-        gpo_percentages = gpo_percentages[:min_len]
-
-        # Step 6: Add data to dictionary
-        for i in range(min_len):
-            data.append({
-                "District": district_name,
-                "Date": dates[i],
-                "OLP": olp_percentages[i],
-                "NDP": ndp_percentages[i],
-                "PCPO": pcpo_percentages[i],
-                "GPO": gpo_percentages[i]
-            })
+    for textbox in soup.find_all('g', class_='textbox'):
+        texts = textbox.find_all('text')
+        if texts:
+            date = None
+            olp = ndp = pcpo = gpo = "0%"
+            for text in texts:
+                text_content = text.get_text(strip=True)
+                if re.match(r"\d{4}-\d{2}-\d{2}", text_content):
+                    date = text_content
+                elif "OLP" in text_content:
+                    percentage = re.search(r"(\d+%)", text_content)
+                    if percentage:
+                        olp = percentage.group(1)
+                elif "NDP" in text_content:
+                    percentage = re.search(r"(\d+%)", text_content)
+                    if percentage:
+                        ndp = percentage.group(1)
+                elif "PCPO" in text_content:
+                    percentage = re.search(r"(\d+%)", text_content)
+                    if percentage:
+                        pcpo = percentage.group(1)
+                elif "GPO" in text_content:
+                    percentage = re.search(r"(\d+%)", text_content)
+                    if percentage:
+                        gpo = percentage.group(1)
+            
+            if date:
+                data.append({
+                    "District": district_name,
+                    "Date": date,
+                    "OLP": olp,
+                    "NDP": ndp,
+                    "PCPO": pcpo,
+                    "GPO": gpo
+                })
 
     return data
 
-# Step 7: Process and print data (for one URL)
+# Step 7: Process and print data (for all URLs)
 def process_urls_and_extract_data(urls_file, output_csv_file):
     urls = read_urls_from_file(urls_file)
     all_data = []
 
-    # Adding tqdm for the progress bar while processing URLs
+    # Process all URLs from the list
     for url in tqdm(urls, desc="Processing URLs", unit="URL"):
-        print(f"Processing {url}...")
         data = extract_district_data(url)
         if data:
             all_data.extend(data)
-    
-    df = pd.DataFrame(all_data)
-    df.to_csv(output_csv_file, index=False)
-    print(f"Data saved to {output_csv_file}")
+
+    if all_data:
+        df = pd.DataFrame(all_data)
+        df.to_csv(output_csv_file, index=False)
+        print(f"Data saved to {output_csv_file}")
+    else:
+        print("No data to save.")
 
 # Example usage
-urls_file = './_Provincial/ProvUrls.txt'  # Use relative path for input URL file
-output_csv_file = './_Provincial/Provincial_district_data.csv'  # Use relative path for output CSV file
+urls_file = './Extractor_Prov/ProvUrls.txt'
+output_csv_file = './Extractor_Prov/Prov_data.csv'
 
 process_urls_and_extract_data(urls_file, output_csv_file)
