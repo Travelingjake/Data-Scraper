@@ -136,19 +136,8 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
         # Remove duplicate rows per district and date, keep only the first occurrence
         df = df.drop_duplicates(subset=['District', 'Date'], keep='first')
         
-        # Comment out the threshold logic for now
-        # df = df[~((df['OLP'].str.rstrip('%').astype(float) > 75) |
-        #           (df['NDP'].str.rstrip('%').astype(float) > 75) |
-        #           (df['PCPO'].str.rstrip('%').astype(float) > 75) |
-        #           (df['GPO'].str.rstrip('%').astype(float) > 75))]
-        
         df.to_csv(output_csv_file, index=False)
         print(f"Data saved to {output_csv_file}")
-        
-        # Find missing districts
-        extracted_districts = set(df['District'].unique())
-        missing_districts = set(all_districts) - extracted_districts
-        print(f"Missing districts: {missing_districts}")
     else:
         print("No data to save.")
 
