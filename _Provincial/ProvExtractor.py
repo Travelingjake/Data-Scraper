@@ -153,7 +153,7 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
         print("No data to save.")
 
 # Example usage
-urls_file = './Extractor_Prov/ProvUrls.txt'
-output_csv_file = './Extractor_Prov/Prov_data.csv'
+urls_file = './_Provincial/ProvUrls.txt'
+output_csv_file = './_Provincial/Prov_data.csv'
 
 process_urls_and_extract_data(urls_file, output_csv_file)
