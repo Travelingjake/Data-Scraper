@@ -80,16 +80,44 @@ def extract_district_data(url):
                         gpo = percentage.group(1)
             
             if date:
-                data.append({
-                    "District": district_name,
-                    "Date": date,
-                    "OLP": olp,
-                    "NDP": ndp,
-                    "PCPO": pcpo,
-                    "GPO": gpo
-                })
+                # Clean and filter text based on old logic
+                text = f"{date} OLP {olp} NDP {ndp} PCPO {pcpo} GPO {gpo}"
+                text = re.sub(r"(\d+%)", r"\1 ", text)  # Add space to the right of %
+                text = re.sub(r"(\d{4}-\d{2}-\d{2})(?=\d{4}-\d{2}-\d{2})", r"\1 ", text)  # Add space between dates
+                text = re.sub(r"(\d{4}-\d{2}-\d{2})(\S)", r"\1 \2", text)  # Add space after date if not present
+                text = re.sub(r"(\d{4})(\d{4})", r"\2", text)  # Keep only last 4 numbers
+                dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
+
+                seen_dates = set()
+                unique_dates = [date for date in dates if date not in seen_dates and not seen_dates.add(date)]
+                text = re.sub(r"\d{4}-\d{2}-\d{2}", lambda match: unique_dates.pop(0) if unique_dates else "", text)
+
+                olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(dates)
+                pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(dates)
+                ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
+                gpo_percentages = re.findall(r"GPO\s*(\d+%)", text) or ["0%"] * len(dates)
+
+                min_len = min(len(dates), len(olp_percentages), len(pcpo_percentages), len(ndp_percentages), len(gpo_percentages))
+                dates = dates[:min_len]
+                olp_percentages = olp_percentages[:min_len]
+                pcpo_percentages = pcpo_percentages[:min_len]
+                ndp_percentages = ndp_percentages[:min_len]
+                gpo_percentages = gpo_percentages[:min_len]
+
+                for i in range(min_len):
+                    data.append({
+                        "District": district_name,
+                        "Date": dates[i],
+                        "OLP": olp_percentages[i],
+                        "NDP": ndp_percentages[i],
+                        "PCPO": pcpo_percentages[i],
+                        "GPO": gpo_percentages[i]
+                    })
 
     return data
+
+# List of all possible districts (example list, replace with actual district names)
+all_districts = ["Brampton East", "Cambridge", "Oakville North Burlington", "Timiskaming Cochrane"]
 
 # Step 7: Process and print data (for all URLs)
 def process_urls_and_extract_data(urls_file, output_csv_file):
@@ -104,13 +132,28 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
 
     if all_data:
         df = pd.DataFrame(all_data)
+        
+        # Remove duplicate rows per district and date, keep only the first occurrence
+        df = df.drop_duplicates(subset=['District', 'Date'], keep='first')
+        
+        # Comment out the threshold logic for now
+        # df = df[~((df['OLP'].str.rstrip('%').astype(float) > 75) |
+        #           (df['NDP'].str.rstrip('%').astype(float) > 75) |
+        #           (df['PCPO'].str.rstrip('%').astype(float) > 75) |
+        #           (df['GPO'].str.rstrip('%').astype(float) > 75))]
+        
         df.to_csv(output_csv_file, index=False)
         print(f"Data saved to {output_csv_file}")
+        
+        # Find missing districts
+        extracted_districts = set(df['District'].unique())
+        missing_districts = set(all_districts) - extracted_districts
+        print(f"Missing districts: {missing_districts}")
     else:
         print("No data to save.")
 
 # Example usage
-urls_file = '_Provincial/ProvUrls.txt'
-output_csv_file = '_Provincial/Prov_data.csv'
+urls_file = './Extractor_Prov/ProvUrls.txt'
+output_csv_file = './Extractor_Prov/Prov_data.csv'
 
 process_urls_and_extract_data(urls_file, output_csv_file)
