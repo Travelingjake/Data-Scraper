@@ -25,21 +25,18 @@ def extract_district_data(url):
     page_content = response.content.decode('utf-8', 'ignore')
     soup = BeautifulSoup(page_content, 'html.parser')
 
-    # Step 2.1: Clean district name
+    # Step 2: Clean district name
     def clean_district_name(district_name):
         """Clean district names, ensuring consistent formatting."""
-        district_name = district_name.replace('Ã¢Â€Â”', ' ')  # Misinterpreted em dash
-        district_name = district_name.replace('Ã¢Â€Â‘', ' ')  # Misinterpreted en dash
-        district_name = district_name.replace('—', ' ')  # Replace em dash with space
-        district_name = district_name.replace('–', ' ')  # Replace en dash with space
-        district_name = district_name.replace('-', ' ')  # Replace hyphen with space
-        district_name = district_name.replace('1000', 'Thousand')  # Replace '1000' with 'Thousand'
-        district_name = district_name.replace('&', 'and')  # Replace '&' with 'and'
-        district_name = district_name.replace('’', "'")  # Normalize curly apostrophes
-        district_name = re.sub(r"\s*\(.*\)$", "", district_name)  # Remove text in parentheses
-        return district_name.strip()
+        replacements = {
+            'Ã¢Â€Â”': ' ', 'Ã¢Â€Â‘': ' ', '—': ' ', '–': ' ', '-': ' ',
+            '1000': 'Thousand', '&': 'and', '’': "'"
+        }
+        for old, new in replacements.items():
+            district_name = district_name.replace(old, new)
+        return re.sub(r"\s*\(.*\)$", "", district_name).strip()
 
-    # Extract district name (adjusting to the structure of the page)
+    # Extract district name
     district_name = None
     try:
         district_name_tag = soup.find('div', class_='noads').find('h2')
@@ -51,7 +48,7 @@ def extract_district_data(url):
     if not district_name:
         return []
 
-    # Step 3.1: Text Processing in HTML
+    # Step 3: Text Processing in HTML
     data = []
     for textbox in soup.find_all('g', class_='textbox'):
         texts = textbox.find_all('text')
@@ -80,25 +77,25 @@ def extract_district_data(url):
                         gpo = percentage.group(1)
             
             if date:
-                # Clean and filter text based on old logic
+                # Clean and filter text
                 text = f"{date} OLP {olp} NDP {ndp} PCPO {pcpo} GPO {gpo}"
-                text = re.sub(r"(\d+%)", r"\1 ", text)  # Add space to the right of %
-                text = re.sub(r"(\d{4}-\d{2}-\d{2})(?=\d{4}-\d{2}-\d{2})", r"\1 ", text)  # Add space between dates
-                text = re.sub(r"(\d{4}-\d{2}-\d{2})(\S)", r"\1 \2", text)  # Add space after date if not present
-                text = re.sub(r"(\d{4})(\d{4})", r"\2", text)  # Keep only last 4 numbers
+                text = re.sub(r"(\d+%)", r"\1 ", text)
+                text = re.sub(r"(\d{4}-\d{2}-\d{2})(?=\d{4}-\d{2}-\d{2})", r"\1 ", text)
+                text = re.sub(r"(\d{4}-\d{2}-\d{2})(\S)", r"\1 \2", text)
+                text = re.sub(r"(\d{4})(\d{4})", r"\2", text)
                 dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
 
                 seen_dates = set()
                 unique_dates = [date for date in dates if date not in seen_dates and not seen_dates.add(date)]
                 text = re.sub(r"\d{4}-\d{2}-\d{2}", lambda match: unique_dates.pop(0) if unique_dates else "", text)
 
-                olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(dates)
-                pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(dates)
-                ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
-                gpo_percentages = re.findall(r"GPO\s*(\d+%)", text) or ["0%"] * len(dates)
+                olp_percentages = re.findall(r"OLP\s*(\d+%)", text) or ["0%"] * len(unique_dates)
+                pcpo_percentages = re.findall(r"PCPO\s*(\d+%)", text) or ["0%"] * len(unique_dates)
+                ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(unique_dates)
+                gpo_percentages = re.findall(r"GPO\s*(\d+%)", text) or ["0%"] * len(unique_dates)
 
-                min_len = min(len(dates), len(olp_percentages), len(pcpo_percentages), len(ndp_percentages), len(gpo_percentages))
-                dates = dates[:min_len]
+                min_len = min(len(unique_dates), len(olp_percentages), len(pcpo_percentages), len(ndp_percentages), len(gpo_percentages))
+                unique_dates = unique_dates[:min_len]
                 olp_percentages = olp_percentages[:min_len]
                 pcpo_percentages = pcpo_percentages[:min_len]
                 ndp_percentages = ndp_percentages[:min_len]
@@ -107,7 +104,7 @@ def extract_district_data(url):
                 for i in range(min_len):
                     data.append({
                         "District": district_name,
-                        "Date": dates[i],
+                        "Date": unique_dates[i],
                         "OLP": olp_percentages[i],
                         "NDP": ndp_percentages[i],
                         "PCPO": pcpo_percentages[i],
@@ -125,7 +122,7 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
     all_data = []
 
     # Process all URLs from the list
-    for url in tqdm(urls, desc="Processing URLs", unit="URL"):
+    for url in tqdm(urls, desc="Processing URLs", unit="URL", leave=True):
         data = extract_district_data(url)
         if data:
             all_data.extend(data)
@@ -138,6 +135,11 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
         
         df.to_csv(output_csv_file, index=False)
         print(f"Data saved to {output_csv_file}")
+        
+        # Find missing districts
+        extracted_districts = set(df['District'].unique())
+        missing_districts = set(all_districts) - extracted_districts
+        print(f"Missing districts: {missing_districts}")
     else:
         print("No data to save.")
 
@@ -145,4 +147,4 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
 urls_file = './_Provincial/ProvUrls.txt'
 output_csv_file = './_Provincial/Prov_data.csv'
 
-process_urls_and_extract_data(urls_file, output_csv_file)
+process_urls_and_extract_data
