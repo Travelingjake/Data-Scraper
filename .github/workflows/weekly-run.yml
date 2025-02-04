@@ -33,14 +33,6 @@ jobs:
       - name: Print working directory
         run: pwd
 
-      # Debug step to list contents of the root directory
-      - name: List root directory contents
-        run: ls -la
-
-      # Debug step to list contents of the _Provincial directory
-      - name: List _Provincial directory contents
-        run: ls -la _Provincial
-
       # Run your Provincial script
       - name: Run Provincial script
         run: python _Provincial/ProvExtractor.py
