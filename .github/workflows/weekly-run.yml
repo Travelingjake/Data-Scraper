@@ -1,5 +1,4 @@
 name: Runner
-
 on:
   schedule:
     # This will trigger the action every 8 hours
@@ -25,27 +24,22 @@ jobs:
       # Install dependencies (use a requirements.txt file or install directly)
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip > /dev/null
-          pip install -r requirements.txt > /dev/null
-          echo "Dependencies installed"
-
-      # Debug step to print the current working directory
-      - name: Print working directory
-        run: pwd
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       # Run your Provincial script
       - name: Run Provincial script
         run: python _Provincial/ProvExtractor.py
 
-      # Commit and push changes if there are any
+      # Run your Federal script
+     # - name: Run Federal script
+     #   run: python _Federal/FedExtractor.py
+
+      # Commit and push changes
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff-index --quiet HEAD --; then
-            echo "Processed but no change"
-          else
-            git add .
-            git commit -m "Update data via GitHub Actions"
-            git push
-
+          git add .
+          git commit -m "Update data via GitHub Actions"
+          git push
