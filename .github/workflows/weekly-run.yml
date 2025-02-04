@@ -28,13 +28,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Debug step to print the current working directory
+      - name: Print working directory
+        run: pwd
+
+      # Debug step to list contents of the root directory
+      - name: List root directory contents
+        run: ls -la
+
+      # Debug step to list contents of the _Provincial directory
+      - name: List _Provincial directory contents
+        run: ls -la _Provincial
+
       # Run your Provincial script
       - name: Run Provincial script
         run: python _Provincial/ProvExtractor.py
-
-      # Run your Federal script
-     # - name: Run Federal script
-     #   run: python _Federal/FedExtractor.py
 
       # Commit and push changes
       - name: Commit and push changes
