@@ -1,7 +1,7 @@
 from tqdm import tqdm  # Import the tqdm library for progress bar
 import requests
 from bs4 import BeautifulSoup
-from os import path
+from os import path, getcwd
 import sys
 import pandas as pd
 sys.path.append(path.abspath(path.join(path.dirname(__file__), "..")))
@@ -69,12 +69,13 @@ def process_urls_and_extract_data(u_file, o_file, looker=None):
     if not df.empty:
         df.to_csv(o_file, index=False)
         print(f"Data saved to {o_file}")
-        if looker:
+        if looker and 'Dave' in getcwd():
             df_looker = f.depivot_data(df)
             df_looker.to_csv(looker, index=False)
-            df_looker.to_csv(path.join(
-                '..', 'survey-pipeline-prod', 'resources',
-                f'{looker[str.rfind(looker, '/')+1:]}'.replace('_looker', '')))
+            for env in ['-prod', '']:
+                df_looker.to_csv(path.join(
+                    '..', f'survey-pipeline{env}', 'resources',
+                    f'{looker[str.rfind(looker, '/')+1:]}'.replace('_looker', '')))
             print(f"Data saved to looker file {looker_csv_file}")
     else:
         print("Dataframe empty, something wrong with code/requests")
