@@ -2,9 +2,7 @@ name: Runner
 
 on:
   schedule:
-    # This will trigger the action every 8 hours
-    - cron: '0 */8 * * *'  # Runs every 8 hours
-  # Allows you to manually trigger the workflow
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,35 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Check out the repository code
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Set up Python
       - name: Set up Python 3.9
         uses: actions/setup-python@v3
         with:
           python-version: '3.9'
 
-      # Install dependencies (use a requirements.txt file or install directly)
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Run your Provincial script
       - name: Run Provincial script
         run: python _Provincial/ProvExtractor.py
 
-      # Run your Federal script
-     # - name: Run Federal script
-     #   run: python _Federal/FedExtractor.py
-
-      # Commit and push changes
-      - name: Commit and push changes
+      - name: Check for changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update data via GitHub Actions"
-          git push
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update data via GitHub Actions"
+            git push
+          else
+            echo "No changes to commit"
