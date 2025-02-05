@@ -7,10 +7,11 @@ base_url = "https://338canada.com"
 district_url = f"{base_url}/ontario/districts.htm" 
 
 # Define output (relative path for GitHub Actions)
-prov_file_path = './_Provincial/ProvUrls.txt'
+prov_file_path = os.path.join('_Provincial','ProvUrls.txt')
 
 # Ensure the directory exists
 os.makedirs(os.path.dirname(prov_file_path), exist_ok=True)
+
 
 # Function to read existing URLs from the file
 def read_existing_urls(file_path):
