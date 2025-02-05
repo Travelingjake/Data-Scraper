@@ -1,9 +1,11 @@
 from tqdm import tqdm  # Import the tqdm library for progress bar
 import requests
 from bs4 import BeautifulSoup
+from os import path, getcwd
+import sys
 import pandas as pd
-import re
-from ..functions import depivot_data
+sys.path.append(path.abspath(path.join(path.dirname(__file__), "..")))
+import functions as f
 
 
 # Step 1: Get the URL from ...txt
@@ -11,6 +13,7 @@ def read_urls_from_file(file_path):
     """Read the URLs from the file and return them as a list."""
     with open(file_path, 'r') as file:
         return [line.strip() for line in file.readlines()]
+
 
 # Step 1.2 Extract data from the given URL
 def extract_district_data(url):
@@ -29,25 +32,12 @@ def extract_district_data(url):
     soup = BeautifulSoup(page_content, 'html.parser')
 
     # Step 2.1: Clean district name
-    def clean_district_name(district_name):
-        """Clean district names, ensuring consistent formatting."""
-        district_name = district_name.replace('Ã¢Â€Â”', ' ')  # Misinterpreted em dash
-        district_name = district_name.replace('Ã¢Â€Â‘', ' ')  # Misinterpreted en dash
-        district_name = district_name.replace('—', ' ')  # Replace em dash with space
-        district_name = district_name.replace('–', ' ')  # Replace en dash with space
-        district_name = district_name.replace('-', ' ')  # Replace hyphen with space
-        district_name = district_name.replace('1000', 'Thousand')  # Replace '1000' with 'Thousand'
-        district_name = district_name.replace('&', 'and')  # Replace '&' with 'and'
-        district_name = district_name.replace('’', "'")  # Normalize curly apostrophes
-        district_name = re.sub(r"\s*\(.*\)$", "", district_name)  # Remove text in parentheses
-        return district_name.strip()
-
     # Extract district name (adjusting to the structure of the page)
     district_name = None
     try:
         district_name_tag = soup.find('div', class_='noads').find('h2')
         if district_name_tag:
-            district_name = clean_district_name(district_name_tag.get_text(strip=True))
+            district_name = f.clean_district_name(district_name_tag.get_text(strip=True))
             print(f"Found district name: {district_name}")  # Debugging output
     except AttributeError:
         print(f"District name not found for URL: {url}")
@@ -58,80 +48,14 @@ def extract_district_data(url):
         return []
 
     # Step 3.1: Text Processing in HTML
-    data = []
-    for item in soup.find_all('div', class_='hideifmobile'):
-        text = item.get_text(strip=True)
-
-        # Processing each item to extract useful data
-        comma_index = text.find(',')
-        if comma_index != -1:
-            text = text[comma_index+1:].strip()
-
-        odds_index = re.search(r"(x?odds)", text, re.IGNORECASE)
-        if odds_index:
-            text = text[:odds_index.start()].strip()
-
-#Step 3.1 Adds a space to the right of %
-        text = re.sub(r"(\d+%)", r"\1 ", text)
-
-#Step 3.2 Dates Clearing (yyyy-mm// ddx... to dd x...) and (yyyy-mm-dd [adds this space])
-        text = re.sub(r"(\d{4}-\d{2}-\d{2})(?=\d{4}-\d{2}-\d{2})", r"\1 ", text)
-        text = re.sub(r"(\d{4}-\d{2}-\d{2})(\S)", r"\1 \2", text)
-
-#Step 3.3 Clears any 8 number string into the last 4 numbers (starting date)
-        text = re.sub(r"(\d{4})(\d{4})", r"\2", text)
-
-        #print(f"Nearly Cleaned: {text}")
-
-# Step 3.4 Removes Date duplicates
-        dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
-
-        seen_dates = set()
-        unique_dates = []
-        for date in dates:
-         if date not in seen_dates:
-            unique_dates.append(date)
-            seen_dates.add(date)
-
-        date_iter = iter(unique_dates)
-        text = re.sub(r"\d{4}-\d{2}-\d{2}", lambda match: unique_dates.pop(0) if unique_dates else "", text)
-
-        #print(f"Final Cleaned Text: {text}")
-
-#Step 3.5 Dates (YYYY-MM-DD format)
-
-        dates = re.findall(r"\d{4}-\d{2}-\d{2}", text)
-
-        # Extracting dates and party percentages
-        lpc_percentages = re.findall(r"LPC\s*(\d+%)", text) or ["0%"] * len(dates)
-        cpc_percentages = re.findall(r"CPC\s*(\d+%)", text) or ["0%"] * len(dates)
-        ndp_percentages = re.findall(r"NDP\s*(\d+%)", text) or ["0%"] * len(dates)
-        gpc_percentages = re.findall(r"GPC\s*(\d+%)", text) or ["0%"] * len(dates)
-
-        # Ensure same length for all lists
-        min_len = min(len(dates), len(lpc_percentages), len(cpc_percentages), len(ndp_percentages), len(gpc_percentages))
-        dates = dates[:min_len]
-        lpc_percentages = lpc_percentages[:min_len]
-        cpc_percentages = cpc_percentages[:min_len]
-        ndp_percentages = ndp_percentages[:min_len]
-        gpc_percentages = gpc_percentages[:min_len]
-
-        # Step 6: Add data to dictionary
-        for i in range(min_len):
-            data.append({
-                "District": district_name,
-                "Date": dates[i],
-                "LPC": lpc_percentages[i],
-                "NDP": ndp_percentages[i],
-                "CPC": cpc_percentages[i],
-                "GPC": gpc_percentages[i]
-            })
+    data = f.extract_polling_data(soup, district_name)
 
     return data
 
+
 # Step 7: Process and print data (for one URL)
-def process_urls_and_extract_data(urls_file, output_csv_file):
-    urls = read_urls_from_file(urls_file)
+def process_urls_and_extract_data(u_file, o_file, looker=None):
+    urls = read_urls_from_file(u_file)
     all_data = []
 
     # Adding tqdm for the progress bar while processing URLs
@@ -142,12 +66,23 @@ def process_urls_and_extract_data(urls_file, output_csv_file):
             all_data.extend(data)
 
     df = pd.DataFrame(all_data)
-    df = depivot_data(df)
-    df.to_csv(output_csv_file, index=False)
-    print(f"Data saved to {output_csv_file}")
+    if not df.empty:
+        df.to_csv(o_file, index=False)
+        print(f"Data saved to {o_file}")
+        if looker and 'Dave' in getcwd():
+            df_looker = f.depivot_data(df)
+            df_looker.to_csv(looker, index=False)
+            for env in ['-prod', '']:
+                df_looker.to_csv(path.join(
+                    '..', f'survey-pipeline{env}', 'resources',
+                    f'{looker[str.rfind(looker, '/')+1:]}'.replace('_looker', '')))
+            print(f"Data saved to looker file {looker_csv_file}")
+    else:
+        print("Dataframe empty, something wrong with code/requests")
+
 
 # Example usage
 urls_file = './_Federal/FedUrls.txt'  # Use relative path for input URL file
 output_csv_file = './_Federal/Federal_district_data.csv'  # Use relative path for output CSV file
-
-process_urls_and_extract_data(urls_file, output_csv_file)
+looker_csv_file = './_Federal/Federal_district_data_looker.csv'  # Use relative path for output CSV file
+process_urls_and_extract_data(urls_file, output_csv_file, looker=looker_csv_file)

@@ -1,13 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+from os import path, getcwd
 
+
+print(getcwd())
 # Define the URL to scrape
 base_url = "https://338canada.com"
 district_url = f"{base_url}/districts.htm"
 
 # Define output
-fed_file_path = "C:/Users/trave/Desktop/Verts OV Greens/Data Scraper/_Federal/FedUrls.txt"
+fed_file_path = path.join('_Federal','FedUrls.txt')
 
 # Function to read existing URLs from the file
 def read_existing_urls(file_path):
@@ -18,6 +21,7 @@ def read_existing_urls(file_path):
     except FileNotFoundError:
         # If the file doesn't exist yet, return an empty set
         return set()
+
 
 # Function to write new URLs to the file
 def write_urls_to_file(file_path, new_urls):
@@ -57,12 +61,12 @@ new_urls = set(district_urls)
 
 # Compare existing and new URLs and find the differences
 urls_to_add = new_urls - existing_urls
-urls_to_remove = existing_urls - new_urls
+# urls_to_remove = existing_urls - new_urls
 
 # If there are changes, update the file
-if urls_to_add or urls_to_remove:
+if urls_to_add:
     updated_urls = existing_urls.union(urls_to_add)  # Add new URLs
     write_urls_to_file(fed_file_path, updated_urls)
-    print(f"URLs updated. Added {len(urls_to_add)} new URLs and removed {len(urls_to_remove)} old URLs.")
+    print(f"URLs updated. Added {len(urls_to_add)} new URLs")
 else:
     print("No changes in URLs. The list is up-to-date.")
