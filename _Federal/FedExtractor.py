@@ -54,8 +54,8 @@ def extract_district_data(url):
 
 
 # Step 7: Process and print data (for one URL)
-def process_urls_and_extract_data(urls_file, output_csv_file, looker=None):
-    urls = read_urls_from_file(urls_file)
+def process_urls_and_extract_data(u_file, o_file, looker=None):
+    urls = read_urls_from_file(u_file)
     all_data = []
 
     # Adding tqdm for the progress bar while processing URLs
@@ -67,8 +67,8 @@ def process_urls_and_extract_data(urls_file, output_csv_file, looker=None):
 
     df = pd.DataFrame(all_data)
     if not df.empty:
-        df.to_csv(output_csv_file, index=False)
-        print(f"Data saved to {output_csv_file}")
+        df.to_csv(o_file, index=False)
+        print(f"Data saved to {o_file}")
         if looker:
             df_looker = f.depivot_data(df)
             df_looker.to_csv(looker, index=False)
