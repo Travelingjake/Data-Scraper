@@ -87,13 +87,17 @@ def extract_polling_data(soup_object, district):
         # Extracting dates and party percentages
         projection_data = get_parties_and_percentages(text, dates)
 
-        # Step 6: Add metadata to dictionary
+        # Step 6: Build each row in the desired column order
         for i in range(len(dates)):
-            line_to_add = {}
-            for p in projection_data:
-                line_to_add[p] = projection_data[p][i]
-            line_to_add.update({"District": district, "Date": dates[i]})
-            data.append(line_to_add)
+            row = {
+                "District": district,
+                "Date": dates[i],
+                "OLP": projection_data.get("OLP", ["0%"] * len(dates))[i],
+                "NDP": projection_data.get("NDP", ["0%"] * len(dates))[i],
+                "PCPO": projection_data.get("PCPO", ["0%"] * len(dates))[i],
+                "GPO": projection_data.get("GPO", ["0%"] * len(dates))[i],
+            }
+            data.append(row)
     return data
 
 
