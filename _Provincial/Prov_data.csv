@@ -35,6 +35,7 @@ Cambridge,2025-02-07,25%,17%,43%,11%
 Cambridge,2025-02-08,25%,17%,42%,11%
 Cambridge,2025-02-09,24%,18%,43%,11%
 Cambridge,2025-02-10,25%,17%,43%,11%
+Cambridge,2025-02-11,25%,16%,43%,11%
 Oakville North Burlington,2023-02-15,36%,9%,46%,5%
 Oakville North Burlington,2023-03-09,37%,9%,46%,5%
 Oakville North Burlington,2023-03-17,37%,9%,46%,5%
@@ -71,6 +72,7 @@ Oakville North Burlington,2025-02-07,36%,8%,50%,5%
 Oakville North Burlington,2025-02-08,38%,9%,47%,5%
 Oakville North Burlington,2025-02-09,37%,9%,48%,5%
 Oakville North Burlington,2025-02-10,38%,9%,48%,5%
+Oakville North Burlington,2025-02-11,38%,8%,48%,5%
 Markham Unionville,2023-02-15,31%,7%,55%,4%
 Markham Unionville,2023-03-09,32%,7%,54%,4%
 Markham Unionville,2023-03-17,32%,7%,55%,4%
@@ -107,6 +109,7 @@ Markham Unionville,2025-02-07,31%,6%,57%,4%
 Markham Unionville,2025-02-08,34%,6%,55%,4%
 Markham Unionville,2025-02-09,33%,7%,55%,4%
 Markham Unionville,2025-02-10,33%,6%,55%,4%
+Markham Unionville,2025-02-11,34%,6%,55%,4%
 Timmins,2023-02-15,0%,28%,66%,0%
 Timmins,2023-03-09,0%,28%,66%,0%
 Timmins,2023-03-17,0%,28%,66%,0%
@@ -143,6 +146,7 @@ Timmins,2025-02-07,15%,20%,62%,0%
 Timmins,2025-02-08,15%,20%,62%,0%
 Timmins,2025-02-09,14%,20%,62%,0%
 Timmins,2025-02-10,15%,20%,62%,0%
+Timmins,2025-02-11,15%,19%,62%,0%
 Oshawa,2023-02-15,10%,40%,41%,5%
 Oshawa,2023-03-09,10%,40%,41%,5%
 Oshawa,2023-03-17,10%,40%,41%,5%
@@ -179,6 +183,7 @@ Oshawa,2025-02-07,11%,38%,44%,5%
 Oshawa,2025-02-08,12%,40%,42%,5%
 Oshawa,2025-02-09,11%,40%,42%,5%
 Oshawa,2025-02-10,11%,40%,42%,5%
+Oshawa,2025-02-11,12%,39%,43%,5%
 Whitby,2023-02-15,21%,20%,48%,6%
 Whitby,2023-03-09,22%,20%,48%,6%
 Whitby,2023-03-17,22%,20%,48%,6%
@@ -215,6 +220,7 @@ Whitby,2025-02-07,22%,18%,52%,6%
 Whitby,2025-02-08,24%,19%,50%,6%
 Whitby,2025-02-09,23%,19%,50%,6%
 Whitby,2025-02-10,23%,19%,50%,6%
+Whitby,2025-02-11,24%,18%,51%,6%
 Lambton Kent Middlesex,2023-02-15,10%,18%,59%,0%
 Lambton Kent Middlesex,2023-03-09,10%,18%,59%,0%
 Lambton Kent Middlesex,2023-03-17,10%,18%,59%,0%
@@ -251,6 +257,7 @@ Lambton Kent Middlesex,2025-02-07,15%,13%,66%,0%
 Lambton Kent Middlesex,2025-02-08,15%,13%,65%,0%
 Lambton Kent Middlesex,2025-02-09,15%,14%,65%,0%
 Lambton Kent Middlesex,2025-02-10,15%,13%,65%,0%
+Lambton Kent Middlesex,2025-02-11,15%,13%,66%,0%
 Chatham Kent Leamington,2023-02-15,0%,29%,49%,4%
 Chatham Kent Leamington,2023-03-09,0%,29%,49%,4%
 Chatham Kent Leamington,2023-03-17,0%,29%,49%,4%
@@ -287,6 +294,7 @@ Chatham Kent Leamington,2025-02-07,0%,26%,60%,5%
 Chatham Kent Leamington,2025-02-08,0%,26%,60%,5%
 Chatham Kent Leamington,2025-02-09,0%,26%,59%,5%
 Chatham Kent Leamington,2025-02-10,0%,26%,60%,5%
+Chatham Kent Leamington,2025-02-11,0%,25%,61%,5%
 London Fanshawe,2023-02-15,11%,45%,33%,4%
 London Fanshawe,2023-03-09,11%,45%,33%,4%
 London Fanshawe,2023-03-17,11%,45%,33%,4%
@@ -323,6 +331,7 @@ London Fanshawe,2025-02-07,13%,40%,39%,4%
 London Fanshawe,2025-02-08,13%,40%,39%,4%
 London Fanshawe,2025-02-09,12%,41%,39%,4%
 London Fanshawe,2025-02-10,13%,41%,39%,4%
+London Fanshawe,2025-02-11,13%,40%,39%,4%
 Brantford Brant,2023-02-15,13%,27%,44%,8%
 Brantford Brant,2023-03-09,14%,26%,44%,8%
 Brantford Brant,2023-03-17,14%,27%,44%,8%
@@ -359,6 +368,7 @@ Brantford Brant,2025-02-07,16%,22%,51%,8%
 Brantford Brant,2025-02-08,16%,22%,50%,8%
 Brantford Brant,2025-02-09,15%,22%,50%,8%
 Brantford Brant,2025-02-10,16%,22%,50%,8%
+Brantford Brant,2025-02-11,16%,21%,51%,8%
 Milton,2023-02-15,40%,9%,42%,0%
 Milton,2023-03-09,40%,9%,42%,0%
 Milton,2023-03-17,40%,9%,42%,0%
@@ -395,6 +405,7 @@ Milton,2025-02-07,39%,7%,51%,0%
 Milton,2025-02-08,41%,7%,48%,0%
 Milton,2025-02-09,40%,7%,48%,0%
 Milton,2025-02-10,40%,7%,48%,0%
+Milton,2025-02-11,41%,6%,48%,0%
 Orléans,2023-02-15,47%,13%,32%,5%
 Orléans,2023-03-09,48%,12%,32%,5%
 Orléans,2023-03-17,48%,12%,32%,5%
@@ -431,6 +442,7 @@ Orléans,2025-02-07,45%,11%,38%,5%
 Orléans,2025-02-08,46%,11%,37%,5%
 Orléans,2025-02-09,45%,11%,38%,5%
 Orléans,2025-02-10,45%,11%,38%,5%
+Orléans,2025-02-11,46%,10%,38%,5%
 Algoma Manitoulin,2023-02-15,9%,44%,36%,4%
 Algoma Manitoulin,2023-03-09,9%,44%,36%,4%
 Algoma Manitoulin,2023-03-17,9%,44%,36%,4%
@@ -467,6 +479,7 @@ Algoma Manitoulin,2025-02-07,11%,39%,43%,4%
 Algoma Manitoulin,2025-02-08,11%,39%,42%,4%
 Algoma Manitoulin,2025-02-09,11%,39%,42%,4%
 Algoma Manitoulin,2025-02-10,11%,39%,43%,4%
+Algoma Manitoulin,2025-02-11,11%,38%,43%,4%
 Burlington,2023-02-15,30%,16%,42%,8%
 Burlington,2023-03-09,31%,16%,41%,8%
 Burlington,2023-03-17,31%,16%,42%,7%
@@ -503,6 +516,7 @@ Burlington,2025-02-07,31%,15%,46%,7%
 Burlington,2025-02-08,32%,15%,43%,7%
 Burlington,2025-02-09,32%,15%,44%,7%
 Burlington,2025-02-10,32%,15%,44%,7%
+Burlington,2025-02-11,33%,14%,44%,7%
 Brampton Centre,2023-02-15,26%,25%,41%,4%
 Brampton Centre,2023-03-09,27%,25%,41%,4%
 Brampton Centre,2023-03-17,27%,25%,41%,4%
@@ -539,6 +553,7 @@ Brampton Centre,2025-02-07,27%,23%,45%,4%
 Brampton Centre,2025-02-08,28%,23%,43%,4%
 Brampton Centre,2025-02-09,28%,24%,43%,4%
 Brampton Centre,2025-02-10,28%,23%,43%,4%
+Brampton Centre,2025-02-11,29%,22%,44%,4%
 Simcoe Grey,2023-02-15,23%,10%,50%,10%
 Simcoe Grey,2023-03-09,23%,10%,50%,10%
 Simcoe Grey,2023-03-17,23%,10%,50%,10%
@@ -575,6 +590,7 @@ Simcoe Grey,2025-02-07,23%,9%,55%,10%
 Simcoe Grey,2025-02-08,24%,9%,54%,10%
 Simcoe Grey,2025-02-09,23%,9%,55%,10%
 Simcoe Grey,2025-02-10,23%,9%,55%,10%
+Simcoe Grey,2025-02-11,24%,9%,55%,10%
 Eglinton Lawrence,2023-02-15,42%,9%,42%,4%
 Eglinton Lawrence,2023-03-09,42%,9%,41%,4%
 Eglinton Lawrence,2023-03-17,42%,9%,41%,4%
@@ -611,6 +627,7 @@ Eglinton Lawrence,2025-02-07,39%,7%,49%,4%
 Eglinton Lawrence,2025-02-08,39%,7%,48%,4%
 Eglinton Lawrence,2025-02-09,38%,7%,49%,4%
 Eglinton Lawrence,2025-02-10,39%,7%,49%,4%
+Eglinton Lawrence,2025-02-11,39%,7%,49%,4%
 King Vaughan,2023-02-15,29%,7%,57%,3%
 King Vaughan,2023-03-09,30%,6%,56%,3%
 King Vaughan,2023-03-17,30%,6%,56%,3%
@@ -647,6 +664,7 @@ King Vaughan,2025-02-07,30%,6%,59%,3%
 King Vaughan,2025-02-08,32%,6%,57%,3%
 King Vaughan,2025-02-09,31%,6%,57%,3%
 King Vaughan,2025-02-10,31%,6%,57%,3%
+King Vaughan,2025-02-11,32%,6%,57%,3%
 Toronto Danforth,2023-02-15,24%,53%,14%,7%
 Toronto Danforth,2023-03-09,24%,52%,13%,7%
 Toronto Danforth,2023-03-17,24%,53%,14%,7%
@@ -683,6 +701,7 @@ Toronto Danforth,2025-02-07,25%,48%,18%,7%
 Toronto Danforth,2025-02-08,25%,48%,18%,8%
 Toronto Danforth,2025-02-09,24%,49%,18%,7%
 Toronto Danforth,2025-02-10,25%,48%,18%,8%
+Toronto Danforth,2025-02-11,26%,47%,18%,8%
 Carleton,2023-02-15,28%,15%,47%,6%
 Carleton,2023-03-09,28%,15%,47%,6%
 Carleton,2023-03-17,28%,15%,47%,6%
@@ -719,6 +738,7 @@ Carleton,2025-02-07,27%,12%,53%,6%
 Carleton,2025-02-08,27%,12%,52%,6%
 Carleton,2025-02-09,27%,13%,53%,6%
 Carleton,2025-02-10,27%,12%,53%,6%
+Carleton,2025-02-11,28%,12%,53%,6%
 Parry Sound Muskoka,2023-02-15,0%,7%,43%,44%
 Parry Sound Muskoka,2023-03-09,6%,7%,43%,40%
 Parry Sound Muskoka,2023-03-17,6%,7%,44%,40%
@@ -755,6 +775,7 @@ Parry Sound Muskoka,2025-02-07,10%,5%,50%,34%
 Parry Sound Muskoka,2025-02-08,10%,5%,49%,34%
 Parry Sound Muskoka,2025-02-09,9%,5%,49%,34%
 Parry Sound Muskoka,2025-02-10,9%,5%,49%,34%
+Parry Sound Muskoka,2025-02-11,10%,5%,49%,35%
 Bruce Grey Owen Sound,2023-02-15,21%,13%,48%,10%
 Bruce Grey Owen Sound,2023-03-09,21%,13%,47%,10%
 Bruce Grey Owen Sound,2023-03-17,21%,13%,47%,10%
@@ -791,6 +812,7 @@ Bruce Grey Owen Sound,2025-02-07,23%,10%,53%,10%
 Bruce Grey Owen Sound,2025-02-08,23%,10%,53%,10%
 Bruce Grey Owen Sound,2025-02-09,23%,10%,53%,10%
 Bruce Grey Owen Sound,2025-02-10,23%,10%,53%,10%
+Bruce Grey Owen Sound,2025-02-11,23%,10%,53%,10%
 Ottawa South,2023-02-15,46%,22%,23%,5%
 Ottawa South,2023-03-09,47%,22%,23%,5%
 Ottawa South,2023-03-17,47%,22%,23%,5%
@@ -827,6 +849,7 @@ Ottawa South,2025-02-07,46%,19%,28%,6%
 Ottawa South,2025-02-08,46%,19%,28%,6%
 Ottawa South,2025-02-09,45%,20%,28%,6%
 Ottawa South,2025-02-10,45%,19%,28%,6%
+Ottawa South,2025-02-11,46%,18%,28%,6%
 Don Valley North,2023-02-15,38%,9%,47%,4%
 Don Valley North,2023-03-09,38%,9%,46%,4%
 Don Valley North,2023-03-17,38%,9%,46%,4%
@@ -863,6 +886,7 @@ Don Valley North,2025-02-07,35%,7%,53%,4%
 Don Valley North,2025-02-08,36%,7%,52%,4%
 Don Valley North,2025-02-09,35%,7%,53%,4%
 Don Valley North,2025-02-10,35%,7%,53%,4%
+Don Valley North,2025-02-11,36%,7%,53%,4%
 Spadina Fort York,2023-02-15,29%,44%,18%,7%
 Spadina Fort York,2023-03-09,30%,43%,18%,6%
 Spadina Fort York,2023-03-17,30%,43%,18%,6%
@@ -899,6 +923,7 @@ Spadina Fort York,2025-02-07,30%,39%,23%,7%
 Spadina Fort York,2025-02-08,30%,39%,23%,7%
 Spadina Fort York,2025-02-09,30%,40%,23%,7%
 Spadina Fort York,2025-02-10,30%,39%,23%,7%
+Spadina Fort York,2025-02-11,31%,38%,23%,7%
 Etobicoke Centre,2023-02-15,35%,8%,48%,5%
 Etobicoke Centre,2023-03-09,35%,8%,47%,5%
 Etobicoke Centre,2023-03-17,35%,8%,47%,5%
@@ -935,6 +960,7 @@ Etobicoke Centre,2025-02-07,33%,6%,54%,5%
 Etobicoke Centre,2025-02-08,33%,6%,54%,5%
 Etobicoke Centre,2025-02-09,33%,6%,55%,5%
 Etobicoke Centre,2025-02-10,33%,6%,54%,5%
+Etobicoke Centre,2025-02-11,33%,6%,54%,5%
 Newmarket Aurora,2023-02-15,32%,12%,44%,6%
 Newmarket Aurora,2023-03-09,33%,12%,44%,6%
 Newmarket Aurora,2023-03-17,33%,12%,44%,6%
@@ -971,6 +997,7 @@ Newmarket Aurora,2025-02-07,32%,11%,49%,6%
 Newmarket Aurora,2025-02-08,35%,11%,46%,6%
 Newmarket Aurora,2025-02-09,34%,11%,46%,6%
 Newmarket Aurora,2025-02-10,34%,11%,46%,6%
+Newmarket Aurora,2025-02-11,35%,10%,46%,6%
 Stormont Dundas South Glengarry,2023-02-15,18%,13%,57%,5%
 Stormont Dundas South Glengarry,2023-03-09,19%,13%,56%,5%
 Stormont Dundas South Glengarry,2023-03-17,19%,13%,57%,5%
@@ -1007,6 +1034,7 @@ Stormont Dundas South Glengarry,2025-02-07,19%,12%,62%,5%
 Stormont Dundas South Glengarry,2025-02-08,19%,12%,62%,5%
 Stormont Dundas South Glengarry,2025-02-09,19%,12%,62%,5%
 Stormont Dundas South Glengarry,2025-02-10,19%,12%,62%,5%
+Stormont Dundas South Glengarry,2025-02-11,19%,11%,62%,5%
 University Rosedale,2023-02-15,28%,35%,17%,18%
 University Rosedale,2023-03-09,29%,35%,17%,18%
 University Rosedale,2023-03-17,29%,35%,17%,18%
@@ -1043,6 +1071,7 @@ University Rosedale,2025-02-07,29%,31%,22%,16%
 University Rosedale,2025-02-08,29%,32%,22%,16%
 University Rosedale,2025-02-09,28%,32%,22%,16%
 University Rosedale,2025-02-10,29%,32%,22%,16%
+University Rosedale,2025-02-11,29%,31%,22%,16%
 Kiiwetinoong,2023-02-15,6%,54%,32%,4%
 Kiiwetinoong,2023-03-09,7%,54%,32%,4%
 Kiiwetinoong,2023-03-17,7%,54%,32%,4%
@@ -1079,6 +1108,7 @@ Kiiwetinoong,2025-02-07,8%,47%,39%,5%
 Kiiwetinoong,2025-02-08,8%,47%,38%,5%
 Kiiwetinoong,2025-02-09,7%,48%,38%,5%
 Kiiwetinoong,2025-02-10,8%,47%,38%,5%
+Kiiwetinoong,2025-02-11,8%,47%,39%,5%
 Oakville,2023-02-15,38%,6%,42%,6%
 Oakville,2023-03-09,39%,6%,41%,6%
 Oakville,2023-03-17,39%,6%,42%,6%
@@ -1115,6 +1145,7 @@ Oakville,2025-02-07,37%,6%,47%,5%
 Oakville,2025-02-08,40%,6%,45%,6%
 Oakville,2025-02-09,39%,6%,45%,6%
 Oakville,2025-02-10,39%,6%,45%,6%
+Oakville,2025-02-11,40%,6%,45%,6%
 London North Centre,2023-02-15,22%,37%,30%,6%
 London North Centre,2023-03-09,22%,37%,30%,6%
 London North Centre,2023-03-17,22%,37%,30%,5%
@@ -1151,6 +1182,7 @@ London North Centre,2025-02-07,25%,32%,35%,6%
 London North Centre,2025-02-08,25%,32%,34%,6%
 London North Centre,2025-02-09,24%,33%,34%,6%
 London North Centre,2025-02-10,24%,33%,34%,6%
+London North Centre,2025-02-11,25%,32%,35%,6%
 Mississauga Centre,2023-02-15,37%,11%,43%,4%
 Mississauga Centre,2023-03-09,38%,11%,42%,4%
 Mississauga Centre,2023-03-17,38%,11%,42%,4%
@@ -1187,6 +1219,7 @@ Mississauga Centre,2025-02-07,38%,10%,46%,4%
 Mississauga Centre,2025-02-08,41%,10%,43%,4%
 Mississauga Centre,2025-02-09,40%,11%,44%,4%
 Mississauga Centre,2025-02-10,40%,10%,44%,4%
+Mississauga Centre,2025-02-11,41%,10%,44%,4%
 Mississauga Streetsville,2023-02-15,36%,11%,45%,3%
 Mississauga Streetsville,2023-03-09,37%,11%,44%,3%
 Mississauga Streetsville,2023-03-17,37%,11%,44%,3%
@@ -1223,6 +1256,7 @@ Mississauga Streetsville,2025-02-07,38%,10%,48%,3%
 Mississauga Streetsville,2025-02-08,40%,10%,45%,3%
 Mississauga Streetsville,2025-02-09,39%,10%,46%,3%
 Mississauga Streetsville,2025-02-10,39%,10%,45%,3%
+Mississauga Streetsville,2025-02-11,40%,9%,45%,3%
 Richmond Hill,2023-02-15,32%,8%,52%,3%
 Richmond Hill,2023-03-09,33%,8%,51%,3%
 Richmond Hill,2023-03-17,33%,8%,51%,3%
@@ -1259,6 +1293,7 @@ Richmond Hill,2025-02-07,33%,8%,55%,3%
 Richmond Hill,2025-02-08,35%,8%,52%,3%
 Richmond Hill,2025-02-09,34%,8%,53%,3%
 Richmond Hill,2025-02-10,35%,8%,52%,3%
+Richmond Hill,2025-02-11,35%,8%,52%,3%
 Kitchener Centre,2023-02-15,15%,38%,26%,15%
 Kitchener Centre,2023-03-09,16%,38%,26%,15%
 Kitchener Centre,2023-03-17,16%,38%,26%,14%
@@ -1295,6 +1330,7 @@ Kitchener Centre,2025-02-07,11%,22%,30%,37%
 Kitchener Centre,2025-02-08,11%,22%,29%,37%
 Kitchener Centre,2025-02-09,10%,22%,29%,37%
 Kitchener Centre,2025-02-10,11%,22%,29%,37%
+Kitchener Centre,2025-02-11,11%,21%,30%,38%
 Elgin Middlesex London,2023-02-15,18%,17%,51%,5%
 Elgin Middlesex London,2023-03-09,18%,17%,50%,5%
 Elgin Middlesex London,2023-03-17,18%,17%,50%,5%
@@ -1331,6 +1367,7 @@ Elgin Middlesex London,2025-02-07,21%,14%,56%,6%
 Elgin Middlesex London,2025-02-08,21%,14%,55%,6%
 Elgin Middlesex London,2025-02-09,20%,14%,56%,6%
 Elgin Middlesex London,2025-02-10,21%,14%,56%,6%
+Elgin Middlesex London,2025-02-11,21%,13%,56%,6%
 Nickel Belt,2023-02-15,11%,49%,30%,4%
 Nickel Belt,2023-03-09,11%,48%,30%,4%
 Nickel Belt,2023-03-17,11%,49%,30%,3%
@@ -1367,6 +1404,7 @@ Nickel Belt,2025-02-07,13%,43%,38%,4%
 Nickel Belt,2025-02-08,13%,43%,37%,4%
 Nickel Belt,2025-02-09,12%,44%,37%,4%
 Nickel Belt,2025-02-10,12%,43%,37%,4%
+Nickel Belt,2025-02-11,13%,42%,38%,4%
 Etobicoke North,2023-02-15,24%,12%,55%,3%
 Etobicoke North,2023-03-09,25%,12%,54%,3%
 Etobicoke North,2023-03-17,25%,12%,54%,3%
@@ -1403,6 +1441,7 @@ Etobicoke North,2025-02-07,24%,10%,61%,3%
 Etobicoke North,2025-02-08,25%,10%,60%,3%
 Etobicoke North,2025-02-09,24%,10%,61%,3%
 Etobicoke North,2025-02-10,24%,10%,61%,3%
+Etobicoke North,2025-02-11,25%,9%,61%,3%
 Thornhill,2023-02-15,30%,7%,52%,4%
 Thornhill,2023-03-09,31%,7%,52%,4%
 Thornhill,2023-03-17,31%,7%,52%,4%
@@ -1439,6 +1478,7 @@ Thornhill,2025-02-07,31%,7%,56%,4%
 Thornhill,2025-02-08,33%,7%,53%,4%
 Thornhill,2025-02-09,32%,7%,54%,4%
 Thornhill,2025-02-10,33%,7%,54%,4%
+Thornhill,2025-02-11,33%,7%,54%,4%
 Brampton North,2023-02-15,30%,19%,45%,3%
 Brampton North,2023-03-09,30%,18%,44%,3%
 Brampton North,2023-03-17,30%,18%,44%,3%
@@ -1475,6 +1515,7 @@ Brampton North,2025-02-07,30%,17%,49%,3%
 Brampton North,2025-02-08,32%,17%,46%,3%
 Brampton North,2025-02-09,31%,17%,46%,3%
 Brampton North,2025-02-10,32%,17%,46%,3%
+Brampton North,2025-02-11,32%,16%,47%,3%
 Perth Wellington,2023-02-15,17%,21%,46%,7%
 Perth Wellington,2023-03-09,17%,21%,46%,7%
 Perth Wellington,2023-03-17,17%,21%,46%,7%
@@ -1511,6 +1552,7 @@ Perth Wellington,2025-02-07,19%,17%,53%,7%
 Perth Wellington,2025-02-08,20%,17%,52%,7%
 Perth Wellington,2025-02-09,19%,17%,52%,8%
 Perth Wellington,2025-02-10,19%,17%,52%,8%
+Perth Wellington,2025-02-11,20%,16%,53%,8%
 Brampton East,2023-02-15,22%,29%,43%,0%
 Brampton East,2023-03-09,23%,29%,43%,0%
 Brampton East,2023-03-17,23%,29%,43%,0%
@@ -1547,6 +1589,7 @@ Brampton East,2025-02-07,23%,26%,48%,0%
 Brampton East,2025-02-08,25%,27%,45%,0%
 Brampton East,2025-02-09,24%,27%,45%,0%
 Brampton East,2025-02-10,24%,27%,46%,0%
+Brampton East,2025-02-11,25%,26%,46%,0%
 London West,2023-02-15,13%,43%,34%,4%
 London West,2023-03-09,13%,43%,34%,4%
 London West,2023-03-17,13%,43%,34%,4%
@@ -1583,6 +1626,7 @@ London West,2025-02-07,15%,38%,40%,4%
 London West,2025-02-08,15%,38%,40%,4%
 London West,2025-02-09,14%,39%,39%,4%
 London West,2025-02-10,15%,38%,40%,4%
+London West,2025-02-11,15%,38%,40%,4%
 York Simcoe,2023-02-15,18%,10%,56%,8%
 York Simcoe,2023-03-09,18%,10%,56%,8%
 York Simcoe,2023-03-17,18%,10%,56%,8%
@@ -1619,6 +1663,7 @@ York Simcoe,2025-02-07,19%,10%,60%,8%
 York Simcoe,2025-02-08,21%,10%,58%,8%
 York Simcoe,2025-02-09,20%,10%,58%,8%
 York Simcoe,2025-02-10,20%,10%,58%,8%
+York Simcoe,2025-02-11,21%,9%,58%,8%
 Kingston and the Islands,2023-02-15,39%,29%,24%,4%
 Kingston and the Islands,2023-03-09,40%,29%,24%,4%
 Kingston and the Islands,2023-03-17,40%,29%,24%,4%
@@ -1655,6 +1700,7 @@ Kingston and the Islands,2025-02-07,38%,26%,30%,4%
 Kingston and the Islands,2025-02-08,38%,27%,30%,4%
 Kingston and the Islands,2025-02-09,37%,27%,30%,4%
 Kingston and the Islands,2025-02-10,38%,27%,30%,4%
+Kingston and the Islands,2025-02-11,39%,25%,30%,4%
 Vaughan Woodbridge,2023-02-15,36%,5%,53%,0%
 Vaughan Woodbridge,2023-03-09,37%,5%,52%,0%
 Vaughan Woodbridge,2023-03-17,37%,5%,52%,0%
@@ -1691,6 +1737,7 @@ Vaughan Woodbridge,2025-02-07,36%,5%,56%,0%
 Vaughan Woodbridge,2025-02-08,38%,5%,53%,0%
 Vaughan Woodbridge,2025-02-09,38%,5%,54%,0%
 Vaughan Woodbridge,2025-02-10,38%,5%,53%,0%
+Vaughan Woodbridge,2025-02-11,38%,5%,53%,0%
 Durham,2023-02-15,26%,17%,45%,5%
 Durham,2023-03-09,26%,17%,45%,5%
 Durham,2023-03-17,26%,17%,45%,4%
@@ -1727,6 +1774,7 @@ Durham,2025-02-07,26%,16%,51%,4%
 Durham,2025-02-08,28%,16%,48%,4%
 Durham,2025-02-09,27%,16%,48%,5%
 Durham,2025-02-10,28%,16%,48%,4%
+Durham,2025-02-11,28%,15%,49%,5%
 Davenport,2023-02-15,20%,55%,14%,6%
 Davenport,2023-03-09,21%,54%,14%,6%
 Davenport,2023-03-17,21%,54%,14%,5%
@@ -1763,6 +1811,7 @@ Davenport,2025-02-07,22%,50%,20%,6%
 Davenport,2025-02-08,22%,50%,19%,6%
 Davenport,2025-02-09,21%,51%,19%,6%
 Davenport,2025-02-10,21%,50%,19%,6%
+Davenport,2025-02-11,22%,49%,20%,6%
 Humber River Black Creek,2023-02-15,32%,33%,30%,0%
 Humber River Black Creek,2023-03-09,32%,32%,30%,0%
 Humber River Black Creek,2023-03-17,32%,32%,30%,0%
@@ -1799,6 +1848,7 @@ Humber River Black Creek,2025-02-07,33%,27%,36%,0%
 Humber River Black Creek,2025-02-08,33%,27%,36%,0%
 Humber River Black Creek,2025-02-09,32%,28%,36%,0%
 Humber River Black Creek,2025-02-10,33%,27%,36%,0%
+Humber River Black Creek,2025-02-11,33%,27%,36%,0%
 Windsor West,2023-02-15,14%,40%,36%,3%
 Windsor West,2023-03-09,14%,40%,35%,3%
 Windsor West,2023-03-17,14%,40%,36%,3%
@@ -1835,6 +1885,7 @@ Windsor West,2025-02-07,16%,37%,41%,4%
 Windsor West,2025-02-08,16%,37%,40%,4%
 Windsor West,2025-02-09,15%,38%,40%,4%
 Windsor West,2025-02-10,16%,37%,40%,4%
+Windsor West,2025-02-11,16%,37%,41%,4%
 Kitchener Conestoga,2023-02-15,18%,27%,40%,7%
 Kitchener Conestoga,2023-03-09,19%,27%,40%,7%
 Kitchener Conestoga,2023-03-17,19%,27%,40%,7%
@@ -1871,6 +1922,7 @@ Kitchener Conestoga,2025-02-07,21%,22%,45%,9%
 Kitchener Conestoga,2025-02-08,21%,22%,45%,9%
 Kitchener Conestoga,2025-02-09,21%,22%,45%,9%
 Kitchener Conestoga,2025-02-10,21%,22%,45%,9%
+Kitchener Conestoga,2025-02-11,21%,21%,45%,9%
 Mississauga East Cooksville,2023-02-15,38%,10%,40%,5%
 Mississauga East Cooksville,2023-03-09,39%,10%,40%,4%
 Mississauga East Cooksville,2023-03-17,39%,10%,40%,4%
@@ -1907,6 +1959,7 @@ Mississauga East Cooksville,2025-02-07,40%,9%,44%,4%
 Mississauga East Cooksville,2025-02-08,42%,9%,41%,4%
 Mississauga East Cooksville,2025-02-09,41%,9%,42%,4%
 Mississauga East Cooksville,2025-02-10,42%,9%,42%,4%
+Mississauga East Cooksville,2025-02-11,42%,9%,42%,4%
 Barrie Innisfil,2023-02-15,19%,18%,50%,7%
 Barrie Innisfil,2023-03-09,19%,18%,49%,7%
 Barrie Innisfil,2023-03-17,19%,18%,49%,7%
@@ -1943,6 +1996,7 @@ Barrie Innisfil,2025-02-07,20%,16%,54%,7%
 Barrie Innisfil,2025-02-08,20%,16%,54%,7%
 Barrie Innisfil,2025-02-09,20%,16%,54%,7%
 Barrie Innisfil,2025-02-10,20%,16%,54%,7%
+Barrie Innisfil,2025-02-11,20%,15%,54%,7%
 Huron Bruce,2023-02-15,19%,15%,51%,5%
 Huron Bruce,2023-03-09,20%,15%,51%,5%
 Huron Bruce,2023-03-17,20%,15%,51%,5%
@@ -1979,6 +2033,7 @@ Huron Bruce,2025-02-07,22%,13%,56%,5%
 Huron Bruce,2025-02-08,22%,13%,56%,5%
 Huron Bruce,2025-02-09,22%,13%,56%,5%
 Huron Bruce,2025-02-10,22%,13%,56%,5%
+Huron Bruce,2025-02-11,23%,12%,57%,5%
 Scarborough Agincourt,2023-02-15,38%,8%,48%,0%
 Scarborough Agincourt,2023-03-09,39%,8%,48%,0%
 Scarborough Agincourt,2023-03-17,39%,8%,48%,0%
@@ -2015,6 +2070,7 @@ Scarborough Agincourt,2025-02-07,35%,7%,54%,0%
 Scarborough Agincourt,2025-02-08,36%,7%,54%,0%
 Scarborough Agincourt,2025-02-09,35%,7%,54%,0%
 Scarborough Agincourt,2025-02-10,35%,7%,54%,0%
+Scarborough Agincourt,2025-02-11,36%,7%,54%,0%
 Sudbury,2023-02-15,20%,39%,29%,6%
 Sudbury,2023-03-09,21%,38%,29%,6%
 Sudbury,2023-03-17,21%,38%,29%,6%
@@ -2051,6 +2107,7 @@ Sudbury,2025-02-07,25%,32%,34%,6%
 Sudbury,2025-02-08,25%,33%,33%,6%
 Sudbury,2025-02-09,24%,33%,33%,6%
 Sudbury,2025-02-10,24%,33%,34%,6%
+Sudbury,2025-02-11,25%,32%,34%,6%
 Etobicoke Lakeshore,2023-02-15,37%,17%,37%,5%
 Etobicoke Lakeshore,2023-03-09,37%,16%,36%,5%
 Etobicoke Lakeshore,2023-03-17,37%,17%,37%,5%
@@ -2087,6 +2144,7 @@ Etobicoke Lakeshore,2025-02-07,36%,13%,44%,5%
 Etobicoke Lakeshore,2025-02-08,36%,13%,44%,5%
 Etobicoke Lakeshore,2025-02-09,35%,14%,44%,5%
 Etobicoke Lakeshore,2025-02-10,36%,13%,44%,5%
+Etobicoke Lakeshore,2025-02-11,36%,12%,44%,5%
 Niagara West,2023-02-15,20%,19%,44%,8%
 Niagara West,2023-03-09,20%,19%,44%,7%
 Niagara West,2023-03-17,20%,19%,44%,7%
@@ -2123,6 +2181,7 @@ Niagara West,2025-02-07,22%,15%,52%,7%
 Niagara West,2025-02-08,23%,15%,51%,8%
 Niagara West,2025-02-09,22%,15%,51%,8%
 Niagara West,2025-02-10,23%,15%,51%,8%
+Niagara West,2025-02-11,23%,14%,51%,8%
 Mississauga Erin Mills,2023-02-15,38%,11%,41%,5%
 Mississauga Erin Mills,2023-03-09,39%,11%,41%,5%
 Mississauga Erin Mills,2023-03-17,39%,11%,41%,5%
@@ -2159,6 +2218,7 @@ Mississauga Erin Mills,2025-02-07,40%,10%,44%,5%
 Mississauga Erin Mills,2025-02-08,42%,10%,42%,5%
 Mississauga Erin Mills,2025-02-09,41%,10%,42%,5%
 Mississauga Erin Mills,2025-02-10,41%,10%,42%,5%
+Mississauga Erin Mills,2025-02-11,42%,10%,42%,5%
 Mississauga Lakeshore,2023-02-15,38%,8%,44%,6%
 Mississauga Lakeshore,2023-03-09,38%,8%,44%,6%
 Mississauga Lakeshore,2023-03-17,38%,8%,44%,5%
@@ -2195,6 +2255,7 @@ Mississauga Lakeshore,2025-02-07,39%,7%,47%,5%
 Mississauga Lakeshore,2025-02-08,41%,7%,44%,5%
 Mississauga Lakeshore,2025-02-09,40%,7%,45%,5%
 Mississauga Lakeshore,2025-02-10,41%,7%,45%,5%
+Mississauga Lakeshore,2025-02-11,41%,7%,45%,5%
 Mississauga Malton,2023-02-15,31%,17%,45%,4%
 Mississauga Malton,2023-03-09,32%,16%,44%,4%
 Mississauga Malton,2023-03-17,32%,16%,44%,4%
@@ -2231,6 +2292,7 @@ Mississauga Malton,2025-02-07,33%,15%,47%,4%
 Mississauga Malton,2025-02-08,35%,15%,45%,4%
 Mississauga Malton,2025-02-09,34%,15%,45%,4%
 Mississauga Malton,2025-02-10,35%,15%,45%,4%
+Mississauga Malton,2025-02-11,36%,14%,45%,4%
 Scarborough North,2023-02-15,31%,17%,48%,0%
 Scarborough North,2023-03-09,31%,17%,48%,0%
 Scarborough North,2023-03-17,31%,17%,48%,0%
@@ -2267,6 +2329,7 @@ Scarborough North,2025-02-07,30%,14%,54%,0%
 Scarborough North,2025-02-08,30%,14%,54%,0%
 Scarborough North,2025-02-09,29%,14%,54%,0%
 Scarborough North,2025-02-10,29%,14%,54%,0%
+Scarborough North,2025-02-11,30%,13%,54%,0%
 Ajax,2023-02-15,37%,16%,40%,4%
 Ajax,2023-03-09,38%,15%,40%,4%
 Ajax,2023-03-17,38%,15%,40%,4%
@@ -2303,6 +2366,7 @@ Ajax,2025-02-07,38%,14%,43%,4%
 Ajax,2025-02-08,40%,14%,41%,4%
 Ajax,2025-02-09,39%,15%,41%,4%
 Ajax,2025-02-10,39%,14%,41%,4%
+Ajax,2025-02-11,40%,14%,41%,4%
 Sarnia Lambton,2023-02-15,11%,22%,53%,4%
 Sarnia Lambton,2023-03-09,11%,22%,52%,4%
 Sarnia Lambton,2023-03-17,11%,22%,52%,4%
@@ -2339,6 +2403,7 @@ Sarnia Lambton,2025-02-07,13%,19%,60%,4%
 Sarnia Lambton,2025-02-08,13%,19%,59%,4%
 Sarnia Lambton,2025-02-09,13%,19%,59%,4%
 Sarnia Lambton,2025-02-10,13%,19%,59%,4%
+Sarnia Lambton,2025-02-11,13%,18%,60%,4%
 Essex,2023-02-15,9%,27%,51%,0%
 Essex,2023-03-09,9%,27%,51%,0%
 Essex,2023-03-17,9%,27%,51%,0%
@@ -2375,6 +2440,7 @@ Essex,2025-02-07,11%,23%,59%,0%
 Essex,2025-02-08,11%,23%,59%,0%
 Essex,2025-02-09,10%,23%,59%,0%
 Essex,2025-02-10,11%,23%,59%,0%
+Essex,2025-02-11,11%,22%,60%,0%
 Haliburton Kawartha Lakes Brock,2023-02-15,14%,15%,52%,8%
 Haliburton Kawartha Lakes Brock,2023-03-09,14%,15%,52%,8%
 Haliburton Kawartha Lakes Brock,2023-03-17,14%,15%,52%,8%
@@ -2411,6 +2477,7 @@ Haliburton Kawartha Lakes Brock,2025-02-07,16%,13%,58%,8%
 Haliburton Kawartha Lakes Brock,2025-02-08,16%,14%,57%,8%
 Haliburton Kawartha Lakes Brock,2025-02-09,16%,14%,57%,8%
 Haliburton Kawartha Lakes Brock,2025-02-10,16%,14%,57%,8%
+Haliburton Kawartha Lakes Brock,2025-02-11,16%,13%,58%,8%
 Niagara Centre,2023-02-15,14%,38%,38%,5%
 Niagara Centre,2023-03-09,14%,38%,38%,5%
 Niagara Centre,2023-03-17,14%,38%,38%,5%
@@ -2447,6 +2514,7 @@ Niagara Centre,2025-02-07,16%,33%,43%,5%
 Niagara Centre,2025-02-08,17%,33%,42%,6%
 Niagara Centre,2025-02-09,16%,34%,42%,5%
 Niagara Centre,2025-02-10,16%,33%,43%,6%
+Niagara Centre,2025-02-11,17%,33%,43%,6%
 York Centre,2023-02-15,33%,13%,45%,0%
 York Centre,2023-03-09,34%,13%,45%,0%
 York Centre,2023-03-17,34%,13%,45%,0%
@@ -2483,6 +2551,7 @@ York Centre,2025-02-07,32%,10%,52%,0%
 York Centre,2025-02-08,32%,10%,52%,0%
 York Centre,2025-02-09,31%,11%,53%,0%
 York Centre,2025-02-10,32%,10%,52%,0%
+York Centre,2025-02-11,32%,10%,52%,0%
 York South Weston,2023-02-15,25%,32%,37%,0%
 York South Weston,2023-03-09,26%,32%,36%,0%
 York South Weston,2023-03-17,26%,32%,36%,0%
@@ -2519,6 +2588,7 @@ York South Weston,2025-02-07,26%,26%,44%,0%
 York South Weston,2025-02-08,26%,26%,43%,0%
 York South Weston,2025-02-09,26%,27%,43%,0%
 York South Weston,2025-02-10,26%,26%,43%,0%
+York South Weston,2025-02-11,27%,25%,44%,0%
 Sault Ste. Marie,2023-02-15,6%,36%,47%,3%
 Sault Ste. Marie,2023-03-09,7%,36%,47%,3%
 Sault Ste. Marie,2023-03-17,7%,36%,47%,3%
@@ -2555,6 +2625,7 @@ Sault Ste. Marie,2025-02-07,8%,28%,57%,3%
 Sault Ste. Marie,2025-02-08,8%,28%,56%,3%
 Sault Ste. Marie,2025-02-09,8%,28%,56%,3%
 Sault Ste. Marie,2025-02-10,8%,28%,56%,3%
+Sault Ste. Marie,2025-02-11,8%,27%,57%,3%
 Willowdale,2023-02-15,39%,10%,44%,4%
 Willowdale,2023-03-09,40%,9%,43%,4%
 Willowdale,2023-03-17,40%,9%,43%,4%
@@ -2591,6 +2662,7 @@ Willowdale,2025-02-07,37%,7%,51%,4%
 Willowdale,2025-02-08,37%,7%,50%,4%
 Willowdale,2025-02-09,36%,8%,51%,4%
 Willowdale,2025-02-10,36%,7%,51%,4%
+Willowdale,2025-02-11,37%,7%,51%,4%
 Scarborough Rouge Park,2023-02-15,28%,21%,45%,0%
 Scarborough Rouge Park,2023-03-09,29%,20%,45%,0%
 Scarborough Rouge Park,2023-03-17,29%,20%,45%,0%
@@ -2627,6 +2699,7 @@ Scarborough Rouge Park,2025-02-07,28%,17%,52%,0%
 Scarborough Rouge Park,2025-02-08,28%,17%,51%,0%
 Scarborough Rouge Park,2025-02-09,28%,17%,52%,0%
 Scarborough Rouge Park,2025-02-10,28%,17%,52%,0%
+Scarborough Rouge Park,2025-02-11,29%,16%,52%,0%
 Guelph,2023-02-15,13%,7%,19%,58%
 Guelph,2023-03-09,13%,7%,19%,57%
 Guelph,2023-03-17,13%,7%,19%,57%
@@ -2663,6 +2736,7 @@ Guelph,2025-02-07,16%,7%,25%,50%
 Guelph,2025-02-08,16%,7%,25%,51%
 Guelph,2025-02-09,16%,7%,25%,51%
 Guelph,2025-02-10,16%,7%,25%,51%
+Guelph,2025-02-11,16%,6%,25%,51%
 Kitchener South Hespeler,2023-02-15,17%,25%,39%,13%
 Kitchener South Hespeler,2023-03-09,17%,25%,39%,13%
 Kitchener South Hespeler,2023-03-17,17%,25%,39%,12%
@@ -2699,6 +2773,7 @@ Kitchener South Hespeler,2025-02-07,19%,19%,44%,15%
 Kitchener South Hespeler,2025-02-08,19%,20%,44%,15%
 Kitchener South Hespeler,2025-02-09,19%,20%,44%,15%
 Kitchener South Hespeler,2025-02-10,19%,20%,44%,15%
+Kitchener South Hespeler,2025-02-11,20%,19%,45%,15%
 Barrie Springwater Oro Medonte,2023-02-15,42%,7%,42%,5%
 Barrie Springwater Oro Medonte,2023-03-09,42%,7%,41%,5%
 Barrie Springwater Oro Medonte,2023-03-17,42%,7%,41%,5%
@@ -2735,6 +2810,7 @@ Barrie Springwater Oro Medonte,2025-02-07,41%,6%,46%,5%
 Barrie Springwater Oro Medonte,2025-02-08,41%,7%,46%,5%
 Barrie Springwater Oro Medonte,2025-02-09,40%,7%,46%,5%
 Barrie Springwater Oro Medonte,2025-02-10,41%,7%,46%,5%
+Barrie Springwater Oro Medonte,2025-02-11,41%,6%,46%,5%
 Lanark Frontenac Kingston,2023-02-15,16%,19%,50%,8%
 Lanark Frontenac Kingston,2023-03-09,17%,19%,49%,8%
 Lanark Frontenac Kingston,2023-03-17,17%,19%,50%,8%
@@ -2771,6 +2847,7 @@ Lanark Frontenac Kingston,2025-02-07,17%,17%,55%,8%
 Lanark Frontenac Kingston,2025-02-08,17%,17%,55%,8%
 Lanark Frontenac Kingston,2025-02-09,16%,17%,55%,8%
 Lanark Frontenac Kingston,2025-02-10,17%,17%,55%,8%
+Lanark Frontenac Kingston,2025-02-11,17%,16%,56%,8%
 Mushkegowuk James Bay,2023-02-15,12%,45%,36%,0%
 Mushkegowuk James Bay,2023-03-09,13%,45%,36%,0%
 Mushkegowuk James Bay,2023-03-17,13%,45%,36%,0%
@@ -2807,6 +2884,7 @@ Mushkegowuk James Bay,2025-02-07,15%,38%,43%,0%
 Mushkegowuk James Bay,2025-02-08,15%,39%,42%,0%
 Mushkegowuk James Bay,2025-02-09,14%,39%,42%,0%
 Mushkegowuk James Bay,2025-02-10,15%,39%,42%,0%
+Mushkegowuk James Bay,2025-02-11,15%,38%,43%,0%
 Flamborough Glanbrook,2023-02-15,21%,21%,46%,6%
 Flamborough Glanbrook,2023-03-09,22%,21%,46%,6%
 Flamborough Glanbrook,2023-03-17,22%,21%,46%,6%
@@ -2843,6 +2921,7 @@ Flamborough Glanbrook,2025-02-07,24%,16%,52%,6%
 Flamborough Glanbrook,2025-02-08,24%,16%,51%,6%
 Flamborough Glanbrook,2025-02-09,23%,17%,51%,6%
 Flamborough Glanbrook,2025-02-10,24%,16%,51%,6%
+Flamborough Glanbrook,2025-02-11,24%,16%,51%,6%
 Windsor Tecumseh,2023-02-15,15%,28%,46%,3%
 Windsor Tecumseh,2023-03-09,16%,28%,46%,3%
 Windsor Tecumseh,2023-03-17,16%,28%,46%,3%
@@ -2879,6 +2958,7 @@ Windsor Tecumseh,2025-02-07,18%,23%,53%,3%
 Windsor Tecumseh,2025-02-08,18%,23%,52%,3%
 Windsor Tecumseh,2025-02-09,17%,24%,52%,3%
 Windsor Tecumseh,2025-02-10,17%,23%,52%,3%
+Windsor Tecumseh,2025-02-11,18%,22%,53%,3%
 Wellington Halton Hills,2023-02-15,14%,14%,49%,16%
 Wellington Halton Hills,2023-03-09,15%,14%,49%,16%
 Wellington Halton Hills,2023-03-17,15%,14%,49%,16%
@@ -2915,6 +2995,7 @@ Wellington Halton Hills,2025-02-07,17%,12%,55%,14%
 Wellington Halton Hills,2025-02-08,17%,12%,54%,14%
 Wellington Halton Hills,2025-02-09,16%,12%,54%,14%
 Wellington Halton Hills,2025-02-10,17%,12%,54%,14%
+Wellington Halton Hills,2025-02-11,17%,11%,55%,14%
 Glengarry Prescott Russell,2023-02-15,40%,8%,42%,4%
 Glengarry Prescott Russell,2023-03-09,40%,8%,41%,4%
 Glengarry Prescott Russell,2023-03-17,40%,8%,41%,4%
@@ -2951,6 +3032,7 @@ Glengarry Prescott Russell,2025-02-07,38%,7%,48%,4%
 Glengarry Prescott Russell,2025-02-08,38%,7%,48%,4%
 Glengarry Prescott Russell,2025-02-09,37%,8%,48%,4%
 Glengarry Prescott Russell,2025-02-10,38%,7%,48%,4%
+Glengarry Prescott Russell,2025-02-11,38%,7%,48%,4%
 Peterborough Kawartha,2023-02-15,32%,20%,38%,4%
 Peterborough Kawartha,2023-03-09,32%,20%,38%,4%
 Peterborough Kawartha,2023-03-17,32%,20%,38%,4%
@@ -2987,6 +3069,7 @@ Peterborough Kawartha,2025-02-07,33%,18%,43%,4%
 Peterborough Kawartha,2025-02-08,33%,18%,43%,4%
 Peterborough Kawartha,2025-02-09,32%,18%,43%,4%
 Peterborough Kawartha,2025-02-10,32%,18%,43%,4%
+Peterborough Kawartha,2025-02-11,33%,17%,43%,4%
 Brampton West,2023-02-15,27%,19%,48%,3%
 Brampton West,2023-03-09,28%,19%,47%,3%
 Brampton West,2023-03-17,28%,19%,47%,3%
@@ -3023,6 +3106,7 @@ Brampton West,2025-02-07,27%,17%,51%,3%
 Brampton West,2025-02-08,29%,18%,49%,3%
 Brampton West,2025-02-09,29%,18%,49%,3%
 Brampton West,2025-02-10,29%,18%,49%,3%
+Brampton West,2025-02-11,30%,17%,49%,3%
 Hamilton Mountain,2023-02-15,16%,43%,30%,7%
 Hamilton Mountain,2023-03-09,17%,43%,30%,6%
 Hamilton Mountain,2023-03-17,17%,43%,30%,6%
@@ -3059,6 +3143,7 @@ Hamilton Mountain,2025-02-07,19%,36%,36%,7%
 Hamilton Mountain,2025-02-08,19%,37%,35%,7%
 Hamilton Mountain,2025-02-09,19%,38%,35%,7%
 Hamilton Mountain,2025-02-10,19%,37%,35%,7%
+Hamilton Mountain,2025-02-11,20%,36%,36%,7%
 Don Valley West,2023-02-15,45%,8%,38%,6%
 Don Valley West,2023-03-09,45%,8%,37%,6%
 Don Valley West,2023-03-17,45%,8%,37%,6%
@@ -3095,6 +3180,7 @@ Don Valley West,2025-02-07,42%,7%,45%,6%
 Don Valley West,2025-02-08,42%,7%,44%,6%
 Don Valley West,2025-02-09,41%,7%,45%,6%
 Don Valley West,2025-02-10,41%,7%,45%,6%
+Don Valley West,2025-02-11,42%,6%,45%,6%
 Aurora Oak Ridges Richmond Hill,2023-02-15,31%,7%,52%,4%
 Aurora Oak Ridges Richmond Hill,2023-03-09,32%,7%,52%,4%
 Aurora Oak Ridges Richmond Hill,2023-03-17,32%,7%,52%,4%
@@ -3131,6 +3217,7 @@ Aurora Oak Ridges Richmond Hill,2025-02-07,32%,7%,55%,4%
 Aurora Oak Ridges Richmond Hill,2025-02-08,34%,7%,53%,4%
 Aurora Oak Ridges Richmond Hill,2025-02-09,33%,7%,53%,4%
 Aurora Oak Ridges Richmond Hill,2025-02-10,34%,7%,53%,4%
+Aurora Oak Ridges Richmond Hill,2025-02-11,34%,6%,53%,4%
 Beaches East York,2023-02-15,36%,31%,18%,12%
 Beaches East York,2023-03-09,37%,31%,18%,12%
 Beaches East York,2023-03-17,37%,31%,18%,11%
@@ -3167,6 +3254,7 @@ Beaches East York,2025-02-07,38%,26%,24%,10%
 Beaches East York,2025-02-08,38%,26%,24%,10%
 Beaches East York,2025-02-09,37%,27%,24%,11%
 Beaches East York,2025-02-10,38%,26%,24%,11%
+Beaches East York,2025-02-11,39%,25%,25%,11%
 Kenora Rainy River,2023-02-15,12%,19%,59%,4%
 Kenora Rainy River,2023-03-09,12%,19%,59%,4%
 Kenora Rainy River,2023-03-17,12%,19%,59%,4%
@@ -3203,6 +3291,7 @@ Kenora Rainy River,2025-02-07,14%,14%,64%,4%
 Kenora Rainy River,2025-02-08,14%,14%,64%,5%
 Kenora Rainy River,2025-02-09,14%,15%,64%,5%
 Kenora Rainy River,2025-02-10,14%,14%,64%,5%
+Kenora Rainy River,2025-02-11,15%,14%,65%,5%
 Hamilton West Ancaster Dundas,2023-02-15,19%,38%,33%,6%
 Hamilton West Ancaster Dundas,2023-03-09,20%,38%,33%,6%
 Hamilton West Ancaster Dundas,2023-03-17,20%,38%,33%,6%
@@ -3239,6 +3328,7 @@ Hamilton West Ancaster Dundas,2025-02-07,22%,32%,38%,6%
 Hamilton West Ancaster Dundas,2025-02-08,22%,32%,37%,6%
 Hamilton West Ancaster Dundas,2025-02-09,22%,33%,37%,6%
 Hamilton West Ancaster Dundas,2025-02-10,22%,33%,37%,6%
+Hamilton West Ancaster Dundas,2025-02-11,23%,32%,38%,6%
 Toronto St. Paul's,2023-02-15,35%,34%,22%,6%
 Toronto St. Paul's,2023-03-09,36%,34%,22%,6%
 Toronto St. Paul's,2023-03-17,36%,34%,22%,6%
@@ -3275,6 +3365,7 @@ Toronto St. Paul's,2025-02-07,35%,29%,28%,6%
 Toronto St. Paul's,2025-02-08,35%,30%,28%,6%
 Toronto St. Paul's,2025-02-09,34%,30%,28%,6%
 Toronto St. Paul's,2025-02-10,35%,30%,28%,6%
+Toronto St. Paul's,2025-02-11,36%,29%,28%,6%
 Nipissing,2023-02-15,14%,27%,50%,4%
 Nipissing,2023-03-09,14%,27%,50%,4%
 Nipissing,2023-03-17,14%,27%,50%,4%
@@ -3311,6 +3402,7 @@ Nipissing,2025-02-07,17%,21%,56%,4%
 Nipissing,2025-02-08,17%,21%,56%,4%
 Nipissing,2025-02-09,17%,21%,56%,4%
 Nipissing,2025-02-10,17%,21%,56%,4%
+Nipissing,2025-02-11,17%,20%,56%,4%
 Renfrew Nipissing Pembroke,2023-02-15,10%,16%,61%,4%
 Renfrew Nipissing Pembroke,2023-03-09,10%,16%,61%,4%
 Renfrew Nipissing Pembroke,2023-03-17,10%,16%,61%,4%
@@ -3347,6 +3439,7 @@ Renfrew Nipissing Pembroke,2025-02-07,11%,14%,66%,4%
 Renfrew Nipissing Pembroke,2025-02-08,12%,14%,66%,4%
 Renfrew Nipissing Pembroke,2025-02-09,11%,15%,66%,4%
 Renfrew Nipissing Pembroke,2025-02-10,11%,14%,66%,4%
+Renfrew Nipissing Pembroke,2025-02-11,12%,14%,67%,4%
 Hastings Lennox and Addington,2023-02-15,19%,18%,47%,5%
 Hastings Lennox and Addington,2023-03-09,20%,18%,47%,5%
 Hastings Lennox and Addington,2023-03-17,20%,18%,47%,5%
@@ -3383,6 +3476,7 @@ Hastings Lennox and Addington,2025-02-07,20%,16%,55%,5%
 Hastings Lennox and Addington,2025-02-08,20%,16%,54%,5%
 Hastings Lennox and Addington,2025-02-09,19%,16%,55%,5%
 Hastings Lennox and Addington,2025-02-10,19%,16%,55%,5%
+Hastings Lennox and Addington,2025-02-11,20%,15%,55%,5%
 St. Catharines,2023-02-15,17%,38%,35%,5%
 St. Catharines,2023-03-09,18%,37%,34%,5%
 St. Catharines,2023-03-17,18%,38%,34%,5%
@@ -3419,6 +3513,7 @@ St. Catharines,2025-02-07,20%,32%,40%,5%
 St. Catharines,2025-02-08,20%,33%,39%,5%
 St. Catharines,2025-02-09,20%,34%,39%,5%
 St. Catharines,2025-02-10,20%,33%,39%,5%
+St. Catharines,2025-02-11,21%,32%,40%,5%
 Brampton South,2023-02-15,29%,18%,45%,4%
 Brampton South,2023-03-09,29%,18%,45%,4%
 Brampton South,2023-03-17,29%,18%,45%,4%
@@ -3455,6 +3550,7 @@ Brampton South,2025-02-07,29%,16%,49%,4%
 Brampton South,2025-02-08,31%,16%,47%,4%
 Brampton South,2025-02-09,30%,17%,47%,4%
 Brampton South,2025-02-10,31%,16%,47%,4%
+Brampton South,2025-02-11,31%,16%,47%,4%
 Markham Stouffville,2023-02-15,36%,9%,48%,4%
 Markham Stouffville,2023-03-09,37%,9%,47%,4%
 Markham Stouffville,2023-03-17,37%,9%,47%,4%
@@ -3491,6 +3587,7 @@ Markham Stouffville,2025-02-07,36%,8%,51%,4%
 Markham Stouffville,2025-02-08,38%,8%,48%,4%
 Markham Stouffville,2025-02-09,37%,8%,49%,4%
 Markham Stouffville,2025-02-10,38%,8%,49%,4%
+Markham Stouffville,2025-02-11,38%,8%,49%,4%
 Thunder Bay Superior North,2023-02-15,29%,32%,31%,4%
 Thunder Bay Superior North,2023-03-09,30%,32%,31%,3%
 Thunder Bay Superior North,2023-03-17,30%,32%,31%,3%
@@ -3527,6 +3624,7 @@ Thunder Bay Superior North,2025-02-07,31%,29%,34%,4%
 Thunder Bay Superior North,2025-02-08,31%,29%,34%,4%
 Thunder Bay Superior North,2025-02-09,31%,30%,34%,4%
 Thunder Bay Superior North,2025-02-10,31%,30%,34%,4%
+Thunder Bay Superior North,2025-02-11,32%,29%,34%,4%
 Ottawa Vanier,2023-02-15,42%,24%,20%,9%
 Ottawa Vanier,2023-03-09,43%,23%,20%,9%
 Ottawa Vanier,2023-03-17,43%,23%,20%,9%
@@ -3563,6 +3661,7 @@ Ottawa Vanier,2025-02-07,41%,20%,26%,9%
 Ottawa Vanier,2025-02-08,41%,21%,26%,9%
 Ottawa Vanier,2025-02-09,40%,21%,26%,9%
 Ottawa Vanier,2025-02-10,41%,21%,26%,9%
+Ottawa Vanier,2025-02-11,42%,20%,26%,9%
 Kanata Carleton,2023-02-15,23%,22%,42%,6%
 Kanata Carleton,2023-03-09,24%,22%,42%,6%
 Kanata Carleton,2023-03-17,24%,22%,42%,6%
@@ -3599,6 +3698,7 @@ Kanata Carleton,2025-02-07,31%,23%,41%,3%
 Kanata Carleton,2025-02-08,31%,23%,41%,3%
 Kanata Carleton,2025-02-09,31%,24%,41%,3%
 Kanata Carleton,2025-02-10,31%,24%,41%,3%
+Kanata Carleton,2025-02-11,32%,22%,41%,3%
 Bay of Quinte,2023-02-15,19%,20%,49%,7%
 Bay of Quinte,2023-03-09,20%,19%,49%,7%
 Bay of Quinte,2023-03-17,20%,19%,49%,7%
@@ -3635,6 +3735,7 @@ Bay of Quinte,2025-02-07,30%,17%,44%,6%
 Bay of Quinte,2025-02-08,30%,17%,44%,6%
 Bay of Quinte,2025-02-09,30%,18%,44%,6%
 Bay of Quinte,2025-02-10,30%,18%,44%,6%
+Bay of Quinte,2025-02-11,31%,17%,45%,6%
 Leeds Grenville Thousand Islands and Rideau Lakes,2023-02-15,19%,12%,57%,7%
 Leeds Grenville Thousand Islands and Rideau Lakes,2023-03-09,19%,12%,57%,7%
 Leeds Grenville Thousand Islands and Rideau Lakes,2023-03-17,19%,12%,57%,7%
@@ -3671,6 +3772,7 @@ Leeds Grenville Thousand Islands and Rideau Lakes,2025-02-07,19%,11%,62%,7%
 Leeds Grenville Thousand Islands and Rideau Lakes,2025-02-08,19%,11%,61%,7%
 Leeds Grenville Thousand Islands and Rideau Lakes,2025-02-09,18%,11%,61%,7%
 Leeds Grenville Thousand Islands and Rideau Lakes,2025-02-10,19%,11%,61%,7%
+Leeds Grenville Thousand Islands and Rideau Lakes,2025-02-11,19%,10%,62%,7%
 Scarborough Centre,2023-02-15,31%,25%,36%,3%
 Scarborough Centre,2023-03-09,32%,24%,35%,3%
 Scarborough Centre,2023-03-17,32%,24%,35%,3%
@@ -3707,6 +3809,7 @@ Scarborough Centre,2025-02-07,31%,20%,43%,3%
 Scarborough Centre,2025-02-08,31%,20%,43%,3%
 Scarborough Centre,2025-02-09,31%,21%,43%,3%
 Scarborough Centre,2025-02-10,31%,20%,43%,3%
+Scarborough Centre,2025-02-11,32%,19%,43%,3%
 Thunder Bay Atikokan,2023-02-15,25%,31%,36%,3%
 Thunder Bay Atikokan,2023-03-09,26%,31%,36%,3%
 Thunder Bay Atikokan,2023-03-17,26%,31%,36%,3%
@@ -3743,6 +3846,7 @@ Thunder Bay Atikokan,2025-02-07,30%,24%,41%,3%
 Thunder Bay Atikokan,2025-02-08,30%,24%,40%,3%
 Thunder Bay Atikokan,2025-02-09,30%,25%,41%,4%
 Thunder Bay Atikokan,2025-02-10,30%,24%,41%,3%
+Thunder Bay Atikokan,2025-02-11,31%,23%,41%,4%
 Markham Thornhill,2023-02-15,38%,8%,48%,0%
 Markham Thornhill,2023-03-09,39%,8%,47%,0%
 Markham Thornhill,2023-03-17,39%,8%,48%,0%
@@ -3779,6 +3883,7 @@ Markham Thornhill,2025-02-07,38%,8%,51%,0%
 Markham Thornhill,2025-02-08,40%,8%,48%,0%
 Markham Thornhill,2025-02-09,39%,8%,49%,0%
 Markham Thornhill,2025-02-10,40%,8%,49%,0%
+Markham Thornhill,2025-02-11,40%,7%,48%,0%
 Simcoe North,2023-02-15,18%,16%,49%,10%
 Simcoe North,2023-03-09,18%,16%,49%,10%
 Simcoe North,2023-03-17,18%,16%,49%,10%
@@ -3815,6 +3920,7 @@ Simcoe North,2025-02-07,19%,15%,54%,10%
 Simcoe North,2025-02-08,19%,15%,53%,10%
 Simcoe North,2025-02-09,19%,15%,53%,10%
 Simcoe North,2025-02-10,19%,15%,53%,10%
+Simcoe North,2025-02-11,19%,14%,54%,10%
 Oxford,2023-02-15,13%,20%,50%,5%
 Oxford,2023-03-09,13%,20%,49%,5%
 Oxford,2023-03-17,13%,20%,49%,5%
@@ -3851,6 +3957,7 @@ Oxford,2025-02-07,15%,17%,57%,6%
 Oxford,2025-02-08,15%,17%,57%,6%
 Oxford,2025-02-09,15%,17%,57%,6%
 Oxford,2025-02-10,15%,17%,57%,6%
+Oxford,2025-02-11,15%,16%,57%,6%
 Toronto Centre,2023-02-15,38%,41%,12%,6%
 Toronto Centre,2023-03-09,39%,41%,12%,6%
 Toronto Centre,2023-03-17,39%,41%,12%,6%
@@ -3887,6 +3994,7 @@ Toronto Centre,2025-02-07,39%,37%,17%,6%
 Toronto Centre,2025-02-08,39%,37%,16%,6%
 Toronto Centre,2025-02-09,38%,38%,17%,6%
 Toronto Centre,2025-02-10,39%,37%,17%,6%
+Toronto Centre,2025-02-11,40%,36%,17%,6%
 Dufferin Caledon,2023-02-15,19%,10%,48%,16%
 Dufferin Caledon,2023-03-09,20%,10%,48%,16%
 Dufferin Caledon,2023-03-17,20%,10%,48%,15%
@@ -3923,6 +4031,7 @@ Dufferin Caledon,2025-02-07,21%,9%,53%,14%
 Dufferin Caledon,2025-02-08,21%,9%,53%,14%
 Dufferin Caledon,2025-02-09,20%,9%,53%,14%
 Dufferin Caledon,2025-02-10,20%,9%,53%,14%
+Dufferin Caledon,2025-02-11,21%,9%,53%,14%
 Pickering Uxbridge,2023-02-15,29%,15%,44%,6%
 Pickering Uxbridge,2023-03-09,30%,15%,43%,6%
 Pickering Uxbridge,2023-03-17,30%,15%,43%,6%
@@ -3959,6 +4068,7 @@ Pickering Uxbridge,2025-02-07,30%,13%,49%,6%
 Pickering Uxbridge,2025-02-08,32%,14%,46%,6%
 Pickering Uxbridge,2025-02-09,31%,14%,46%,6%
 Pickering Uxbridge,2025-02-10,31%,14%,46%,6%
+Pickering Uxbridge,2025-02-11,32%,13%,46%,6%
 Timiskaming Cochrane,2023-02-15,7%,41%,36%,7%
 Timiskaming Cochrane,2023-03-09,7%,41%,36%,7%
 Timiskaming Cochrane,2023-03-17,7%,41%,36%,7%
@@ -3995,6 +4105,7 @@ Timiskaming Cochrane,2025-02-07,9%,35%,43%,8%
 Timiskaming Cochrane,2025-02-08,9%,36%,43%,8%
 Timiskaming Cochrane,2025-02-09,8%,36%,43%,8%
 Timiskaming Cochrane,2025-02-10,8%,36%,43%,8%
+Timiskaming Cochrane,2025-02-11,9%,35%,43%,8%
 Niagara Falls,2023-02-15,9%,46%,37%,3%
 Niagara Falls,2023-03-09,9%,46%,37%,3%
 Niagara Falls,2023-03-17,9%,46%,37%,3%
@@ -4031,6 +4142,7 @@ Niagara Falls,2025-02-07,11%,40%,44%,3%
 Niagara Falls,2025-02-08,11%,41%,43%,3%
 Niagara Falls,2025-02-09,10%,42%,42%,3%
 Niagara Falls,2025-02-10,11%,41%,43%,3%
+Niagara Falls,2025-02-11,11%,41%,43%,3%
 Waterloo,2023-02-15,15%,44%,29%,8%
 Waterloo,2023-03-09,15%,43%,29%,8%
 Waterloo,2023-03-17,15%,43%,29%,8%
@@ -4067,6 +4179,7 @@ Waterloo,2025-02-07,17%,39%,34%,9%
 Waterloo,2025-02-08,17%,39%,34%,9%
 Waterloo,2025-02-09,16%,39%,34%,9%
 Waterloo,2025-02-10,17%,39%,34%,9%
+Waterloo,2025-02-11,17%,38%,34%,9%
 Northumberland Peterborough South,2023-02-15,26%,12%,50%,7%
 Northumberland Peterborough South,2023-03-09,26%,12%,50%,6%
 Northumberland Peterborough South,2023-03-17,26%,12%,50%,6%
@@ -4103,6 +4216,7 @@ Northumberland Peterborough South,2025-02-07,26%,11%,54%,6%
 Northumberland Peterborough South,2025-02-08,27%,11%,54%,7%
 Northumberland Peterborough South,2025-02-09,26%,11%,54%,7%
 Northumberland Peterborough South,2025-02-10,26%,11%,54%,7%
+Northumberland Peterborough South,2025-02-11,27%,10%,54%,7%
 Ottawa West Nepean,2023-02-15,24%,35%,35%,5%
 Ottawa West Nepean,2023-03-09,24%,35%,35%,4%
 Ottawa West Nepean,2023-03-17,24%,35%,35%,4%
@@ -4139,6 +4253,7 @@ Ottawa West Nepean,2025-02-07,24%,33%,37%,5%
 Ottawa West Nepean,2025-02-08,24%,33%,37%,5%
 Ottawa West Nepean,2025-02-09,24%,34%,37%,5%
 Ottawa West Nepean,2025-02-10,24%,33%,37%,5%
+Ottawa West Nepean,2025-02-11,25%,33%,37%,5%
 Ottawa Centre,2023-02-15,24%,52%,16%,6%
 Ottawa Centre,2023-03-09,24%,52%,16%,6%
 Ottawa Centre,2023-03-17,24%,52%,16%,5%
@@ -4175,6 +4290,7 @@ Ottawa Centre,2025-02-07,24%,49%,20%,6%
 Ottawa Centre,2025-02-08,24%,49%,19%,6%
 Ottawa Centre,2025-02-09,23%,50%,19%,6%
 Ottawa Centre,2025-02-10,24%,49%,19%,6%
+Ottawa Centre,2025-02-11,25%,48%,20%,6%
 Nepean,2023-02-15,34%,19%,39%,5%
 Nepean,2023-03-09,35%,19%,38%,5%
 Nepean,2023-03-17,35%,19%,38%,5%
@@ -4211,6 +4327,7 @@ Nepean,2025-02-07,34%,16%,44%,5%
 Nepean,2025-02-08,34%,16%,44%,5%
 Nepean,2025-02-09,33%,16%,44%,5%
 Nepean,2025-02-10,34%,16%,44%,5%
+Nepean,2025-02-11,34%,15%,44%,5%
 Haldimand Norfolk,2023-02-15,8%,13%,30%,5%
 Haldimand Norfolk,2023-03-09,8%,13%,30%,5%
 Haldimand Norfolk,2023-03-17,8%,13%,30%,5%
@@ -4247,6 +4364,7 @@ Haldimand Norfolk,2025-02-07,9%,10%,33%,5%
 Haldimand Norfolk,2025-02-08,9%,10%,33%,5%
 Haldimand Norfolk,2025-02-09,9%,10%,33%,5%
 Haldimand Norfolk,2025-02-10,9%,10%,33%,5%
+Haldimand Norfolk,2025-02-11,9%,10%,33%,5%
 Scarborough Guildwood,2023-02-15,47%,16%,31%,0%
 Scarborough Guildwood,2023-03-09,48%,15%,31%,0%
 Scarborough Guildwood,2023-03-17,48%,15%,31%,0%
@@ -4283,6 +4401,7 @@ Scarborough Guildwood,2025-02-07,38%,19%,39%,0%
 Scarborough Guildwood,2025-02-08,39%,19%,39%,0%
 Scarborough Guildwood,2025-02-09,38%,20%,39%,0%
 Scarborough Guildwood,2025-02-10,38%,19%,39%,0%
+Scarborough Guildwood,2025-02-11,39%,18%,39%,0%
 Parkdale High Park,2023-02-15,24%,51%,15%,7%
 Parkdale High Park,2023-03-09,24%,51%,15%,7%
 Parkdale High Park,2023-03-17,24%,51%,15%,7%
@@ -4319,6 +4438,7 @@ Parkdale High Park,2025-02-07,25%,47%,19%,7%
 Parkdale High Park,2025-02-08,25%,47%,19%,7%
 Parkdale High Park,2025-02-09,24%,48%,19%,7%
 Parkdale High Park,2025-02-10,25%,47%,19%,7%
+Parkdale High Park,2025-02-11,25%,46%,20%,8%
 Scarborough Southwest,2023-02-15,20%,45%,28%,4%
 Scarborough Southwest,2023-03-09,20%,45%,28%,4%
 Scarborough Southwest,2023-03-17,20%,45%,28%,4%
@@ -4355,6 +4475,7 @@ Scarborough Southwest,2025-02-07,21%,40%,34%,4%
 Scarborough Southwest,2025-02-08,21%,40%,34%,4%
 Scarborough Southwest,2025-02-09,20%,40%,34%,4%
 Scarborough Southwest,2025-02-10,21%,40%,34%,4%
+Scarborough Southwest,2025-02-11,21%,39%,34%,4%
 Hamilton Centre,2023-02-15,14%,55%,17%,10%
 Hamilton Centre,2023-03-09,14%,54%,17%,10%
 Hamilton Centre,2023-03-17,18%,54%,16%,8%
@@ -4391,6 +4512,7 @@ Hamilton Centre,2025-02-07,17%,47%,23%,9%
 Hamilton Centre,2025-02-08,17%,47%,22%,9%
 Hamilton Centre,2025-02-09,16%,48%,22%,9%
 Hamilton Centre,2025-02-10,16%,47%,22%,9%
+Hamilton Centre,2025-02-11,17%,46%,22%,9%
 Hamilton East Stoney Creek,2023-02-15,22%,26%,34%,6%
 Hamilton East Stoney Creek,2023-03-09,22%,25%,34%,6%
 Hamilton East Stoney Creek,2023-03-17,22%,25%,34%,5%
@@ -4427,6 +4549,7 @@ Hamilton East Stoney Creek,2025-02-07,25%,19%,40%,6%
 Hamilton East Stoney Creek,2025-02-08,25%,20%,39%,6%
 Hamilton East Stoney Creek,2025-02-09,24%,20%,39%,6%
 Hamilton East Stoney Creek,2025-02-10,25%,20%,39%,6%
+Hamilton East Stoney Creek,2025-02-11,25%,19%,39%,6%
 Don Valley East,2023-02-15,45%,14%,32%,5%
 Don Valley East,2023-03-09,46%,14%,31%,5%
 Don Valley East,2023-03-17,46%,14%,31%,4%
@@ -4463,3 +4586,4 @@ Don Valley East,2025-02-07,43%,11%,39%,4%
 Don Valley East,2025-02-08,43%,11%,39%,4%
 Don Valley East,2025-02-09,42%,12%,39%,4%
 Don Valley East,2025-02-10,43%,11%,39%,4%
+Don Valley East,2025-02-11,44%,11%,39%,4%
