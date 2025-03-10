@@ -539,6 +539,60 @@ Brantford Brant,2025-02-25,17%,20%,52%,8%
 Brantford Brant,2025-02-26,17%,19%,53%,8%
 Brantford Brant,2025-02-27,17%,19%,53%,8%
 Brantford Brant,2025-02-28,20%,23%,47%,5%
+Milton,2023-02-15,40%,9%,42%,0%
+Milton,2023-03-09,40%,9%,42%,0%
+Milton,2023-03-17,40%,9%,42%,0%
+Milton,2023-04-16,40%,9%,42%,0%
+Milton,2023-07-07,40%,10%,39%,0%
+Milton,2023-07-22,40%,10%,39%,0%
+Milton,2023-07-28,40%,10%,40%,0%
+Milton,2023-08-26,40%,10%,40%,0%
+Milton,2023-10-07,42%,10%,38%,0%
+Milton,2023-10-23,40%,10%,40%,0%
+Milton,2023-12-01,38%,10%,43%,0%
+Milton,2023-12-20,41%,10%,41%,0%
+Milton,2024-02-02,42%,10%,40%,0%
+Milton,2024-02-20,44%,9%,39%,0%
+Milton,2024-03-05,42%,9%,40%,0%
+Milton,2024-04-04,41%,10%,41%,0%
+Milton,2024-05-03,40%,7%,47%,0%
+Milton,2024-06-30,38%,7%,48%,0%
+Milton,2024-07-29,38%,7%,50%,0%
+Milton,2024-10-09,39%,7%,48%,0%
+Milton,2024-11-11,38%,7%,49%,0%
+Milton,2024-12-15,37%,7%,51%,0%
+Milton,2025-01-20,41%,7%,47%,0%
+Milton,2025-01-24,38%,7%,51%,0%
+Milton,2025-01-27,40%,8%,47%,0%
+Milton,2025-01-29,40%,7%,48%,0%
+Milton,2025-01-31,38%,7%,50%,0%
+Milton,2025-02-02,38%,7%,50%,0%
+Milton,2025-02-03,39%,7%,50%,0%
+Milton,2025-02-04,39%,7%,50%,0%
+Milton,2025-02-05,39%,7%,50%,0%
+Milton,2025-02-06,38%,7%,51%,0%
+Milton,2025-02-07,39%,7%,51%,0%
+Milton,2025-02-08,41%,7%,48%,0%
+Milton,2025-02-09,40%,7%,48%,0%
+Milton,2025-02-10,40%,7%,48%,0%
+Milton,2025-02-11,41%,6%,48%,0%
+Milton,2025-02-12,41%,6%,48%,0%
+Milton,2025-02-13,41%,6%,48%,0%
+Milton,2025-02-14,42%,6%,48%,0%
+Milton,2025-02-15,41%,6%,48%,0%
+Milton,2025-02-16,41%,6%,48%,0%
+Milton,2025-02-17,43%,6%,47%,0%
+Milton,2025-02-18,42%,6%,47%,0%
+Milton,2025-02-19,42%,6%,48%,0%
+Milton,2025-02-20,42%,6%,48%,0%
+Milton,2025-02-21,42%,6%,48%,0%
+Milton,2025-02-22,42%,6%,48%,0%
+Milton,2025-02-23,42%,6%,48%,0%
+Milton,2025-02-24,42%,6%,48%,0%
+Milton,2025-02-25,42%,6%,48%,0%
+Milton,2025-02-26,41%,6%,49%,0%
+Milton,2025-02-27,41%,6%,49%,0%
+Milton,2025-02-28,41%,6%,47%,0%
 Orléans,2023-02-15,47%,13%,32%,0%
 Orléans,2023-03-09,48%,12%,32%,0%
 Orléans,2023-03-17,48%,12%,32%,0%
@@ -1025,6 +1079,114 @@ Carleton,2025-02-25,28%,11%,53%,0%
 Carleton,2025-02-26,28%,11%,54%,0%
 Carleton,2025-02-27,28%,11%,54%,0%
 Carleton,2025-02-28,39%,7%,50%,0%
+Parry Sound Muskoka,2023-02-15,0%,0%,43%,44%
+Parry Sound Muskoka,2023-03-09,6%,0%,43%,40%
+Parry Sound Muskoka,2023-03-17,6%,0%,44%,40%
+Parry Sound Muskoka,2023-04-16,6%,0%,44%,40%
+Parry Sound Muskoka,2023-07-07,6%,0%,40%,43%
+Parry Sound Muskoka,2023-07-22,6%,0%,41%,41%
+Parry Sound Muskoka,2023-07-28,6%,0%,42%,40%
+Parry Sound Muskoka,2023-08-26,6%,0%,43%,40%
+Parry Sound Muskoka,2023-10-07,6%,0%,41%,41%
+Parry Sound Muskoka,2023-10-23,6%,0%,43%,39%
+Parry Sound Muskoka,2023-12-01,6%,0%,45%,42%
+Parry Sound Muskoka,2023-12-20,6%,0%,45%,41%
+Parry Sound Muskoka,2024-02-02,6%,0%,45%,40%
+Parry Sound Muskoka,2024-02-20,12%,0%,40%,42%
+Parry Sound Muskoka,2024-03-05,10%,0%,41%,41%
+Parry Sound Muskoka,2024-04-04,10%,0%,42%,40%
+Parry Sound Muskoka,2024-05-03,9%,0%,43%,40%
+Parry Sound Muskoka,2024-06-30,9%,0%,43%,40%
+Parry Sound Muskoka,2024-07-29,9%,0%,45%,39%
+Parry Sound Muskoka,2024-10-09,9%,0%,44%,39%
+Parry Sound Muskoka,2024-11-11,9%,0%,45%,39%
+Parry Sound Muskoka,2024-12-15,9%,0%,45%,38%
+Parry Sound Muskoka,2025-01-20,10%,0%,45%,37%
+Parry Sound Muskoka,2025-01-24,9%,0%,48%,36%
+Parry Sound Muskoka,2025-01-27,9%,0%,46%,37%
+Parry Sound Muskoka,2025-01-29,9%,0%,46%,37%
+Parry Sound Muskoka,2025-01-31,9%,0%,49%,35%
+Parry Sound Muskoka,2025-02-02,9%,0%,49%,35%
+Parry Sound Muskoka,2025-02-03,10%,0%,49%,34%
+Parry Sound Muskoka,2025-02-04,10%,0%,49%,35%
+Parry Sound Muskoka,2025-02-05,10%,0%,49%,35%
+Parry Sound Muskoka,2025-02-06,9%,0%,50%,34%
+Parry Sound Muskoka,2025-02-07,10%,0%,50%,34%
+Parry Sound Muskoka,2025-02-08,10%,0%,49%,34%
+Parry Sound Muskoka,2025-02-09,9%,0%,49%,34%
+Parry Sound Muskoka,2025-02-10,9%,0%,49%,34%
+Parry Sound Muskoka,2025-02-11,10%,0%,49%,35%
+Parry Sound Muskoka,2025-02-12,10%,0%,49%,35%
+Parry Sound Muskoka,2025-02-13,10%,0%,50%,35%
+Parry Sound Muskoka,2025-02-14,10%,0%,50%,35%
+Parry Sound Muskoka,2025-02-15,10%,0%,50%,34%
+Parry Sound Muskoka,2025-02-16,10%,0%,50%,34%
+Parry Sound Muskoka,2025-02-17,10%,0%,49%,35%
+Parry Sound Muskoka,2025-02-18,10%,0%,49%,35%
+Parry Sound Muskoka,2025-02-19,10%,0%,50%,34%
+Parry Sound Muskoka,2025-02-20,8%,0%,48%,38%
+Parry Sound Muskoka,2025-02-21,8%,0%,47%,38%
+Parry Sound Muskoka,2025-02-22,8%,0%,47%,38%
+Parry Sound Muskoka,2025-02-23,8%,0%,47%,38%
+Parry Sound Muskoka,2025-02-24,8%,0%,47%,38%
+Parry Sound Muskoka,2025-02-25,8%,0%,48%,38%
+Parry Sound Muskoka,2025-02-26,8%,0%,48%,38%
+Parry Sound Muskoka,2025-02-27,8%,0%,48%,39%
+Parry Sound Muskoka,2025-02-28,6%,0%,47%,42%
+Bruce Grey Owen Sound,2023-02-15,21%,13%,48%,10%
+Bruce Grey Owen Sound,2023-03-09,21%,13%,47%,10%
+Bruce Grey Owen Sound,2023-03-17,21%,13%,47%,10%
+Bruce Grey Owen Sound,2023-04-16,21%,13%,48%,10%
+Bruce Grey Owen Sound,2023-07-07,21%,14%,43%,13%
+Bruce Grey Owen Sound,2023-07-22,21%,14%,43%,13%
+Bruce Grey Owen Sound,2023-07-28,21%,14%,45%,12%
+Bruce Grey Owen Sound,2023-08-26,21%,14%,45%,12%
+Bruce Grey Owen Sound,2023-10-07,22%,15%,42%,12%
+Bruce Grey Owen Sound,2023-10-23,21%,14%,44%,12%
+Bruce Grey Owen Sound,2023-12-01,20%,14%,48%,12%
+Bruce Grey Owen Sound,2023-12-20,22%,14%,47%,11%
+Bruce Grey Owen Sound,2024-02-02,22%,14%,46%,11%
+Bruce Grey Owen Sound,2024-02-20,27%,12%,43%,11%
+Bruce Grey Owen Sound,2024-03-05,25%,11%,45%,12%
+Bruce Grey Owen Sound,2024-04-04,24%,12%,45%,11%
+Bruce Grey Owen Sound,2024-05-03,24%,12%,46%,11%
+Bruce Grey Owen Sound,2024-06-30,23%,12%,47%,12%
+Bruce Grey Owen Sound,2024-07-29,22%,11%,49%,11%
+Bruce Grey Owen Sound,2024-10-09,23%,11%,47%,12%
+Bruce Grey Owen Sound,2024-11-11,23%,11%,48%,11%
+Bruce Grey Owen Sound,2024-12-15,23%,11%,49%,11%
+Bruce Grey Owen Sound,2025-01-20,24%,12%,47%,11%
+Bruce Grey Owen Sound,2025-01-24,22%,11%,51%,11%
+Bruce Grey Owen Sound,2025-01-27,23%,12%,48%,11%
+Bruce Grey Owen Sound,2025-01-29,23%,11%,49%,11%
+Bruce Grey Owen Sound,2025-01-31,23%,11%,52%,10%
+Bruce Grey Owen Sound,2025-02-02,23%,11%,53%,10%
+Bruce Grey Owen Sound,2025-02-03,23%,11%,52%,10%
+Bruce Grey Owen Sound,2025-02-04,24%,10%,52%,10%
+Bruce Grey Owen Sound,2025-02-05,24%,10%,52%,10%
+Bruce Grey Owen Sound,2025-02-06,23%,10%,53%,10%
+Bruce Grey Owen Sound,2025-02-07,23%,10%,53%,10%
+Bruce Grey Owen Sound,2025-02-08,23%,10%,53%,10%
+Bruce Grey Owen Sound,2025-02-09,23%,10%,53%,10%
+Bruce Grey Owen Sound,2025-02-10,23%,10%,53%,10%
+Bruce Grey Owen Sound,2025-02-11,23%,10%,53%,10%
+Bruce Grey Owen Sound,2025-02-12,24%,9%,53%,10%
+Bruce Grey Owen Sound,2025-02-13,24%,10%,54%,10%
+Bruce Grey Owen Sound,2025-02-14,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-15,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-16,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-17,25%,9%,53%,10%
+Bruce Grey Owen Sound,2025-02-18,25%,9%,53%,10%
+Bruce Grey Owen Sound,2025-02-19,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-20,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-21,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-22,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-23,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-24,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-25,24%,9%,54%,10%
+Bruce Grey Owen Sound,2025-02-26,24%,9%,55%,10%
+Bruce Grey Owen Sound,2025-02-27,24%,9%,55%,10%
+Bruce Grey Owen Sound,2025-02-28,29%,8%,44%,12%
 Ottawa South,2023-02-15,46%,22%,23%,0%
 Ottawa South,2023-03-09,47%,22%,23%,0%
 Ottawa South,2023-03-17,47%,22%,23%,0%
